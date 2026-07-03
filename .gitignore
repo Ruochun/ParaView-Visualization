@@ -1,0 +1,25 @@
+# Local ParaView application bundles.
+/ParaView-*/
+
+# Simulation outputs and rendered movies.
+/results/
+/movies/
+
+# Keep generated media out even if written outside movies/.
+*.avi
+*.mov
+*.mp4
+*.mkv
+*.ogv
+*.webm
+
+# Python/editor/OS noise.
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/
+
+# Local Codex/workspace metadata.
+.agents/
+.codex/

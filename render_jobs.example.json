@@ -1,0 +1,35 @@
+{
+  "defaults": {
+    "output_dir": "movies",
+    "resolution": [1920, 1080],
+    "frame_rate": 20,
+    "extension": ".ogv"
+  },
+  "jobs": [
+    {
+      "name": "FlexibleMesh",
+      "kind": "state",
+      "state": "states/FlexibleMesh.pvsm",
+      "data_dir": "results/DemoOutput_FlexibleMesh",
+      "restrict_to_data_directory": true,
+      "output": "FlexibleMesh.ogv"
+    },
+    {
+      "name": "Electrostatic",
+      "kind": "state",
+      "state": "states/Electrostatic.pvsm",
+      "data_dir": "results/DemoOutput_Electrostatic",
+      "restrict_to_data_directory": true,
+      "output": "Electrostatic.ogv"
+    },
+    {
+      "name": "GameOfLife",
+      "kind": "state",
+      "state": "states/GameOfLife.pvsm",
+      "data_dir": "results/DemoOutput_GameOfLife",
+      "frame_rate": 100,
+      "restrict_to_data_directory": true,
+      "output": "GameOfLife.ogv"
+    }
+  ]
+}
