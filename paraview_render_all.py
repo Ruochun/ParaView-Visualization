@@ -14,6 +14,7 @@ import json
 import os
 import re
 import sys
+import traceback
 from pathlib import Path
 
 from paraview.simple import *  # noqa: F401,F403 - ParaView scripts conventionally use this.
@@ -192,9 +193,15 @@ def _resolve_state_filenames(job, base_dir):
 def render_state_job(job, defaults, base_dir, output_dir):
     _reset()
     state_path = _resolve(job["state"], base_dir)
+    if not os.path.exists(state_path):
+        raise RuntimeError(f"State file does not exist: {state_path}")
+
     kwargs = {}
     if job.get("data_dir"):
-        kwargs["data_directory"] = _resolve(job["data_dir"], base_dir)
+        data_dir = _resolve(job["data_dir"], base_dir)
+        if not os.path.isdir(data_dir):
+            raise RuntimeError(f"Data directory does not exist: {data_dir}")
+        kwargs["data_directory"] = data_dir
         kwargs["restrict_to_data_directory"] = bool(job.get("restrict_to_data_directory", True))
     if job.get("filenames"):
         kwargs["filenames"] = _resolve_state_filenames(job, base_dir)
@@ -304,14 +311,36 @@ def main(argv):
     if not jobs:
         raise RuntimeError("Manifest contains no jobs.")
 
+    completed = []
+    failed = []
+
     for idx, job in enumerate(jobs, start=1):
         name = job.get("name", f"job_{idx}")
         job["name"] = name
         kind = job.get("kind", "state")
-        if kind not in handlers:
-            raise RuntimeError(f"Unknown job kind {kind!r} for {name}")
         print(f"\n=== [{idx}/{len(jobs)}] {name} ({kind}) ===")
-        handlers[kind](job, defaults, base_dir, output_dir)
+
+        try:
+            if kind not in handlers:
+                raise RuntimeError(f"Unknown job kind {kind!r}")
+            handlers[kind](job, defaults, base_dir, output_dir)
+        except Exception as exc:
+            failed.append((name, kind, exc))
+            print(f"ERROR: job {name!r} failed: {exc}", file=sys.stderr)
+            traceback.print_exc()
+            print("Continuing with the next job...", file=sys.stderr)
+            continue
+
+        completed.append((name, kind))
+
+    print("\n=== Summary ===")
+    print(f"Completed: {len(completed)}")
+    print(f"Failed: {len(failed)}")
+    if failed:
+        print("\nFailed jobs:", file=sys.stderr)
+        for name, kind, exc in failed:
+            print(f"  - {name} ({kind}): {exc}", file=sys.stderr)
+        return 1
 
     print("\nDone.")
     return 0

@@ -27,9 +27,76 @@
       "kind": "state",
       "state": "states/GameOfLife.pvsm",
       "data_dir": "results/DemoOutput_GameOfLife",
-      "frame_rate": 100,
+      "frame_rate": 60,
       "restrict_to_data_directory": true,
       "output": "GameOfLife.ogv"
+    },
+    {
+      "name": "BallDrop",
+      "kind": "state",
+      "state": "states/BallDrop.pvsm",
+      "data_dir": "results/DemoOutput_BallDrop",
+      "frame_rate": 5,
+      "restrict_to_data_directory": true,
+      "output": "BallDrop.ogv"
+    },
+    {
+      "name": "BallDrop2D",
+      "kind": "state",
+      "state": "states/BallDrop2D.pvsm",
+      "data_dir": "results/DemoOutput_BallDrop2D",
+      "frame_rate": 10,
+      "restrict_to_data_directory": true,
+      "output": "BallDrop2D.ogv"
+    },
+    {
+      "name": "Centrifuge",
+      "kind": "state",
+      "state": "states/Centrifuge.pvsm",
+      "data_dir": "results/DemoOutput_Centrifuge",
+      "restrict_to_data_directory": true,
+      "output": "Centrifuge.ogv"
+    },
+    {
+      "name": "Mixer",
+      "kind": "state",
+      "state": "states/Mixer.pvsm",
+      "data_dir": "results/DemoOutput_Mixer",
+      "restrict_to_data_directory": true,
+      "output": "Mixer.ogv"
+    },
+    {
+      "name": "Repose2D",
+      "kind": "state",
+      "state": "states/Repose2D.pvsm",
+      "data_dir": "results/DemoOutput_Repose2D",
+      "restrict_to_data_directory": true,
+      "output": "Repose2D.ogv"
+    },
+    {
+      "name": "Sieve",
+      "kind": "state",
+      "state": "states/Sieve.pvsm",
+      "data_dir": "results/DemoOutput_Sieve",
+      "restrict_to_data_directory": true,
+      "output": "Sieve.ogv"
+    },
+    {
+      "name": "SolarSystem",
+      "kind": "state",
+      "state": "states/SolarSystem.pvsm",
+      "data_dir": "results/DemoOutput_SolarSystem",
+      "frame_rate": 100,
+      "restrict_to_data_directory": true,
+      "output": "Repose2D.ogv"
+    },
+    {
+      "name": "WheelDPSimplified",
+      "kind": "state",
+      "state": "states/WheelDPSimplified.pvsm",
+      "data_dir": "results/DemoOutput_WheelDPSimplified",
+      "restrict_to_data_directory": true,
+      "output": "WheelDPSimplified.ogv"
     }
   ]
 }
