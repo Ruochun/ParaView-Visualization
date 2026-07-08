@@ -32,6 +32,12 @@ script logs that failure and continues with the remaining jobs. At the end it
 prints a completed/failed summary. The process exits with code `1` if any job
 failed after all jobs have been attempted.
 
+For state-file jobs, the script also expands numbered file series saved in the
+`.pvsm` file to the full matching series in each job's `data_dir`. This keeps a
+state file that was saved with only a short preview range from limiting the
+rendered movie. Use `frame_window` in the manifest to choose the output frame
+range after that expansion.
+
 ## Render Jobs
 
 `paraview_render_all.py` reads a JSON manifest with a `defaults` section and a

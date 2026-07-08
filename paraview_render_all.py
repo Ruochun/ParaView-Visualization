@@ -15,6 +15,7 @@ import os
 import re
 import sys
 import traceback
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from paraview.simple import *  # noqa: F401,F403 - ParaView scripts conventionally use this.
@@ -49,6 +50,91 @@ def _expand_files(spec, base_dir):
     if missing:
         raise RuntimeError("Missing input files:\n  " + "\n  ".join(missing[:20]))
     return files
+
+
+def _series_parts(filename):
+    """Return prefix, numeric text, suffix for numbered simulation files."""
+    basename = re.split(r"[\\/]", str(filename))[-1]
+    match = re.match(r"^(.*?)(\d+)(\.[^.]+)$", basename)
+    if not match:
+        return None
+    return match.groups()
+
+
+def _expand_state_file_property(saved_files, data_dir):
+    """
+    Match a saved ParaView file property against local data.
+
+    ParaView state files often remember only the files that were loaded when the
+    state was saved. If those files form a numbered series, load the full local
+    series with the same prefix/suffix from data_dir.
+    """
+    if not saved_files:
+        return []
+
+    data_dir = Path(data_dir)
+    parts = [_series_parts(path) for path in saved_files]
+    if all(parts) and len({(prefix, suffix) for prefix, _, suffix in parts}) == 1:
+        prefix, _, suffix = parts[0]
+        pattern = str(data_dir / f"{prefix}*{suffix}")
+        files = [
+            path
+            for path in glob.glob(pattern)
+            if _series_parts(path)
+            and _series_parts(path)[0] == prefix
+            and _series_parts(path)[2] == suffix
+        ]
+        return sorted(files, key=_natural_key)
+
+    files = [str(data_dir / re.split(r"[\\/]", str(path))[-1]) for path in saved_files]
+    return files if all(os.path.exists(path) for path in files) else []
+
+
+def _infer_state_filenames(state_path, data_dir):
+    """Build LoadState(..., filenames=[...]) overrides from local data files."""
+    root = ET.parse(state_path).getroot()
+    overrides = []
+
+    for proxy in root.findall(".//Proxy[@group='sources']"):
+        proxy_id = proxy.get("id")
+        if not proxy_id:
+            continue
+
+        item = {"id": proxy_id}
+        for prop in proxy.findall("Property"):
+            prop_name = prop.get("name")
+            if prop_name not in ("FileName", "FileNames"):
+                continue
+
+            saved_files = [
+                element.get("value")
+                for element in prop.findall("Element")
+                if element.get("value")
+            ]
+            files = _expand_state_file_property(saved_files, data_dir)
+            if not files:
+                continue
+
+            item[prop_name] = files if len(files) > 1 else files[0]
+
+        if len(item) > 1:
+            overrides.append(item)
+
+    return overrides
+
+
+def _print_file_overrides(overrides):
+    for item in overrides:
+        for prop_name, value in item.items():
+            if prop_name == "id":
+                continue
+
+            files = value if isinstance(value, list) else [value]
+            if len(files) == 1:
+                detail = Path(files[0]).name
+            else:
+                detail = f"{Path(files[0]).name} ... {Path(files[-1]).name}"
+            print(f"  source id {item['id']} {prop_name}: {len(files)} file(s), {detail}")
 
 
 def _safe_set(proxy, name, value):
@@ -197,14 +283,25 @@ def render_state_job(job, defaults, base_dir, output_dir):
         raise RuntimeError(f"State file does not exist: {state_path}")
 
     kwargs = {}
+    data_dir = None
     if job.get("data_dir"):
         data_dir = _resolve(job["data_dir"], base_dir)
         if not os.path.isdir(data_dir):
             raise RuntimeError(f"Data directory does not exist: {data_dir}")
-        kwargs["data_directory"] = data_dir
-        kwargs["restrict_to_data_directory"] = bool(job.get("restrict_to_data_directory", True))
+
     if job.get("filenames"):
         kwargs["filenames"] = _resolve_state_filenames(job, base_dir)
+    elif data_dir and job.get("auto_expand_state_files", defaults.get("auto_expand_state_files", True)):
+        inferred_filenames = _infer_state_filenames(state_path, data_dir)
+        if inferred_filenames:
+            kwargs["filenames"] = inferred_filenames
+            print(f"Using explicit file series from {data_dir}:")
+            _print_file_overrides(inferred_filenames)
+
+    if data_dir and "filenames" not in kwargs:
+        kwargs["data_directory"] = data_dir
+        kwargs["restrict_to_data_directory"] = bool(job.get("restrict_to_data_directory", True))
+
     print(f"Loading state {state_path}")
     LoadState(state_path, **kwargs)
     _save_animation(job, defaults, output_dir)

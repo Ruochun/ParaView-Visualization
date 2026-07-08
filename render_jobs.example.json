@@ -11,6 +11,7 @@
       "kind": "state",
       "state": "states/FlexibleMesh.pvsm",
       "data_dir": "results/DemoOutput_FlexibleMesh",
+      "frame_window": [0, 49],
       "restrict_to_data_directory": true,
       "output": "FlexibleMesh.ogv"
     },
@@ -19,6 +20,7 @@
       "kind": "state",
       "state": "states/Electrostatic.pvsm",
       "data_dir": "results/DemoOutput_Electrostatic",
+      "frame_window": [0, 204],
       "restrict_to_data_directory": true,
       "output": "Electrostatic.ogv"
     },
@@ -28,6 +30,7 @@
       "state": "states/GameOfLife.pvsm",
       "data_dir": "results/DemoOutput_GameOfLife",
       "frame_rate": 60,
+      "frame_window": [0, 500],
       "restrict_to_data_directory": true,
       "output": "GameOfLife.ogv"
     },
@@ -37,6 +40,7 @@
       "state": "states/BallDrop.pvsm",
       "data_dir": "results/DemoOutput_BallDrop",
       "frame_rate": 5,
+      "frame_window": [0, 18],
       "restrict_to_data_directory": true,
       "output": "BallDrop.ogv"
     },
@@ -46,6 +50,7 @@
       "state": "states/BallDrop2D.pvsm",
       "data_dir": "results/DemoOutput_BallDrop2D",
       "frame_rate": 10,
+      "frame_window": [0, 32],
       "restrict_to_data_directory": true,
       "output": "BallDrop2D.ogv"
     },
@@ -54,6 +59,7 @@
       "kind": "state",
       "state": "states/Centrifuge.pvsm",
       "data_dir": "results/DemoOutput_Centrifuge",
+      "frame_window": [0, 400],
       "restrict_to_data_directory": true,
       "output": "Centrifuge.ogv"
     },
@@ -62,6 +68,7 @@
       "kind": "state",
       "state": "states/Mixer.pvsm",
       "data_dir": "results/DemoOutput_Mixer",
+      "frame_window": [0, 199],
       "restrict_to_data_directory": true,
       "output": "Mixer.ogv"
     },
@@ -70,6 +77,7 @@
       "kind": "state",
       "state": "states/Repose2D.pvsm",
       "data_dir": "results/DemoOutput_Repose2D",
+      "frame_window": [0, 15],
       "restrict_to_data_directory": true,
       "output": "Repose2D.ogv"
     },
@@ -78,6 +86,7 @@
       "kind": "state",
       "state": "states/Sieve.pvsm",
       "data_dir": "results/DemoOutput_Sieve",
+      "frame_window": [0, 800],
       "restrict_to_data_directory": true,
       "output": "Sieve.ogv"
     },
@@ -87,6 +96,7 @@
       "state": "states/SolarSystem.pvsm",
       "data_dir": "results/DemoOutput_SolarSystem",
       "frame_rate": 100,
+      "frame_window": [0, 2000],
       "restrict_to_data_directory": true,
       "output": "Repose2D.ogv"
     },
@@ -95,6 +105,7 @@
       "kind": "state",
       "state": "states/WheelDPSimplified.pvsm",
       "data_dir": "results/DemoOutput_WheelDPSimplified",
+      "frame_window": [0, 71],
       "restrict_to_data_directory": true,
       "output": "WheelDPSimplified.ogv"
     }
