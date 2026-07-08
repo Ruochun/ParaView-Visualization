@@ -35,6 +35,16 @@
       "output": "GameOfLife.ogv"
     },
     {
+      "name": "GRCPrep_Part1",
+      "kind": "state",
+      "state": "states/GRCPrep_Part1.pvsm",
+      "data_dir": "results/DemoOutput_GRCPrep_Part1",
+      "frame_rate": 10,
+      "frame_window": [0, 59],
+      "restrict_to_data_directory": true,
+      "output": "GRCPrep_Part1.ogv"
+    },
+    {
       "name": "BallDrop",
       "kind": "state",
       "state": "states/BallDrop.pvsm",
@@ -77,9 +87,18 @@
       "kind": "state",
       "state": "states/Repose2D.pvsm",
       "data_dir": "results/DemoOutput_Repose2D",
-      "frame_window": [0, 15],
+      "frame_window": [0, 139],
       "restrict_to_data_directory": true,
       "output": "Repose2D.ogv"
+    },
+    {
+      "name": "Repose",
+      "kind": "state",
+      "state": "states/Repose.pvsm",
+      "data_dir": "results/DemoOutput_Repose",
+      "frame_window": [0, 139],
+      "restrict_to_data_directory": true,
+      "output": "Repose.ogv"
     },
     {
       "name": "Sieve",
