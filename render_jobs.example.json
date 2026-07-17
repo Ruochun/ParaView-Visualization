@@ -40,9 +40,19 @@
       "state": "states/GRCPrep_Part1.pvsm",
       "data_dir": "results/DemoOutput_GRCPrep_Part1",
       "frame_rate": 10,
-      "frame_window": [0, 59],
+      "frame_window": [0, 69],
       "restrict_to_data_directory": true,
       "output": "GRCPrep_Part1.ogv"
+    },
+    {
+      "name": "Indentation",
+      "kind": "state",
+      "state": "states/Indentation.pvsm",
+      "data_dir": "results/DemoOutput_Indentation",
+      "frame_rate": 10,
+      "frame_window": [0, 47],
+      "restrict_to_data_directory": true,
+      "output": "Indentation.ogv"
     },
     {
       "name": "BallDrop",
@@ -74,6 +84,16 @@
       "output": "Centrifuge.ogv"
     },
     {
+      "name": "ConePenetration",
+      "kind": "state",
+      "state": "states/ConePenetration.pvsm",
+      "data_dir": "results/DemoOutput_ConePenetration",
+      "frame_rate": 10,
+      "frame_window": [0, 57],
+      "restrict_to_data_directory": true,
+      "output": "ConePenetration.ogv"
+    },
+    {
       "name": "Mixer",
       "kind": "state",
       "state": "states/Mixer.pvsm",
@@ -99,6 +119,15 @@
       "frame_window": [0, 139],
       "restrict_to_data_directory": true,
       "output": "Repose.ogv"
+    },
+    {
+      "name": "RotatingDrum",
+      "kind": "state",
+      "state": "states/RotatingDrum.pvsm",
+      "data_dir": "results/DemoOutput_RotatingDrum",
+      "frame_window": [0, 400],
+      "restrict_to_data_directory": true,
+      "output": "RotatingDrum.ogv"
     },
     {
       "name": "Sieve",
