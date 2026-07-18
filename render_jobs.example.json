@@ -79,7 +79,7 @@
       "kind": "state",
       "state": "states/Centrifuge.pvsm",
       "data_dir": "results/DemoOutput_Centrifuge",
-      "frame_window": [0, 400],
+      "frame_window": [0, 399],
       "restrict_to_data_directory": true,
       "output": "Centrifuge.ogv"
     },
@@ -125,9 +125,27 @@
       "kind": "state",
       "state": "states/RotatingDrum.pvsm",
       "data_dir": "results/DemoOutput_RotatingDrum",
-      "frame_window": [0, 400],
+      "frame_window": [0, 399],
       "restrict_to_data_directory": true,
       "output": "RotatingDrum.ogv"
+    },
+    {
+      "name": "DrumCubes",
+      "kind": "state",
+      "state": "states/DrumCubes.pvsm",
+      "data_dir": "results/DemoOutput_DrumCubes",
+      "frame_window": [0, 59],
+      "restrict_to_data_directory": true,
+      "output": "DrumCubes.ogv"
+    },
+    {
+      "name": "Plow",
+      "kind": "state",
+      "state": "states/Plow.pvsm",
+      "data_dir": "results/DemoOutput_Plow",
+      "frame_window": [0, 199],
+      "restrict_to_data_directory": true,
+      "output": "Plow.ogv"
     },
     {
       "name": "Sieve",
