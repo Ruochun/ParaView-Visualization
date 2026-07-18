@@ -164,7 +164,7 @@
       "frame_rate": 100,
       "frame_window": [0, 2000],
       "restrict_to_data_directory": true,
-      "output": "Repose2D.ogv"
+      "output": "SolarSystem.ogv"
     },
     {
       "name": "WheelDPSimplified",
