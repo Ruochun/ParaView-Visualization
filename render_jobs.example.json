@@ -45,6 +45,15 @@
       "output": "GRCPrep_Part1.ogv"
     },
     {
+      "name": "HopperSphereCylinder",
+      "kind": "state",
+      "state": "states/HopperSphereCylinder.pvsm",
+      "data_dir": "results/DemoOutput_HopperSphereCylinder",
+      "frame_window": [0, 749],
+      "restrict_to_data_directory": true,
+      "output": "HopperSphereCylinder.ogv"
+    },
+    {
       "name": "Indentation",
       "kind": "state",
       "state": "states/Indentation.pvsm",
@@ -167,6 +176,15 @@
       "output": "SolarSystem.ogv"
     },
     {
+      "name": "WheelDP",
+      "kind": "state",
+      "state": "states/WheelDP.pvsm",
+      "data_dir": "results/DemoOutput_WheelDP",
+      "frame_window": [0, 59],
+      "restrict_to_data_directory": true,
+      "output": "WheelDP.ogv"
+    },
+    {
       "name": "WheelDPSimplified",
       "kind": "state",
       "state": "states/WheelDPSimplified.pvsm",
@@ -174,6 +192,15 @@
       "frame_window": [0, 71],
       "restrict_to_data_directory": true,
       "output": "WheelDPSimplified.ogv"
+    },
+    {
+      "name": "WheelSlopeSlip",
+      "kind": "state",
+      "state": "states/WheelSlopeSlip.pvsm",
+      "data_dir": "results/DemoOutput_WheelSlopeSlip",
+      "frame_window": [0, 102],
+      "restrict_to_data_directory": true,
+      "output": "WheelSlopeSlip.ogv"
     }
   ]
 }
