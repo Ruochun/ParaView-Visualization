@@ -2832,7 +2832,7 @@
         <Element index="0" value="Normals"/>
         <Domain name="array_list" id="26280.SelectionPointFieldDataArrayName.array_list">
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="SelectionVisibility" id="26280.SelectionVisibility" number_of_elements="1">
@@ -2981,7 +2981,7 @@
         <Element index="4" value=""/>
         <Domain name="array_list" id="26280.ColorArrayName.array_list">
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ColorByLODIndex" id="26280.ColorByLODIndex" number_of_elements="1">
@@ -3105,7 +3105,7 @@
         <Domain name="array_list" id="26280.GlyphTableIndexArray.array_list">
           <String text="None"/>
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="GlyphType" id="26280.GlyphType" number_of_elements="1">
@@ -3296,7 +3296,7 @@
         <Element index="0" value="Normals"/>
         <Domain name="array_list" id="26280.OSPRayScaleArray.array_list">
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="OSPRayScaleFunction" id="26280.OSPRayScaleFunction" number_of_elements="1">
@@ -3331,7 +3331,7 @@
         <Element index="4" value="Normals"/>
         <Domain name="array_list" id="26280.OpacityArray.array_list">
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="OpacityArrayComponent" id="26280.OpacityArrayComponent" number_of_elements="1">
@@ -3484,7 +3484,7 @@
         <Domain name="array_list" id="26280.SelectScaleArray.array_list">
           <String text="None"/>
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="SelectTCoordArray" id="26280.SelectTCoordArray" number_of_elements="1">
@@ -3652,7 +3652,7 @@
         <Element index="4" value="Normals"/>
         <Domain name="array_list" id="26280.SetScaleArray.array_list">
           <String text="Normals"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ShaderPreset" id="26280.ShaderPreset" number_of_elements="1">
@@ -4215,7 +4215,7 @@
         <Domain name="bool" id="25918.MergeConsecutiveDelimiters.bool"/>
       </Property>
       <Property name="Preview" id="25918.Preview" number_of_elements="1">
-        <Element index="0" value="X,Y,Z,radius&#xd;&#xa;-0.4752,-0.475897,-0.35,0.00136&#xd;&#xa;-0.475761,-0.474877,-0.35,0.00136&#xd;&#xa;-0.474707,-0.474877,-0.35,0.00136&#xd;&#xa;-0.4444,-0.475897,-0.35,0.00136&#xd;&#xa;-0.444961,-0.474877,-0.35,0.00136&#xd;&#xa;-0.443907,-0.474877,-0.35,0.00136&#xd;&#xa;-0.4136,-0.47602,-0.35,0.0016&#xd;&#xa;-0.41426,-0.47482,-0.35,0.0016&#xd;&#xa;-0.41302,-0.47482,-0.35,0.0016&#xd;&#xa;"/>
+        <Element index="0" value="X,Y,Z,r&#xd;&#xa;-0.4752,-0.475897,-0.35,0.00136&#xd;&#xa;-0.475761,-0.474877,-0.35,0.00136&#xd;&#xa;-0.474707,-0.474877,-0.35,0.00136&#xd;&#xa;-0.4444,-0.475897,-0.35,0.00136&#xd;&#xa;-0.444961,-0.474877,-0.35,0.00136&#xd;&#xa;-0.443907,-0.474877,-0.35,0.00136&#xd;&#xa;-0.4136,-0.47602,-0.35,0.0016&#xd;&#xa;-0.41426,-0.47482,-0.35,0.0016&#xd;&#xa;-0.41302,-0.47482,-0.35,0.0016&#xd;&#xa;"/>
       </Property>
       <Property name="SkippedLines" id="25918.SkippedLines" number_of_elements="1">
         <Element index="0" value="0"/>
@@ -4272,10 +4272,10 @@
         <Element index="1" value=""/>
         <Element index="2" value=""/>
         <Element index="3" value="0"/>
-        <Element index="4" value="radius"/>
+        <Element index="4" value="r"/>
         <Domain name="array_list" id="26043.ScaleArray.array_list">
           <String text="No scale array"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ScaleFactor" id="26043.ScaleFactor" number_of_elements="1">
@@ -4335,7 +4335,7 @@
           <String text="X"/>
           <String text="Y"/>
           <String text="Z"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="YColumn" id="25942.YColumn" number_of_elements="1">
@@ -4344,7 +4344,7 @@
           <String text="X"/>
           <String text="Y"/>
           <String text="Z"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ZColumn" id="25942.ZColumn" number_of_elements="1">
@@ -4353,7 +4353,7 @@
           <String text="X"/>
           <String text="Y"/>
           <String text="Z"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
     </Proxy>

@@ -2635,7 +2635,7 @@
         <Domain name="array_list" id="13740.SelectionPointFieldDataArrayName.array_list">
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="SelectionVisibility" id="13740.SelectionVisibility" number_of_elements="1">
@@ -2785,7 +2785,7 @@
         <Domain name="array_list" id="13740.ColorArrayName.array_list">
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ColorByLODIndex" id="13740.ColorByLODIndex" number_of_elements="1">
@@ -2910,7 +2910,7 @@
           <String text="None"/>
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="GlyphType" id="13740.GlyphType" number_of_elements="1">
@@ -3102,7 +3102,7 @@
         <Domain name="array_list" id="13740.OSPRayScaleArray.array_list">
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="OSPRayScaleFunction" id="13740.OSPRayScaleFunction" number_of_elements="1">
@@ -3138,7 +3138,7 @@
         <Domain name="array_list" id="13740.OpacityArray.array_list">
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="OpacityArrayComponent" id="13740.OpacityArrayComponent" number_of_elements="1">
@@ -3292,7 +3292,7 @@
           <String text="None"/>
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="SelectTCoordArray" id="13740.SelectTCoordArray" number_of_elements="1">
@@ -3461,7 +3461,7 @@
         <Domain name="array_list" id="13740.SetScaleArray.array_list">
           <String text="Normals"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ShaderPreset" id="13740.ShaderPreset" number_of_elements="1">
@@ -5855,7 +5855,7 @@
         <Domain name="bool" id="13378.MergeConsecutiveDelimiters.bool"/>
       </Property>
       <Property name="Preview" id="13378.Preview" number_of_elements="1">
-        <Element index="0" value="X,Y,Z,radius,absv&#xd;&#xa;-5,-5,-0.0010004,0.05,0&#xd;&#xa;-5,-4.9,-0.0010004,0.05,0&#xd;&#xa;-5,-4.8,-0.0010004,0.05,0&#xd;&#xa;-5,-4.7,-0.0010004,0.05,0&#xd;&#xa;-5,-4.6,-0.0010004,0.05,0&#xd;&#xa;-5,-4.5,-0.0010004,0.05,0&#xd;&#xa;-5,-4.4,-0.0010004,0.05,0&#xd;&#xa;-5,-4.3,-0.0010004,0.05,0&#xd;&#xa;-5,-4.2,-0.0010004,0.05,0&#xd;&#xa;"/>
+        <Element index="0" value="X,Y,Z,r,absv&#xd;&#xa;-5,-5,-0.0010004,0.05,0&#xd;&#xa;-5,-4.9,-0.0010004,0.05,0&#xd;&#xa;-5,-4.8,-0.0010004,0.05,0&#xd;&#xa;-5,-4.7,-0.0010004,0.05,0&#xd;&#xa;-5,-4.6,-0.0010004,0.05,0&#xd;&#xa;-5,-4.5,-0.0010004,0.05,0&#xd;&#xa;-5,-4.4,-0.0010004,0.05,0&#xd;&#xa;-5,-4.3,-0.0010004,0.05,0&#xd;&#xa;-5,-4.2,-0.0010004,0.05,0&#xd;&#xa;"/>
       </Property>
       <Property name="SkippedLines" id="13378.SkippedLines" number_of_elements="1">
         <Element index="0" value="0"/>
@@ -5912,11 +5912,11 @@
         <Element index="1" value=""/>
         <Element index="2" value=""/>
         <Element index="3" value="0"/>
-        <Element index="4" value="radius"/>
+        <Element index="4" value="r"/>
         <Domain name="array_list" id="13503.ScaleArray.array_list">
           <String text="No scale array"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ScaleFactor" id="13503.ScaleFactor" number_of_elements="1">
@@ -5977,7 +5977,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="YColumn" id="13402.YColumn" number_of_elements="1">
@@ -5987,7 +5987,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
       <Property name="ZColumn" id="13402.ZColumn" number_of_elements="1">
@@ -5997,7 +5997,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="absv"/>
-          <String text="radius"/>
+          <String text="r"/>
         </Domain>
       </Property>
     </Proxy>

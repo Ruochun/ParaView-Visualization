@@ -3671,7 +3671,7 @@
         <Domain name="array_list" id="11828.SelectionPointFieldDataArrayName.array_list">
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -3824,7 +3824,7 @@
         <Domain name="array_list" id="11828.ColorArrayName.array_list">
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -3952,7 +3952,7 @@
           <String text="None"/>
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -4148,7 +4148,7 @@
         <Domain name="array_list" id="11828.OSPRayScaleArray.array_list">
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -4187,7 +4187,7 @@
         <Domain name="array_list" id="11828.OpacityArray.array_list">
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -4338,7 +4338,7 @@
           <String text="None"/>
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -4510,7 +4510,7 @@
         <Domain name="array_list" id="11828.SetScaleArray.array_list">
           <String text="Normals"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -9059,7 +9059,7 @@
         <Domain name="bool" id="11477.MergeConsecutiveDelimiters.bool"/>
       </Property>
       <Property name="Preview" id="11477.Preview" number_of_elements="1">
-        <Element index="0" value="X,Y,Z,radius,v_x,v_y,v_z,family&#xd;&#xa;-0.0980062,-0.0100767,0.0158755,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980054,-0.0110754,0.0158234,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980047,-0.012074,0.0157714,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980039,-0.0130727,0.0157193,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980032,-0.0140713,0.0156673,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0953913,-0.00720481,0.0184797,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0951747,-0.00817562,0.0183766,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0949581,-0.00914643,0.0182736,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0947415,-0.0101172,0.0181706,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;"/>
+        <Element index="0" value="X,Y,Z,r,v_x,v_y,v_z,family&#xd;&#xa;-0.0980062,-0.0100767,0.0158755,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980054,-0.0110754,0.0158234,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980047,-0.012074,0.0157714,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980039,-0.0130727,0.0157193,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0980032,-0.0140713,0.0156673,0.002,-5.96891e-08,8.6166e-07,-4.31663e-06,100&#xd;&#xa;-0.0953913,-0.00720481,0.0184797,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0951747,-0.00817562,0.0183766,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0949581,-0.00914643,0.0182736,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;-0.0947415,-0.0101172,0.0181706,0.002,1.2999e-06,3.85091e-07,2.55957e-07,100&#xd;&#xa;"/>
       </Property>
       <Property name="SkippedLines" id="11477.SkippedLines" number_of_elements="1">
         <Element index="0" value="0"/>
@@ -9116,11 +9116,11 @@
         <Element index="1" value=""/>
         <Element index="2" value=""/>
         <Element index="3" value="0"/>
-        <Element index="4" value="radius"/>
+        <Element index="4" value="r"/>
         <Domain name="array_list" id="11602.ScaleArray.array_list">
           <String text="No scale array"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -9184,7 +9184,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -9197,7 +9197,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>
@@ -9210,7 +9210,7 @@
           <String text="Y"/>
           <String text="Z"/>
           <String text="family"/>
-          <String text="radius"/>
+          <String text="r"/>
           <String text="v_x"/>
           <String text="v_y"/>
           <String text="v_z"/>

@@ -11,7 +11,7 @@
       "kind": "state",
       "state": "states/FlexibleMesh.pvsm",
       "data_dir": "results/DemoOutput_FlexibleMesh",
-      "frame_window": [0, 49],
+      "frame_window": [0, 194],
       "restrict_to_data_directory": true,
       "output": "FlexibleMesh.ogv"
     },
@@ -64,6 +64,15 @@
       "output": "Indentation.ogv"
     },
     {
+      "name": "MeshFalling",
+      "kind": "state",
+      "state": "states/MeshFalling.pvsm",
+      "data_dir": "results/DemoOutput_MeshFalling",
+      "frame_window": [0, 299],
+      "restrict_to_data_directory": true,
+      "output": "MeshFalling.ogv"
+    },
+    {
       "name": "BallDrop",
       "kind": "state",
       "state": "states/BallDrop.pvsm",
@@ -110,6 +119,15 @@
       "frame_window": [0, 199],
       "restrict_to_data_directory": true,
       "output": "Mixer.ogv"
+    },
+    {
+      "name": "MixerCubes",
+      "kind": "state",
+      "state": "states/MixerCubes.pvsm",
+      "data_dir": "results/DemoOutput_MixerCubes",
+      "frame_window": [0, 199],
+      "restrict_to_data_directory": true,
+      "output": "MixerCubes.ogv"
     },
     {
       "name": "Repose2D",
