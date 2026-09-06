@@ -1,0 +1,1672 @@
+
+WARNING! Material property Crr is needed by the force model or is referred to by the user. However, at least one material does not have it defined, so it is defaulted to 0 for that material.
+Please be sure this is intentional.
+
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-6, 6]
+User-specified Y-dimension range: [-6, 6]
+User-specified Z-dimension range: [-12.5, 12.5]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 15, 15, 30
+Simulation world X range: [-7.2, 7.8]
+Simulation world Y range: [-7.2, 7.8]
+Simulation world Z range: [-15, 15]
+The length unit in this simulation is: 1.0913936421275139e-10
+The edge length of a voxel: 7.152557373046875e-06
+The initial time step size: 1e-05
+The initial edge length of a bin: 0.16760226001739498
+The initial number of bins: 1449900
+The total number of clumps: 27021
+The combined number of component spheres: 52251
+The total number of analytical objects: 1
+The total number of meshes: 0
+Grand total number of owners: 27022
+The number of material types: 1
+History-based Hertzian contact model is in use.
+The solver to set to adaptively change the contact margin size.
+To give an example, all geometries may be enlarged/thickened by around 0.0012 (estimated with the initial step size, initial update frequency and velocity 1) for contact detection purpose.
+This in the case of the smallest sphere, means enlarging radius by 11.8773%.
+
+
+Output at 20 FPS
+Frame: 0
+Max velocity of any point in simulation is 0
+Frame: 1
+Max velocity of any point in simulation is 0.489981
+Frame: 2
+Max velocity of any point in simulation is 0.979931
+Frame: 3
+Max velocity of any point in simulation is 1.78579
+Frame: 4
+Max velocity of any point in simulation is 2.38232
+Frame: 5
+Max velocity of any point in simulation is 2.44978
+Frame: 6
+Max velocity of any point in simulation is 2.93973
+Frame: 7
+Max velocity of any point in simulation is 3.42968
+Frame: 8
+Max velocity of any point in simulation is 3.91963
+Frame: 9
+Max velocity of any point in simulation is 4.41058
+Frame: 10
+Max velocity of any point in simulation is 4.90172
+Frame: 11
+Max velocity of any point in simulation is 5.39286
+Frame: 12
+Max velocity of any point in simulation is 5.88401
+Frame: 13
+Max velocity of any point in simulation is 6.37515
+Frame: 14
+Max velocity of any point in simulation is 6.86629
+Frame: 15
+Max velocity of any point in simulation is 7.35743
+Frame: 16
+Max velocity of any point in simulation is 7.84857
+Frame: 17
+Max velocity of any point in simulation is 8.33972
+Frame: 18
+Max velocity of any point in simulation is 8.83086
+Frame: 19
+Max velocity of any point in simulation is 9.322
+Frame: 20
+Max velocity of any point in simulation is 9.81314
+Frame: 21
+Max velocity of any point in simulation is 10.3043
+Frame: 22
+Max velocity of any point in simulation is 10.7954
+Frame: 23
+Max velocity of any point in simulation is 11.2866
+Frame: 24
+Max velocity of any point in simulation is 11.7777
+Frame: 25
+Max velocity of any point in simulation is 12.2689
+Frame: 26
+Max velocity of any point in simulation is 12.76
+Frame: 27
+Max velocity of any point in simulation is 13.2511
+Frame: 28
+Max velocity of any point in simulation is 13.7423
+Frame: 29
+Max velocity of any point in simulation is 14.1221
+Frame: 30
+Max velocity of any point in simulation is 14.071
+Frame: 31
+Max velocity of any point in simulation is 14.0906
+Frame: 32
+Max velocity of any point in simulation is 14.1632
+Frame: 33
+Max velocity of any point in simulation is 14.0979
+Frame: 34
+Max velocity of any point in simulation is 14.0742
+Frame: 35
+Max velocity of any point in simulation is 14.0949
+Frame: 36
+Max velocity of any point in simulation is 14.0633
+Frame: 37
+Max velocity of any point in simulation is 14.0047
+Frame: 38
+Max velocity of any point in simulation is 14.0179
+Frame: 39
+Max velocity of any point in simulation is 14.0151
+Frame: 40
+Max velocity of any point in simulation is 14.0604
+Frame: 41
+Max velocity of any point in simulation is 13.9815
+Frame: 42
+Max velocity of any point in simulation is 14.0189
+Frame: 43
+Max velocity of any point in simulation is 14.083
+Frame: 44
+Max velocity of any point in simulation is 13.9565
+Frame: 45
+Max velocity of any point in simulation is 13.8511
+Frame: 46
+Max velocity of any point in simulation is 13.9317
+Frame: 47
+Max velocity of any point in simulation is 13.9776
+Frame: 48
+Max velocity of any point in simulation is 13.8557
+Frame: 49
+Max velocity of any point in simulation is 13.8275
+Frame: 50
+Max velocity of any point in simulation is 14.0959
+Frame: 51
+Max velocity of any point in simulation is 14.0971
+Frame: 52
+Max velocity of any point in simulation is 12.692
+Frame: 53
+Max velocity of any point in simulation is 13.1831
+Frame: 54
+Max velocity of any point in simulation is 13.6743
+Frame: 55
+Max velocity of any point in simulation is 14.1654
+Frame: 56
+Max velocity of any point in simulation is 14.13
+Frame: 57
+Max velocity of any point in simulation is 14.1328
+Frame: 58
+Max velocity of any point in simulation is 14.1703
+Frame: 59
+Max velocity of any point in simulation is 14.1871
+Frame: 60
+Max velocity of any point in simulation is 13.7807
+Frame: 61
+Max velocity of any point in simulation is 13.9588
+Frame: 62
+Max velocity of any point in simulation is 14.3547
+Frame: 63
+Max velocity of any point in simulation is 14.2052
+Frame: 64
+Max velocity of any point in simulation is 14.2954
+Frame: 65
+Max velocity of any point in simulation is 14.3255
+Frame: 66
+Max velocity of any point in simulation is 14.2533
+Frame: 67
+Max velocity of any point in simulation is 14.2021
+Frame: 68
+Max velocity of any point in simulation is 14.3354
+Frame: 69
+Max velocity of any point in simulation is 14.3368
+Frame: 70
+Max velocity of any point in simulation is 14.1397
+Frame: 71
+Max velocity of any point in simulation is 14.0698
+Frame: 72
+Max velocity of any point in simulation is 14.2487
+Frame: 73
+Max velocity of any point in simulation is 14.0585
+Frame: 74
+Max velocity of any point in simulation is 14.3228
+Frame: 75
+Max velocity of any point in simulation is 14.2408
+Frame: 76
+Max velocity of any point in simulation is 14.2277
+Frame: 77
+Max velocity of any point in simulation is 14.0842
+Frame: 78
+Max velocity of any point in simulation is 13.925
+Frame: 79
+Max velocity of any point in simulation is 14.2195
+Frame: 80
+Max velocity of any point in simulation is 14.6865
+Frame: 81
+Max velocity of any point in simulation is 15.1776
+Frame: 82
+Max velocity of any point in simulation is 14.341
+Frame: 83
+Max velocity of any point in simulation is 14.4918
+Frame: 84
+Max velocity of any point in simulation is 14.2346
+Frame: 85
+Max velocity of any point in simulation is 14.6925
+Frame: 86
+Max velocity of any point in simulation is 14.2009
+Frame: 87
+Max velocity of any point in simulation is 14.2265
+Frame: 88
+Max velocity of any point in simulation is 14.1782
+Frame: 89
+Max velocity of any point in simulation is 14.0666
+Frame: 90
+Max velocity of any point in simulation is 14.2536
+Frame: 91
+Max velocity of any point in simulation is 14.3607
+Frame: 92
+Max velocity of any point in simulation is 14.1536
+Frame: 93
+Max velocity of any point in simulation is 14.112
+Frame: 94
+Max velocity of any point in simulation is 14.2769
+Frame: 95
+Max velocity of any point in simulation is 14.2478
+Frame: 96
+Max velocity of any point in simulation is 14.1352
+Frame: 97
+Max velocity of any point in simulation is 14.13
+Frame: 98
+Max velocity of any point in simulation is 14.2541
+Frame: 99
+Max velocity of any point in simulation is 14.3555
+Frame: 100
+Max velocity of any point in simulation is 14.1754
+Frame: 101
+Max velocity of any point in simulation is 14.1799
+Frame: 102
+Max velocity of any point in simulation is 14.2657
+Frame: 103
+Max velocity of any point in simulation is 14.2005
+Frame: 104
+Max velocity of any point in simulation is 14.3666
+Frame: 105
+Max velocity of any point in simulation is 14.1901
+Frame: 106
+Max velocity of any point in simulation is 14.2395
+Frame: 107
+Max velocity of any point in simulation is 14.321
+Frame: 108
+Max velocity of any point in simulation is 14.2094
+Frame: 109
+Max velocity of any point in simulation is 14.314
+Frame: 110
+Max velocity of any point in simulation is 14.2728
+Frame: 111
+Max velocity of any point in simulation is 14.2136
+Frame: 112
+Max velocity of any point in simulation is 14.0174
+Frame: 113
+Max velocity of any point in simulation is 14.1485
+Frame: 114
+Max velocity of any point in simulation is 14.2233
+Frame: 115
+Max velocity of any point in simulation is 14.1328
+Frame: 116
+Max velocity of any point in simulation is 14.1686
+Frame: 117
+Max velocity of any point in simulation is 14.2619
+Frame: 118
+Max velocity of any point in simulation is 14.2853
+Frame: 119
+Max velocity of any point in simulation is 14.152
+Frame: 120
+Max velocity of any point in simulation is 14.2055
+Frame: 121
+Max velocity of any point in simulation is 14.0974
+Frame: 122
+Max velocity of any point in simulation is 14.4887
+Frame: 123
+Max velocity of any point in simulation is 14.5555
+Frame: 124
+Max velocity of any point in simulation is 14.1512
+Frame: 125
+Max velocity of any point in simulation is 14.2851
+Frame: 126
+Max velocity of any point in simulation is 14.1166
+Frame: 127
+Max velocity of any point in simulation is 14.2106
+Frame: 128
+Max velocity of any point in simulation is 14.1724
+Frame: 129
+Max velocity of any point in simulation is 14.1608
+Frame: 130
+Max velocity of any point in simulation is 14.2509
+Frame: 131
+Max velocity of any point in simulation is 14.2295
+Frame: 132
+Max velocity of any point in simulation is 14.3866
+Frame: 133
+Max velocity of any point in simulation is 14.2482
+Frame: 134
+Max velocity of any point in simulation is 14.2363
+Frame: 135
+Max velocity of any point in simulation is 14.606
+Frame: 136
+Max velocity of any point in simulation is 15.0971
+Frame: 137
+Max velocity of any point in simulation is 14.1127
+Frame: 138
+Max velocity of any point in simulation is 14.2448
+Frame: 139
+Max velocity of any point in simulation is 15.5555
+Frame: 140
+Max velocity of any point in simulation is 14.2753
+Frame: 141
+Max velocity of any point in simulation is 14.2079
+Frame: 142
+Max velocity of any point in simulation is 14.3511
+Frame: 143
+Max velocity of any point in simulation is 14.2139
+Frame: 144
+Max velocity of any point in simulation is 14.3242
+Frame: 145
+Max velocity of any point in simulation is 14.188
+Frame: 146
+Max velocity of any point in simulation is 14.5036
+Frame: 147
+Max velocity of any point in simulation is 14.1842
+Frame: 148
+Max velocity of any point in simulation is 14.0102
+Frame: 149
+Max velocity of any point in simulation is 14.1484
+Frame: 150
+Max velocity of any point in simulation is 14.3949
+Frame: 151
+Max velocity of any point in simulation is 13.98
+Frame: 152
+Max velocity of any point in simulation is 14.063
+Frame: 153
+Max velocity of any point in simulation is 14.2514
+Frame: 154
+Max velocity of any point in simulation is 14.1334
+Frame: 155
+Max velocity of any point in simulation is 14.1533
+Frame: 156
+Max velocity of any point in simulation is 14.2885
+Frame: 157
+Max velocity of any point in simulation is 14.0902
+Frame: 158
+Max velocity of any point in simulation is 14.4962
+Frame: 159
+Max velocity of any point in simulation is 14.222
+Frame: 160
+Max velocity of any point in simulation is 14.1502
+Frame: 161
+Max velocity of any point in simulation is 14.2116
+Frame: 162
+Max velocity of any point in simulation is 14.2902
+Frame: 163
+Max velocity of any point in simulation is 14.2198
+Frame: 164
+Max velocity of any point in simulation is 14.1698
+Frame: 165
+Max velocity of any point in simulation is 14.3535
+Frame: 166
+Max velocity of any point in simulation is 14.219
+Frame: 167
+Max velocity of any point in simulation is 14.1911
+Frame: 168
+Max velocity of any point in simulation is 14.2751
+Frame: 169
+Max velocity of any point in simulation is 14.1729
+Frame: 170
+Max velocity of any point in simulation is 14.4059
+Frame: 171
+Max velocity of any point in simulation is 14.2976
+Frame: 172
+Max velocity of any point in simulation is 14.2297
+Frame: 173
+Max velocity of any point in simulation is 14.1729
+Frame: 174
+Max velocity of any point in simulation is 14.1622
+Frame: 175
+Max velocity of any point in simulation is 14.2141
+Frame: 176
+Max velocity of any point in simulation is 14.3111
+Frame: 177
+Max velocity of any point in simulation is 14.0907
+Frame: 178
+Max velocity of any point in simulation is 14.4708
+Frame: 179
+Max velocity of any point in simulation is 14.2925
+Frame: 180
+Max velocity of any point in simulation is 14.157
+Frame: 181
+Max velocity of any point in simulation is 14.2707
+Frame: 182
+Max velocity of any point in simulation is 14.6003
+Frame: 183
+Max velocity of any point in simulation is 14.0951
+Frame: 184
+Max velocity of any point in simulation is 14.1976
+Frame: 185
+Max velocity of any point in simulation is 14.1721
+Frame: 186
+Max velocity of any point in simulation is 14.32
+Frame: 187
+Max velocity of any point in simulation is 14.1794
+Frame: 188
+Max velocity of any point in simulation is 14.4037
+Frame: 189
+Max velocity of any point in simulation is 14.0773
+Frame: 190
+Max velocity of any point in simulation is 14.0397
+Frame: 191
+Max velocity of any point in simulation is 14.1607
+Frame: 192
+Max velocity of any point in simulation is 14.2851
+Frame: 193
+Max velocity of any point in simulation is 14.3279
+Frame: 194
+Max velocity of any point in simulation is 14.2218
+Frame: 195
+Max velocity of any point in simulation is 14.3916
+Frame: 196
+Max velocity of any point in simulation is 14.1958
+Frame: 197
+Max velocity of any point in simulation is 14.2633
+Frame: 198
+Max velocity of any point in simulation is 14.3426
+Frame: 199
+Max velocity of any point in simulation is 14.2549
+Frame: 200
+Max velocity of any point in simulation is 14.0869
+Frame: 201
+Max velocity of any point in simulation is 14.2069
+Frame: 202
+Max velocity of any point in simulation is 14.3925
+Frame: 203
+Max velocity of any point in simulation is 14.4813
+Frame: 204
+Max velocity of any point in simulation is 14.1756
+Frame: 205
+Max velocity of any point in simulation is 14.255
+Frame: 206
+Max velocity of any point in simulation is 14.3183
+Frame: 207
+Max velocity of any point in simulation is 14.2686
+Frame: 208
+Max velocity of any point in simulation is 14.0837
+Frame: 209
+Max velocity of any point in simulation is 14.104
+Frame: 210
+Max velocity of any point in simulation is 14.2018
+Frame: 211
+Max velocity of any point in simulation is 14.3583
+Frame: 212
+Max velocity of any point in simulation is 14.2754
+Frame: 213
+Max velocity of any point in simulation is 14.3952
+Frame: 214
+Max velocity of any point in simulation is 14.1118
+Frame: 215
+Max velocity of any point in simulation is 14.258
+Frame: 216
+Max velocity of any point in simulation is 14.1518
+Frame: 217
+Max velocity of any point in simulation is 14.4626
+Frame: 218
+Max velocity of any point in simulation is 14.251
+Frame: 219
+Max velocity of any point in simulation is 14.1866
+Frame: 220
+Max velocity of any point in simulation is 14.2801
+Frame: 221
+Max velocity of any point in simulation is 14.258
+Frame: 222
+Max velocity of any point in simulation is 14.1771
+Frame: 223
+Max velocity of any point in simulation is 14.0663
+Frame: 224
+Max velocity of any point in simulation is 14.2676
+Frame: 225
+Max velocity of any point in simulation is 14.7587
+Frame: 226
+Max velocity of any point in simulation is 14.2423
+Frame: 227
+Max velocity of any point in simulation is 14.4938
+Frame: 228
+Max velocity of any point in simulation is 14.1723
+Frame: 229
+Max velocity of any point in simulation is 14.6635
+Frame: 230
+Max velocity of any point in simulation is 14.0905
+Frame: 231
+Max velocity of any point in simulation is 14.3612
+Frame: 232
+Max velocity of any point in simulation is 14.1044
+Frame: 233
+Max velocity of any point in simulation is 14.1686
+Frame: 234
+Max velocity of any point in simulation is 14.3737
+Frame: 235
+Max velocity of any point in simulation is 14.2736
+Frame: 236
+Max velocity of any point in simulation is 14.1202
+Frame: 237
+Max velocity of any point in simulation is 14.2822
+Frame: 238
+Max velocity of any point in simulation is 14.0904
+Frame: 239
+Max velocity of any point in simulation is 14.3578
+Frame: 240
+Max velocity of any point in simulation is 14.3794
+Frame: 241
+Max velocity of any point in simulation is 14.8705
+Frame: 242
+Max velocity of any point in simulation is 14.1684
+Frame: 243
+Max velocity of any point in simulation is 14.1826
+Frame: 244
+Max velocity of any point in simulation is 14.0975
+Frame: 245
+Max velocity of any point in simulation is 14.389
+Frame: 246
+Max velocity of any point in simulation is 14.1458
+Frame: 247
+Max velocity of any point in simulation is 14.307
+Frame: 248
+Max velocity of any point in simulation is 14.2118
+Frame: 249
+Max velocity of any point in simulation is 14.1831
+Frame: 250
+Max velocity of any point in simulation is 14.552
+Frame: 251
+Max velocity of any point in simulation is 14.1961
+Frame: 252
+Max velocity of any point in simulation is 14.1749
+Frame: 253
+Max velocity of any point in simulation is 14.6588
+Frame: 254
+Max velocity of any point in simulation is 14.4376
+Frame: 255
+Max velocity of any point in simulation is 14.2017
+Frame: 256
+Max velocity of any point in simulation is 13.9831
+Frame: 257
+Max velocity of any point in simulation is 14.0447
+Frame: 258
+Max velocity of any point in simulation is 14.1696
+Frame: 259
+Max velocity of any point in simulation is 14.3298
+Frame: 260
+Max velocity of any point in simulation is 14.1053
+Frame: 261
+Max velocity of any point in simulation is 14.3349
+Frame: 262
+Max velocity of any point in simulation is 14.3309
+Frame: 263
+Max velocity of any point in simulation is 14.328
+Frame: 264
+Max velocity of any point in simulation is 14.3001
+Frame: 265
+Max velocity of any point in simulation is 14.2133
+Frame: 266
+Max velocity of any point in simulation is 14.2584
+Frame: 267
+Max velocity of any point in simulation is 14.1224
+Frame: 268
+Max velocity of any point in simulation is 14.257
+Frame: 269
+Max velocity of any point in simulation is 14.2553
+Frame: 270
+Max velocity of any point in simulation is 13.9976
+Frame: 271
+Max velocity of any point in simulation is 13.9943
+Frame: 272
+Max velocity of any point in simulation is 14.1006
+Frame: 273
+Max velocity of any point in simulation is 13.9557
+Frame: 274
+Max velocity of any point in simulation is 14.2891
+Frame: 275
+Max velocity of any point in simulation is 14.1484
+Frame: 276
+Max velocity of any point in simulation is 14.4657
+Frame: 277
+Max velocity of any point in simulation is 14.14
+Frame: 278
+Max velocity of any point in simulation is 14.3147
+Frame: 279
+Max velocity of any point in simulation is 14.2667
+Frame: 280
+Max velocity of any point in simulation is 14.1567
+Frame: 281
+Max velocity of any point in simulation is 14.2183
+Frame: 282
+Max velocity of any point in simulation is 14.3937
+Frame: 283
+Max velocity of any point in simulation is 14.4277
+Frame: 284
+Max velocity of any point in simulation is 14.118
+Frame: 285
+Max velocity of any point in simulation is 14.2751
+Frame: 286
+Max velocity of any point in simulation is 13.9542
+Frame: 287
+Max velocity of any point in simulation is 14.0298
+Frame: 288
+Max velocity of any point in simulation is 14.391
+Frame: 289
+Max velocity of any point in simulation is 14.3389
+Frame: 290
+Max velocity of any point in simulation is 14.3907
+Frame: 291
+Max velocity of any point in simulation is 14.2022
+Frame: 292
+Max velocity of any point in simulation is 14.0992
+Frame: 293
+Max velocity of any point in simulation is 14.2058
+Frame: 294
+Max velocity of any point in simulation is 14.5965
+Frame: 295
+Max velocity of any point in simulation is 13.9875
+Frame: 296
+Max velocity of any point in simulation is 14.057
+Frame: 297
+Max velocity of any point in simulation is 14.4615
+Frame: 298
+Max velocity of any point in simulation is 14.4627
+Frame: 299
+Max velocity of any point in simulation is 14.183
+Frame: 300
+Max velocity of any point in simulation is 14.2044
+Frame: 301
+Max velocity of any point in simulation is 13.9492
+Frame: 302
+Max velocity of any point in simulation is 14.0555
+Frame: 303
+Max velocity of any point in simulation is 14.2028
+Frame: 304
+Max velocity of any point in simulation is 13.8853
+Frame: 305
+Max velocity of any point in simulation is 14.1581
+Frame: 306
+Max velocity of any point in simulation is 14.4184
+Frame: 307
+Max velocity of any point in simulation is 14.5035
+Frame: 308
+Max velocity of any point in simulation is 14.5344
+Frame: 309
+Max velocity of any point in simulation is 14.1379
+Frame: 310
+Max velocity of any point in simulation is 14.4022
+Frame: 311
+Max velocity of any point in simulation is 14.0461
+Frame: 312
+Max velocity of any point in simulation is 14.0985
+Frame: 313
+Max velocity of any point in simulation is 14.2974
+Frame: 314
+Max velocity of any point in simulation is 14.3149
+Frame: 315
+Max velocity of any point in simulation is 14.3243
+Frame: 316
+Max velocity of any point in simulation is 14.4064
+Frame: 317
+Max velocity of any point in simulation is 14.6625
+Frame: 318
+Max velocity of any point in simulation is 14.3702
+Frame: 319
+Max velocity of any point in simulation is 13.799
+Frame: 320
+Max velocity of any point in simulation is 14.2029
+Frame: 321
+Max velocity of any point in simulation is 14.27
+Frame: 322
+Max velocity of any point in simulation is 14.3532
+Frame: 323
+Max velocity of any point in simulation is 14.3659
+Frame: 324
+Max velocity of any point in simulation is 14.1022
+Frame: 325
+Max velocity of any point in simulation is 13.8596
+Frame: 326
+Max velocity of any point in simulation is 14.0718
+Frame: 327
+Max velocity of any point in simulation is 14.3045
+Frame: 328
+Max velocity of any point in simulation is 14.1043
+Frame: 329
+Max velocity of any point in simulation is 14.1428
+Frame: 330
+Max velocity of any point in simulation is 14.3763
+Frame: 331
+Max velocity of any point in simulation is 14.2217
+Frame: 332
+Max velocity of any point in simulation is 14.2362
+Frame: 333
+Max velocity of any point in simulation is 14.1091
+Frame: 334
+Max velocity of any point in simulation is 14.1254
+Frame: 335
+Max velocity of any point in simulation is 13.9338
+Frame: 336
+Max velocity of any point in simulation is 13.9707
+Frame: 337
+Max velocity of any point in simulation is 13.9844
+Frame: 338
+Max velocity of any point in simulation is 14.6123
+Frame: 339
+Max velocity of any point in simulation is 14.4011
+Frame: 340
+Max velocity of any point in simulation is 14.1595
+Frame: 341
+Max velocity of any point in simulation is 13.7946
+Frame: 342
+Max velocity of any point in simulation is 14.1877
+Frame: 343
+Max velocity of any point in simulation is 14.2255
+Frame: 344
+Max velocity of any point in simulation is 14.4378
+Frame: 345
+Max velocity of any point in simulation is 14.1256
+Frame: 346
+Max velocity of any point in simulation is 14.1031
+Frame: 347
+Max velocity of any point in simulation is 14.2089
+Frame: 348
+Max velocity of any point in simulation is 14.1446
+Frame: 349
+Max velocity of any point in simulation is 13.8963
+Frame: 350
+Max velocity of any point in simulation is 14.1697
+Frame: 351
+Max velocity of any point in simulation is 13.9171
+Frame: 352
+Max velocity of any point in simulation is 14.1862
+Frame: 353
+Max velocity of any point in simulation is 14.0782
+Frame: 354
+Max velocity of any point in simulation is 14.2636
+Frame: 355
+Max velocity of any point in simulation is 14.1868
+Frame: 356
+Max velocity of any point in simulation is 14.2634
+Frame: 357
+Max velocity of any point in simulation is 14.1657
+Frame: 358
+Max velocity of any point in simulation is 14.1203
+Frame: 359
+Max velocity of any point in simulation is 14.0404
+Frame: 360
+Max velocity of any point in simulation is 14.7785
+Frame: 361
+Max velocity of any point in simulation is 14.2176
+Frame: 362
+Max velocity of any point in simulation is 14.1996
+Frame: 363
+Max velocity of any point in simulation is 14.0728
+Frame: 364
+Max velocity of any point in simulation is 14.0542
+Frame: 365
+Max velocity of any point in simulation is 14.4941
+Frame: 366
+Max velocity of any point in simulation is 14.0308
+Frame: 367
+Max velocity of any point in simulation is 14.2706
+Frame: 368
+Max velocity of any point in simulation is 13.8199
+Frame: 369
+Max velocity of any point in simulation is 14.1346
+Frame: 370
+Max velocity of any point in simulation is 14.3305
+Frame: 371
+Max velocity of any point in simulation is 14.1864
+Frame: 372
+Max velocity of any point in simulation is 14.086
+Frame: 373
+Max velocity of any point in simulation is 13.7174
+Frame: 374
+Max velocity of any point in simulation is 14.1246
+Frame: 375
+Max velocity of any point in simulation is 13.9649
+Frame: 376
+Max velocity of any point in simulation is 14.3976
+Frame: 377
+Max velocity of any point in simulation is 14.1443
+Frame: 378
+Max velocity of any point in simulation is 14.2086
+Frame: 379
+Max velocity of any point in simulation is 14.3718
+Frame: 380
+Max velocity of any point in simulation is 14.1973
+Frame: 381
+Max velocity of any point in simulation is 13.8122
+Frame: 382
+Max velocity of any point in simulation is 13.8124
+Frame: 383
+Max velocity of any point in simulation is 14.0604
+Frame: 384
+Max velocity of any point in simulation is 14.1368
+Frame: 385
+Max velocity of any point in simulation is 13.9724
+Frame: 386
+Max velocity of any point in simulation is 14.1185
+Frame: 387
+Max velocity of any point in simulation is 14.2453
+Frame: 388
+Max velocity of any point in simulation is 14.088
+Frame: 389
+Max velocity of any point in simulation is 13.8921
+Frame: 390
+Max velocity of any point in simulation is 14.0874
+Frame: 391
+Max velocity of any point in simulation is 14.009
+Frame: 392
+Max velocity of any point in simulation is 14.0036
+Frame: 393
+Max velocity of any point in simulation is 14.2607
+Frame: 394
+Max velocity of any point in simulation is 14.4034
+Frame: 395
+Max velocity of any point in simulation is 14.1887
+Frame: 396
+Max velocity of any point in simulation is 14.5097
+Frame: 397
+Max velocity of any point in simulation is 14.1681
+Frame: 398
+Max velocity of any point in simulation is 13.8141
+Frame: 399
+Max velocity of any point in simulation is 13.6746
+Frame: 400
+Max velocity of any point in simulation is 14.1657
+Frame: 401
+Max velocity of any point in simulation is 14.0592
+Frame: 402
+Max velocity of any point in simulation is 14.3112
+Frame: 403
+Max velocity of any point in simulation is 14.469
+Frame: 404
+Max velocity of any point in simulation is 13.9034
+Frame: 405
+Max velocity of any point in simulation is 14.0434
+Frame: 406
+Max velocity of any point in simulation is 14.044
+Frame: 407
+Max velocity of any point in simulation is 14.1832
+Frame: 408
+Max velocity of any point in simulation is 14.068
+Frame: 409
+Max velocity of any point in simulation is 14.2527
+Frame: 410
+Max velocity of any point in simulation is 14.2286
+Frame: 411
+Max velocity of any point in simulation is 14.1871
+Frame: 412
+Max velocity of any point in simulation is 14.1429
+Frame: 413
+Max velocity of any point in simulation is 13.645
+Frame: 414
+Max velocity of any point in simulation is 14.1352
+Frame: 415
+Max velocity of any point in simulation is 14.1332
+Frame: 416
+Max velocity of any point in simulation is 14.1871
+Frame: 417
+Max velocity of any point in simulation is 14.2785
+Frame: 418
+Max velocity of any point in simulation is 14.2383
+Frame: 419
+Max velocity of any point in simulation is 14.2092
+Frame: 420
+Max velocity of any point in simulation is 13.9661
+Frame: 421
+Max velocity of any point in simulation is 14.0743
+Frame: 422
+Max velocity of any point in simulation is 13.8799
+Frame: 423
+Max velocity of any point in simulation is 14.1895
+Frame: 424
+Max velocity of any point in simulation is 14.118
+Frame: 425
+Max velocity of any point in simulation is 13.9882
+Frame: 426
+Max velocity of any point in simulation is 14.1074
+Frame: 427
+Max velocity of any point in simulation is 14.1677
+Frame: 428
+Max velocity of any point in simulation is 14.0488
+Frame: 429
+Max velocity of any point in simulation is 14.2425
+Frame: 430
+Max velocity of any point in simulation is 13.9645
+Frame: 431
+Max velocity of any point in simulation is 14.119
+Frame: 432
+Max velocity of any point in simulation is 14.1859
+Frame: 433
+Max velocity of any point in simulation is 14.0602
+Frame: 434
+Max velocity of any point in simulation is 14.2119
+Frame: 435
+Max velocity of any point in simulation is 14.0945
+Frame: 436
+Max velocity of any point in simulation is 14.0546
+Frame: 437
+Max velocity of any point in simulation is 13.9154
+Frame: 438
+Max velocity of any point in simulation is 13.9858
+Frame: 439
+Max velocity of any point in simulation is 14.0749
+Frame: 440
+Max velocity of any point in simulation is 14.1546
+Frame: 441
+Max velocity of any point in simulation is 13.9064
+Frame: 442
+Max velocity of any point in simulation is 14.4729
+Frame: 443
+Max velocity of any point in simulation is 14.1959
+Frame: 444
+Max velocity of any point in simulation is 14.1011
+Frame: 445
+Max velocity of any point in simulation is 14.5208
+Frame: 446
+Max velocity of any point in simulation is 13.9898
+Frame: 447
+Max velocity of any point in simulation is 14.2594
+Frame: 448
+Max velocity of any point in simulation is 13.8903
+Frame: 449
+Max velocity of any point in simulation is 14.3813
+Frame: 450
+Max velocity of any point in simulation is 14.4253
+Frame: 451
+Max velocity of any point in simulation is 14.273
+Frame: 452
+Max velocity of any point in simulation is 14.1398
+Frame: 453
+Max velocity of any point in simulation is 14.0128
+Frame: 454
+Max velocity of any point in simulation is 14.2111
+Frame: 455
+Max velocity of any point in simulation is 14.0136
+Frame: 456
+Max velocity of any point in simulation is 13.7871
+Frame: 457
+Max velocity of any point in simulation is 14.0135
+Frame: 458
+Max velocity of any point in simulation is 14.3117
+Frame: 459
+Max velocity of any point in simulation is 14.0317
+Frame: 460
+Max velocity of any point in simulation is 14.4066
+Frame: 461
+Max velocity of any point in simulation is 14.1097
+Frame: 462
+Max velocity of any point in simulation is 14.3314
+Frame: 463
+Max velocity of any point in simulation is 13.673
+Frame: 464
+Max velocity of any point in simulation is 13.9419
+Frame: 465
+Max velocity of any point in simulation is 14.0082
+Frame: 466
+Max velocity of any point in simulation is 13.8923
+Frame: 467
+Max velocity of any point in simulation is 14.2707
+Frame: 468
+Max velocity of any point in simulation is 14.0464
+Frame: 469
+Max velocity of any point in simulation is 13.9384
+Frame: 470
+Max velocity of any point in simulation is 14.4263
+Frame: 471
+Max velocity of any point in simulation is 14.0508
+Frame: 472
+Max velocity of any point in simulation is 14.2306
+Frame: 473
+Max velocity of any point in simulation is 14.0039
+Frame: 474
+Max velocity of any point in simulation is 14.2957
+Frame: 475
+Max velocity of any point in simulation is 14.2017
+Frame: 476
+Max velocity of any point in simulation is 14.2191
+Frame: 477
+Max velocity of any point in simulation is 14.4158
+Frame: 478
+Max velocity of any point in simulation is 14.1087
+Frame: 479
+Max velocity of any point in simulation is 13.8772
+Frame: 480
+Max velocity of any point in simulation is 14.0636
+Frame: 481
+Max velocity of any point in simulation is 14.1408
+Frame: 482
+Max velocity of any point in simulation is 14.0752
+Frame: 483
+Max velocity of any point in simulation is 14.2134
+Frame: 484
+Max velocity of any point in simulation is 14.179
+Frame: 485
+Max velocity of any point in simulation is 13.8423
+Frame: 486
+Max velocity of any point in simulation is 13.9253
+Frame: 487
+Max velocity of any point in simulation is 13.9135
+Frame: 488
+Max velocity of any point in simulation is 13.8786
+Frame: 489
+Max velocity of any point in simulation is 13.8765
+Frame: 490
+Max velocity of any point in simulation is 14.2506
+Frame: 491
+Max velocity of any point in simulation is 14.3179
+Frame: 492
+Max velocity of any point in simulation is 14.0713
+Frame: 493
+Max velocity of any point in simulation is 14.3516
+Frame: 494
+Max velocity of any point in simulation is 13.7357
+Frame: 495
+Max velocity of any point in simulation is 13.8428
+Frame: 496
+Max velocity of any point in simulation is 13.8456
+Frame: 497
+Max velocity of any point in simulation is 14.172
+Frame: 498
+Max velocity of any point in simulation is 14.0826
+Frame: 499
+Max velocity of any point in simulation is 14.0872
+Frame: 500
+Max velocity of any point in simulation is 14.036
+Frame: 501
+Max velocity of any point in simulation is 13.8497
+Frame: 502
+Max velocity of any point in simulation is 13.5768
+Frame: 503
+Max velocity of any point in simulation is 13.8353
+Frame: 504
+Max velocity of any point in simulation is 13.895
+Frame: 505
+Max velocity of any point in simulation is 13.7502
+Frame: 506
+Max velocity of any point in simulation is 14.2672
+Frame: 507
+Max velocity of any point in simulation is 14.1464
+Frame: 508
+Max velocity of any point in simulation is 14.0177
+Frame: 509
+Max velocity of any point in simulation is 14.4135
+Frame: 510
+Max velocity of any point in simulation is 13.9495
+Frame: 511
+Max velocity of any point in simulation is 14.1509
+Frame: 512
+Max velocity of any point in simulation is 13.9151
+Frame: 513
+Max velocity of any point in simulation is 14.0381
+Frame: 514
+Max velocity of any point in simulation is 14.2476
+Frame: 515
+Max velocity of any point in simulation is 14.2055
+Frame: 516
+Max velocity of any point in simulation is 13.7358
+Frame: 517
+Max velocity of any point in simulation is 14.1587
+Frame: 518
+Max velocity of any point in simulation is 13.9595
+Frame: 519
+Max velocity of any point in simulation is 13.7238
+Frame: 520
+Max velocity of any point in simulation is 14.1568
+Frame: 521
+Max velocity of any point in simulation is 14.0456
+Frame: 522
+Max velocity of any point in simulation is 14.1404
+Frame: 523
+Max velocity of any point in simulation is 14.1393
+Frame: 524
+Max velocity of any point in simulation is 14.0344
+Frame: 525
+Max velocity of any point in simulation is 13.9937
+Frame: 526
+Max velocity of any point in simulation is 13.6424
+Frame: 527
+Max velocity of any point in simulation is 14.1143
+Frame: 528
+Max velocity of any point in simulation is 14.0415
+Frame: 529
+Max velocity of any point in simulation is 14.2025
+Frame: 530
+Max velocity of any point in simulation is 14.1641
+Frame: 531
+Max velocity of any point in simulation is 14.2635
+Frame: 532
+Max velocity of any point in simulation is 14.0278
+Frame: 533
+Max velocity of any point in simulation is 14.3856
+Frame: 534
+Max velocity of any point in simulation is 13.9715
+Frame: 535
+Max velocity of any point in simulation is 14.0739
+Frame: 536
+Max velocity of any point in simulation is 14.1327
+Frame: 537
+Max velocity of any point in simulation is 13.7934
+Frame: 538
+Max velocity of any point in simulation is 14.1694
+Frame: 539
+Max velocity of any point in simulation is 14.1153
+Frame: 540
+Max velocity of any point in simulation is 13.7999
+Frame: 541
+Max velocity of any point in simulation is 14.2365
+Frame: 542
+Max velocity of any point in simulation is 13.6808
+Frame: 543
+Max velocity of any point in simulation is 14.0088
+Frame: 544
+Max velocity of any point in simulation is 13.8748
+Frame: 545
+Max velocity of any point in simulation is 13.7794
+Frame: 546
+Max velocity of any point in simulation is 14.3069
+Frame: 547
+Max velocity of any point in simulation is 14.0519
+Frame: 548
+Max velocity of any point in simulation is 13.8794
+Frame: 549
+Max velocity of any point in simulation is 13.1164
+Frame: 550
+Max velocity of any point in simulation is 13.607
+Frame: 551
+Max velocity of any point in simulation is 13.6511
+Frame: 552
+Max velocity of any point in simulation is 14.1419
+Frame: 553
+Max velocity of any point in simulation is 14.0843
+Frame: 554
+Max velocity of any point in simulation is 14.2171
+Frame: 555
+Max velocity of any point in simulation is 14.1106
+Frame: 556
+Max velocity of any point in simulation is 14.0815
+Frame: 557
+Max velocity of any point in simulation is 13.9605
+Frame: 558
+Max velocity of any point in simulation is 14.1036
+Frame: 559
+Max velocity of any point in simulation is 13.9664
+Frame: 560
+Max velocity of any point in simulation is 14.2018
+Frame: 561
+Max velocity of any point in simulation is 13.7628
+Frame: 562
+Max velocity of any point in simulation is 14.237
+Frame: 563
+Max velocity of any point in simulation is 14.0515
+Frame: 564
+Max velocity of any point in simulation is 14.1499
+Frame: 565
+Max velocity of any point in simulation is 13.9535
+Frame: 566
+Max velocity of any point in simulation is 13.6392
+Frame: 567
+Max velocity of any point in simulation is 14.1303
+Frame: 568
+Max velocity of any point in simulation is 14.0107
+Frame: 569
+Max velocity of any point in simulation is 13.9285
+Frame: 570
+Max velocity of any point in simulation is 14.0305
+Frame: 571
+Max velocity of any point in simulation is 14.1799
+Frame: 572
+Max velocity of any point in simulation is 14.0037
+Frame: 573
+Max velocity of any point in simulation is 13.603
+Frame: 574
+Max velocity of any point in simulation is 14.0926
+Frame: 575
+Max velocity of any point in simulation is 13.7853
+Frame: 576
+Max velocity of any point in simulation is 13.5057
+Frame: 577
+Max velocity of any point in simulation is 14.0352
+Frame: 578
+Max velocity of any point in simulation is 14.5297
+Frame: 579
+Max velocity of any point in simulation is 14.4402
+Frame: 580
+Max velocity of any point in simulation is 13.6748
+Frame: 581
+Max velocity of any point in simulation is 13.6384
+Frame: 582
+Max velocity of any point in simulation is 14.1659
+Frame: 583
+Max velocity of any point in simulation is 14.7387
+Frame: 584
+Max velocity of any point in simulation is 14.1098
+Frame: 585
+Max velocity of any point in simulation is 14.0673
+Frame: 586
+Max velocity of any point in simulation is 14.1195
+Frame: 587
+Max velocity of any point in simulation is 14.0019
+Frame: 588
+Max velocity of any point in simulation is 13.6144
+Frame: 589
+Max velocity of any point in simulation is 13.5748
+Frame: 590
+Max velocity of any point in simulation is 14.0642
+Frame: 591
+Max velocity of any point in simulation is 14.5537
+Frame: 592
+Max velocity of any point in simulation is 13.8343
+Frame: 593
+Max velocity of any point in simulation is 14.0594
+Frame: 594
+Max velocity of any point in simulation is 14.1474
+Frame: 595
+Max velocity of any point in simulation is 14.2727
+Frame: 596
+Max velocity of any point in simulation is 14.5273
+Frame: 597
+Max velocity of any point in simulation is 13.9379
+Frame: 598
+Max velocity of any point in simulation is 13.6113
+Frame: 599
+Max velocity of any point in simulation is 14.1665
+Frame: 600
+Max velocity of any point in simulation is 13.9267
+Frame: 601
+Max velocity of any point in simulation is 14.1881
+Frame: 602
+Max velocity of any point in simulation is 14.3226
+Frame: 603
+Max velocity of any point in simulation is 14.1684
+Frame: 604
+Max velocity of any point in simulation is 13.6742
+Frame: 605
+Max velocity of any point in simulation is 13.844
+Frame: 606
+Max velocity of any point in simulation is 13.5347
+Frame: 607
+Max velocity of any point in simulation is 14.0256
+Frame: 608
+Max velocity of any point in simulation is 13.9943
+Frame: 609
+Max velocity of any point in simulation is 13.8811
+Frame: 610
+Max velocity of any point in simulation is 14.3696
+Frame: 611
+Max velocity of any point in simulation is 14.0116
+Frame: 612
+Max velocity of any point in simulation is 12.8839
+Frame: 613
+Max velocity of any point in simulation is 13.3748
+Frame: 614
+Max velocity of any point in simulation is 13.8656
+Frame: 615
+Max velocity of any point in simulation is 14.124
+Frame: 616
+Max velocity of any point in simulation is 13.9831
+Frame: 617
+Max velocity of any point in simulation is 14.0113
+Frame: 618
+Max velocity of any point in simulation is 13.9178
+Frame: 619
+Max velocity of any point in simulation is 14.0726
+Frame: 620
+Max velocity of any point in simulation is 14.2697
+Frame: 621
+Max velocity of any point in simulation is 14.5108
+Frame: 622
+Max velocity of any point in simulation is 14.0053
+Frame: 623
+Max velocity of any point in simulation is 14.1938
+Frame: 624
+Max velocity of any point in simulation is 14.218
+Frame: 625
+Max velocity of any point in simulation is 13.9247
+Frame: 626
+Max velocity of any point in simulation is 14.0807
+Frame: 627
+Max velocity of any point in simulation is 14.1618
+Frame: 628
+Max velocity of any point in simulation is 14.1524
+Frame: 629
+Max velocity of any point in simulation is 14.1926
+Frame: 630
+Max velocity of any point in simulation is 13.791
+Frame: 631
+Max velocity of any point in simulation is 14.2819
+Frame: 632
+Max velocity of any point in simulation is 13.6383
+Frame: 633
+Max velocity of any point in simulation is 13.9614
+Frame: 634
+Max velocity of any point in simulation is 14.0879
+Frame: 635
+Max velocity of any point in simulation is 13.8397
+Frame: 636
+Max velocity of any point in simulation is 12.9733
+Frame: 637
+Max velocity of any point in simulation is 13.4584
+Frame: 638
+Max velocity of any point in simulation is 13.9436
+Frame: 639
+Max velocity of any point in simulation is 14.1733
+Frame: 640
+Max velocity of any point in simulation is 13.7392
+Frame: 641
+Max velocity of any point in simulation is 14.1133
+Frame: 642
+Max velocity of any point in simulation is 14.0663
+Frame: 643
+Max velocity of any point in simulation is 14.2158
+Frame: 644
+Max velocity of any point in simulation is 14.3694
+Frame: 645
+Max velocity of any point in simulation is 14.1624
+Frame: 646
+Max velocity of any point in simulation is 13.3029
+Frame: 647
+Max velocity of any point in simulation is 13.7939
+Frame: 648
+Max velocity of any point in simulation is 13.6756
+Frame: 649
+Max velocity of any point in simulation is 14.0068
+Frame: 650
+Max velocity of any point in simulation is 14.0399
+Frame: 651
+Max velocity of any point in simulation is 14.1803
+Frame: 652
+Max velocity of any point in simulation is 13.2294
+Frame: 653
+Max velocity of any point in simulation is 13.7205
+Frame: 654
+Max velocity of any point in simulation is 13.9231
+Frame: 655
+Max velocity of any point in simulation is 13.6087
+Frame: 656
+Max velocity of any point in simulation is 14.02
+Frame: 657
+Max velocity of any point in simulation is 14.1751
+Frame: 658
+Max velocity of any point in simulation is 14.2294
+Frame: 659
+Max velocity of any point in simulation is 13.9221
+Frame: 660
+Max velocity of any point in simulation is 13.7859
+Frame: 661
+Max velocity of any point in simulation is 13.8767
+Frame: 662
+Max velocity of any point in simulation is 13.9647
+Frame: 663
+Max velocity of any point in simulation is 14.0309
+Frame: 664
+Max velocity of any point in simulation is 13.8568
+Frame: 665
+Max velocity of any point in simulation is 13.8126
+Frame: 666
+Max velocity of any point in simulation is 14.05
+Frame: 667
+Max velocity of any point in simulation is 14.2478
+Frame: 668
+Max velocity of any point in simulation is 14.1167
+Frame: 669
+Max velocity of any point in simulation is 13.7263
+Frame: 670
+Max velocity of any point in simulation is 13.6898
+Frame: 671
+Max velocity of any point in simulation is 13.505
+Frame: 672
+Max velocity of any point in simulation is 13.7063
+Frame: 673
+Max velocity of any point in simulation is 13.8652
+Frame: 674
+Max velocity of any point in simulation is 13.7566
+Frame: 675
+Max velocity of any point in simulation is 14.1829
+Frame: 676
+Max velocity of any point in simulation is 13.4599
+Frame: 677
+Max velocity of any point in simulation is 14.271
+Frame: 678
+Max velocity of any point in simulation is 13.2734
+Frame: 679
+Max velocity of any point in simulation is 13.7632
+Frame: 680
+Max velocity of any point in simulation is 14.0397
+Frame: 681
+Max velocity of any point in simulation is 14.2464
+Frame: 682
+Max velocity of any point in simulation is 14.2703
+Frame: 683
+Max velocity of any point in simulation is 13.9631
+Frame: 684
+Max velocity of any point in simulation is 14.0377
+Frame: 685
+Max velocity of any point in simulation is 12.9827
+Frame: 686
+Max velocity of any point in simulation is 13.6313
+Frame: 687
+Max velocity of any point in simulation is 14.1606
+Frame: 688
+Max velocity of any point in simulation is 13.8977
+Frame: 689
+Max velocity of any point in simulation is 14.0369
+Frame: 690
+Max velocity of any point in simulation is 14.0368
+Frame: 691
+Max velocity of any point in simulation is 14.4944
+Frame: 692
+Max velocity of any point in simulation is 14.5561
+Frame: 693
+Max velocity of any point in simulation is 13.9193
+Frame: 694
+Max velocity of any point in simulation is 14.2453
+Frame: 695
+Max velocity of any point in simulation is 14.2612
+Frame: 696
+Max velocity of any point in simulation is 13.6942
+Frame: 697
+Max velocity of any point in simulation is 14.1457
+Frame: 698
+Max velocity of any point in simulation is 14.115
+Frame: 699
+Max velocity of any point in simulation is 13.983
+Frame: 700
+Max velocity of any point in simulation is 13.7643
+Frame: 701
+Max velocity of any point in simulation is 14.0821
+Frame: 702
+Max velocity of any point in simulation is 13.8939
+Frame: 703
+Max velocity of any point in simulation is 13.986
+Frame: 704
+Max velocity of any point in simulation is 13.9099
+Frame: 705
+Max velocity of any point in simulation is 13.8253
+Frame: 706
+Max velocity of any point in simulation is 14.2267
+Frame: 707
+Max velocity of any point in simulation is 14.0729
+Frame: 708
+Max velocity of any point in simulation is 12.8946
+Frame: 709
+Max velocity of any point in simulation is 13.3856
+Frame: 710
+Max velocity of any point in simulation is 13.9317
+Frame: 711
+Max velocity of any point in simulation is 14.1123
+Frame: 712
+Max velocity of any point in simulation is 13.8993
+Frame: 713
+Max velocity of any point in simulation is 13.6852
+Frame: 714
+Max velocity of any point in simulation is 14.1763
+Frame: 715
+Max velocity of any point in simulation is 14.1486
+Frame: 716
+Max velocity of any point in simulation is 13.7982
+Frame: 717
+Max velocity of any point in simulation is 13.4989
+Frame: 718
+Max velocity of any point in simulation is 13.9893
+Frame: 719
+Max velocity of any point in simulation is 14.049
+Frame: 720
+Max velocity of any point in simulation is 13.0191
+Frame: 721
+Max velocity of any point in simulation is 13.51
+Frame: 722
+Max velocity of any point in simulation is 14.001
+Frame: 723
+Max velocity of any point in simulation is 14.2393
+Frame: 724
+Max velocity of any point in simulation is 13.8927
+Frame: 725
+Max velocity of any point in simulation is 13.8459
+Frame: 726
+Max velocity of any point in simulation is 14.0233
+Frame: 727
+Max velocity of any point in simulation is 13.4447
+Frame: 728
+Max velocity of any point in simulation is 13.9351
+Frame: 729
+Max velocity of any point in simulation is 13.998
+Frame: 730
+Max velocity of any point in simulation is 13.4334
+Frame: 731
+Max velocity of any point in simulation is 13.9292
+Frame: 732
+Max velocity of any point in simulation is 13.2866
+Frame: 733
+Max velocity of any point in simulation is 13.7361
+Frame: 734
+Max velocity of any point in simulation is 13.125
+Frame: 735
+Max velocity of any point in simulation is 13.6216
+Frame: 736
+Max velocity of any point in simulation is 14.1095
+Frame: 737
+Max velocity of any point in simulation is 13.911
+Frame: 738
+Max velocity of any point in simulation is 14.0667
+Frame: 739
+Max velocity of any point in simulation is 14.1861
+Frame: 740
+Max velocity of any point in simulation is 13.6425
+Frame: 741
+Max velocity of any point in simulation is 12.3787
+Frame: 742
+Max velocity of any point in simulation is 12.8676
+Frame: 743
+Max velocity of any point in simulation is 13.3562
+Frame: 744
+Max velocity of any point in simulation is 13.8446
+Frame: 745
+Max velocity of any point in simulation is 13.4869
+Frame: 746
+Max velocity of any point in simulation is 13.9595
+Frame: 747
+Max velocity of any point in simulation is 13.9765
+Frame: 748
+Max velocity of any point in simulation is 14.0817
+Frame: 749
+Max velocity of any point in simulation is 14.103
+Frame: 750
+Max velocity of any point in simulation is 13.8988
+Frame: 751
+Max velocity of any point in simulation is 13.9953
+Frame: 752
+Max velocity of any point in simulation is 14.1235
+Frame: 753
+Max velocity of any point in simulation is 14.1466
+Frame: 754
+Max velocity of any point in simulation is 14.0765
+Frame: 755
+Max velocity of any point in simulation is 14.0883
+Frame: 756
+Max velocity of any point in simulation is 14.2057
+Frame: 757
+Max velocity of any point in simulation is 13.5697
+Frame: 758
+Max velocity of any point in simulation is 13.8515
+Frame: 759
+Max velocity of any point in simulation is 13.9893
+Frame: 760
+Max velocity of any point in simulation is 13.6094
+Frame: 761
+Max velocity of any point in simulation is 14.0854
+Frame: 762
+Max velocity of any point in simulation is 14.3718
+Frame: 763
+Max velocity of any point in simulation is 13.4486
+Frame: 764
+Max velocity of any point in simulation is 13.9397
+Frame: 765
+Max velocity of any point in simulation is 13.8853
+Frame: 766
+Max velocity of any point in simulation is 13.9827
+Frame: 767
+Max velocity of any point in simulation is 13.3099
+Frame: 768
+Max velocity of any point in simulation is 13.7991
+Frame: 769
+Max velocity of any point in simulation is 14.0176
+Frame: 770
+Max velocity of any point in simulation is 13.6384
+Frame: 771
+Max velocity of any point in simulation is 14.0289
+Frame: 772
+Max velocity of any point in simulation is 13.3705
+Frame: 773
+Max velocity of any point in simulation is 13.8617
+Frame: 774
+Max velocity of any point in simulation is 12.8271
+Frame: 775
+Max velocity of any point in simulation is 13.315
+Frame: 776
+Max velocity of any point in simulation is 13.8388
+Frame: 777
+Max velocity of any point in simulation is 13.5957
+Frame: 778
+Max velocity of any point in simulation is 14.0978
+Frame: 779
+Max velocity of any point in simulation is 14.0063
+Frame: 780
+Max velocity of any point in simulation is 12.6131
+Frame: 781
+Max velocity of any point in simulation is 13.1042
+Frame: 782
+Max velocity of any point in simulation is 13.5953
+Frame: 783
+Max velocity of any point in simulation is 14.0391
+Frame: 784
+Max velocity of any point in simulation is 13.3596
+Frame: 785
+Max velocity of any point in simulation is 13.8507
+Frame: 786
+Max velocity of any point in simulation is 14.0962
+Frame: 787
+Max velocity of any point in simulation is 14.2196
+Frame: 788
+Max velocity of any point in simulation is 14.0768
+Frame: 789
+Max velocity of any point in simulation is 13.4292
+Frame: 790
+Max velocity of any point in simulation is 13.8926
+Frame: 791
+Max velocity of any point in simulation is 13.5753
+Frame: 792
+Max velocity of any point in simulation is 13.8989
+Frame: 793
+Max velocity of any point in simulation is 13.8315
+Frame: 794
+Max velocity of any point in simulation is 13.8252
+Frame: 795
+Max velocity of any point in simulation is 10.6575
+Frame: 796
+Max velocity of any point in simulation is 11.227
+Frame: 797
+Max velocity of any point in simulation is 11.6907
+Frame: 798
+Max velocity of any point in simulation is 12.0749
+Frame: 799
+Max velocity of any point in simulation is 12.5658
+Frame: 800
+Max velocity of any point in simulation is 13.1839
+807.865 seconds (wall time) to finish the simulation
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 4000001
+Number of updates dynamic gets: 162073
+Number of updates kinematic gets: 162074
+Average steps per dynamic update: 24.68009
+Average steps contact detection lags behind: 49.36016
+Number of times dynamic held back: 10904
+-----------------------------
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 798.151391 seconds
+Discretize domain: 75.9118646 seconds, 9.51096% of kT total runtime
+Find contact pairs: 412.668218 seconds, 51.703% of kT total runtime
+Build history map: 93.1907091 seconds, 11.6758% of kT total runtime
+Unpack updates from dT: 71.9749154 seconds, 9.0177% of kT total runtime
+Send to dT buffer: 14.3882767 seconds, 1.8027% of kT total runtime
+Wait for dT update: 130.017406 seconds, 16.2898% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 632.287247 seconds
+Clear force array: 63.7720966 seconds, 10.0859% of dT total runtime
+Calculate contact forces: 196.648463 seconds, 31.1011% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 227.494962 seconds, 35.9797% of dT total runtime
+Unpack updates from kT: 17.995091 seconds, 2.84603% of dT total runtime
+Send to kT buffer: 16.3974664 seconds, 2.59336% of dT total runtime
+Wait for kT update: 109.979167 seconds, 17.3939% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 4.34383 MiB
+kT device memory usage: 17.9763 MiB
+dT host memory usage: 6.13799 MiB
+dT device memory usage: 10.8485 MiB
+----------------------------------------
+DEMdemo_Sieve exiting...

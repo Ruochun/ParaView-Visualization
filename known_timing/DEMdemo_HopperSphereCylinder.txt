@@ -1,0 +1,3409 @@
+0.000113399 chosen moi ...1
+0.003 chosen moi ...1
+
+WARNING! Material property CoR should involve two materials. However, at least a pair of materials does not have it defined, so it is defaulted to the average value between the two materials.
+Please be sure this is intentional.
+
+
+WARNING! Material property Crr is needed by the force model or is referred to by the user. However, at least one material does not have it defined, so it is defaulted to 0 for that material.
+Please be sure this is intentional.
+
+
+WARNING! Material property Crr should involve two materials. However, at least a pair of materials does not have it defined, so it is defaulted to the average value between the two materials.
+Please be sure this is intentional.
+
+
+WARNING! Material property mu is needed by the force model or is referred to by the user. However, at least one material does not have it defined, so it is defaulted to 0 for that material.
+Please be sure this is intentional.
+
+
+WARNING! Material property mu should involve two materials. However, at least a pair of materials does not have it defined, so it is defaulted to the average value between the two materials.
+Please be sure this is intentional.
+
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-0.1, 0.1]
+User-specified Y-dimension range: [-0.02, 0.02]
+User-specified Z-dimension range: [-0.5, 1]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 0.24000000953674316, 0.060000002384185791, 1.9200000762939453
+Simulation world X range: [-0.12, 0.12]
+Simulation world Y range: [-0.024, 0.036]
+Simulation world Z range: [-0.65, 1.27]
+The length unit in this simulation is: 1.7462298967929613e-12
+The edge length of a voxel: 1.1444092251622351e-07
+The initial time step size: 5e-06
+The initial edge length of a bin: 0.0040000000000000001
+The initial number of bins: 469456
+The total number of clumps: 0
+The combined number of component spheres: 0
+The total number of analytical objects: 1
+The total number of meshes: 3
+Grand total number of owners: 4
+The number of material types: 5
+History-based Hertzian contact model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+level of particles position ... 0.1288
+number of particles at this level ... 1210
+Total num of particles: 1210
+Total runtime: 0.005s; settling for: 0.005
+maxZ is: 0.230762
+frame : 0
+level of particles position ... 0.235435
+number of particles at this level ... 55
+Total num of particles: 1265
+Total runtime: 0.01s; settling for: 0.005
+maxZ is: 0.237435
+frame : 1
+level of particles position ... 0.242108
+number of particles at this level ... 55
+Total num of particles: 1320
+Total runtime: 0.015s; settling for: 0.005
+maxZ is: 0.244108
+frame : 2
+level of particles position ... 0.248781
+number of particles at this level ... 55
+Total num of particles: 1375
+Total runtime: 0.02s; settling for: 0.005
+maxZ is: 0.250781
+frame : 3
+level of particles position ... 0.255454
+number of particles at this level ... 55
+Total num of particles: 1430
+Total runtime: 0.025s; settling for: 0.005
+maxZ is: 0.257454
+frame : 4
+level of particles position ... 0.262127
+number of particles at this level ... 55
+Total num of particles: 1485
+Total runtime: 0.03s; settling for: 0.005
+maxZ is: 0.264127
+frame : 5
+level of particles position ... 0.2688
+number of particles at this level ... 55
+Total num of particles: 1540
+Total runtime: 0.035s; settling for: 0.005
+maxZ is: 0.2708
+frame : 6
+level of particles position ... 0.275473
+number of particles at this level ... 55
+Total num of particles: 1595
+Total runtime: 0.04s; settling for: 0.005
+maxZ is: 0.277473
+frame : 7
+level of particles position ... 0.282146
+number of particles at this level ... 55
+Total num of particles: 1650
+Total runtime: 0.045s; settling for: 0.005
+maxZ is: 0.284146
+frame : 8
+level of particles position ... 0.28882
+number of particles at this level ... 55
+Total num of particles: 1705
+Total runtime: 0.05s; settling for: 0.005
+maxZ is: 0.29082
+frame : 9
+level of particles position ... 0.295493
+number of particles at this level ... 55
+Total num of particles: 1760
+Total runtime: 0.055s; settling for: 0.005
+maxZ is: 0.297493
+frame : 10
+level of particles position ... 0.302166
+number of particles at this level ... 55
+Total num of particles: 1815
+Total runtime: 0.06s; settling for: 0.005
+maxZ is: 0.304166
+frame : 11
+level of particles position ... 0.308839
+number of particles at this level ... 55
+Total num of particles: 1870
+Total runtime: 0.065s; settling for: 0.005
+maxZ is: 0.310839
+frame : 12
+level of particles position ... 0.315512
+number of particles at this level ... 55
+Total num of particles: 1925
+Total runtime: 0.07s; settling for: 0.005
+maxZ is: 0.317512
+frame : 13
+level of particles position ... 0.322185
+number of particles at this level ... 55
+Total num of particles: 1980
+Total runtime: 0.075s; settling for: 0.005
+maxZ is: 0.324185
+frame : 14
+level of particles position ... 0.328858
+number of particles at this level ... 55
+Total num of particles: 2035
+Total runtime: 0.08s; settling for: 0.005
+maxZ is: 0.330858
+frame : 15
+level of particles position ... 0.335531
+number of particles at this level ... 55
+Total num of particles: 2090
+Total runtime: 0.085s; settling for: 0.005
+maxZ is: 0.337531
+frame : 16
+level of particles position ... 0.342204
+number of particles at this level ... 55
+Total num of particles: 2145
+Total runtime: 0.09s; settling for: 0.005
+maxZ is: 0.344204
+frame : 17
+level of particles position ... 0.348877
+number of particles at this level ... 55
+Total num of particles: 2200
+Total runtime: 0.095s; settling for: 0.005
+maxZ is: 0.350877
+frame : 18
+level of particles position ... 0.355551
+number of particles at this level ... 55
+Total num of particles: 2255
+Total runtime: 0.1s; settling for: 0.005
+maxZ is: 0.357551
+frame : 19
+level of particles position ... 0.362224
+number of particles at this level ... 55
+Total num of particles: 2310
+Total runtime: 0.105s; settling for: 0.005
+maxZ is: 0.364224
+frame : 20
+level of particles position ... 0.368897
+number of particles at this level ... 55
+Total num of particles: 2365
+Total runtime: 0.11s; settling for: 0.005
+maxZ is: 0.370897
+frame : 21
+level of particles position ... 0.37557
+number of particles at this level ... 55
+Total num of particles: 2420
+Total runtime: 0.115s; settling for: 0.005
+maxZ is: 0.37757
+frame : 22
+level of particles position ... 0.382243
+number of particles at this level ... 55
+Total num of particles: 2475
+Total runtime: 0.12s; settling for: 0.005
+maxZ is: 0.384243
+frame : 23
+level of particles position ... 0.388916
+number of particles at this level ... 55
+Total num of particles: 2530
+Total runtime: 0.125s; settling for: 0.005
+maxZ is: 0.390916
+frame : 24
+level of particles position ... 0.395589
+number of particles at this level ... 55
+Total num of particles: 2585
+Total runtime: 0.13s; settling for: 0.005
+maxZ is: 0.397589
+frame : 25
+level of particles position ... 0.402262
+number of particles at this level ... 55
+Total num of particles: 2640
+Total runtime: 0.135s; settling for: 0.005
+maxZ is: 0.404262
+frame : 26
+level of particles position ... 0.408935
+number of particles at this level ... 55
+Total num of particles: 2695
+Total runtime: 0.14s; settling for: 0.005
+maxZ is: 0.410935
+frame : 27
+level of particles position ... 0.415608
+number of particles at this level ... 55
+Total num of particles: 2750
+Total runtime: 0.145s; settling for: 0.005
+maxZ is: 0.417608
+frame : 28
+level of particles position ... 0.422282
+number of particles at this level ... 55
+Total num of particles: 2805
+Total runtime: 0.15s; settling for: 0.005
+maxZ is: 0.424282
+frame : 29
+level of particles position ... 0.428955
+number of particles at this level ... 55
+Total num of particles: 2860
+Total runtime: 0.155s; settling for: 0.005
+maxZ is: 0.430955
+frame : 30
+level of particles position ... 0.435628
+number of particles at this level ... 55
+Total num of particles: 2915
+Total runtime: 0.16s; settling for: 0.005
+maxZ is: 0.437628
+frame : 31
+level of particles position ... 0.442301
+number of particles at this level ... 55
+Total num of particles: 2970
+Total runtime: 0.165s; settling for: 0.005
+maxZ is: 0.444301
+frame : 32
+level of particles position ... 0.448974
+number of particles at this level ... 55
+Total num of particles: 3025
+Total runtime: 0.17s; settling for: 0.005
+maxZ is: 0.450974
+frame : 33
+level of particles position ... 0.455647
+number of particles at this level ... 55
+Total num of particles: 3080
+Total runtime: 0.175s; settling for: 0.005
+maxZ is: 0.457647
+frame : 34
+level of particles position ... 0.46232
+number of particles at this level ... 55
+Total num of particles: 3135
+Total runtime: 0.18s; settling for: 0.005
+maxZ is: 0.46432
+frame : 35
+level of particles position ... 0.468993
+number of particles at this level ... 55
+Total num of particles: 3190
+Total runtime: 0.185s; settling for: 0.005
+maxZ is: 0.470993
+frame : 36
+level of particles position ... 0.475666
+number of particles at this level ... 55
+Total num of particles: 3245
+Total runtime: 0.19s; settling for: 0.005
+maxZ is: 0.477666
+frame : 37
+level of particles position ... 0.482339
+number of particles at this level ... 55
+Total num of particles: 3300
+Total runtime: 0.195s; settling for: 0.005
+maxZ is: 0.484339
+frame : 38
+level of particles position ... 0.489013
+number of particles at this level ... 55
+Total num of particles: 3355
+Total runtime: 0.2s; settling for: 0.005
+maxZ is: 0.491012
+frame : 39
+level of particles position ... 0.495686
+number of particles at this level ... 55
+Total num of particles: 3410
+Total runtime: 0.205s; settling for: 0.005
+maxZ is: 0.497686
+frame : 40
+level of particles position ... 0.502359
+number of particles at this level ... 55
+Total num of particles: 3465
+Total runtime: 0.21s; settling for: 0.005
+maxZ is: 0.504359
+frame : 41
+level of particles position ... 0.509032
+number of particles at this level ... 55
+Total num of particles: 3520
+Total runtime: 0.215s; settling for: 0.005
+maxZ is: 0.511032
+frame : 42
+level of particles position ... 0.515705
+number of particles at this level ... 55
+Total num of particles: 3575
+Total runtime: 0.22s; settling for: 0.005
+maxZ is: 0.517705
+frame : 43
+level of particles position ... 0.522378
+number of particles at this level ... 55
+Total num of particles: 3630
+Total runtime: 0.225s; settling for: 0.005
+maxZ is: 0.524378
+frame : 44
+level of particles position ... 0.529051
+number of particles at this level ... 55
+Total num of particles: 3685
+Total runtime: 0.23s; settling for: 0.005
+maxZ is: 0.531051
+frame : 45
+level of particles position ... 0.535724
+number of particles at this level ... 55
+Total num of particles: 3740
+Total runtime: 0.235s; settling for: 0.005
+maxZ is: 0.537724
+frame : 46
+level of particles position ... 0.542397
+number of particles at this level ... 55
+Total num of particles: 3795
+Total runtime: 0.24s; settling for: 0.005
+maxZ is: 0.544397
+frame : 47
+level of particles position ... 0.54907
+number of particles at this level ... 55
+Total num of particles: 3850
+Total runtime: 0.245s; settling for: 0.005
+maxZ is: 0.55107
+frame : 48
+level of particles position ... 0.555743
+number of particles at this level ... 55
+Total num of particles: 3905
+Total runtime: 0.25s; settling for: 0.005
+maxZ is: 0.557743
+frame : 49
+level of particles position ... 0.562417
+number of particles at this level ... 55
+Total num of particles: 3960
+Total runtime: 0.255s; settling for: 0.005
+maxZ is: 0.564417
+frame : 50
+level of particles position ... 0.56909
+number of particles at this level ... 55
+Total num of particles: 4015
+Total runtime: 0.26s; settling for: 0.005
+maxZ is: 0.57109
+frame : 51
+level of particles position ... 0.575763
+number of particles at this level ... 55
+Total num of particles: 4070
+Total runtime: 0.265s; settling for: 0.005
+maxZ is: 0.577763
+frame : 52
+level of particles position ... 0.582436
+number of particles at this level ... 55
+Total num of particles: 4125
+Total runtime: 0.27s; settling for: 0.005
+maxZ is: 0.584436
+frame : 53
+level of particles position ... 0.589109
+number of particles at this level ... 55
+Total num of particles: 4180
+Total runtime: 0.275s; settling for: 0.005
+maxZ is: 0.591109
+frame : 54
+level of particles position ... 0.595782
+number of particles at this level ... 55
+Total num of particles: 4235
+Total runtime: 0.28s; settling for: 0.005
+maxZ is: 0.597782
+frame : 55
+level of particles position ... 0.602455
+number of particles at this level ... 55
+Total num of particles: 4290
+Total runtime: 0.285s; settling for: 0.005
+maxZ is: 0.604455
+frame : 56
+Total runtime: 0.29s; settling for: 0.005
+maxZ is: 0.600328
+Total runtime: 0.295s; settling for: 0.005
+maxZ is: 0.595956
+level of particles position ... 0.600137
+number of particles at this level ... 55
+Total num of particles: 4345
+Total runtime: 0.3s; settling for: 0.005
+maxZ is: 0.602137
+frame : 57
+Total runtime: 0.305s; settling for: 0.005
+maxZ is: 0.59801
+level of particles position ... 0.602438
+number of particles at this level ... 55
+Total num of particles: 4400
+Total runtime: 0.31s; settling for: 0.005
+maxZ is: 0.604438
+frame : 58
+Total runtime: 0.315s; settling for: 0.005
+maxZ is: 0.600311
+Total runtime: 0.32s; settling for: 0.005
+maxZ is: 0.595938
+level of particles position ... 0.60012
+number of particles at this level ... 55
+Total num of particles: 4455
+Total runtime: 0.325s; settling for: 0.005
+maxZ is: 0.60212
+frame : 59
+Total runtime: 0.33s; settling for: 0.005
+maxZ is: 0.597993
+level of particles position ... 0.60242
+number of particles at this level ... 55
+Total num of particles: 4510
+Total runtime: 0.335s; settling for: 0.005
+maxZ is: 0.60442
+frame : 60
+Total runtime: 0.34s; settling for: 0.005
+maxZ is: 0.600293
+Total runtime: 0.345s; settling for: 0.005
+maxZ is: 0.595921
+level of particles position ... 0.600102
+number of particles at this level ... 55
+Total num of particles: 4565
+Total runtime: 0.35s; settling for: 0.005
+maxZ is: 0.602102
+frame : 61
+Total runtime: 0.355s; settling for: 0.005
+maxZ is: 0.597975
+level of particles position ... 0.602403
+number of particles at this level ... 55
+Total num of particles: 4620
+Total runtime: 0.36s; settling for: 0.005
+maxZ is: 0.604403
+frame : 62
+Total runtime: 0.365s; settling for: 0.005
+maxZ is: 0.600276
+Total runtime: 0.37s; settling for: 0.005
+maxZ is: 0.595903
+level of particles position ... 0.600085
+number of particles at this level ... 55
+Total num of particles: 4675
+Total runtime: 0.375s; settling for: 0.005
+maxZ is: 0.602085
+frame : 63
+Total runtime: 0.38s; settling for: 0.005
+maxZ is: 0.597958
+level of particles position ... 0.602385
+number of particles at this level ... 55
+Total num of particles: 4730
+Total runtime: 0.385s; settling for: 0.005
+maxZ is: 0.604385
+frame : 64
+Total runtime: 0.39s; settling for: 0.005
+maxZ is: 0.600258
+Total runtime: 0.395s; settling for: 0.005
+maxZ is: 0.595886
+level of particles position ... 0.600067
+number of particles at this level ... 55
+Total num of particles: 4785
+Total runtime: 0.4s; settling for: 0.005
+maxZ is: 0.602067
+frame : 65
+Total runtime: 0.405s; settling for: 0.005
+maxZ is: 0.59794
+level of particles position ... 0.602368
+number of particles at this level ... 55
+Total num of particles: 4840
+Total runtime: 0.41s; settling for: 0.005
+maxZ is: 0.604367
+frame : 66
+Total runtime: 0.415s; settling for: 0.005
+maxZ is: 0.600241
+Total runtime: 0.42s; settling for: 0.005
+maxZ is: 0.595868
+level of particles position ... 0.600049
+number of particles at this level ... 55
+Total num of particles: 4895
+Total runtime: 0.425s; settling for: 0.005
+maxZ is: 0.602049
+frame : 67
+Total runtime: 0.43s; settling for: 0.005
+maxZ is: 0.597923
+level of particles position ... 0.60235
+number of particles at this level ... 55
+Total num of particles: 4950
+Total runtime: 0.435s; settling for: 0.005
+maxZ is: 0.60435
+frame : 68
+Total runtime: 0.44s; settling for: 0.005
+maxZ is: 0.600223
+Total runtime: 0.445s; settling for: 0.005
+maxZ is: 0.59585
+level of particles position ... 0.600032
+number of particles at this level ... 55
+Total num of particles: 5005
+Total runtime: 0.45s; settling for: 0.005
+maxZ is: 0.602032
+frame : 69
+Total runtime: 0.455s; settling for: 0.005
+maxZ is: 0.597905
+level of particles position ... 0.602332
+number of particles at this level ... 55
+Total num of particles: 5060
+Total runtime: 0.46s; settling for: 0.005
+maxZ is: 0.604332
+frame : 70
+Total runtime: 0.465s; settling for: 0.005
+maxZ is: 0.600206
+Total runtime: 0.47s; settling for: 0.005
+maxZ is: 0.595833
+level of particles position ... 0.600014
+number of particles at this level ... 55
+Total num of particles: 5115
+Total runtime: 0.475s; settling for: 0.005
+maxZ is: 0.602014
+frame : 71
+Total runtime: 0.48s; settling for: 0.005
+maxZ is: 0.597888
+level of particles position ... 0.602315
+number of particles at this level ... 55
+Total num of particles: 5170
+Total runtime: 0.485s; settling for: 0.005
+maxZ is: 0.604315
+frame : 72
+Total runtime: 0.49s; settling for: 0.005
+maxZ is: 0.600188
+Total runtime: 0.495s; settling for: 0.005
+maxZ is: 0.595815
+level of particles position ... 0.599997
+number of particles at this level ... 55
+Total num of particles: 5225
+Total runtime: 0.5s; settling for: 0.005
+maxZ is: 0.601997
+frame : 73
+Total runtime: 0.505s; settling for: 0.005
+maxZ is: 0.59787
+level of particles position ... 0.602297
+number of particles at this level ... 55
+Total num of particles: 5280
+Total runtime: 0.51s; settling for: 0.005
+maxZ is: 0.604297
+frame : 74
+Total runtime: 0.515s; settling for: 0.005
+maxZ is: 0.60017
+Total runtime: 0.52s; settling for: 0.005
+maxZ is: 0.595798
+level of particles position ... 0.599979
+number of particles at this level ... 55
+Total num of particles: 5335
+Total runtime: 0.525s; settling for: 0.005
+maxZ is: 0.601979
+frame : 75
+Total runtime: 0.53s; settling for: 0.005
+maxZ is: 0.597852
+level of particles position ... 0.60228
+number of particles at this level ... 55
+Total num of particles: 5390
+Total runtime: 0.535s; settling for: 0.005
+maxZ is: 0.60428
+frame : 76
+Total runtime: 0.54s; settling for: 0.005
+maxZ is: 0.600153
+Total runtime: 0.545s; settling for: 0.005
+maxZ is: 0.59578
+level of particles position ... 0.599962
+number of particles at this level ... 55
+Total num of particles: 5445
+Total runtime: 0.55s; settling for: 0.005
+maxZ is: 0.601962
+frame : 77
+Total runtime: 0.555s; settling for: 0.005
+maxZ is: 0.597835
+level of particles position ... 0.602262
+number of particles at this level ... 55
+Total num of particles: 5500
+Total runtime: 0.56s; settling for: 0.005
+maxZ is: 0.604262
+frame : 78
+Total runtime: 0.565s; settling for: 0.005
+maxZ is: 0.600135
+Total runtime: 0.57s; settling for: 0.005
+maxZ is: 0.595763
+level of particles position ... 0.599944
+number of particles at this level ... 55
+Total num of particles: 5555
+Total runtime: 0.575s; settling for: 0.005
+maxZ is: 0.601944
+frame : 79
+Total runtime: 0.58s; settling for: 0.005
+maxZ is: 0.597817
+level of particles position ... 0.602245
+number of particles at this level ... 55
+Total num of particles: 5610
+Total runtime: 0.585s; settling for: 0.005
+maxZ is: 0.604245
+frame : 80
+Total runtime: 0.59s; settling for: 0.005
+maxZ is: 0.600118
+Total runtime: 0.595s; settling for: 0.005
+maxZ is: 0.595745
+level of particles position ... 0.599927
+number of particles at this level ... 55
+Total num of particles: 5665
+Total runtime: 0.6s; settling for: 0.005
+maxZ is: 0.601927
+frame : 81
+Total runtime: 0.605s; settling for: 0.005
+maxZ is: 0.5978
+level of particles position ... 0.602227
+number of particles at this level ... 55
+Total num of particles: 5720
+Total runtime: 0.61s; settling for: 0.005
+maxZ is: 0.604227
+frame : 82
+Total runtime: 0.615s; settling for: 0.005
+maxZ is: 0.6001
+Total runtime: 0.62s; settling for: 0.005
+maxZ is: 0.595728
+level of particles position ... 0.599909
+number of particles at this level ... 55
+Total num of particles: 5775
+Total runtime: 0.625s; settling for: 0.005
+maxZ is: 0.601909
+frame : 83
+Total runtime: 0.63s; settling for: 0.005
+maxZ is: 0.597782
+level of particles position ... 0.60221
+number of particles at this level ... 55
+Total num of particles: 5830
+Total runtime: 0.635s; settling for: 0.005
+maxZ is: 0.60421
+frame : 84
+Total runtime: 0.64s; settling for: 0.005
+maxZ is: 0.600083
+Total runtime: 0.645s; settling for: 0.005
+maxZ is: 0.59571
+level of particles position ... 0.599892
+number of particles at this level ... 55
+Total num of particles: 5885
+Total runtime: 0.65s; settling for: 0.005
+maxZ is: 0.601892
+frame : 85
+Total runtime: 0.655s; settling for: 0.005
+maxZ is: 0.597765
+level of particles position ... 0.602192
+number of particles at this level ... 55
+Total num of particles: 5940
+Total runtime: 0.66s; settling for: 0.005
+maxZ is: 0.604192
+frame : 86
+Total runtime: 0.665s; settling for: 0.005
+maxZ is: 0.600065
+Total runtime: 0.67s; settling for: 0.005
+maxZ is: 0.595693
+level of particles position ... 0.599874
+number of particles at this level ... 55
+Total num of particles: 5995
+Total runtime: 0.675s; settling for: 0.005
+maxZ is: 0.601874
+frame : 87
+Total runtime: 0.68s; settling for: 0.005
+maxZ is: 0.597747
+level of particles position ... 0.602175
+number of particles at this level ... 55
+Total num of particles: 6050
+Total runtime: 0.685s; settling for: 0.005
+maxZ is: 0.604175
+frame : 88
+Total runtime: 0.69s; settling for: 0.005
+maxZ is: 0.600048
+Total runtime: 0.695s; settling for: 0.005
+maxZ is: 0.595675
+level of particles position ... 0.599857
+number of particles at this level ... 55
+Total num of particles: 6105
+Total runtime: 0.7s; settling for: 0.005
+maxZ is: 0.601857
+frame : 89
+Total runtime: 0.705s; settling for: 0.005
+maxZ is: 0.59773
+level of particles position ... 0.602157
+number of particles at this level ... 55
+Total num of particles: 6160
+Total runtime: 0.71s; settling for: 0.005
+maxZ is: 0.604157
+frame : 90
+Total runtime: 0.714999s; settling for: 0.005
+maxZ is: 0.60003
+Total runtime: 0.719999s; settling for: 0.005
+maxZ is: 0.595658
+level of particles position ... 0.599839
+number of particles at this level ... 55
+Total num of particles: 6215
+Total runtime: 0.724999s; settling for: 0.005
+maxZ is: 0.601839
+frame : 91
+Total runtime: 0.729999s; settling for: 0.005
+maxZ is: 0.597712
+level of particles position ... 0.60214
+number of particles at this level ... 55
+Total num of particles: 6270
+Total runtime: 0.734999s; settling for: 0.005
+maxZ is: 0.60414
+frame : 92
+Total runtime: 0.739999s; settling for: 0.005
+maxZ is: 0.600013
+Total runtime: 0.744999s; settling for: 0.005
+maxZ is: 0.59564
+level of particles position ... 0.599822
+number of particles at this level ... 55
+Total num of particles: 6325
+Total runtime: 0.749999s; settling for: 0.005
+maxZ is: 0.601822
+frame : 93
+Total runtime: 0.754999s; settling for: 0.005
+maxZ is: 0.597695
+level of particles position ... 0.602122
+number of particles at this level ... 55
+Total num of particles: 6380
+Total runtime: 0.759999s; settling for: 0.005
+maxZ is: 0.604122
+frame : 94
+Total runtime: 0.764999s; settling for: 0.005
+maxZ is: 0.599995
+Total runtime: 0.769999s; settling for: 0.005
+maxZ is: 0.595623
+level of particles position ... 0.599804
+number of particles at this level ... 55
+Total num of particles: 6435
+Total runtime: 0.774999s; settling for: 0.005
+maxZ is: 0.601804
+frame : 95
+Total runtime: 0.779999s; settling for: 0.005
+maxZ is: 0.597677
+level of particles position ... 0.602105
+number of particles at this level ... 55
+Total num of particles: 6490
+Total runtime: 0.784999s; settling for: 0.005
+maxZ is: 0.604105
+frame : 96
+Total runtime: 0.789999s; settling for: 0.005
+maxZ is: 0.599978
+Total runtime: 0.794999s; settling for: 0.005
+maxZ is: 0.595605
+level of particles position ... 0.599787
+number of particles at this level ... 55
+Total num of particles: 6545
+Total runtime: 0.799999s; settling for: 0.005
+maxZ is: 0.601787
+frame : 97
+Total runtime: 0.804999s; settling for: 0.005
+maxZ is: 0.59766
+level of particles position ... 0.602087
+number of particles at this level ... 55
+Total num of particles: 6600
+Total runtime: 0.809999s; settling for: 0.005
+maxZ is: 0.604087
+frame : 98
+Total runtime: 0.814999s; settling for: 0.005
+maxZ is: 0.59996
+level of particles position ... 0.604388
+number of particles at this level ... 55
+Total num of particles: 6655
+Total runtime: 0.819999s; settling for: 0.005
+maxZ is: 0.606388
+frame : 99
+Total runtime: 0.824999s; settling for: 0.005
+maxZ is: 0.602261
+Total runtime: 0.829999s; settling for: 0.005
+maxZ is: 0.597888
+level of particles position ... 0.60207
+number of particles at this level ... 55
+Total num of particles: 6710
+Total runtime: 0.834999s; settling for: 0.005
+maxZ is: 0.60407
+frame : 100
+Total runtime: 0.839999s; settling for: 0.005
+maxZ is: 0.599943
+level of particles position ... 0.60437
+number of particles at this level ... 55
+Total num of particles: 6765
+Total runtime: 0.844999s; settling for: 0.005
+maxZ is: 0.60637
+frame : 101
+Total runtime: 0.849999s; settling for: 0.005
+maxZ is: 0.602243
+Total runtime: 0.854999s; settling for: 0.005
+maxZ is: 0.597871
+level of particles position ... 0.602052
+number of particles at this level ... 55
+Total num of particles: 6820
+Total runtime: 0.859999s; settling for: 0.005
+maxZ is: 0.604052
+frame : 102
+Total runtime: 0.864999s; settling for: 0.005
+maxZ is: 0.599925
+level of particles position ... 0.604353
+number of particles at this level ... 55
+Total num of particles: 6875
+Total runtime: 0.869999s; settling for: 0.005
+maxZ is: 0.606353
+frame : 103
+Total runtime: 0.874999s; settling for: 0.005
+maxZ is: 0.602226
+Total runtime: 0.879999s; settling for: 0.005
+maxZ is: 0.597853
+level of particles position ... 0.602035
+number of particles at this level ... 55
+Total num of particles: 6930
+Total runtime: 0.884999s; settling for: 0.005
+maxZ is: 0.604035
+frame : 104
+Total runtime: 0.889999s; settling for: 0.005
+maxZ is: 0.599908
+level of particles position ... 0.604335
+number of particles at this level ... 55
+Total num of particles: 6985
+Total runtime: 0.894999s; settling for: 0.005
+maxZ is: 0.606335
+frame : 105
+Total runtime: 0.899999s; settling for: 0.005
+maxZ is: 0.602208
+Total runtime: 0.904999s; settling for: 0.005
+maxZ is: 0.597836
+level of particles position ... 0.602017
+number of particles at this level ... 55
+Total num of particles: 7040
+Total runtime: 0.909999s; settling for: 0.005
+maxZ is: 0.604017
+frame : 106
+Total runtime: 0.914999s; settling for: 0.005
+maxZ is: 0.59989
+level of particles position ... 0.604318
+number of particles at this level ... 55
+Total num of particles: 7095
+Total runtime: 0.919999s; settling for: 0.005
+maxZ is: 0.606318
+frame : 107
+Total runtime: 0.924999s; settling for: 0.005
+maxZ is: 0.602191
+Total runtime: 0.929999s; settling for: 0.005
+maxZ is: 0.597818
+level of particles position ... 0.602
+number of particles at this level ... 55
+Total num of particles: 7150
+Total runtime: 0.934999s; settling for: 0.005
+maxZ is: 0.603999
+frame : 108
+Total runtime: 0.939999s; settling for: 0.005
+maxZ is: 0.599873
+level of particles position ... 0.6043
+number of particles at this level ... 55
+Total num of particles: 7205
+Total runtime: 0.944999s; settling for: 0.005
+maxZ is: 0.6063
+frame : 109
+Total runtime: 0.949999s; settling for: 0.005
+maxZ is: 0.602173
+Total runtime: 0.954999s; settling for: 0.005
+maxZ is: 0.5978
+level of particles position ... 0.601982
+number of particles at this level ... 55
+Total num of particles: 7260
+Total runtime: 0.959999s; settling for: 0.005
+maxZ is: 0.603982
+frame : 110
+Total runtime: 0.964999s; settling for: 0.005
+maxZ is: 0.599855
+level of particles position ... 0.604282
+number of particles at this level ... 55
+Total num of particles: 7315
+Total runtime: 0.969999s; settling for: 0.005
+maxZ is: 0.606282
+frame : 111
+Total runtime: 0.974999s; settling for: 0.005
+maxZ is: 0.602156
+Total runtime: 0.979999s; settling for: 0.005
+maxZ is: 0.597783
+level of particles position ... 0.601964
+number of particles at this level ... 55
+Total num of particles: 7370
+Total runtime: 0.984999s; settling for: 0.005
+maxZ is: 0.603964
+frame : 112
+Total runtime: 0.989999s; settling for: 0.005
+maxZ is: 0.599838
+level of particles position ... 0.604265
+number of particles at this level ... 55
+Total num of particles: 7425
+Total runtime: 0.994999s; settling for: 0.005
+maxZ is: 0.606265
+frame : 113
+Total runtime: 0.999999s; settling for: 0.005
+maxZ is: 0.602138
+Total runtime: 1.005s; settling for: 0.005
+maxZ is: 0.597765
+level of particles position ... 0.601947
+number of particles at this level ... 55
+Total num of particles: 7480
+Total runtime: 1.01s; settling for: 0.005
+maxZ is: 0.603947
+frame : 114
+Total runtime: 1.015s; settling for: 0.005
+maxZ is: 0.59982
+level of particles position ... 0.604247
+number of particles at this level ... 55
+Total num of particles: 7535
+Total runtime: 1.02s; settling for: 0.005
+maxZ is: 0.606247
+frame : 115
+Total runtime: 1.025s; settling for: 0.005
+maxZ is: 0.602121
+Total runtime: 1.03s; settling for: 0.005
+maxZ is: 0.597748
+level of particles position ... 0.601929
+number of particles at this level ... 55
+Total num of particles: 7590
+Total runtime: 1.035s; settling for: 0.005
+maxZ is: 0.603929
+frame : 116
+Total runtime: 1.04s; settling for: 0.005
+maxZ is: 0.599802
+level of particles position ... 0.60423
+number of particles at this level ... 55
+Total num of particles: 7645
+Total runtime: 1.045s; settling for: 0.005
+maxZ is: 0.60623
+frame : 117
+Total runtime: 1.05s; settling for: 0.005
+maxZ is: 0.602103
+Total runtime: 1.055s; settling for: 0.005
+maxZ is: 0.59773
+level of particles position ... 0.601912
+number of particles at this level ... 55
+Total num of particles: 7700
+Total runtime: 1.06s; settling for: 0.005
+maxZ is: 0.603912
+frame : 118
+Total runtime: 1.065s; settling for: 0.005
+maxZ is: 0.599785
+level of particles position ... 0.604212
+number of particles at this level ... 55
+Total num of particles: 7755
+Total runtime: 1.07s; settling for: 0.005
+maxZ is: 0.606212
+frame : 119
+Total runtime: 1.075s; settling for: 0.005
+maxZ is: 0.602085
+Total runtime: 1.08s; settling for: 0.005
+maxZ is: 0.597713
+level of particles position ... 0.601894
+number of particles at this level ... 55
+Total num of particles: 7810
+Total runtime: 1.085s; settling for: 0.005
+maxZ is: 0.603894
+frame : 120
+Total runtime: 1.09s; settling for: 0.005
+maxZ is: 0.599767
+level of particles position ... 0.604195
+number of particles at this level ... 55
+Total num of particles: 7865
+Total runtime: 1.095s; settling for: 0.005
+maxZ is: 0.606195
+frame : 121
+Total runtime: 1.1s; settling for: 0.005
+maxZ is: 0.602068
+Total runtime: 1.105s; settling for: 0.005
+maxZ is: 0.597695
+level of particles position ... 0.601877
+number of particles at this level ... 55
+Total num of particles: 7920
+Total runtime: 1.11s; settling for: 0.005
+maxZ is: 0.603877
+frame : 122
+Total runtime: 1.115s; settling for: 0.005
+maxZ is: 0.59975
+level of particles position ... 0.604177
+number of particles at this level ... 55
+Total num of particles: 7975
+Total runtime: 1.12s; settling for: 0.005
+maxZ is: 0.606177
+frame : 123
+Total runtime: 1.125s; settling for: 0.005
+maxZ is: 0.60205
+Total runtime: 1.13s; settling for: 0.005
+maxZ is: 0.597678
+level of particles position ... 0.601859
+number of particles at this level ... 55
+Total num of particles: 8030
+Total runtime: 1.135s; settling for: 0.005
+maxZ is: 0.603859
+frame : 124
+Total runtime: 1.14s; settling for: 0.005
+maxZ is: 0.599732
+level of particles position ... 0.60416
+number of particles at this level ... 55
+Total num of particles: 8085
+Total runtime: 1.145s; settling for: 0.005
+maxZ is: 0.60616
+frame : 125
+Total runtime: 1.15s; settling for: 0.005
+maxZ is: 0.602033
+Total runtime: 1.155s; settling for: 0.005
+maxZ is: 0.59766
+level of particles position ... 0.601842
+number of particles at this level ... 55
+Total num of particles: 8140
+Total runtime: 1.16s; settling for: 0.005
+maxZ is: 0.603842
+frame : 126
+Total runtime: 1.165s; settling for: 0.005
+maxZ is: 0.599715
+level of particles position ... 0.604142
+number of particles at this level ... 55
+Total num of particles: 8195
+Total runtime: 1.17s; settling for: 0.005
+maxZ is: 0.606142
+frame : 127
+Total runtime: 1.175s; settling for: 0.005
+maxZ is: 0.602015
+Total runtime: 1.18s; settling for: 0.005
+maxZ is: 0.597643
+level of particles position ... 0.601824
+number of particles at this level ... 55
+Total num of particles: 8250
+Total runtime: 1.185s; settling for: 0.005
+maxZ is: 0.603824
+frame : 128
+Total runtime: 1.19s; settling for: 0.005
+maxZ is: 0.599697
+level of particles position ... 0.604125
+number of particles at this level ... 55
+Total num of particles: 8305
+Total runtime: 1.195s; settling for: 0.005
+maxZ is: 0.606125
+frame : 129
+Total runtime: 1.2s; settling for: 0.005
+maxZ is: 0.601998
+Total runtime: 1.205s; settling for: 0.005
+maxZ is: 0.597625
+level of particles position ... 0.601807
+number of particles at this level ... 55
+Total num of particles: 8360
+Total runtime: 1.21s; settling for: 0.005
+maxZ is: 0.603807
+frame : 130
+Total runtime: 1.215s; settling for: 0.005
+maxZ is: 0.59968
+level of particles position ... 0.604107
+number of particles at this level ... 55
+Total num of particles: 8415
+Total runtime: 1.22s; settling for: 0.005
+maxZ is: 0.606107
+frame : 131
+Total runtime: 1.225s; settling for: 0.005
+maxZ is: 0.60198
+Total runtime: 1.23s; settling for: 0.005
+maxZ is: 0.597608
+level of particles position ... 0.601789
+number of particles at this level ... 55
+Total num of particles: 8470
+Total runtime: 1.235s; settling for: 0.005
+maxZ is: 0.603789
+frame : 132
+Total runtime: 1.24s; settling for: 0.005
+maxZ is: 0.599662
+level of particles position ... 0.60409
+number of particles at this level ... 55
+Total num of particles: 8525
+Total runtime: 1.245s; settling for: 0.005
+maxZ is: 0.60609
+frame : 133
+Total runtime: 1.25s; settling for: 0.005
+maxZ is: 0.601963
+Total runtime: 1.255s; settling for: 0.005
+maxZ is: 0.59759
+level of particles position ... 0.601772
+number of particles at this level ... 55
+Total num of particles: 8580
+Total runtime: 1.26s; settling for: 0.005
+maxZ is: 0.603772
+frame : 134
+Total runtime: 1.265s; settling for: 0.005
+maxZ is: 0.599645
+level of particles position ... 0.604072
+number of particles at this level ... 55
+Total num of particles: 8635
+Total runtime: 1.27s; settling for: 0.005
+maxZ is: 0.606072
+frame : 135
+Total runtime: 1.275s; settling for: 0.005
+maxZ is: 0.601945
+Total runtime: 1.28s; settling for: 0.005
+maxZ is: 0.597573
+level of particles position ... 0.601754
+number of particles at this level ... 55
+Total num of particles: 8690
+Total runtime: 1.285s; settling for: 0.005
+maxZ is: 0.603754
+frame : 136
+Total runtime: 1.29s; settling for: 0.005
+maxZ is: 0.599627
+level of particles position ... 0.604055
+number of particles at this level ... 55
+Total num of particles: 8745
+Total runtime: 1.295s; settling for: 0.005
+maxZ is: 0.606055
+frame : 137
+Total runtime: 1.3s; settling for: 0.005
+maxZ is: 0.601928
+Total runtime: 1.305s; settling for: 0.005
+maxZ is: 0.597555
+level of particles position ... 0.601737
+number of particles at this level ... 55
+Total num of particles: 8800
+Total runtime: 1.31s; settling for: 0.005
+maxZ is: 0.603737
+frame : 138
+Total runtime: 1.315s; settling for: 0.005
+maxZ is: 0.59961
+level of particles position ... 0.604037
+number of particles at this level ... 55
+Total num of particles: 8855
+Total runtime: 1.32s; settling for: 0.005
+maxZ is: 0.606037
+frame : 139
+Total runtime: 1.325s; settling for: 0.005
+maxZ is: 0.60191
+Total runtime: 1.33s; settling for: 0.005
+maxZ is: 0.597538
+level of particles position ... 0.601719
+number of particles at this level ... 55
+Total num of particles: 8910
+Total runtime: 1.335s; settling for: 0.005
+maxZ is: 0.603719
+frame : 140
+Total runtime: 1.34s; settling for: 0.005
+maxZ is: 0.599592
+level of particles position ... 0.60402
+number of particles at this level ... 55
+Total num of particles: 8965
+Total runtime: 1.345s; settling for: 0.005
+maxZ is: 0.60602
+frame : 141
+Total runtime: 1.35s; settling for: 0.005
+maxZ is: 0.601893
+Total runtime: 1.355s; settling for: 0.005
+maxZ is: 0.59752
+level of particles position ... 0.601702
+number of particles at this level ... 55
+Total num of particles: 9020
+Total runtime: 1.36s; settling for: 0.005
+maxZ is: 0.603702
+frame : 142
+Total runtime: 1.365s; settling for: 0.005
+maxZ is: 0.599575
+level of particles position ... 0.604002
+number of particles at this level ... 55
+Total num of particles: 9075
+Total runtime: 1.37s; settling for: 0.005
+maxZ is: 0.606002
+frame : 143
+Total runtime: 1.375s; settling for: 0.005
+maxZ is: 0.601875
+Total runtime: 1.38s; settling for: 0.005
+maxZ is: 0.597503
+level of particles position ... 0.601684
+number of particles at this level ... 55
+Total num of particles: 9130
+Total runtime: 1.385s; settling for: 0.005
+maxZ is: 0.603684
+frame : 144
+Total runtime: 1.39s; settling for: 0.005
+maxZ is: 0.599557
+level of particles position ... 0.603985
+number of particles at this level ... 55
+Total num of particles: 9185
+Total runtime: 1.395s; settling for: 0.005
+maxZ is: 0.605985
+frame : 145
+Total runtime: 1.4s; settling for: 0.005
+maxZ is: 0.601858
+Total runtime: 1.405s; settling for: 0.005
+maxZ is: 0.597485
+level of particles position ... 0.601667
+number of particles at this level ... 55
+Total num of particles: 9240
+Total runtime: 1.41s; settling for: 0.005
+maxZ is: 0.603667
+frame : 146
+Total runtime: 1.415s; settling for: 0.005
+maxZ is: 0.59954
+level of particles position ... 0.603967
+number of particles at this level ... 55
+Total num of particles: 9295
+Total runtime: 1.42s; settling for: 0.005
+maxZ is: 0.605967
+frame : 147
+Total runtime: 1.425s; settling for: 0.005
+maxZ is: 0.60184
+Total runtime: 1.43s; settling for: 0.005
+maxZ is: 0.597468
+level of particles position ... 0.601649
+number of particles at this level ... 55
+Total num of particles: 9350
+Total runtime: 1.435s; settling for: 0.005
+maxZ is: 0.603649
+frame : 148
+Total runtime: 1.44s; settling for: 0.005
+maxZ is: 0.599522
+level of particles position ... 0.60395
+number of particles at this level ... 55
+Total num of particles: 9405
+Total runtime: 1.445s; settling for: 0.005
+maxZ is: 0.60595
+frame : 149
+Total runtime: 1.45s; settling for: 0.005
+maxZ is: 0.601823
+Total runtime: 1.455s; settling for: 0.005
+maxZ is: 0.59745
+level of particles position ... 0.601632
+number of particles at this level ... 55
+Total num of particles: 9460
+Total runtime: 1.46s; settling for: 0.005
+maxZ is: 0.603631
+frame : 150
+Total runtime: 1.465s; settling for: 0.005
+maxZ is: 0.599505
+level of particles position ... 0.603932
+number of particles at this level ... 55
+Total num of particles: 9515
+Total runtime: 1.47s; settling for: 0.005
+maxZ is: 0.605932
+frame : 151
+Total runtime: 1.475s; settling for: 0.005
+maxZ is: 0.601805
+Total runtime: 1.48s; settling for: 0.005
+maxZ is: 0.597432
+level of particles position ... 0.601614
+number of particles at this level ... 55
+Total num of particles: 9570
+Total runtime: 1.485s; settling for: 0.005
+maxZ is: 0.603614
+frame : 152
+Total runtime: 1.49s; settling for: 0.005
+maxZ is: 0.599487
+level of particles position ... 0.603914
+number of particles at this level ... 55
+Total num of particles: 9625
+Total runtime: 1.495s; settling for: 0.005
+maxZ is: 0.605914
+frame : 153
+Total runtime: 1.5s; settling for: 0.005
+maxZ is: 0.601788
+Total runtime: 1.505s; settling for: 0.005
+maxZ is: 0.597415
+level of particles position ... 0.601596
+number of particles at this level ... 55
+Total num of particles: 9680
+Total runtime: 1.51s; settling for: 0.005
+maxZ is: 0.603596
+frame : 154
+Total runtime: 1.515s; settling for: 0.005
+maxZ is: 0.59947
+level of particles position ... 0.603897
+number of particles at this level ... 55
+Total num of particles: 9735
+Total runtime: 1.52s; settling for: 0.005
+maxZ is: 0.605897
+frame : 155
+Total runtime: 1.525s; settling for: 0.005
+maxZ is: 0.60177
+Total runtime: 1.53s; settling for: 0.005
+maxZ is: 0.597397
+level of particles position ... 0.601579
+number of particles at this level ... 55
+Total num of particles: 9790
+Total runtime: 1.535s; settling for: 0.005
+maxZ is: 0.603579
+frame : 156
+Total runtime: 1.54s; settling for: 0.005
+maxZ is: 0.599452
+level of particles position ... 0.603879
+number of particles at this level ... 55
+Total num of particles: 9845
+Total runtime: 1.545s; settling for: 0.005
+maxZ is: 0.605879
+frame : 157
+Total runtime: 1.55s; settling for: 0.005
+maxZ is: 0.601753
+Total runtime: 1.555s; settling for: 0.005
+maxZ is: 0.59738
+level of particles position ... 0.601561
+number of particles at this level ... 55
+Total num of particles: 9900
+Total runtime: 1.56s; settling for: 0.005
+maxZ is: 0.603561
+frame : 158
+Total runtime: 1.565s; settling for: 0.005
+maxZ is: 0.599434
+level of particles position ... 0.603862
+number of particles at this level ... 55
+Total num of particles: 9955
+Total runtime: 1.57s; settling for: 0.005
+maxZ is: 0.605862
+frame : 159
+Total runtime: 1.575s; settling for: 0.005
+maxZ is: 0.601735
+Total runtime: 1.58s; settling for: 0.005
+maxZ is: 0.597362
+level of particles position ... 0.601544
+number of particles at this level ... 55
+Total num of particles: 10010
+Total runtime: 1.585s; settling for: 0.005
+maxZ is: 0.603544
+frame : 160
+Total runtime: 1.59s; settling for: 0.005
+maxZ is: 0.599417
+level of particles position ... 0.603844
+number of particles at this level ... 55
+Total num of particles: 10065
+Total runtime: 1.595s; settling for: 0.005
+maxZ is: 0.605844
+frame : 161
+Total runtime: 1.6s; settling for: 0.005
+maxZ is: 0.601717
+Total runtime: 1.605s; settling for: 0.005
+maxZ is: 0.597345
+level of particles position ... 0.601526
+number of particles at this level ... 55
+Total num of particles: 10120
+Total runtime: 1.61s; settling for: 0.005
+maxZ is: 0.603526
+frame : 162
+Total runtime: 1.615s; settling for: 0.005
+maxZ is: 0.599399
+level of particles position ... 0.603827
+number of particles at this level ... 55
+Total num of particles: 10175
+Total runtime: 1.62s; settling for: 0.005
+maxZ is: 0.605827
+frame : 163
+Total runtime: 1.625s; settling for: 0.005
+maxZ is: 0.6017
+Total runtime: 1.63s; settling for: 0.005
+maxZ is: 0.597327
+level of particles position ... 0.601509
+number of particles at this level ... 55
+Total num of particles: 10230
+Total runtime: 1.635s; settling for: 0.005
+maxZ is: 0.603509
+frame : 164
+Total runtime: 1.64s; settling for: 0.005
+maxZ is: 0.599382
+level of particles position ... 0.603809
+number of particles at this level ... 55
+Total num of particles: 10285
+Total runtime: 1.645s; settling for: 0.005
+maxZ is: 0.605809
+frame : 165
+Total runtime: 1.65s; settling for: 0.005
+maxZ is: 0.601682
+Total runtime: 1.655s; settling for: 0.005
+maxZ is: 0.59731
+level of particles position ... 0.601491
+number of particles at this level ... 55
+Total num of particles: 10340
+Total runtime: 1.66s; settling for: 0.005
+maxZ is: 0.603491
+frame : 166
+Total runtime: 1.665s; settling for: 0.005
+maxZ is: 0.599364
+level of particles position ... 0.603792
+number of particles at this level ... 55
+Total num of particles: 10395
+Total runtime: 1.67s; settling for: 0.005
+maxZ is: 0.605792
+frame : 167
+Total runtime: 1.675s; settling for: 0.005
+maxZ is: 0.601665
+Total runtime: 1.68s; settling for: 0.005
+maxZ is: 0.597292
+level of particles position ... 0.601474
+number of particles at this level ... 55
+Total num of particles: 10450
+Total runtime: 1.685s; settling for: 0.005
+maxZ is: 0.603474
+frame : 168
+Total runtime: 1.69s; settling for: 0.005
+maxZ is: 0.599347
+level of particles position ... 0.603774
+number of particles at this level ... 55
+Total num of particles: 10505
+Total runtime: 1.695s; settling for: 0.005
+maxZ is: 0.605774
+frame : 169
+consolidating for 0s 
+consolidating for 0.005s 
+consolidating for 0.01s 
+consolidating for 0.015s 
+consolidating for 0.02s 
+consolidating for 0.025s 
+consolidating for 0.03s 
+consolidating for 0.035s 
+consolidating for 0.04s 
+consolidating for 0.045s 
+consolidating for 0.05s 
+consolidating for 0.055s 
+consolidating for 0.06s 
+consolidating for 0.065s 
+consolidating for 0.07s 
+consolidating for 0.075s 
+consolidating for 0.08s 
+consolidating for 0.085s 
+consolidating for 0.09s 
+consolidating for 0.095s 
+consolidating for 0.1s 
+consolidating for 0.105s 
+consolidating for 0.11s 
+consolidating for 0.115s 
+consolidating for 0.12s 
+consolidating for 0.125s 
+consolidating for 0.13s 
+consolidating for 0.135s 
+consolidating for 0.14s 
+consolidating for 0.145s 
+consolidating for 0.15s 
+consolidating for 0.155s 
+consolidating for 0.16s 
+consolidating for 0.165s 
+consolidating for 0.17s 
+consolidating for 0.175s 
+consolidating for 0.18s 
+consolidating for 0.185s 
+consolidating for 0.19s 
+consolidating for 0.195s 
+consolidating for 0.2s 
+consolidating for 0.205s 
+consolidating for 0.21s 
+consolidating for 0.215s 
+consolidating for 0.22s 
+consolidating for 0.225s 
+consolidating for 0.23s 
+consolidating for 0.235s 
+consolidating for 0.24s 
+consolidating for 0.245s 
+consolidating for 0.25s 
+consolidating for 0.255s 
+consolidating for 0.26s 
+consolidating for 0.265s 
+consolidating for 0.27s 
+consolidating for 0.275s 
+consolidating for 0.28s 
+consolidating for 0.285s 
+consolidating for 0.29s 
+consolidating for 0.295s 
+Total runtime: 1.7s; settling for: 0.005
+maxZ is: 0.207475
+level of particles position ... 0.214466
+number of particles at this level ... 128
+Total num of particles: 10633
+Total runtime: 1.705s; settling for: 0.005
+maxZ is: 0.217466
+frame : 170
+level of particles position ... 0.219345
+number of particles at this level ... 128
+Total num of particles: 10761
+Total runtime: 1.71s; settling for: 0.005
+maxZ is: 0.222345
+frame : 171
+level of particles position ... 0.224218
+number of particles at this level ... 128
+Total num of particles: 10889
+Total runtime: 1.715s; settling for: 0.005
+maxZ is: 0.227218
+frame : 172
+level of particles position ... 0.229091
+number of particles at this level ... 128
+Total num of particles: 11017
+Total runtime: 1.72s; settling for: 0.005
+maxZ is: 0.232091
+frame : 173
+level of particles position ... 0.233964
+number of particles at this level ... 128
+Total num of particles: 11145
+Total runtime: 1.725s; settling for: 0.005
+maxZ is: 0.236964
+frame : 174
+level of particles position ... 0.238837
+number of particles at this level ... 128
+Total num of particles: 11273
+Total runtime: 1.73s; settling for: 0.005
+maxZ is: 0.241837
+frame : 175
+level of particles position ... 0.243711
+number of particles at this level ... 128
+Total num of particles: 11401
+Total runtime: 1.735s; settling for: 0.005
+maxZ is: 0.246711
+frame : 176
+level of particles position ... 0.248584
+number of particles at this level ... 128
+Total num of particles: 11529
+Total runtime: 1.74s; settling for: 0.005
+maxZ is: 0.251584
+frame : 177
+level of particles position ... 0.253457
+number of particles at this level ... 128
+Total num of particles: 11657
+Total runtime: 1.745s; settling for: 0.005
+maxZ is: 0.256457
+frame : 178
+level of particles position ... 0.25833
+number of particles at this level ... 128
+Total num of particles: 11785
+Total runtime: 1.75s; settling for: 0.005
+maxZ is: 0.26133
+frame : 179
+level of particles position ... 0.263203
+number of particles at this level ... 128
+Total num of particles: 11913
+Total runtime: 1.755s; settling for: 0.005
+maxZ is: 0.266203
+frame : 180
+level of particles position ... 0.268076
+number of particles at this level ... 128
+Total num of particles: 12041
+Total runtime: 1.76s; settling for: 0.005
+maxZ is: 0.271076
+frame : 181
+level of particles position ... 0.27295
+number of particles at this level ... 128
+Total num of particles: 12169
+Total runtime: 1.765s; settling for: 0.005
+maxZ is: 0.27595
+frame : 182
+level of particles position ... 0.277823
+number of particles at this level ... 128
+Total num of particles: 12297
+Total runtime: 1.77s; settling for: 0.005
+maxZ is: 0.280823
+frame : 183
+level of particles position ... 0.282696
+number of particles at this level ... 128
+Total num of particles: 12425
+Total runtime: 1.775s; settling for: 0.005
+maxZ is: 0.285696
+frame : 184
+level of particles position ... 0.287569
+number of particles at this level ... 128
+Total num of particles: 12553
+Total runtime: 1.78s; settling for: 0.005
+maxZ is: 0.290569
+frame : 185
+level of particles position ... 0.292442
+number of particles at this level ... 128
+Total num of particles: 12681
+Total runtime: 1.785s; settling for: 0.005
+maxZ is: 0.295442
+frame : 186
+level of particles position ... 0.297315
+number of particles at this level ... 128
+Total num of particles: 12809
+Total runtime: 1.79s; settling for: 0.005
+maxZ is: 0.300315
+frame : 187
+level of particles position ... 0.302188
+number of particles at this level ... 128
+Total num of particles: 12937
+Total runtime: 1.795s; settling for: 0.005
+maxZ is: 0.305189
+frame : 188
+level of particles position ... 0.307062
+number of particles at this level ... 128
+Total num of particles: 13065
+Total runtime: 1.8s; settling for: 0.005
+maxZ is: 0.310062
+frame : 189
+level of particles position ... 0.311935
+number of particles at this level ... 128
+Total num of particles: 13193
+Total runtime: 1.805s; settling for: 0.005
+maxZ is: 0.314935
+frame : 190
+level of particles position ... 0.316808
+number of particles at this level ... 128
+Total num of particles: 13321
+Total runtime: 1.81s; settling for: 0.005
+maxZ is: 0.319808
+frame : 191
+level of particles position ... 0.321681
+number of particles at this level ... 128
+Total num of particles: 13449
+Total runtime: 1.815s; settling for: 0.005
+maxZ is: 0.324681
+frame : 192
+level of particles position ... 0.326554
+number of particles at this level ... 128
+Total num of particles: 13577
+Total runtime: 1.82s; settling for: 0.005
+maxZ is: 0.329554
+frame : 193
+level of particles position ... 0.331427
+number of particles at this level ... 128
+Total num of particles: 13705
+Total runtime: 1.825s; settling for: 0.005
+maxZ is: 0.334427
+frame : 194
+level of particles position ... 0.336301
+number of particles at this level ... 128
+Total num of particles: 13833
+Total runtime: 1.83s; settling for: 0.005
+maxZ is: 0.339301
+frame : 195
+level of particles position ... 0.341174
+number of particles at this level ... 128
+Total num of particles: 13961
+Total runtime: 1.835s; settling for: 0.005
+maxZ is: 0.344174
+frame : 196
+level of particles position ... 0.346047
+number of particles at this level ... 128
+Total num of particles: 14089
+Total runtime: 1.84s; settling for: 0.005
+maxZ is: 0.349047
+frame : 197
+level of particles position ... 0.35092
+number of particles at this level ... 128
+Total num of particles: 14217
+Total runtime: 1.845s; settling for: 0.005
+maxZ is: 0.35392
+frame : 198
+level of particles position ... 0.355793
+number of particles at this level ... 128
+Total num of particles: 14345
+Total runtime: 1.85s; settling for: 0.005
+maxZ is: 0.358793
+frame : 199
+level of particles position ... 0.360666
+number of particles at this level ... 128
+Total num of particles: 14473
+Total runtime: 1.855s; settling for: 0.005
+maxZ is: 0.363666
+frame : 200
+level of particles position ... 0.36554
+number of particles at this level ... 128
+Total num of particles: 14601
+Total runtime: 1.86s; settling for: 0.005
+maxZ is: 0.36854
+frame : 201
+level of particles position ... 0.370413
+number of particles at this level ... 128
+Total num of particles: 14729
+Total runtime: 1.865s; settling for: 0.005
+maxZ is: 0.373413
+frame : 202
+level of particles position ... 0.375286
+number of particles at this level ... 128
+Total num of particles: 14857
+Total runtime: 1.87s; settling for: 0.005
+maxZ is: 0.378286
+frame : 203
+level of particles position ... 0.380159
+number of particles at this level ... 128
+Total num of particles: 14985
+Total runtime: 1.875s; settling for: 0.005
+maxZ is: 0.383159
+frame : 204
+level of particles position ... 0.385032
+number of particles at this level ... 128
+Total num of particles: 15113
+Total runtime: 1.88s; settling for: 0.005
+maxZ is: 0.388032
+frame : 205
+level of particles position ... 0.389905
+number of particles at this level ... 128
+Total num of particles: 15241
+Total runtime: 1.885s; settling for: 0.005
+maxZ is: 0.392905
+frame : 206
+level of particles position ... 0.394778
+number of particles at this level ... 128
+Total num of particles: 15369
+Total runtime: 1.89s; settling for: 0.005
+maxZ is: 0.397778
+frame : 207
+level of particles position ... 0.399652
+number of particles at this level ... 128
+Total num of particles: 15497
+Total runtime: 1.895s; settling for: 0.005
+maxZ is: 0.402652
+frame : 208
+level of particles position ... 0.404525
+number of particles at this level ... 128
+Total num of particles: 15625
+Total runtime: 1.9s; settling for: 0.005
+maxZ is: 0.407525
+frame : 209
+level of particles position ... 0.409398
+number of particles at this level ... 128
+Total num of particles: 15753
+Total runtime: 1.905s; settling for: 0.005
+maxZ is: 0.412398
+frame : 210
+level of particles position ... 0.414271
+number of particles at this level ... 128
+Total num of particles: 15881
+Total runtime: 1.91s; settling for: 0.005
+maxZ is: 0.417271
+frame : 211
+level of particles position ... 0.419144
+number of particles at this level ... 128
+Total num of particles: 16009
+Total runtime: 1.915s; settling for: 0.005
+maxZ is: 0.422144
+frame : 212
+level of particles position ... 0.424017
+number of particles at this level ... 128
+Total num of particles: 16137
+Total runtime: 1.92s; settling for: 0.005
+maxZ is: 0.427017
+frame : 213
+level of particles position ... 0.428891
+number of particles at this level ... 128
+Total num of particles: 16265
+Total runtime: 1.925s; settling for: 0.005
+maxZ is: 0.431891
+frame : 214
+level of particles position ... 0.433764
+number of particles at this level ... 128
+Total num of particles: 16393
+Total runtime: 1.93s; settling for: 0.005
+maxZ is: 0.436764
+frame : 215
+level of particles position ... 0.438637
+number of particles at this level ... 128
+Total num of particles: 16521
+Total runtime: 1.935s; settling for: 0.005
+maxZ is: 0.441637
+frame : 216
+level of particles position ... 0.44351
+number of particles at this level ... 128
+Total num of particles: 16649
+Total runtime: 1.94s; settling for: 0.005
+maxZ is: 0.44651
+frame : 217
+level of particles position ... 0.448383
+number of particles at this level ... 128
+Total num of particles: 16777
+Total runtime: 1.945s; settling for: 0.005
+maxZ is: 0.451383
+frame : 218
+level of particles position ... 0.453256
+number of particles at this level ... 128
+Total num of particles: 16905
+Total runtime: 1.95s; settling for: 0.005
+maxZ is: 0.456256
+frame : 219
+level of particles position ... 0.458129
+number of particles at this level ... 128
+Total num of particles: 17033
+Total runtime: 1.955s; settling for: 0.005
+maxZ is: 0.46113
+frame : 220
+level of particles position ... 0.463003
+number of particles at this level ... 128
+Total num of particles: 17161
+Total runtime: 1.96s; settling for: 0.005
+maxZ is: 0.466003
+frame : 221
+level of particles position ... 0.467876
+number of particles at this level ... 128
+Total num of particles: 17289
+Total runtime: 1.965s; settling for: 0.005
+maxZ is: 0.470876
+frame : 222
+level of particles position ... 0.472749
+number of particles at this level ... 128
+Total num of particles: 17417
+Total runtime: 1.97s; settling for: 0.005
+maxZ is: 0.475749
+frame : 223
+level of particles position ... 0.477622
+number of particles at this level ... 128
+Total num of particles: 17545
+Total runtime: 1.975s; settling for: 0.005
+maxZ is: 0.480622
+frame : 224
+consolidating for 0s 
+consolidating for 0.005s 
+consolidating for 0.01s 
+consolidating for 0.015s 
+consolidating for 0.02s 
+consolidating for 0.025s 
+consolidating for 0.03s 
+consolidating for 0.035s 
+consolidating for 0.04s 
+consolidating for 0.045s 
+consolidating for 0.05s 
+consolidating for 0.055s 
+consolidating for 0.06s 
+consolidating for 0.065s 
+consolidating for 0.07s 
+consolidating for 0.075s 
+consolidating for 0.08s 
+consolidating for 0.085s 
+consolidating for 0.09s 
+consolidating for 0.095s 
+consolidating for 0.1s 
+consolidating for 0.105s 
+consolidating for 0.11s 
+consolidating for 0.115s 
+consolidating for 0.12s 
+consolidating for 0.125s 
+consolidating for 0.13s 
+consolidating for 0.135s 
+consolidating for 0.14s 
+consolidating for 0.145s 
+consolidating for 0.15s 
+consolidating for 0.155s 
+consolidating for 0.16s 
+consolidating for 0.165s 
+consolidating for 0.17s 
+consolidating for 0.175s 
+consolidating for 0.18s 
+consolidating for 0.185s 
+consolidating for 0.19s 
+consolidating for 0.195s 
+consolidating for 0.2s 
+consolidating for 0.205s 
+consolidating for 0.21s 
+consolidating for 0.215s 
+consolidating for 0.22s 
+consolidating for 0.225s 
+consolidating for 0.23s 
+consolidating for 0.235s 
+consolidating for 0.24s 
+consolidating for 0.245s 
+consolidating for 0.25s 
+consolidating for 0.255s 
+consolidating for 0.26s 
+consolidating for 0.265s 
+consolidating for 0.27s 
+consolidating for 0.275s 
+consolidating for 0.28s 
+consolidating for 0.285s 
+consolidating for 0.29s 
+consolidating for 0.295s 
+consolidating for 0.3s 
+consolidating for 0.305s 
+consolidating for 0.31s 
+consolidating for 0.315s 
+consolidating for 0.32s 
+consolidating for 0.325s 
+consolidating for 0.33s 
+consolidating for 0.335s 
+consolidating for 0.34s 
+consolidating for 0.345s 
+consolidating for 0.35s 
+consolidating for 0.355s 
+consolidating for 0.36s 
+consolidating for 0.365s 
+consolidating for 0.37s 
+consolidating for 0.375s 
+consolidating for 0.38s 
+consolidating for 0.385s 
+consolidating for 0.39s 
+consolidating for 0.395s 
+Frame: 4
+Frame: 0
+Elapsed time: 0.0025
+gate has stopped at: 0 s
+Frame: 1
+Elapsed time: 0.0125
+Frame: 2
+Elapsed time: 0.0225
+gate is in motion from: 0.0225 s
+Frame: 3
+Elapsed time: 0.0325
+Frame: 4
+Elapsed time: 0.0425
+Frame: 5
+Elapsed time: 0.0525
+Frame: 6
+Elapsed time: 0.0625
+Frame: 7
+Elapsed time: 0.0725
+Frame: 8
+Elapsed time: 0.0825
+Frame: 9
+Elapsed time: 0.0925
+Frame: 10
+Elapsed time: 0.1025
+Frame: 11
+Elapsed time: 0.1125
+Frame: 12
+Elapsed time: 0.1225
+Frame: 13
+Elapsed time: 0.1325
+Frame: 14
+Elapsed time: 0.1425
+Frame: 15
+Elapsed time: 0.1525
+Frame: 16
+Elapsed time: 0.1625
+Frame: 17
+Elapsed time: 0.1725
+Frame: 18
+Elapsed time: 0.1825
+Frame: 19
+Elapsed time: 0.1925
+Frame: 20
+Elapsed time: 0.2025
+Frame: 21
+Elapsed time: 0.2125
+Frame: 22
+Elapsed time: 0.2225
+Frame: 23
+Elapsed time: 0.2325
+Frame: 24
+Elapsed time: 0.2425
+Frame: 25
+Elapsed time: 0.2525
+Frame: 26
+Elapsed time: 0.2625
+Frame: 27
+Elapsed time: 0.2725
+Frame: 28
+Elapsed time: 0.2825
+Frame: 29
+Elapsed time: 0.2925
+Frame: 30
+Elapsed time: 0.3025
+Frame: 31
+Elapsed time: 0.3125
+Frame: 32
+Elapsed time: 0.3225
+Frame: 33
+Elapsed time: 0.3325
+Frame: 34
+Elapsed time: 0.3425
+Frame: 35
+Elapsed time: 0.3525
+Frame: 36
+Elapsed time: 0.3625
+Frame: 37
+Elapsed time: 0.3725
+Frame: 38
+Elapsed time: 0.3825
+Frame: 39
+Elapsed time: 0.3925
+Frame: 40
+Elapsed time: 0.4025
+Frame: 41
+Elapsed time: 0.4125
+Frame: 42
+Elapsed time: 0.4225
+Frame: 43
+Elapsed time: 0.4325
+Frame: 44
+Elapsed time: 0.4425
+Frame: 45
+Elapsed time: 0.4525
+Frame: 46
+Elapsed time: 0.4625
+Frame: 47
+Elapsed time: 0.4725
+Frame: 48
+Elapsed time: 0.4825
+Frame: 49
+Elapsed time: 0.4925
+Frame: 50
+Elapsed time: 0.5025
+Frame: 51
+Elapsed time: 0.5125
+Frame: 52
+Elapsed time: 0.5225
+Frame: 53
+Elapsed time: 0.5325
+Frame: 54
+Elapsed time: 0.5425
+Frame: 55
+Elapsed time: 0.5525
+Frame: 56
+Elapsed time: 0.5625
+Frame: 57
+Elapsed time: 0.5725
+Frame: 58
+Elapsed time: 0.5825
+Frame: 59
+Elapsed time: 0.5925
+Frame: 60
+Elapsed time: 0.6025
+Frame: 61
+Elapsed time: 0.6125
+Frame: 62
+Elapsed time: 0.6225
+Frame: 63
+Elapsed time: 0.6325
+Frame: 64
+Elapsed time: 0.6425
+Frame: 65
+Elapsed time: 0.652499
+Frame: 66
+Elapsed time: 0.662499
+Frame: 67
+Elapsed time: 0.672499
+Frame: 68
+Elapsed time: 0.682499
+Frame: 69
+Elapsed time: 0.692499
+Frame: 70
+Elapsed time: 0.702499
+Frame: 71
+Elapsed time: 0.712499
+Frame: 72
+Elapsed time: 0.722499
+Frame: 73
+Elapsed time: 0.732499
+Frame: 74
+Elapsed time: 0.742499
+Frame: 75
+Elapsed time: 0.752499
+Frame: 76
+Elapsed time: 0.762499
+Frame: 77
+Elapsed time: 0.772499
+Frame: 78
+Elapsed time: 0.782499
+Frame: 79
+Elapsed time: 0.792499
+Frame: 80
+Elapsed time: 0.802499
+Frame: 81
+Elapsed time: 0.812499
+Frame: 82
+Elapsed time: 0.822499
+Frame: 83
+Elapsed time: 0.832499
+Frame: 84
+Elapsed time: 0.842499
+Frame: 85
+Elapsed time: 0.852499
+Frame: 86
+Elapsed time: 0.862499
+Frame: 87
+Elapsed time: 0.872499
+Frame: 88
+Elapsed time: 0.882499
+Frame: 89
+Elapsed time: 0.892499
+Frame: 90
+Elapsed time: 0.902499
+Frame: 91
+Elapsed time: 0.912499
+Frame: 92
+Elapsed time: 0.922499
+Frame: 93
+Elapsed time: 0.932499
+Frame: 94
+Elapsed time: 0.942499
+Frame: 95
+Elapsed time: 0.952499
+Frame: 96
+Elapsed time: 0.962499
+Frame: 97
+Elapsed time: 0.972499
+Frame: 98
+Elapsed time: 0.982499
+Frame: 99
+Elapsed time: 0.992499
+Frame: 100
+Elapsed time: 1.0025
+Frame: 101
+Elapsed time: 1.0125
+Frame: 102
+Elapsed time: 1.0225
+Frame: 103
+Elapsed time: 1.0325
+Frame: 104
+Elapsed time: 1.0425
+Frame: 105
+Elapsed time: 1.0525
+Frame: 106
+Elapsed time: 1.0625
+Frame: 107
+Elapsed time: 1.0725
+Frame: 108
+Elapsed time: 1.0825
+Frame: 109
+Elapsed time: 1.0925
+Frame: 110
+Elapsed time: 1.1025
+Frame: 111
+Elapsed time: 1.1125
+Frame: 112
+Elapsed time: 1.1225
+Frame: 113
+Elapsed time: 1.1325
+Frame: 114
+Elapsed time: 1.1425
+Frame: 115
+Elapsed time: 1.1525
+Frame: 116
+Elapsed time: 1.1625
+Frame: 117
+Elapsed time: 1.1725
+Frame: 118
+Elapsed time: 1.1825
+Frame: 119
+Elapsed time: 1.1925
+Frame: 120
+Elapsed time: 1.2025
+Frame: 121
+Elapsed time: 1.2125
+Frame: 122
+Elapsed time: 1.2225
+Frame: 123
+Elapsed time: 1.2325
+Frame: 124
+Elapsed time: 1.2425
+Frame: 125
+Elapsed time: 1.2525
+Frame: 126
+Elapsed time: 1.26251
+Frame: 127
+Elapsed time: 1.27251
+Frame: 128
+Elapsed time: 1.28251
+Frame: 129
+Elapsed time: 1.29251
+Frame: 130
+Elapsed time: 1.30251
+Frame: 131
+Elapsed time: 1.31251
+Frame: 132
+Elapsed time: 1.32251
+Frame: 133
+Elapsed time: 1.33251
+Frame: 134
+Elapsed time: 1.34251
+Frame: 135
+Elapsed time: 1.35251
+Frame: 136
+Elapsed time: 1.36251
+Frame: 137
+Elapsed time: 1.37251
+Frame: 138
+Elapsed time: 1.38251
+Frame: 139
+Elapsed time: 1.39251
+Frame: 140
+Elapsed time: 1.40251
+Frame: 141
+Elapsed time: 1.41251
+Frame: 142
+Elapsed time: 1.42251
+Frame: 143
+Elapsed time: 1.43251
+Frame: 144
+Elapsed time: 1.44251
+Frame: 145
+Elapsed time: 1.45251
+Frame: 146
+Elapsed time: 1.46251
+Frame: 147
+Elapsed time: 1.47251
+Frame: 148
+Elapsed time: 1.48251
+Frame: 149
+Elapsed time: 1.49251
+Frame: 150
+Elapsed time: 1.50251
+Frame: 151
+Elapsed time: 1.51251
+Frame: 152
+Elapsed time: 1.52251
+Frame: 153
+Elapsed time: 1.53251
+Frame: 154
+Elapsed time: 1.54251
+Frame: 155
+Elapsed time: 1.55251
+Frame: 156
+Elapsed time: 1.56251
+Frame: 157
+Elapsed time: 1.57251
+Frame: 158
+Elapsed time: 1.58251
+Frame: 159
+Elapsed time: 1.59251
+Frame: 160
+Elapsed time: 1.60251
+Frame: 161
+Elapsed time: 1.61251
+Frame: 162
+Elapsed time: 1.62251
+Frame: 163
+Elapsed time: 1.63251
+Frame: 164
+Elapsed time: 1.64251
+Frame: 165
+Elapsed time: 1.65251
+Frame: 166
+Elapsed time: 1.66251
+Frame: 167
+Elapsed time: 1.67251
+Frame: 168
+Elapsed time: 1.68251
+Frame: 169
+Elapsed time: 1.69252
+Frame: 170
+Elapsed time: 1.70252
+Frame: 171
+Elapsed time: 1.71252
+Frame: 172
+Elapsed time: 1.72252
+Frame: 173
+Elapsed time: 1.73252
+Frame: 174
+Elapsed time: 1.74252
+Frame: 175
+Elapsed time: 1.75252
+Frame: 176
+Elapsed time: 1.76252
+Frame: 177
+Elapsed time: 1.77252
+Frame: 178
+Elapsed time: 1.78252
+Frame: 179
+Elapsed time: 1.79252
+Frame: 180
+Elapsed time: 1.80252
+Frame: 181
+Elapsed time: 1.81252
+Frame: 182
+Elapsed time: 1.82252
+Frame: 183
+Elapsed time: 1.83252
+Frame: 184
+Elapsed time: 1.84252
+Frame: 185
+Elapsed time: 1.85252
+Frame: 186
+Elapsed time: 1.86252
+Frame: 187
+Elapsed time: 1.87252
+Frame: 188
+Elapsed time: 1.88252
+Frame: 189
+Elapsed time: 1.89252
+Frame: 190
+Elapsed time: 1.90252
+Frame: 191
+Elapsed time: 1.91252
+Frame: 192
+Elapsed time: 1.92252
+Frame: 193
+Elapsed time: 1.93252
+Frame: 194
+Elapsed time: 1.94252
+Frame: 195
+Elapsed time: 1.95252
+Frame: 196
+Elapsed time: 1.96252
+Frame: 197
+Elapsed time: 1.97252
+Frame: 198
+Elapsed time: 1.98252
+Frame: 199
+Elapsed time: 1.99252
+Frame: 200
+Elapsed time: 2.00252
+Frame: 201
+Elapsed time: 2.01252
+Frame: 202
+Elapsed time: 2.02252
+Frame: 203
+Elapsed time: 2.03252
+Frame: 204
+Elapsed time: 2.04252
+Frame: 205
+Elapsed time: 2.05252
+Frame: 206
+Elapsed time: 2.06252
+Frame: 207
+Elapsed time: 2.07252
+Frame: 208
+Elapsed time: 2.08252
+Frame: 209
+Elapsed time: 2.09252
+Frame: 210
+Elapsed time: 2.10252
+Frame: 211
+Elapsed time: 2.11252
+Frame: 212
+Elapsed time: 2.12252
+Frame: 213
+Elapsed time: 2.13252
+Frame: 214
+Elapsed time: 2.14253
+Frame: 215
+Elapsed time: 2.15253
+Frame: 216
+Elapsed time: 2.16253
+Frame: 217
+Elapsed time: 2.17253
+Frame: 218
+Elapsed time: 2.18253
+Frame: 219
+Elapsed time: 2.19253
+Frame: 220
+Elapsed time: 2.20253
+Frame: 221
+Elapsed time: 2.21253
+Frame: 222
+Elapsed time: 2.22253
+Frame: 223
+Elapsed time: 2.23253
+Frame: 224
+Elapsed time: 2.24253
+Frame: 225
+Elapsed time: 2.25253
+Frame: 226
+Elapsed time: 2.26253
+Frame: 227
+Elapsed time: 2.27253
+Frame: 228
+Elapsed time: 2.28253
+Frame: 229
+Elapsed time: 2.29253
+Frame: 230
+Elapsed time: 2.30253
+Frame: 231
+Elapsed time: 2.31253
+Frame: 232
+Elapsed time: 2.32253
+Frame: 233
+Elapsed time: 2.33253
+Frame: 234
+Elapsed time: 2.34253
+Frame: 235
+Elapsed time: 2.35253
+Frame: 236
+Elapsed time: 2.36253
+Frame: 237
+Elapsed time: 2.37253
+Frame: 238
+Elapsed time: 2.38253
+Frame: 239
+Elapsed time: 2.39253
+Frame: 240
+Elapsed time: 2.40253
+Frame: 241
+Elapsed time: 2.41253
+Frame: 242
+Elapsed time: 2.42253
+Frame: 243
+Elapsed time: 2.43253
+Frame: 244
+Elapsed time: 2.44253
+Frame: 245
+Elapsed time: 2.45253
+Frame: 246
+Elapsed time: 2.46253
+Frame: 247
+Elapsed time: 2.47253
+Frame: 248
+Elapsed time: 2.48253
+Frame: 249
+Elapsed time: 2.49253
+Frame: 250
+Elapsed time: 2.50253
+Frame: 251
+Elapsed time: 2.51253
+Frame: 252
+Elapsed time: 2.52253
+Frame: 253
+Elapsed time: 2.53253
+Frame: 254
+Elapsed time: 2.54253
+Frame: 255
+Elapsed time: 2.55253
+Frame: 256
+Elapsed time: 2.56253
+Frame: 257
+Elapsed time: 2.57254
+Frame: 258
+Elapsed time: 2.58254
+Frame: 259
+Elapsed time: 2.59254
+Frame: 260
+Elapsed time: 2.60254
+Frame: 261
+Elapsed time: 2.61254
+Frame: 262
+Elapsed time: 2.62254
+Frame: 263
+Elapsed time: 2.63254
+Frame: 264
+Elapsed time: 2.64254
+Frame: 265
+Elapsed time: 2.65254
+Frame: 266
+Elapsed time: 2.66254
+Frame: 267
+Elapsed time: 2.67254
+Frame: 268
+Elapsed time: 2.68254
+Frame: 269
+Elapsed time: 2.69254
+Frame: 270
+Elapsed time: 2.70254
+Frame: 271
+Elapsed time: 2.71254
+Frame: 272
+Elapsed time: 2.72254
+Frame: 273
+Elapsed time: 2.73254
+Frame: 274
+Elapsed time: 2.74254
+Frame: 275
+Elapsed time: 2.75254
+Frame: 276
+Elapsed time: 2.76254
+Frame: 277
+Elapsed time: 2.77254
+Frame: 278
+Elapsed time: 2.78254
+Frame: 279
+Elapsed time: 2.79254
+Frame: 280
+Elapsed time: 2.80254
+Frame: 281
+Elapsed time: 2.81254
+Frame: 282
+Elapsed time: 2.82254
+Frame: 283
+Elapsed time: 2.83254
+Frame: 284
+Elapsed time: 2.84254
+Frame: 285
+Elapsed time: 2.85254
+Frame: 286
+Elapsed time: 2.86254
+Frame: 287
+Elapsed time: 2.87254
+Frame: 288
+Elapsed time: 2.88254
+Frame: 289
+Elapsed time: 2.89254
+Frame: 290
+Elapsed time: 2.90254
+Frame: 291
+Elapsed time: 2.91254
+Frame: 292
+Elapsed time: 2.92254
+Frame: 293
+Elapsed time: 2.93254
+Frame: 294
+Elapsed time: 2.94254
+Frame: 295
+Elapsed time: 2.95254
+Frame: 296
+Elapsed time: 2.96254
+Frame: 297
+Elapsed time: 2.97254
+Frame: 298
+Elapsed time: 2.98254
+Frame: 299
+Elapsed time: 2.99254
+Frame: 300
+Elapsed time: 3.00254
+Frame: 301
+Elapsed time: 3.01255
+Frame: 302
+Elapsed time: 3.02255
+Frame: 303
+Elapsed time: 3.03255
+Frame: 304
+Elapsed time: 3.04255
+Frame: 305
+Elapsed time: 3.05255
+Frame: 306
+Elapsed time: 3.06255
+Frame: 307
+Elapsed time: 3.07255
+Frame: 308
+Elapsed time: 3.08255
+Frame: 309
+Elapsed time: 3.09255
+Frame: 310
+Elapsed time: 3.10255
+Frame: 311
+Elapsed time: 3.11255
+Frame: 312
+Elapsed time: 3.12255
+Frame: 313
+Elapsed time: 3.13255
+Frame: 314
+Elapsed time: 3.14255
+Frame: 315
+Elapsed time: 3.15255
+Frame: 316
+Elapsed time: 3.16255
+Frame: 317
+Elapsed time: 3.17255
+Frame: 318
+Elapsed time: 3.18255
+Frame: 319
+Elapsed time: 3.19255
+Frame: 320
+Elapsed time: 3.20255
+Frame: 321
+Elapsed time: 3.21255
+Frame: 322
+Elapsed time: 3.22255
+Frame: 323
+Elapsed time: 3.23255
+Frame: 324
+Elapsed time: 3.24255
+Frame: 325
+Elapsed time: 3.25255
+Frame: 326
+Elapsed time: 3.26255
+Frame: 327
+Elapsed time: 3.27255
+Frame: 328
+Elapsed time: 3.28255
+Frame: 329
+Elapsed time: 3.29255
+Frame: 330
+Elapsed time: 3.30255
+Frame: 331
+Elapsed time: 3.31255
+Frame: 332
+Elapsed time: 3.32255
+Frame: 333
+Elapsed time: 3.33255
+Frame: 334
+Elapsed time: 3.34255
+Frame: 335
+Elapsed time: 3.35255
+Frame: 336
+Elapsed time: 3.36255
+Frame: 337
+Elapsed time: 3.37255
+Frame: 338
+Elapsed time: 3.38255
+Frame: 339
+Elapsed time: 3.39255
+Frame: 340
+Elapsed time: 3.40255
+Frame: 341
+Elapsed time: 3.41255
+Frame: 342
+Elapsed time: 3.42255
+Frame: 343
+Elapsed time: 3.43255
+Frame: 344
+Elapsed time: 3.44255
+Frame: 345
+Elapsed time: 3.45256
+Frame: 346
+Elapsed time: 3.46256
+Frame: 347
+Elapsed time: 3.47256
+Frame: 348
+Elapsed time: 3.48256
+Frame: 349
+Elapsed time: 3.49256
+Frame: 350
+Elapsed time: 3.50256
+Frame: 351
+Elapsed time: 3.51256
+Frame: 352
+Elapsed time: 3.52256
+Frame: 353
+Elapsed time: 3.53256
+Frame: 354
+Elapsed time: 3.54256
+Frame: 355
+Elapsed time: 3.55256
+Frame: 356
+Elapsed time: 3.56256
+Frame: 357
+Elapsed time: 3.57256
+Frame: 358
+Elapsed time: 3.58256
+Frame: 359
+Elapsed time: 3.59256
+Frame: 360
+Elapsed time: 3.60256
+Frame: 361
+Elapsed time: 3.61256
+Frame: 362
+Elapsed time: 3.62256
+Frame: 363
+Elapsed time: 3.63256
+Frame: 364
+Elapsed time: 3.64256
+Frame: 365
+Elapsed time: 3.65256
+Frame: 366
+Elapsed time: 3.66256
+Frame: 367
+Elapsed time: 3.67256
+Frame: 368
+Elapsed time: 3.68256
+Frame: 369
+Elapsed time: 3.69256
+Frame: 370
+Elapsed time: 3.70256
+Frame: 371
+Elapsed time: 3.71256
+Frame: 372
+Elapsed time: 3.72256
+Frame: 373
+Elapsed time: 3.73256
+Frame: 374
+Elapsed time: 3.74256
+Frame: 375
+Elapsed time: 3.75256
+Frame: 376
+Elapsed time: 3.76256
+Frame: 377
+Elapsed time: 3.77256
+Frame: 378
+Elapsed time: 3.78256
+Frame: 379
+Elapsed time: 3.79256
+Frame: 380
+Elapsed time: 3.80256
+Frame: 381
+Elapsed time: 3.81256
+Frame: 382
+Elapsed time: 3.82256
+Frame: 383
+Elapsed time: 3.83256
+Frame: 384
+Elapsed time: 3.84256
+Frame: 385
+Elapsed time: 3.85256
+Frame: 386
+Elapsed time: 3.86256
+Frame: 387
+Elapsed time: 3.87256
+Frame: 388
+Elapsed time: 3.88257
+Frame: 389
+Elapsed time: 3.89257
+Frame: 390
+Elapsed time: 3.90257
+Frame: 391
+Elapsed time: 3.91257
+Frame: 392
+Elapsed time: 3.92257
+Frame: 393
+Elapsed time: 3.93257
+Frame: 394
+Elapsed time: 3.94257
+Frame: 395
+Elapsed time: 3.95257
+Frame: 396
+Elapsed time: 3.96257
+Frame: 397
+Elapsed time: 3.97257
+Frame: 398
+Elapsed time: 3.98257
+Frame: 399
+Elapsed time: 3.99257
+Frame: 400
+Elapsed time: 4.00257
+Frame: 401
+Elapsed time: 4.01257
+Frame: 402
+Elapsed time: 4.02257
+Frame: 403
+Elapsed time: 4.03257
+Frame: 404
+Elapsed time: 4.04257
+Frame: 405
+Elapsed time: 4.05257
+Frame: 406
+Elapsed time: 4.06257
+Frame: 407
+Elapsed time: 4.07257
+Frame: 408
+Elapsed time: 4.08257
+Frame: 409
+Elapsed time: 4.09257
+Frame: 410
+Elapsed time: 4.10257
+Frame: 411
+Elapsed time: 4.11257
+Frame: 412
+Elapsed time: 4.12257
+Frame: 413
+Elapsed time: 4.13257
+Frame: 414
+Elapsed time: 4.14257
+Frame: 415
+Elapsed time: 4.15257
+Frame: 416
+Elapsed time: 4.16257
+Frame: 417
+Elapsed time: 4.17257
+Frame: 418
+Elapsed time: 4.18257
+Frame: 419
+Elapsed time: 4.19257
+Frame: 420
+Elapsed time: 4.20257
+Frame: 421
+Elapsed time: 4.21257
+Frame: 422
+Elapsed time: 4.22257
+Frame: 423
+Elapsed time: 4.23257
+Frame: 424
+Elapsed time: 4.24257
+Frame: 425
+Elapsed time: 4.25257
+Frame: 426
+Elapsed time: 4.26257
+Frame: 427
+Elapsed time: 4.27257
+Frame: 428
+Elapsed time: 4.28257
+Frame: 429
+Elapsed time: 4.29257
+Frame: 430
+Elapsed time: 4.30257
+Frame: 431
+Elapsed time: 4.31257
+Frame: 432
+Elapsed time: 4.32258
+Frame: 433
+Elapsed time: 4.33258
+Frame: 434
+Elapsed time: 4.34258
+Frame: 435
+Elapsed time: 4.35258
+Frame: 436
+Elapsed time: 4.36258
+Frame: 437
+Elapsed time: 4.37258
+Frame: 438
+Elapsed time: 4.38258
+Frame: 439
+Elapsed time: 4.39258
+Frame: 440
+Elapsed time: 4.40258
+Frame: 441
+Elapsed time: 4.41258
+Frame: 442
+Elapsed time: 4.42258
+Frame: 443
+Elapsed time: 4.43258
+Frame: 444
+Elapsed time: 4.44258
+Frame: 445
+Elapsed time: 4.45258
+Frame: 446
+Elapsed time: 4.46258
+Frame: 447
+Elapsed time: 4.47258
+Frame: 448
+Elapsed time: 4.48258
+Frame: 449
+Elapsed time: 4.49258
+Frame: 450
+Elapsed time: 4.50258
+Frame: 451
+Elapsed time: 4.51258
+Frame: 452
+Elapsed time: 4.52258
+Frame: 453
+Elapsed time: 4.53258
+Frame: 454
+Elapsed time: 4.54258
+Frame: 455
+Elapsed time: 4.55258
+Frame: 456
+Elapsed time: 4.56258
+Frame: 457
+Elapsed time: 4.57258
+Frame: 458
+Elapsed time: 4.58258
+Frame: 459
+Elapsed time: 4.59258
+Frame: 460
+Elapsed time: 4.60258
+Frame: 461
+Elapsed time: 4.61258
+Frame: 462
+Elapsed time: 4.62258
+Frame: 463
+Elapsed time: 4.63258
+Frame: 464
+Elapsed time: 4.64258
+Frame: 465
+Elapsed time: 4.65258
+Frame: 466
+Elapsed time: 4.66258
+Frame: 467
+Elapsed time: 4.67258
+Frame: 468
+Elapsed time: 4.68258
+Frame: 469
+Elapsed time: 4.69258
+Frame: 470
+Elapsed time: 4.70258
+Frame: 471
+Elapsed time: 4.71258
+Frame: 472
+Elapsed time: 4.72258
+Frame: 473
+Elapsed time: 4.73258
+Frame: 474
+Elapsed time: 4.74258
+Frame: 475
+Elapsed time: 4.75258
+Frame: 476
+Elapsed time: 4.76259
+Frame: 477
+Elapsed time: 4.77259
+Frame: 478
+Elapsed time: 4.78259
+Frame: 479
+Elapsed time: 4.79259
+Frame: 480
+Elapsed time: 4.80259
+Frame: 481
+Elapsed time: 4.81259
+Frame: 482
+Elapsed time: 4.82259
+Frame: 483
+Elapsed time: 4.83259
+Frame: 484
+Elapsed time: 4.84259
+Frame: 485
+Elapsed time: 4.85259
+Frame: 486
+Elapsed time: 4.86259
+Frame: 487
+Elapsed time: 4.87259
+Frame: 488
+Elapsed time: 4.88259
+Frame: 489
+Elapsed time: 4.89259
+Frame: 490
+Elapsed time: 4.90259
+Frame: 491
+Elapsed time: 4.91259
+Frame: 492
+Elapsed time: 4.92259
+Frame: 493
+Elapsed time: 4.93259
+Frame: 494
+Elapsed time: 4.94259
+Frame: 495
+Elapsed time: 4.95259
+Frame: 496
+Elapsed time: 4.96259
+Frame: 497
+Elapsed time: 4.97259
+Frame: 498
+Elapsed time: 4.98259
+Frame: 499
+Elapsed time: 4.99259
+Frame: 500
+Elapsed time: 5.00259
+Frame: 501
+Elapsed time: 5.01259
+Frame: 502
+Elapsed time: 5.02259
+Frame: 503
+Elapsed time: 5.03259
+Frame: 504
+Elapsed time: 5.04259
+Frame: 505
+Elapsed time: 5.05259
+Frame: 506
+Elapsed time: 5.06259
+Frame: 507
+Elapsed time: 5.07259
+Frame: 508
+Elapsed time: 5.08259
+Frame: 509
+Elapsed time: 5.09259
+Frame: 510
+Elapsed time: 5.10259
+Frame: 511
+Elapsed time: 5.11259
+Frame: 512
+Elapsed time: 5.12259
+Frame: 513
+Elapsed time: 5.13259
+Frame: 514
+Elapsed time: 5.14259
+Frame: 515
+Elapsed time: 5.15259
+Frame: 516
+Elapsed time: 5.16259
+Frame: 517
+Elapsed time: 5.17259
+Frame: 518
+Elapsed time: 5.18259
+Frame: 519
+Elapsed time: 5.1926
+Frame: 520
+Elapsed time: 5.2026
+Frame: 521
+Elapsed time: 5.2126
+Frame: 522
+Elapsed time: 5.2226
+Frame: 523
+Elapsed time: 5.2326
+Frame: 524
+Elapsed time: 5.2426
+Frame: 525
+Elapsed time: 5.2526
+Frame: 526
+Elapsed time: 5.2626
+Frame: 527
+Elapsed time: 5.2726
+Frame: 528
+Elapsed time: 5.2826
+Frame: 529
+Elapsed time: 5.2926
+Frame: 530
+Elapsed time: 5.3026
+Frame: 531
+Elapsed time: 5.3126
+Frame: 532
+Elapsed time: 5.3226
+Frame: 533
+Elapsed time: 5.3326
+Frame: 534
+Elapsed time: 5.3426
+Frame: 535
+Elapsed time: 5.3526
+Frame: 536
+Elapsed time: 5.3626
+Frame: 537
+Elapsed time: 5.3726
+Frame: 538
+Elapsed time: 5.3826
+Frame: 539
+Elapsed time: 5.3926
+Frame: 540
+Elapsed time: 5.4026
+Frame: 541
+Elapsed time: 5.4126
+Frame: 542
+Elapsed time: 5.4226
+Frame: 543
+Elapsed time: 5.4326
+Frame: 544
+Elapsed time: 5.4426
+Frame: 545
+Elapsed time: 5.4526
+Frame: 546
+Elapsed time: 5.4626
+Frame: 547
+Elapsed time: 5.4726
+Frame: 548
+Elapsed time: 5.4826
+Frame: 549
+Elapsed time: 5.4926
+Frame: 550
+Elapsed time: 5.5026
+Frame: 551
+Elapsed time: 5.5126
+Frame: 552
+Elapsed time: 5.5226
+Frame: 553
+Elapsed time: 5.5326
+Frame: 554
+Elapsed time: 5.5426
+Frame: 555
+Elapsed time: 5.5526
+Frame: 556
+Elapsed time: 5.5626
+Frame: 557
+Elapsed time: 5.5726
+Frame: 558
+Elapsed time: 5.5826
+Frame: 559
+Elapsed time: 5.5926
+Frame: 560
+Elapsed time: 5.6026
+Frame: 561
+Elapsed time: 5.6126
+Frame: 562
+Elapsed time: 5.6226
+Frame: 563
+Elapsed time: 5.63261
+Frame: 564
+Elapsed time: 5.64261
+Frame: 565
+Elapsed time: 5.65261
+Frame: 566
+Elapsed time: 5.66261
+Frame: 567
+Elapsed time: 5.67261
+Frame: 568
+Elapsed time: 5.68261
+Frame: 569
+Elapsed time: 5.69261
+Frame: 570
+Elapsed time: 5.70261
+Frame: 571
+Elapsed time: 5.71261
+Frame: 572
+Elapsed time: 5.72261
+Frame: 573
+Elapsed time: 5.73261
+Frame: 574
+Elapsed time: 5.74261
+Frame: 575
+Elapsed time: 5.75261
+Frame: 576
+Elapsed time: 5.76261
+Frame: 577
+Elapsed time: 5.77261
+Frame: 578
+Elapsed time: 5.78261
+Frame: 579
+Elapsed time: 5.79261
+Frame: 580
+Elapsed time: 5.80261
+Frame: 581
+Elapsed time: 5.81261
+Frame: 582
+Elapsed time: 5.82261
+Frame: 583
+Elapsed time: 5.83261
+Frame: 584
+Elapsed time: 5.84261
+Frame: 585
+Elapsed time: 5.85261
+Frame: 586
+Elapsed time: 5.86261
+Frame: 587
+Elapsed time: 5.87261
+Frame: 588
+Elapsed time: 5.88261
+Frame: 589
+Elapsed time: 5.89261
+Frame: 590
+Elapsed time: 5.90261
+Frame: 591
+Elapsed time: 5.91261
+Frame: 592
+Elapsed time: 5.92261
+Frame: 593
+Elapsed time: 5.93261
+Frame: 594
+Elapsed time: 5.94261
+Frame: 595
+Elapsed time: 5.95261
+Frame: 596
+Elapsed time: 5.96261
+Frame: 597
+Elapsed time: 5.97261
+Frame: 598
+Elapsed time: 5.98261
+Frame: 599
+Elapsed time: 5.99261
+Frame: 600
+Elapsed time: 6.00261
+Frame: 601
+Elapsed time: 6.01261
+Frame: 602
+Elapsed time: 6.02261
+Frame: 603
+Elapsed time: 6.03261
+Frame: 604
+Elapsed time: 6.04261
+Frame: 605
+Elapsed time: 6.05261
+Frame: 606
+Elapsed time: 6.06261
+Frame: 607
+Elapsed time: 6.07262
+Frame: 608
+Elapsed time: 6.08262
+Frame: 609
+Elapsed time: 6.09262
+Frame: 610
+Elapsed time: 6.10262
+Frame: 611
+Elapsed time: 6.11262
+Frame: 612
+Elapsed time: 6.12262
+Frame: 613
+Elapsed time: 6.13262
+Frame: 614
+Elapsed time: 6.14262
+Frame: 615
+Elapsed time: 6.15262
+Frame: 616
+Elapsed time: 6.16262
+Frame: 617
+Elapsed time: 6.17262
+Frame: 618
+Elapsed time: 6.18262
+Frame: 619
+Elapsed time: 6.19262
+Frame: 620
+Elapsed time: 6.20262
+Frame: 621
+Elapsed time: 6.21262
+Frame: 622
+Elapsed time: 6.22262
+Frame: 623
+Elapsed time: 6.23262
+Frame: 624
+Elapsed time: 6.24262
+Frame: 625
+Elapsed time: 6.25262
+Frame: 626
+Elapsed time: 6.26262
+Frame: 627
+Elapsed time: 6.27262
+Frame: 628
+Elapsed time: 6.28262
+Frame: 629
+Elapsed time: 6.29262
+Frame: 630
+Elapsed time: 6.30262
+Frame: 631
+Elapsed time: 6.31262
+Frame: 632
+Elapsed time: 6.32262
+Frame: 633
+Elapsed time: 6.33262
+Frame: 634
+Elapsed time: 6.34262
+Frame: 635
+Elapsed time: 6.35262
+Frame: 636
+Elapsed time: 6.36262
+Frame: 637
+Elapsed time: 6.37262
+Frame: 638
+Elapsed time: 6.38262
+Frame: 639
+Elapsed time: 6.39262
+Frame: 640
+Elapsed time: 6.40262
+Frame: 641
+Elapsed time: 6.41262
+Frame: 642
+Elapsed time: 6.42262
+Frame: 643
+Elapsed time: 6.43262
+Frame: 644
+Elapsed time: 6.44262
+Frame: 645
+Elapsed time: 6.45262
+Frame: 646
+Elapsed time: 6.46262
+Frame: 647
+Elapsed time: 6.47262
+Frame: 648
+Elapsed time: 6.48262
+Frame: 649
+Elapsed time: 6.49262
+Frame: 650
+Elapsed time: 6.50262
+Frame: 651
+Elapsed time: 6.51263
+Frame: 652
+Elapsed time: 6.52263
+Frame: 653
+Elapsed time: 6.53263
+Frame: 654
+Elapsed time: 6.54263
+Frame: 655
+Elapsed time: 6.55263
+Frame: 656
+Elapsed time: 6.56263
+Frame: 657
+Elapsed time: 6.57263
+Frame: 658
+Elapsed time: 6.58263
+Frame: 659
+Elapsed time: 6.59263
+Frame: 660
+Elapsed time: 6.60263
+Frame: 661
+Elapsed time: 6.61263
+Frame: 662
+Elapsed time: 6.62263
+Frame: 663
+Elapsed time: 6.63263
+Frame: 664
+Elapsed time: 6.64263
+Frame: 665
+Elapsed time: 6.65263
+Frame: 666
+Elapsed time: 6.66263
+Frame: 667
+Elapsed time: 6.67263
+Frame: 668
+Elapsed time: 6.68263
+Frame: 669
+Elapsed time: 6.69263
+Frame: 670
+Elapsed time: 6.70263
+Frame: 671
+Elapsed time: 6.71263
+Frame: 672
+Elapsed time: 6.72263
+Frame: 673
+Elapsed time: 6.73263
+Frame: 674
+Elapsed time: 6.74263
+Frame: 675
+Elapsed time: 6.75263
+Frame: 676
+Elapsed time: 6.76263
+Frame: 677
+Elapsed time: 6.77263
+Frame: 678
+Elapsed time: 6.78263
+Frame: 679
+Elapsed time: 6.79263
+Frame: 680
+Elapsed time: 6.80263
+Frame: 681
+Elapsed time: 6.81263
+Frame: 682
+Elapsed time: 6.82263
+Frame: 683
+Elapsed time: 6.83263
+Frame: 684
+Elapsed time: 6.84263
+Frame: 685
+Elapsed time: 6.85263
+Frame: 686
+Elapsed time: 6.86263
+Frame: 687
+Elapsed time: 6.87263
+Frame: 688
+Elapsed time: 6.88263
+Frame: 689
+Elapsed time: 6.89263
+Frame: 690
+Elapsed time: 6.90263
+Frame: 691
+Elapsed time: 6.91263
+Frame: 692
+Elapsed time: 6.92263
+Frame: 693
+Elapsed time: 6.93263
+Frame: 694
+Elapsed time: 6.94264
+Frame: 695
+Elapsed time: 6.95264
+Frame: 696
+Elapsed time: 6.96264
+Frame: 697
+Elapsed time: 6.97264
+Frame: 698
+Elapsed time: 6.98264
+Frame: 699
+Elapsed time: 6.99264
+Frame: 700
+Elapsed time: 7.00264
+Frame: 701
+Elapsed time: 7.01264
+Frame: 702
+Elapsed time: 7.02264
+Frame: 703
+Elapsed time: 7.03264
+Frame: 704
+Elapsed time: 7.04264
+Frame: 705
+Elapsed time: 7.05264
+Frame: 706
+Elapsed time: 7.06264
+Frame: 707
+Elapsed time: 7.07264
+Frame: 708
+Elapsed time: 7.08264
+Frame: 709
+Elapsed time: 7.09264
+Frame: 710
+Elapsed time: 7.10264
+Frame: 711
+Elapsed time: 7.11264
+Frame: 712
+Elapsed time: 7.12264
+Frame: 713
+Elapsed time: 7.13264
+Frame: 714
+Elapsed time: 7.14264
+Frame: 715
+Elapsed time: 7.15264
+Frame: 716
+Elapsed time: 7.16264
+Frame: 717
+Elapsed time: 7.17264
+Frame: 718
+Elapsed time: 7.18264
+Frame: 719
+Elapsed time: 7.19264
+Frame: 720
+Elapsed time: 7.20264
+Frame: 721
+Elapsed time: 7.21264
+Frame: 722
+Elapsed time: 7.22264
+Frame: 723
+Elapsed time: 7.23264
+Frame: 724
+Elapsed time: 7.24264
+Frame: 725
+Elapsed time: 7.25264
+Frame: 726
+Elapsed time: 7.26264
+Frame: 727
+Elapsed time: 7.27264
+Frame: 728
+Elapsed time: 7.28264
+Frame: 729
+Elapsed time: 7.29264
+Frame: 730
+Elapsed time: 7.30264
+Frame: 731
+Elapsed time: 7.31264
+Frame: 732
+Elapsed time: 7.32264
+Frame: 733
+Elapsed time: 7.33264
+Frame: 734
+Elapsed time: 7.34264
+Frame: 735
+Elapsed time: 7.35264
+Frame: 736
+Elapsed time: 7.36264
+Frame: 737
+Elapsed time: 7.37264
+Frame: 738
+Elapsed time: 7.38265
+Frame: 739
+Elapsed time: 7.39265
+Frame: 740
+Elapsed time: 7.40265
+Frame: 741
+Elapsed time: 7.41265
+Frame: 742
+Elapsed time: 7.42265
+Frame: 743
+Elapsed time: 7.43265
+Frame: 744
+Elapsed time: 7.44265
+Frame: 745
+Elapsed time: 7.45265
+Frame: 746
+Elapsed time: 7.46265
+Frame: 747
+Elapsed time: 7.47265
+Frame: 748
+Elapsed time: 7.48265
+Frame: 749
+Elapsed time: 7.49265
+The simulated time is: 7.50015 s
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 1381.82292 seconds
+Discretize domain: 168.311245 seconds, 12.1804% of kT total runtime
+Find contact pairs: 701.243076 seconds, 50.7477% of kT total runtime
+Build history map: 108.520938 seconds, 7.85346% of kT total runtime
+Unpack updates from dT: 74.8955773 seconds, 5.42006% of kT total runtime
+Send to dT buffer: 13.2050179 seconds, 0.955623% of kT total runtime
+Wait for dT update: 315.647066 seconds, 22.8428% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 1177.35451 seconds
+Clear force array: 102.946826 seconds, 8.74391% of dT total runtime
+Calculate contact forces: 841.181463 seconds, 71.4467% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 199.856403 seconds, 16.975% of dT total runtime
+Unpack updates from kT: 21.5148894 seconds, 1.82739% of dT total runtime
+Send to kT buffer: 10.1284107 seconds, 0.860269% of dT total runtime
+Wait for kT update: 1.72651486 seconds, 0.146644% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 26.8885 MiB
+kT device memory usage: 111.587 MiB
+dT host memory usage: 85.5903 MiB
+dT device memory usage: 124.68 MiB
+----------------------------------------
+DEMdemo_Hopper exiting...

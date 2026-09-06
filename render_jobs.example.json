@@ -5,6 +5,20 @@
     "frame_rate": 20,
     "extension": ".ogv"
   },
+  "timing": {
+    "enabled": true,
+    "known_dir": "known_timing",
+    "new_dir": "results",
+    "file_glob": "DEMdemo_*",
+    "output": "movies/timing_report.md",
+    "pattern": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish the simulation\\b",
+    "patterns": {
+      "DEMdemo_HopperSphereCylinder.txt": "^\\s*dT total active time:\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\b",
+      "DEMdemo_Plow.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish the 10-second plowing simulation\\b",
+      "DEMdemo_Centrifuge.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish 10 seconds' simulation\\b",
+      "DEMdemo_RotatingDrum.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish 10 seconds' simulation\\b"
+    }
+  },
   "jobs": [
     {
       "name": "FlexibleMesh",

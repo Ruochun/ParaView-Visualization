@@ -1,0 +1,3081 @@
+Current number of clumps: 8736
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-1, 1]
+User-specified Y-dimension range: [-0.5, 0.5]
+User-specified Z-dimension range: [-1, 1]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 2.4000000953674316, 2.4000000953674316, 4.8000001907348633
+Simulation world X range: [-1.2, 1.2]
+Simulation world Y range: [-0.6, 1.8]
+Simulation world Z range: [-1.2, 3.6]
+The length unit in this simulation is: 1.7462298967929613e-11
+The edge length of a voxel: 1.1444092251622351e-06
+The initial time step size: 5e-06
+The initial edge length of a bin: 0.033554433593750009
+The initial number of bins: 746496
+The total number of clumps: 8736
+The combined number of component spheres: 26208
+The total number of analytical objects: 2
+The total number of meshes: 1
+Grand total number of owners: 8739
+The number of material types: 2
+History-based Hertzian contact model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+Output at 10 FPS
+Outputting frame: 0
+Outputting frame: 1
+Outputting frame: 2
+Outputting frame: 3
+Outputting frame: 4
+Outputting frame: 5
+Outputting frame: 6
+Outputting frame: 7
+Outputting frame: 8
+Outputting frame: 9
+Outputting frame: 10
+Outputting frame: 11
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 220011
+Number of updates dynamic gets: 5370
+Number of updates kinematic gets: 5370
+Average steps per dynamic update: 40.97039
+Average steps contact detection lags behind: 81.92309
+Number of times dynamic held back: 5343
+-----------------------------
+Time: 0
+Force on wheel: 15.6603, -2.431, 201.601
+Drawbar pull coeff: 0.0783014
+Max system velocity: 0.107982
+Time: 0.01
+Force on wheel: 101.53, 33.6572, 156.256
+Drawbar pull coeff: 0.50765
+Max system velocity: 0.209412
+Time: 0.02
+Force on wheel: 145.717, 48.678, 228.808
+Drawbar pull coeff: 0.728584
+Max system velocity: 0.208367
+Time: 0.03
+Force on wheel: 77.9201, 34.9346, 177.752
+Drawbar pull coeff: 0.3896
+Max system velocity: 0.277719
+Time: 0.04
+Force on wheel: 70.1109, 39.3688, 222.632
+Drawbar pull coeff: 0.350555
+Max system velocity: 0.264683
+Time: 0.05
+Force on wheel: 88.5381, 15.3911, 169.84
+Drawbar pull coeff: 0.442691
+Max system velocity: 0.188043
+Time: 0.06
+Force on wheel: 136.566, 68.0638, 266.127
+Drawbar pull coeff: 0.682832
+Max system velocity: 0.219912
+Time: 0.07
+Force on wheel: 55.4838, 32.984, 120.846
+Drawbar pull coeff: 0.277419
+Max system velocity: 0.231358
+Time: 0.08
+Force on wheel: 102.899, 68.0105, 245.589
+Drawbar pull coeff: 0.514493
+Max system velocity: 0.278764
+Time: 0.09
+Force on wheel: 140.191, 35.8674, 243.69
+Drawbar pull coeff: 0.700957
+Max system velocity: 0.283018
+Outputting frame: 12
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 240011
+Number of updates dynamic gets: 5859
+Number of updates kinematic gets: 5859
+Average steps per dynamic update: 40.9645
+Average steps contact detection lags behind: 81.89401
+Number of times dynamic held back: 5824
+-----------------------------
+Time: 0.1
+Force on wheel: 143.041, -12.8018, 192.411
+Drawbar pull coeff: 0.715207
+Max system velocity: 0.23752
+Time: 0.11
+Force on wheel: 96.5439, 33.8146, 167.728
+Drawbar pull coeff: 0.482719
+Max system velocity: 0.30845
+Time: 0.12
+Force on wheel: 90.1121, 17.2703, 257.256
+Drawbar pull coeff: 0.45056
+Max system velocity: 0.1778
+Time: 0.13
+Force on wheel: 114.131, 43.4555, 218.842
+Drawbar pull coeff: 0.570655
+Max system velocity: 0.207206
+Time: 0.14
+Force on wheel: 79.2557, 43.4445, 189.286
+Drawbar pull coeff: 0.396278
+Max system velocity: 0.169002
+Time: 0.15
+Force on wheel: 97.9726, 38.5611, 211.848
+Drawbar pull coeff: 0.489863
+Max system velocity: 0.144358
+Time: 0.16
+Force on wheel: 77.8605, 27.8696, 199.374
+Drawbar pull coeff: 0.389302
+Max system velocity: 0.183904
+Time: 0.17
+Force on wheel: 87.0649, 30.6017, 207.44
+Drawbar pull coeff: 0.435325
+Max system velocity: 0.203682
+Time: 0.18
+Force on wheel: 76.3973, 10.5388, 209.526
+Drawbar pull coeff: 0.381986
+Max system velocity: 0.217903
+Time: 0.19
+Force on wheel: 65.9179, 5.85064, 180.746
+Drawbar pull coeff: 0.329589
+Max system velocity: 0.235795
+Outputting frame: 13
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 260011
+Number of updates dynamic gets: 6347
+Number of updates kinematic gets: 6347
+Average steps per dynamic update: 40.96597
+Average steps contact detection lags behind: 81.90027
+Number of times dynamic held back: 6310
+-----------------------------
+Time: 0.2
+Force on wheel: 50.2366, 42.3309, 156.714
+Drawbar pull coeff: 0.251183
+Max system velocity: 0.197726
+Time: 0.21
+Force on wheel: 97.4318, 35.949, 219.836
+Drawbar pull coeff: 0.487159
+Max system velocity: 0.184304
+Time: 0.22
+Force on wheel: 98.0861, 37.111, 227.803
+Drawbar pull coeff: 0.490431
+Max system velocity: 0.157223
+Time: 0.23
+Force on wheel: 71.1252, 22.3124, 208.464
+Drawbar pull coeff: 0.355626
+Max system velocity: 0.19998
+Time: 0.24
+Force on wheel: 66.7296, 24.8551, 200.021
+Drawbar pull coeff: 0.333648
+Max system velocity: 0.194238
+Time: 0.25
+Force on wheel: 97.7959, 16.4299, 215.786
+Drawbar pull coeff: 0.488979
+Max system velocity: 0.214601
+Time: 0.26
+Force on wheel: 103.016, -7.95104, 185.659
+Drawbar pull coeff: 0.515078
+Max system velocity: 0.209849
+Time: 0.27
+Force on wheel: 70.1575, -1.6706, 171.308
+Drawbar pull coeff: 0.350788
+Max system velocity: 0.251753
+Time: 0.28
+Force on wheel: 98.5774, 7.15103, 189.485
+Drawbar pull coeff: 0.492887
+Max system velocity: 0.269865
+Time: 0.29
+Force on wheel: 117.537, 31.0515, 248.995
+Drawbar pull coeff: 0.587685
+Max system velocity: 0.14787
+Outputting frame: 14
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 280011
+Number of updates dynamic gets: 6835
+Number of updates kinematic gets: 6835
+Average steps per dynamic update: 40.96723
+Average steps contact detection lags behind: 81.90402
+Number of times dynamic held back: 6795
+-----------------------------
+Time: 0.3
+Force on wheel: 109.238, 11.5565, 200.392
+Drawbar pull coeff: 0.54619
+Max system velocity: 0.203707
+Time: 0.31
+Force on wheel: 99.3205, 25.327, 186.026
+Drawbar pull coeff: 0.496603
+Max system velocity: 0.192535
+Time: 0.32
+Force on wheel: 105.886, 31.6236, 202.477
+Drawbar pull coeff: 0.529431
+Max system velocity: 0.134341
+Time: 0.33
+Force on wheel: 105.403, 26.9395, 205.082
+Drawbar pull coeff: 0.527015
+Max system velocity: 0.174651
+Time: 0.34
+Force on wheel: 86.5419, 33.5988, 194.831
+Drawbar pull coeff: 0.43271
+Max system velocity: 0.187504
+Time: 0.35
+Force on wheel: 67.6008, 22.5837, 150.808
+Drawbar pull coeff: 0.338004
+Max system velocity: 0.233911
+Time: 0.36
+Force on wheel: 108.868, 13.9147, 225.288
+Drawbar pull coeff: 0.544342
+Max system velocity: 0.218731
+Time: 0.37
+Force on wheel: 63.5123, -14.0913, 156.057
+Drawbar pull coeff: 0.317561
+Max system velocity: 0.28867
+Time: 0.38
+Force on wheel: 71.0748, -28.7407, 194.984
+Drawbar pull coeff: 0.355374
+Max system velocity: 0.32497
+Time: 0.39
+Force on wheel: 78.54, -57.7848, 204.008
+Drawbar pull coeff: 0.3927
+Max system velocity: 0.328978
+Outputting frame: 15
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 300011
+Number of updates dynamic gets: 7323
+Number of updates kinematic gets: 7323
+Average steps per dynamic update: 40.96832
+Average steps contact detection lags behind: 81.9096
+Number of times dynamic held back: 7282
+-----------------------------
+Time: 0.4
+Force on wheel: 79.9635, -48.5262, 193.777
+Drawbar pull coeff: 0.399817
+Max system velocity: 0.2885
+Time: 0.41
+Force on wheel: 70.3822, -31.4582, 194.8
+Drawbar pull coeff: 0.351911
+Max system velocity: 0.350613
+Time: 0.42
+Force on wheel: 70.4722, -36.7384, 207.539
+Drawbar pull coeff: 0.352361
+Max system velocity: 0.440806
+Time: 0.43
+Force on wheel: 56.0487, -23.3162, 190.28
+Drawbar pull coeff: 0.280243
+Max system velocity: 0.527121
+Time: 0.44
+Force on wheel: 54.8166, -9.68332, 192.715
+Drawbar pull coeff: 0.274083
+Max system velocity: 0.407411
+Time: 0.45
+Force on wheel: 40.5437, -20.1367, 205.681
+Drawbar pull coeff: 0.202718
+Max system velocity: 0.193465
+Time: 0.46
+Force on wheel: 33.1724, -26.5142, 202.428
+Drawbar pull coeff: 0.165862
+Max system velocity: 0.190435
+Time: 0.47
+Force on wheel: 46.8521, -22.3297, 191.814
+Drawbar pull coeff: 0.234261
+Max system velocity: 0.176698
+Time: 0.48
+Force on wheel: 27.0542, -37.3957, 218.615
+Drawbar pull coeff: 0.135271
+Max system velocity: 0.205547
+Time: 0.49
+Force on wheel: 14.7887, -43.5425, 169.655
+Drawbar pull coeff: 0.0739433
+Max system velocity: 0.216238
+Outputting frame: 16
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 320011
+Number of updates dynamic gets: 7811
+Number of updates kinematic gets: 7811
+Average steps per dynamic update: 40.96927
+Average steps contact detection lags behind: 81.91384
+Number of times dynamic held back: 7768
+-----------------------------
+Time: 0.5
+Force on wheel: 31.2382, -33.7861, 213.543
+Drawbar pull coeff: 0.156191
+Max system velocity: 0.159257
+Time: 0.51
+Force on wheel: 41.9793, -33.1179, 218.665
+Drawbar pull coeff: 0.209896
+Max system velocity: 0.146692
+Time: 0.52
+Force on wheel: 21.8079, -32.5874, 182.803
+Drawbar pull coeff: 0.10904
+Max system velocity: 0.150975
+Time: 0.53
+Force on wheel: 21.1154, -27.1078, 206.452
+Drawbar pull coeff: 0.105577
+Max system velocity: 0.0991701
+Time: 0.54
+Force on wheel: 34.283, -16.1982, 201.131
+Drawbar pull coeff: 0.171415
+Max system velocity: 0.123034
+Time: 0.55
+Force on wheel: 43.8508, -8.16066, 200.677
+Drawbar pull coeff: 0.219254
+Max system velocity: 0.0940881
+Time: 0.56
+Force on wheel: 47.5353, -3.59539, 199.784
+Drawbar pull coeff: 0.237676
+Max system velocity: 0.113731
+Time: 0.57
+Force on wheel: 64.8184, 10.734, 206.311
+Drawbar pull coeff: 0.324092
+Max system velocity: 0.0830804
+Time: 0.58
+Force on wheel: 51.6932, 7.26144, 195.828
+Drawbar pull coeff: 0.258466
+Max system velocity: 0.100151
+Time: 0.59
+Force on wheel: 42.1981, 18.0123, 196.505
+Drawbar pull coeff: 0.210991
+Max system velocity: 0.0815824
+Outputting frame: 17
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 340011
+Number of updates dynamic gets: 8299
+Number of updates kinematic gets: 8299
+Average steps per dynamic update: 40.97012
+Average steps contact detection lags behind: 81.91577
+Number of times dynamic held back: 8251
+-----------------------------
+Time: 0.6
+Force on wheel: 60.5851, 23.9527, 196.176
+Drawbar pull coeff: 0.302926
+Max system velocity: 0.0856992
+Time: 0.61
+Force on wheel: 50.9709, 19.1371, 193.079
+Drawbar pull coeff: 0.254855
+Max system velocity: 0.124988
+Time: 0.62
+Force on wheel: 40.3951, 5.22393, 190.239
+Drawbar pull coeff: 0.201975
+Max system velocity: 0.093447
+Time: 0.63
+Force on wheel: 36.3925, -1.15722, 169.13
+Drawbar pull coeff: 0.181962
+Max system velocity: 0.115118
+Time: 0.64
+Force on wheel: 41.7351, 20.7712, 198.322
+Drawbar pull coeff: 0.208675
+Max system velocity: 0.153186
+Time: 0.65
+Force on wheel: 36.3355, 17.682, 195.788
+Drawbar pull coeff: 0.181677
+Max system velocity: 0.151203
+Time: 0.66
+Force on wheel: 39.1529, 11.1478, 197.465
+Drawbar pull coeff: 0.195765
+Max system velocity: 0.12894
+Time: 0.67
+Force on wheel: 35.1452, 22.002, 198.825
+Drawbar pull coeff: 0.175726
+Max system velocity: 0.144029
+Time: 0.68
+Force on wheel: 31.8468, 13.4991, 189.003
+Drawbar pull coeff: 0.159234
+Max system velocity: 0.129987
+Time: 0.69
+Force on wheel: 31.9788, 9.33474, 197.789
+Drawbar pull coeff: 0.159894
+Max system velocity: 0.147752
+Outputting frame: 18
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 360011
+Number of updates dynamic gets: 8787
+Number of updates kinematic gets: 8787
+Average steps per dynamic update: 40.97087
+Average steps contact detection lags behind: 81.91954
+Number of times dynamic held back: 8738
+-----------------------------
+Time: 0.7
+Force on wheel: 51.7971, 18.6758, 184.78
+Drawbar pull coeff: 0.258986
+Max system velocity: 0.223637
+Time: 0.71
+Force on wheel: 46.534, 26.4967, 193.717
+Drawbar pull coeff: 0.23267
+Max system velocity: 0.30432
+Time: 0.72
+Force on wheel: 4.63573, 22.7332, 146.482
+Drawbar pull coeff: 0.0231786
+Max system velocity: 0.367689
+Time: 0.73
+Force on wheel: 28.6092, 2.65339, 202.187
+Drawbar pull coeff: 0.143046
+Max system velocity: 0.368868
+Time: 0.74
+Force on wheel: 8.44715, 0.696574, 176.639
+Drawbar pull coeff: 0.0422357
+Max system velocity: 0.452076
+Time: 0.75
+Force on wheel: 97.2192, 32.3072, 286.591
+Drawbar pull coeff: 0.486096
+Max system velocity: 0.33689
+Time: 0.76
+Force on wheel: 141.79, -4.50832, 233.869
+Drawbar pull coeff: 0.708952
+Max system velocity: 0.219074
+Time: 0.77
+Force on wheel: 124.123, 3.24795, 184.058
+Drawbar pull coeff: 0.620615
+Max system velocity: 0.23422
+Time: 0.78
+Force on wheel: 149.454, 4.82812, 234.603
+Drawbar pull coeff: 0.747271
+Max system velocity: 0.233729
+Time: 0.79
+Force on wheel: 110.003, 15.2896, 179.825
+Drawbar pull coeff: 0.550017
+Max system velocity: 0.298674
+Outputting frame: 19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 380011
+Number of updates dynamic gets: 9275
+Number of updates kinematic gets: 9275
+Average steps per dynamic update: 40.97154
+Average steps contact detection lags behind: 81.92
+Number of times dynamic held back: 9221
+-----------------------------
+Time: 0.8
+Force on wheel: 126.868, 24.1246, 210.771
+Drawbar pull coeff: 0.634342
+Max system velocity: 0.382505
+Time: 0.81
+Force on wheel: 98.367, 7.89052, 203.305
+Drawbar pull coeff: 0.491835
+Max system velocity: 0.313359
+Time: 0.82
+Force on wheel: 50.5813, 10.4062, 179.255
+Drawbar pull coeff: 0.252907
+Max system velocity: 0.314157
+Time: 0.83
+Force on wheel: 89.0953, -12.3383, 222.013
+Drawbar pull coeff: 0.445477
+Max system velocity: 0.314854
+Time: 0.84
+Force on wheel: 85.1049, 7.74345, 163.637
+Drawbar pull coeff: 0.425525
+Max system velocity: 0.356557
+Time: 0.85
+Force on wheel: 116.348, -7.01415, 213.723
+Drawbar pull coeff: 0.581739
+Max system velocity: 0.217612
+Time: 0.86
+Force on wheel: 91.3999, 26.0958, 174.389
+Drawbar pull coeff: 0.457
+Max system velocity: 0.235932
+Time: 0.87
+Force on wheel: 122.692, 13.1481, 239.058
+Drawbar pull coeff: 0.61346
+Max system velocity: 0.173534
+Time: 0.88
+Force on wheel: 123.852, -4.23805, 204.388
+Drawbar pull coeff: 0.61926
+Max system velocity: 0.135278
+Time: 0.89
+Force on wheel: 96.9996, -13.2925, 173.14
+Drawbar pull coeff: 0.484998
+Max system velocity: 0.186956
+Outputting frame: 20
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 400011
+Number of updates dynamic gets: 9763
+Number of updates kinematic gets: 9763
+Average steps per dynamic update: 40.97214
+Average steps contact detection lags behind: 81.92369
+Number of times dynamic held back: 9708
+-----------------------------
+Time: 0.9
+Force on wheel: 159.442, 7.65506, 253.734
+Drawbar pull coeff: 0.797211
+Max system velocity: 0.170107
+Time: 0.91
+Force on wheel: 122.889, 4.33071, 200.801
+Drawbar pull coeff: 0.614447
+Max system velocity: 0.180064
+Time: 0.92
+Force on wheel: 136.632, 1.9827, 221.067
+Drawbar pull coeff: 0.68316
+Max system velocity: 0.200158
+Time: 0.93
+Force on wheel: 141.212, 13.7295, 211.826
+Drawbar pull coeff: 0.706061
+Max system velocity: 0.231982
+Time: 0.94
+Force on wheel: 114.468, 10.0149, 177.813
+Drawbar pull coeff: 0.572338
+Max system velocity: 0.140568
+Time: 0.95
+Force on wheel: 130.589, 0.0714159, 220.539
+Drawbar pull coeff: 0.652943
+Max system velocity: 0.153249
+Time: 0.96
+Force on wheel: 115.79, -0.743148, 185.429
+Drawbar pull coeff: 0.57895
+Max system velocity: 0.16757
+Time: 0.97
+Force on wheel: 104.735, -14.7211, 194.116
+Drawbar pull coeff: 0.523673
+Max system velocity: 0.198476
+Time: 0.98
+Force on wheel: 104.044, -9.78574, 187.098
+Drawbar pull coeff: 0.520218
+Max system velocity: 0.209675
+Time: 0.99
+Force on wheel: 106.144, -11.8037, 207.991
+Drawbar pull coeff: 0.53072
+Max system velocity: 0.168086
+Outputting frame: 21
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 420011
+Number of updates dynamic gets: 10251
+Number of updates kinematic gets: 10251
+Average steps per dynamic update: 40.97269
+Average steps contact detection lags behind: 81.92635
+Number of times dynamic held back: 10194
+-----------------------------
+Time: 1
+Force on wheel: 91.5865, -24.9747, 186.1
+Drawbar pull coeff: 0.457932
+Max system velocity: 0.202127
+Time: 1.01
+Force on wheel: 105.419, -33.4806, 211.844
+Drawbar pull coeff: 0.527096
+Max system velocity: 0.156515
+Time: 1.02
+Force on wheel: 102.653, -18.3448, 192.497
+Drawbar pull coeff: 0.513267
+Max system velocity: 0.180282
+Time: 1.03
+Force on wheel: 113.758, -14.0718, 214.706
+Drawbar pull coeff: 0.568792
+Max system velocity: 0.162175
+Time: 1.04
+Force on wheel: 123.084, -6.86086, 184.588
+Drawbar pull coeff: 0.615421
+Max system velocity: 0.154636
+Time: 1.05
+Force on wheel: 147.255, -0.412724, 201.447
+Drawbar pull coeff: 0.736275
+Max system velocity: 0.171036
+Time: 1.06
+Force on wheel: 144.472, -8.37899, 202.881
+Drawbar pull coeff: 0.722362
+Max system velocity: 0.197699
+Time: 1.07
+Force on wheel: 144.81, -14.4345, 203.917
+Drawbar pull coeff: 0.724052
+Max system velocity: 0.154472
+Time: 1.08
+Force on wheel: 128.4, -7.55457, 189.931
+Drawbar pull coeff: 0.641998
+Max system velocity: 0.181738
+Time: 1.09
+Force on wheel: 94.7194, -13.5418, 160.592
+Drawbar pull coeff: 0.473597
+Max system velocity: 0.201448
+Outputting frame: 22
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 440011
+Number of updates dynamic gets: 10739
+Number of updates kinematic gets: 10739
+Average steps per dynamic update: 40.97318
+Average steps contact detection lags behind: 81.92783
+Number of times dynamic held back: 10678
+-----------------------------
+Time: 1.1
+Force on wheel: 112.071, -12.8329, 211.233
+Drawbar pull coeff: 0.560356
+Max system velocity: 0.235694
+Time: 1.11
+Force on wheel: 84.0724, -6.16655, 201.772
+Drawbar pull coeff: 0.420362
+Max system velocity: 0.261407
+Time: 1.12
+Force on wheel: 73.105, -8.51068, 190.489
+Drawbar pull coeff: 0.365525
+Max system velocity: 0.352303
+Time: 1.13
+Force on wheel: 67.6372, 40.6203, 220.889
+Drawbar pull coeff: 0.338186
+Max system velocity: 0.354546
+Time: 1.14
+Force on wheel: 53.0521, -1.57943, 168.047
+Drawbar pull coeff: 0.26526
+Max system velocity: 0.305523
+Time: 1.15
+Force on wheel: 85.0688, 33.3504, 310.99
+Drawbar pull coeff: 0.425344
+Max system velocity: 0.290879
+Time: 1.16
+Force on wheel: 14.1837, 12.4829, 125.645
+Drawbar pull coeff: 0.0709184
+Max system velocity: 0.554345
+Time: 1.17
+Force on wheel: 48.6151, 14.4173, 228.42
+Drawbar pull coeff: 0.243076
+Max system velocity: 0.518782
+Time: 1.18
+Force on wheel: 45.8489, 9.72054, 198.968
+Drawbar pull coeff: 0.229245
+Max system velocity: 0.399452
+Time: 1.19
+Force on wheel: 64.4965, 23.2969, 183.249
+Drawbar pull coeff: 0.322483
+Max system velocity: 0.306774
+Outputting frame: 23
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 460011
+Number of updates dynamic gets: 11227
+Number of updates kinematic gets: 11227
+Average steps per dynamic update: 40.97363
+Average steps contact detection lags behind: 81.92981
+Number of times dynamic held back: 11163
+-----------------------------
+Time: 1.2
+Force on wheel: 102.078, 4.50493, 203.121
+Drawbar pull coeff: 0.510392
+Max system velocity: 0.288741
+Time: 1.21
+Force on wheel: 59.607, 9.49278, 196.95
+Drawbar pull coeff: 0.298035
+Max system velocity: 0.274734
+Time: 1.22
+Force on wheel: 60.9741, 20.3942, 171.938
+Drawbar pull coeff: 0.30487
+Max system velocity: 0.30646
+Time: 1.23
+Force on wheel: 45.1849, 31.0735, 158.738
+Drawbar pull coeff: 0.225925
+Max system velocity: 0.286521
+Time: 1.24
+Force on wheel: 76.3042, 46.4619, 179.315
+Drawbar pull coeff: 0.381521
+Max system velocity: 0.233035
+Time: 1.25
+Force on wheel: 77.1737, 57.6215, 239.048
+Drawbar pull coeff: 0.385868
+Max system velocity: 0.269969
+Time: 1.26
+Force on wheel: 48.2858, 4.96416, 182.793
+Drawbar pull coeff: 0.241429
+Max system velocity: 0.314727
+Time: 1.27
+Force on wheel: 78.4377, 10.4995, 253.651
+Drawbar pull coeff: 0.392189
+Max system velocity: 0.23745
+Time: 1.28
+Force on wheel: 53.1964, -1.84975, 196.505
+Drawbar pull coeff: 0.265982
+Max system velocity: 0.193842
+Time: 1.29
+Force on wheel: 51.8445, 4.41045, 206.482
+Drawbar pull coeff: 0.259223
+Max system velocity: 0.192534
+Outputting frame: 24
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 480011
+Number of updates dynamic gets: 11715
+Number of updates kinematic gets: 11715
+Average steps per dynamic update: 40.97405
+Average steps contact detection lags behind: 81.93205
+Number of times dynamic held back: 11650
+-----------------------------
+Time: 1.3
+Force on wheel: 42.8741, -11.4538, 190.091
+Drawbar pull coeff: 0.21437
+Max system velocity: 0.265991
+Time: 1.31
+Force on wheel: 67.9373, -5.32974, 189.538
+Drawbar pull coeff: 0.339686
+Max system velocity: 0.15131
+Time: 1.32
+Force on wheel: 97.197, 5.49605, 240.342
+Drawbar pull coeff: 0.485985
+Max system velocity: 0.130203
+Time: 1.33
+Force on wheel: 74.011, 14.5727, 200.287
+Drawbar pull coeff: 0.370055
+Max system velocity: 0.170016
+Time: 1.34
+Force on wheel: 65.9653, 35.9744, 187.845
+Drawbar pull coeff: 0.329827
+Max system velocity: 0.165115
+Time: 1.35
+Force on wheel: 53.779, 40.9348, 207.72
+Drawbar pull coeff: 0.268895
+Max system velocity: 0.229561
+Time: 1.36
+Force on wheel: 54.6483, 46.6754, 212.916
+Drawbar pull coeff: 0.273241
+Max system velocity: 0.165942
+Time: 1.37
+Force on wheel: 76.2713, 44.0257, 212.919
+Drawbar pull coeff: 0.381356
+Max system velocity: 0.188713
+Time: 1.38
+Force on wheel: 69.1193, 29.8715, 189.354
+Drawbar pull coeff: 0.345597
+Max system velocity: 0.147501
+Time: 1.39
+Force on wheel: 93.949, 42.9317, 209.062
+Drawbar pull coeff: 0.469745
+Max system velocity: 0.158182
+Outputting frame: 25
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 500011
+Number of updates dynamic gets: 12203
+Number of updates kinematic gets: 12203
+Average steps per dynamic update: 40.97443
+Average steps contact detection lags behind: 81.93313
+Number of times dynamic held back: 12135
+-----------------------------
+Time: 1.4
+Force on wheel: 88.0131, 36.4854, 208.623
+Drawbar pull coeff: 0.440066
+Max system velocity: 0.159308
+Time: 1.41
+Force on wheel: 82.6605, 23.4287, 195.584
+Drawbar pull coeff: 0.413303
+Max system velocity: 0.236344
+Time: 1.42
+Force on wheel: 72.5535, 29.7732, 178.914
+Drawbar pull coeff: 0.362767
+Max system velocity: 0.219541
+Time: 1.43
+Force on wheel: 74.191, 27.4018, 190.232
+Drawbar pull coeff: 0.370955
+Max system velocity: 0.21039
+Time: 1.44
+Force on wheel: 64.7263, 33.0624, 215.548
+Drawbar pull coeff: 0.323632
+Max system velocity: 0.27416
+Time: 1.45
+Force on wheel: 68.3581, 16.094, 164.592
+Drawbar pull coeff: 0.341791
+Max system velocity: 0.267154
+Time: 1.46
+Force on wheel: 81.5487, 15.0407, 202.588
+Drawbar pull coeff: 0.407743
+Max system velocity: 0.16345
+Time: 1.47
+Force on wheel: 69.3636, 6.26431, 187.779
+Drawbar pull coeff: 0.346818
+Max system velocity: 0.190558
+Time: 1.48
+Force on wheel: 85.4041, 7.62566, 190.668
+Drawbar pull coeff: 0.427021
+Max system velocity: 0.206216
+Time: 1.49
+Force on wheel: 107.82, -0.302443, 214.285
+Drawbar pull coeff: 0.539099
+Max system velocity: 0.185665
+Outputting frame: 26
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 520011
+Number of updates dynamic gets: 12691
+Number of updates kinematic gets: 12691
+Average steps per dynamic update: 40.97479
+Average steps contact detection lags behind: 81.93428
+Number of times dynamic held back: 12619
+-----------------------------
+Time: 1.5
+Force on wheel: 71.6186, 4.49096, 180.964
+Drawbar pull coeff: 0.358093
+Max system velocity: 0.216439
+Time: 1.51
+Force on wheel: 87.3835, 8.69231, 227.601
+Drawbar pull coeff: 0.436917
+Max system velocity: 0.268681
+Time: 1.52
+Force on wheel: 83.1233, 12.5092, 188.397
+Drawbar pull coeff: 0.415617
+Max system velocity: 0.166933
+Time: 1.53
+Force on wheel: 92.6911, 16.4093, 203.526
+Drawbar pull coeff: 0.463456
+Max system velocity: 0.19204
+Time: 1.54
+Force on wheel: 102.665, 3.04944, 206.811
+Drawbar pull coeff: 0.513327
+Max system velocity: 0.168601
+Time: 1.55
+Force on wheel: 101.664, -8.36392, 184.567
+Drawbar pull coeff: 0.508319
+Max system velocity: 0.179578
+Time: 1.56
+Force on wheel: 134.116, 0.560147, 212.011
+Drawbar pull coeff: 0.670581
+Max system velocity: 0.212937
+Time: 1.57
+Force on wheel: 100.242, 3.82776, 155.036
+Drawbar pull coeff: 0.501208
+Max system velocity: 0.202215
+Time: 1.58
+Force on wheel: 97.6557, 2.19368, 198.511
+Drawbar pull coeff: 0.488279
+Max system velocity: 0.268226
+Time: 1.59
+Force on wheel: 107.977, -3.19901, 201.77
+Drawbar pull coeff: 0.539884
+Max system velocity: 0.186907
+Outputting frame: 27
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 540011
+Number of updates dynamic gets: 13180
+Number of updates kinematic gets: 13180
+Average steps per dynamic update: 40.972
+Average steps contact detection lags behind: 81.93293
+Number of times dynamic held back: 13100
+-----------------------------
+Time: 1.6
+Force on wheel: 122.848, -25.3186, 238.211
+Drawbar pull coeff: 0.614241
+Max system velocity: 0.194019
+Time: 1.61
+Force on wheel: 96.6057, -3.50556, 185.008
+Drawbar pull coeff: 0.483028
+Max system velocity: 0.16462
+Time: 1.62
+Force on wheel: 106.626, -15.0512, 204.87
+Drawbar pull coeff: 0.533131
+Max system velocity: 0.176559
+Time: 1.63
+Force on wheel: 109.028, -24.1035, 210.101
+Drawbar pull coeff: 0.545139
+Max system velocity: 0.171926
+Time: 1.64
+Force on wheel: 122.642, 6.32377, 210.041
+Drawbar pull coeff: 0.61321
+Max system velocity: 0.200609
+Time: 1.65
+Force on wheel: 96.7715, -22.023, 184.552
+Drawbar pull coeff: 0.483858
+Max system velocity: 0.247997
+Time: 1.66
+Force on wheel: 89.539, -40.2648, 187.858
+Drawbar pull coeff: 0.447695
+Max system velocity: 0.266723
+Time: 1.67
+Force on wheel: 75.7887, 17.9738, 225.847
+Drawbar pull coeff: 0.378943
+Max system velocity: 0.251831
+Time: 1.68
+Force on wheel: 62.7796, 19.1025, 175.038
+Drawbar pull coeff: 0.313898
+Max system velocity: 0.181234
+Time: 1.69
+Force on wheel: 96.9352, 6.64712, 278.825
+Drawbar pull coeff: 0.484676
+Max system velocity: 0.134951
+Outputting frame: 28
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 560011
+Number of updates dynamic gets: 13668
+Number of updates kinematic gets: 13668
+Average steps per dynamic update: 40.97242
+Average steps contact detection lags behind: 81.93057
+Number of times dynamic held back: 13585
+-----------------------------
+Time: 1.7
+Force on wheel: 39.838, 3.40669, 169.61
+Drawbar pull coeff: 0.19919
+Max system velocity: 0.168773
+Time: 1.71
+Force on wheel: 51.2063, 12.8828, 204.301
+Drawbar pull coeff: 0.256031
+Max system velocity: 0.229112
+Time: 1.72
+Force on wheel: 50.6913, 6.20748, 202.359
+Drawbar pull coeff: 0.253456
+Max system velocity: 0.161922
+Time: 1.73
+Force on wheel: 58.6319, 12.2538, 204.145
+Drawbar pull coeff: 0.29316
+Max system velocity: 0.147278
+Time: 1.74
+Force on wheel: 79.3469, 25.4832, 205.997
+Drawbar pull coeff: 0.396734
+Max system velocity: 0.177119
+Time: 1.75
+Force on wheel: 60.1899, 24.219, 195.487
+Drawbar pull coeff: 0.300949
+Max system velocity: 0.147675
+Time: 1.76
+Force on wheel: 65.5186, 12.394, 194.514
+Drawbar pull coeff: 0.327593
+Max system velocity: 0.184207
+Time: 1.77
+Force on wheel: 66.2152, 9.53588, 216.274
+Drawbar pull coeff: 0.331076
+Max system velocity: 0.187902
+Time: 1.78
+Force on wheel: 47.5745, 8.65108, 200.527
+Drawbar pull coeff: 0.237872
+Max system velocity: 0.202123
+Time: 1.79
+Force on wheel: 57.859, 8.69472, 197.346
+Drawbar pull coeff: 0.289295
+Max system velocity: 0.238701
+Outputting frame: 29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 580011
+Number of updates dynamic gets: 14156
+Number of updates kinematic gets: 14156
+Average steps per dynamic update: 40.9728
+Average steps contact detection lags behind: 81.93148
+Number of times dynamic held back: 14068
+-----------------------------
+Time: 1.8
+Force on wheel: 56.111, 5.90033, 197.41
+Drawbar pull coeff: 0.280555
+Max system velocity: 0.156834
+Time: 1.81
+Force on wheel: 39.021, 4.50105, 172.739
+Drawbar pull coeff: 0.195105
+Max system velocity: 0.228041
+Time: 1.82
+Force on wheel: 34.9103, 7.38109, 188.692
+Drawbar pull coeff: 0.174551
+Max system velocity: 0.146314
+Time: 1.83
+Force on wheel: 33.1784, 10.9517, 183.765
+Drawbar pull coeff: 0.165892
+Max system velocity: 0.162756
+Time: 1.84
+Force on wheel: 25.7312, 15.1874, 192.882
+Drawbar pull coeff: 0.128656
+Max system velocity: 0.21719
+Time: 1.85
+Force on wheel: 37.5095, 25.4807, 225.899
+Drawbar pull coeff: 0.187548
+Max system velocity: 0.281469
+Time: 1.86
+Force on wheel: 32.2545, 16.767, 216.874
+Drawbar pull coeff: 0.161272
+Max system velocity: 0.319651
+Time: 1.87
+Force on wheel: 18.1576, 0.108473, 210.157
+Drawbar pull coeff: 0.090788
+Max system velocity: 0.387084
+Time: 1.88
+Force on wheel: 35.4124, -0.512955, 194.148
+Drawbar pull coeff: 0.177062
+Max system velocity: 0.462107
+Time: 1.89
+Force on wheel: 51.5683, -5.58233, 196.587
+Drawbar pull coeff: 0.257841
+Max system velocity: 0.524446
+Outputting frame: 30
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 600011
+Number of updates dynamic gets: 14644
+Number of updates kinematic gets: 14644
+Average steps per dynamic update: 40.97316
+Average steps contact detection lags behind: 81.93287
+Number of times dynamic held back: 14553
+-----------------------------
+Time: 1.9
+Force on wheel: 44.7988, -2.51253, 190.725
+Drawbar pull coeff: 0.223994
+Max system velocity: 0.607733
+Time: 1.91
+Force on wheel: 46.5902, 3.65939, 188.344
+Drawbar pull coeff: 0.232951
+Max system velocity: 0.674094
+Time: 1.92
+Force on wheel: 16.8652, -9.72428, 140.348
+Drawbar pull coeff: 0.0843261
+Max system velocity: 0.772967
+Time: 1.93
+Force on wheel: -3.18996, -0.104319, 246.38
+Drawbar pull coeff: -0.0159498
+Max system velocity: 0.872185
+Time: 1.94
+Force on wheel: 10.6699, 11.5761, 156.391
+Drawbar pull coeff: 0.0533496
+Max system velocity: 0.601209
+Time: 1.95
+Force on wheel: 15.7741, 6.94651, 156.464
+Drawbar pull coeff: 0.0788707
+Max system velocity: 0.352215
+Time: 1.96
+Force on wheel: 19.9659, 1.65821, 205.983
+Drawbar pull coeff: 0.0998295
+Max system velocity: 0.294709
+Time: 1.97
+Force on wheel: 68.4375, 18.0981, 174.115
+Drawbar pull coeff: 0.342187
+Max system velocity: 0.359014
+Time: 1.98
+Force on wheel: 39.91, -4.38857, 242.014
+Drawbar pull coeff: 0.19955
+Max system velocity: 0.318072
+Time: 1.99
+Force on wheel: 32.7125, 16.9464, 173.713
+Drawbar pull coeff: 0.163563
+Max system velocity: 0.254342
+Outputting frame: 31
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 620011
+Number of updates dynamic gets: 15132
+Number of updates kinematic gets: 15132
+Average steps per dynamic update: 40.9735
+Average steps contact detection lags behind: 81.93438
+Number of times dynamic held back: 15039
+-----------------------------
+Time: 2
+Force on wheel: 23.1559, 15.0391, 239.826
+Drawbar pull coeff: 0.115779
+Max system velocity: 0.296255
+Time: 2.01
+Force on wheel: 50.7758, 10.4362, 224.377
+Drawbar pull coeff: 0.253879
+Max system velocity: 0.361281
+Time: 2.02
+Force on wheel: 30.8655, 8.4484, 224.889
+Drawbar pull coeff: 0.154328
+Max system velocity: 0.244752
+Time: 2.03
+Force on wheel: 50.363, 29.4544, 190.921
+Drawbar pull coeff: 0.251815
+Max system velocity: 0.289531
+Time: 2.04
+Force on wheel: 82.2459, 3.94928, 257.325
+Drawbar pull coeff: 0.41123
+Max system velocity: 0.274166
+Time: 2.05
+Force on wheel: 37.8167, 8.01415, 140.679
+Drawbar pull coeff: 0.189083
+Max system velocity: 0.251438
+Time: 2.06
+Force on wheel: 70.0624, 0.212315, 254.427
+Drawbar pull coeff: 0.350312
+Max system velocity: 0.231867
+Time: 2.07
+Force on wheel: 80.1711, -5.86125, 203.645
+Drawbar pull coeff: 0.400855
+Max system velocity: 0.133976
+Time: 2.08
+Force on wheel: 85.0161, 3.5592, 207.773
+Drawbar pull coeff: 0.425081
+Max system velocity: 0.21119
+Time: 2.09
+Force on wheel: 110.138, 7.56279, 224.487
+Drawbar pull coeff: 0.550691
+Max system velocity: 0.159712
+Outputting frame: 32
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 640011
+Number of updates dynamic gets: 15620
+Number of updates kinematic gets: 15620
+Average steps per dynamic update: 40.97382
+Average steps contact detection lags behind: 81.93496
+Number of times dynamic held back: 15522
+-----------------------------
+Time: 2.1
+Force on wheel: 64.4684, 16.8844, 164.767
+Drawbar pull coeff: 0.322342
+Max system velocity: 0.222109
+Time: 2.11
+Force on wheel: 72.1926, 13.9257, 189.991
+Drawbar pull coeff: 0.360963
+Max system velocity: 0.267473
+Time: 2.12
+Force on wheel: 70.9307, 11.9743, 198.641
+Drawbar pull coeff: 0.354653
+Max system velocity: 0.304352
+Time: 2.13
+Force on wheel: 63.9517, 20.1957, 204.373
+Drawbar pull coeff: 0.319758
+Max system velocity: 0.291932
+Time: 2.14
+Force on wheel: 65.9661, 23.7526, 193.066
+Drawbar pull coeff: 0.329831
+Max system velocity: 0.254591
+Time: 2.15
+Force on wheel: 66.5434, 1.88253, 194.188
+Drawbar pull coeff: 0.332717
+Max system velocity: 0.23552
+Time: 2.16
+Force on wheel: 79.2994, 1.77424, 186.292
+Drawbar pull coeff: 0.396497
+Max system velocity: 0.331022
+Time: 2.17
+Force on wheel: 68.2338, -3.93349, 202.827
+Drawbar pull coeff: 0.341169
+Max system velocity: 0.223477
+Time: 2.18
+Force on wheel: 78.3373, -2.04094, 218.095
+Drawbar pull coeff: 0.391686
+Max system velocity: 0.130589
+Time: 2.19
+Force on wheel: 81.0566, -24.8563, 197.913
+Drawbar pull coeff: 0.405283
+Max system velocity: 0.160671
+Outputting frame: 33
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 660011
+Number of updates dynamic gets: 16108
+Number of updates kinematic gets: 16108
+Average steps per dynamic update: 40.97411
+Average steps contact detection lags behind: 81.93612
+Number of times dynamic held back: 16008
+-----------------------------
+Time: 2.2
+Force on wheel: 95.5621, -19.5068, 225.649
+Drawbar pull coeff: 0.47781
+Max system velocity: 0.183758
+Time: 2.21
+Force on wheel: 88.7405, -31.7489, 192.351
+Drawbar pull coeff: 0.443703
+Max system velocity: 0.172668
+Time: 2.22
+Force on wheel: 97.6366, -32.8332, 215.704
+Drawbar pull coeff: 0.488183
+Max system velocity: 0.105493
+Time: 2.23
+Force on wheel: 82.4768, -38.4292, 182.848
+Drawbar pull coeff: 0.412384
+Max system velocity: 0.143517
+Time: 2.24
+Force on wheel: 85.3565, -40.3065, 183.665
+Drawbar pull coeff: 0.426782
+Max system velocity: 0.197366
+Time: 2.25
+Force on wheel: 97.4041, -42.153, 202.477
+Drawbar pull coeff: 0.487021
+Max system velocity: 0.155194
+Time: 2.26
+Force on wheel: 99.8945, -52.3827, 214.528
+Drawbar pull coeff: 0.499472
+Max system velocity: 0.146098
+Time: 2.27
+Force on wheel: 102.886, -43.9338, 219.104
+Drawbar pull coeff: 0.514428
+Max system velocity: 0.118191
+Time: 2.28
+Force on wheel: 93.0833, -41.1679, 205.028
+Drawbar pull coeff: 0.465417
+Max system velocity: 0.0955849
+Time: 2.29
+Force on wheel: 59.1966, -37.3951, 151.272
+Drawbar pull coeff: 0.295983
+Max system velocity: 0.169264
+Outputting frame: 34
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 680011
+Number of updates dynamic gets: 16596
+Number of updates kinematic gets: 16596
+Average steps per dynamic update: 40.97439
+Average steps contact detection lags behind: 81.93697
+Number of times dynamic held back: 16493
+-----------------------------
+Time: 2.3
+Force on wheel: 73.2125, -45.8433, 181.846
+Drawbar pull coeff: 0.366063
+Max system velocity: 0.189673
+Time: 2.31
+Force on wheel: 88.5341, -58.4374, 219.469
+Drawbar pull coeff: 0.44267
+Max system velocity: 0.151716
+Time: 2.32
+Force on wheel: 72.1783, -52.1679, 194.077
+Drawbar pull coeff: 0.360891
+Max system velocity: 0.150854
+Time: 2.33
+Force on wheel: 79.2237, -46.1662, 208.804
+Drawbar pull coeff: 0.396119
+Max system velocity: 0.169741
+Time: 2.34
+Force on wheel: 61.1252, -50.612, 191.431
+Drawbar pull coeff: 0.305626
+Max system velocity: 0.173383
+Time: 2.35
+Force on wheel: 53.0153, -67.0472, 208.888
+Drawbar pull coeff: 0.265076
+Max system velocity: 0.230608
+Time: 2.36
+Force on wheel: 49.0625, -56.8828, 189.391
+Drawbar pull coeff: 0.245313
+Max system velocity: 0.143799
+Time: 2.37
+Force on wheel: 44.1944, -42.6971, 194.522
+Drawbar pull coeff: 0.220972
+Max system velocity: 0.105726
+Time: 2.38
+Force on wheel: 32.9381, -44.9893, 197.027
+Drawbar pull coeff: 0.16469
+Max system velocity: 0.110055
+Time: 2.39
+Force on wheel: 27.2291, -46.5206, 182.485
+Drawbar pull coeff: 0.136145
+Max system velocity: 0.150719
+Outputting frame: 35
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 700011
+Number of updates dynamic gets: 17084
+Number of updates kinematic gets: 17084
+Average steps per dynamic update: 40.97465
+Average steps contact detection lags behind: 81.9379
+Number of times dynamic held back: 16979
+-----------------------------
+Time: 2.4
+Force on wheel: 25.7952, -55.7466, 188.159
+Drawbar pull coeff: 0.128976
+Max system velocity: 0.18433
+Time: 2.41
+Force on wheel: 44.921, -21.2392, 223.928
+Drawbar pull coeff: 0.224605
+Max system velocity: 0.232107
+Time: 2.42
+Force on wheel: 29.8589, -13.3197, 157.763
+Drawbar pull coeff: 0.149295
+Max system velocity: 0.204646
+Time: 2.43
+Force on wheel: 6.93817, -45.2235, 203.282
+Drawbar pull coeff: 0.0346909
+Max system velocity: 0.21084
+Time: 2.44
+Force on wheel: 65.6623, -14.5166, 215.139
+Drawbar pull coeff: 0.328311
+Max system velocity: 0.257964
+Time: 2.45
+Force on wheel: 103.063, 44.9806, 196.07
+Drawbar pull coeff: 0.515313
+Max system velocity: 0.283214
+Time: 2.46
+Force on wheel: 79.9313, 1.93215, 182.221
+Drawbar pull coeff: 0.399656
+Max system velocity: 0.316358
+Time: 2.47
+Force on wheel: 170.834, 32.5752, 262.759
+Drawbar pull coeff: 0.85417
+Max system velocity: 0.230985
+Time: 2.48
+Force on wheel: 128.427, 29.7263, 185.038
+Drawbar pull coeff: 0.642136
+Max system velocity: 0.257157
+Time: 2.49
+Force on wheel: 97.9643, 8.38391, 177.195
+Drawbar pull coeff: 0.489822
+Max system velocity: 0.245328
+Outputting frame: 36
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 720011
+Number of updates dynamic gets: 17572
+Number of updates kinematic gets: 17572
+Average steps per dynamic update: 40.9749
+Average steps contact detection lags behind: 81.93916
+Number of times dynamic held back: 17466
+-----------------------------
+Time: 2.5
+Force on wheel: 117.347, 13.0502, 205.312
+Drawbar pull coeff: 0.586736
+Max system velocity: 0.227212
+Time: 2.51
+Force on wheel: 101.752, 7.90425, 181.721
+Drawbar pull coeff: 0.508761
+Max system velocity: 0.254935
+Time: 2.52
+Force on wheel: 77.9522, 8.52969, 196.978
+Drawbar pull coeff: 0.389761
+Max system velocity: 0.214652
+Time: 2.53
+Force on wheel: 59.8546, -13.6582, 214.169
+Drawbar pull coeff: 0.299273
+Max system velocity: 0.25452
+Time: 2.54
+Force on wheel: 37.8484, -10.497, 175.974
+Drawbar pull coeff: 0.189242
+Max system velocity: 0.292615
+Time: 2.55
+Force on wheel: 21.4391, -5.8852, 191.741
+Drawbar pull coeff: 0.107196
+Max system velocity: 0.360673
+Time: 2.56
+Force on wheel: 47.9047, -3.4296, 170.467
+Drawbar pull coeff: 0.239524
+Max system velocity: 0.423969
+Time: 2.57
+Force on wheel: 112.878, 7.98171, 231.691
+Drawbar pull coeff: 0.564391
+Max system velocity: 0.241146
+Time: 2.58
+Force on wheel: 125.763, -3.53297, 243.401
+Drawbar pull coeff: 0.628813
+Max system velocity: 0.185999
+Time: 2.59
+Force on wheel: 124.595, -19.5253, 217.675
+Drawbar pull coeff: 0.622975
+Max system velocity: 0.173436
+Outputting frame: 37
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 740011
+Number of updates dynamic gets: 18060
+Number of updates kinematic gets: 18060
+Average steps per dynamic update: 40.97514
+Average steps contact detection lags behind: 81.93976
+Number of times dynamic held back: 17951
+-----------------------------
+Time: 2.6
+Force on wheel: 117.635, -19.6011, 198.561
+Drawbar pull coeff: 0.588177
+Max system velocity: 0.126013
+Time: 2.61
+Force on wheel: 129.292, -29.7942, 213.357
+Drawbar pull coeff: 0.646461
+Max system velocity: 0.176888
+Time: 2.62
+Force on wheel: 140.671, -26.4673, 196.469
+Drawbar pull coeff: 0.703353
+Max system velocity: 0.152013
+Time: 2.63
+Force on wheel: 124.319, -32.7078, 198.637
+Drawbar pull coeff: 0.621594
+Max system velocity: 0.19543
+Time: 2.64
+Force on wheel: 136.075, -10.367, 217.942
+Drawbar pull coeff: 0.680375
+Max system velocity: 0.298805
+Time: 2.65
+Force on wheel: 102.551, 2.01761, 182.919
+Drawbar pull coeff: 0.512755
+Max system velocity: 0.486056
+Time: 2.66
+Force on wheel: 98.098, 11.4814, 213.611
+Drawbar pull coeff: 0.49049
+Max system velocity: 0.268741
+Time: 2.67
+Force on wheel: 87.4751, 3.32194, 197.58
+Drawbar pull coeff: 0.437375
+Max system velocity: 0.288229
+Time: 2.68
+Force on wheel: 86.9823, -11.5887, 234.589
+Drawbar pull coeff: 0.434912
+Max system velocity: 0.180597
+Time: 2.69
+Force on wheel: 110.818, -1.73766, 226.897
+Drawbar pull coeff: 0.554092
+Max system velocity: 0.195213
+Outputting frame: 38
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 760011
+Number of updates dynamic gets: 18548
+Number of updates kinematic gets: 18548
+Average steps per dynamic update: 40.97536
+Average steps contact detection lags behind: 81.93989
+Number of times dynamic held back: 18435
+-----------------------------
+Time: 2.7
+Force on wheel: 97.3843, 4.25612, 193.828
+Drawbar pull coeff: 0.486921
+Max system velocity: 0.156328
+Time: 2.71
+Force on wheel: 108.982, 13.6889, 194.664
+Drawbar pull coeff: 0.54491
+Max system velocity: 0.191955
+Time: 2.72
+Force on wheel: 99.7054, 22.617, 195.149
+Drawbar pull coeff: 0.498527
+Max system velocity: 0.155244
+Time: 2.73
+Force on wheel: 90.6556, 25.4129, 195.432
+Drawbar pull coeff: 0.453278
+Max system velocity: 0.139188
+Time: 2.74
+Force on wheel: 81.8757, 30.3303, 192.839
+Drawbar pull coeff: 0.409378
+Max system velocity: 0.121013
+Time: 2.75
+Force on wheel: 80.6722, 26.3919, 206.888
+Drawbar pull coeff: 0.403361
+Max system velocity: 0.107871
+Time: 2.76
+Force on wheel: 74.7668, 27.4255, 196.53
+Drawbar pull coeff: 0.373834
+Max system velocity: 0.123713
+Time: 2.77
+Force on wheel: 69.9838, 31.1406, 195.309
+Drawbar pull coeff: 0.349919
+Max system velocity: 0.145138
+Time: 2.78
+Force on wheel: 65.5459, 33.9044, 175.452
+Drawbar pull coeff: 0.32773
+Max system velocity: 0.160928
+Time: 2.79
+Force on wheel: 88.6383, 32.9465, 221.772
+Drawbar pull coeff: 0.443191
+Max system velocity: 0.171505
+Outputting frame: 39
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 780011
+Number of updates dynamic gets: 19036
+Number of updates kinematic gets: 19036
+Average steps per dynamic update: 40.97557
+Average steps contact detection lags behind: 81.94064
+Number of times dynamic held back: 18921
+-----------------------------
+Time: 2.8
+Force on wheel: 70.5751, 30.6792, 179.772
+Drawbar pull coeff: 0.352876
+Max system velocity: 0.114396
+Time: 2.81
+Force on wheel: 71.5447, 35.2036, 175.877
+Drawbar pull coeff: 0.357724
+Max system velocity: 0.158004
+Time: 2.82
+Force on wheel: 75.3133, 23.6934, 200.884
+Drawbar pull coeff: 0.376566
+Max system velocity: 0.180902
+Time: 2.83
+Force on wheel: 64.9247, 25.7982, 177.921
+Drawbar pull coeff: 0.324624
+Max system velocity: 0.156982
+Time: 2.84
+Force on wheel: 68.8988, 32.3491, 216.457
+Drawbar pull coeff: 0.344494
+Max system velocity: 0.196564
+Time: 2.85
+Force on wheel: 52.9328, 27.4361, 197.906
+Drawbar pull coeff: 0.264664
+Max system velocity: 0.153326
+Time: 2.86
+Force on wheel: 58.7544, 15.9798, 202.628
+Drawbar pull coeff: 0.293772
+Max system velocity: 0.154086
+Time: 2.87
+Force on wheel: 53.615, 11.2605, 191.017
+Drawbar pull coeff: 0.268075
+Max system velocity: 0.17621
+Time: 2.88
+Force on wheel: 61.1074, 28.9145, 212.151
+Drawbar pull coeff: 0.305537
+Max system velocity: 0.165502
+Time: 2.89
+Force on wheel: 67.6523, 41.2444, 195.109
+Drawbar pull coeff: 0.338262
+Max system velocity: 0.212711
+Outputting frame: 40
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 800011
+Number of updates dynamic gets: 19524
+Number of updates kinematic gets: 19524
+Average steps per dynamic update: 40.97577
+Average steps contact detection lags behind: 81.94161
+Number of times dynamic held back: 19406
+-----------------------------
+Time: 2.9
+Force on wheel: 72.9896, 36.4366, 218.688
+Drawbar pull coeff: 0.364948
+Max system velocity: 0.109612
+Time: 2.91
+Force on wheel: 64.8915, 11.5103, 190.358
+Drawbar pull coeff: 0.324458
+Max system velocity: 0.135187
+Time: 2.92
+Force on wheel: 64.4255, 35.8599, 195.197
+Drawbar pull coeff: 0.322127
+Max system velocity: 0.159142
+Time: 2.93
+Force on wheel: 61.2771, 27.5749, 179.745
+Drawbar pull coeff: 0.306385
+Max system velocity: 0.252499
+Time: 2.94
+Force on wheel: 63.2096, 11.1697, 194.719
+Drawbar pull coeff: 0.316048
+Max system velocity: 0.248413
+Time: 2.95
+Force on wheel: 75.7736, 11.0908, 224.898
+Drawbar pull coeff: 0.378868
+Max system velocity: 0.287283
+Time: 2.96
+Force on wheel: 95.5925, 42.072, 234.47
+Drawbar pull coeff: 0.477963
+Max system velocity: 0.223642
+Time: 2.97
+Force on wheel: 79.9323, 30.025, 193.696
+Drawbar pull coeff: 0.399662
+Max system velocity: 0.237679
+Time: 2.98
+Force on wheel: 92.0947, 36.7167, 202.032
+Drawbar pull coeff: 0.460474
+Max system velocity: 0.204401
+Time: 2.99
+Force on wheel: 87.3113, 55.7128, 204.56
+Drawbar pull coeff: 0.436556
+Max system velocity: 0.186417
+Outputting frame: 41
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 820011
+Number of updates dynamic gets: 20012
+Number of updates kinematic gets: 20012
+Average steps per dynamic update: 40.97596
+Average steps contact detection lags behind: 81.94213
+Number of times dynamic held back: 19892
+-----------------------------
+Time: 3
+Force on wheel: 73.6759, 44.2457, 181
+Drawbar pull coeff: 0.36838
+Max system velocity: 0.151788
+Time: 3.01
+Force on wheel: 84.6325, 43.6469, 217.595
+Drawbar pull coeff: 0.423162
+Max system velocity: 0.121088
+Time: 3.02
+Force on wheel: 69.4074, 40.5203, 187.304
+Drawbar pull coeff: 0.347037
+Max system velocity: 0.137912
+Time: 3.03
+Force on wheel: 69.942, 40.8504, 194.199
+Drawbar pull coeff: 0.34971
+Max system velocity: 0.158309
+Time: 3.04
+Force on wheel: 63.5182, 32.9175, 187.856
+Drawbar pull coeff: 0.317591
+Max system velocity: 0.177904
+Time: 3.05
+Force on wheel: 51.2738, 18.6738, 161.115
+Drawbar pull coeff: 0.256369
+Max system velocity: 0.188741
+Time: 3.06
+Force on wheel: 77.7828, 38.869, 202.363
+Drawbar pull coeff: 0.388914
+Max system velocity: 0.181816
+Time: 3.07
+Force on wheel: 51.5152, 26.1312, 136.524
+Drawbar pull coeff: 0.257576
+Max system velocity: 0.244559
+Time: 3.08
+Force on wheel: 98.3528, 41.4229, 206.517
+Drawbar pull coeff: 0.491764
+Max system velocity: 0.337185
+Time: 3.09
+Force on wheel: 85.4631, -10.9111, 207.679
+Drawbar pull coeff: 0.427316
+Max system velocity: 0.349053
+Outputting frame: 42
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 840011
+Number of updates dynamic gets: 20500
+Number of updates kinematic gets: 20500
+Average steps per dynamic update: 40.97615
+Average steps contact detection lags behind: 81.94244
+Number of times dynamic held back: 20377
+-----------------------------
+Time: 3.1
+Force on wheel: 83.6975, 2.15969, 192.698
+Drawbar pull coeff: 0.418487
+Max system velocity: 0.55375
+Time: 3.11
+Force on wheel: 93.17, 20.3301, 220.04
+Drawbar pull coeff: 0.46585
+Max system velocity: 0.419769
+Time: 3.12
+Force on wheel: 48.8038, 11.0381, 183.298
+Drawbar pull coeff: 0.244019
+Max system velocity: 0.359139
+Time: 3.13
+Force on wheel: 170.289, 43.7577, 304.948
+Drawbar pull coeff: 0.851443
+Max system velocity: 0.271753
+Time: 3.14
+Force on wheel: 125.25, 38.5278, 181.763
+Drawbar pull coeff: 0.626248
+Max system velocity: 0.235159
+Time: 3.15
+Force on wheel: 102.681, 35.5499, 164.863
+Drawbar pull coeff: 0.513407
+Max system velocity: 0.222101
+Time: 3.16
+Force on wheel: 158.13, 57.6432, 252.602
+Drawbar pull coeff: 0.790651
+Max system velocity: 0.211658
+Time: 3.17
+Force on wheel: 131.079, 64.0424, 207.998
+Drawbar pull coeff: 0.655397
+Max system velocity: 0.211728
+Time: 3.18
+Force on wheel: 107.124, 48.9046, 185.21
+Drawbar pull coeff: 0.535619
+Max system velocity: 0.214385
+Time: 3.19
+Force on wheel: 124.83, 72.0511, 224.546
+Drawbar pull coeff: 0.624149
+Max system velocity: 0.22067
+Outputting frame: 43
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 860011
+Number of updates dynamic gets: 20988
+Number of updates kinematic gets: 20988
+Average steps per dynamic update: 40.97632
+Average steps contact detection lags behind: 81.9434
+Number of times dynamic held back: 20864
+-----------------------------
+Time: 3.2
+Force on wheel: 83.2373, 48.0712, 173.34
+Drawbar pull coeff: 0.416187
+Max system velocity: 0.236725
+Time: 3.21
+Force on wheel: 61.8721, 43.2918, 135.78
+Drawbar pull coeff: 0.309361
+Max system velocity: 0.207115
+Time: 3.22
+Force on wheel: 122.755, 60.6694, 212.722
+Drawbar pull coeff: 0.613773
+Max system velocity: 0.233384
+Time: 3.23
+Force on wheel: 108.162, 39.1392, 192.443
+Drawbar pull coeff: 0.54081
+Max system velocity: 0.264676
+Time: 3.24
+Force on wheel: 83.0045, 33.5042, 196.647
+Drawbar pull coeff: 0.415022
+Max system velocity: 0.270624
+Time: 3.25
+Force on wheel: 68.4981, 43.379, 222.194
+Drawbar pull coeff: 0.34249
+Max system velocity: 0.260291
+Time: 3.26
+Force on wheel: 66.3265, 39.7394, 203.066
+Drawbar pull coeff: 0.331632
+Max system velocity: 0.214817
+Time: 3.27
+Force on wheel: 17.2777, 19.0165, 180.767
+Drawbar pull coeff: 0.0863887
+Max system velocity: 0.198924
+Time: 3.28
+Force on wheel: 40.9836, 32.708, 216.411
+Drawbar pull coeff: 0.204918
+Max system velocity: 0.228161
+Time: 3.29
+Force on wheel: 50.2814, 32.8771, 218.523
+Drawbar pull coeff: 0.251407
+Max system velocity: 0.278033
+Outputting frame: 44
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 880011
+Number of updates dynamic gets: 21476
+Number of updates kinematic gets: 21476
+Average steps per dynamic update: 40.97649
+Average steps contact detection lags behind: 81.94403
+Number of times dynamic held back: 21350
+-----------------------------
+Time: 3.3
+Force on wheel: 72.9245, 56.7951, 225.094
+Drawbar pull coeff: 0.364622
+Max system velocity: 0.334562
+Time: 3.31
+Force on wheel: 70.9671, 76.3781, 202.033
+Drawbar pull coeff: 0.354836
+Max system velocity: 0.215219
+Time: 3.32
+Force on wheel: 53.9439, 54.2599, 174.489
+Drawbar pull coeff: 0.26972
+Max system velocity: 0.154234
+Time: 3.33
+Force on wheel: 64.4744, 58.0056, 216.041
+Drawbar pull coeff: 0.322372
+Max system velocity: 0.239751
+Time: 3.34
+Force on wheel: 65.7427, 49.8076, 215.287
+Drawbar pull coeff: 0.328714
+Max system velocity: 0.141045
+Time: 3.35
+Force on wheel: 72.382, 40.2475, 207.93
+Drawbar pull coeff: 0.36191
+Max system velocity: 0.115358
+Time: 3.36
+Force on wheel: 62.3754, 36.4661, 182.495
+Drawbar pull coeff: 0.311877
+Max system velocity: 0.134965
+Time: 3.37
+Force on wheel: 63.5284, 21.4361, 212.208
+Drawbar pull coeff: 0.317642
+Max system velocity: 0.134811
+Time: 3.38
+Force on wheel: 60.4664, 27.9093, 196.473
+Drawbar pull coeff: 0.302332
+Max system velocity: 0.154164
+Time: 3.39
+Force on wheel: 63.7898, 31.8125, 194.611
+Drawbar pull coeff: 0.318949
+Max system velocity: 0.126996
+Outputting frame: 45
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 900011
+Number of updates dynamic gets: 21964
+Number of updates kinematic gets: 21964
+Average steps per dynamic update: 40.97664
+Average steps contact detection lags behind: 81.94427
+Number of times dynamic held back: 21835
+-----------------------------
+Time: 3.4
+Force on wheel: 93.1972, 34.0596, 203.877
+Drawbar pull coeff: 0.465986
+Max system velocity: 0.118595
+Time: 3.41
+Force on wheel: 78.5561, 39.0639, 189.154
+Drawbar pull coeff: 0.39278
+Max system velocity: 0.170535
+Time: 3.42
+Force on wheel: 93.3808, 50.9484, 205.104
+Drawbar pull coeff: 0.466904
+Max system velocity: 0.13297
+Time: 3.43
+Force on wheel: 59.1393, 43.0776, 190.724
+Drawbar pull coeff: 0.295696
+Max system velocity: 0.170402
+Time: 3.44
+Force on wheel: 82.2182, 51.84, 208.54
+Drawbar pull coeff: 0.411091
+Max system velocity: 0.201951
+Time: 3.45
+Force on wheel: 86.9881, 47.7392, 179.029
+Drawbar pull coeff: 0.43494
+Max system velocity: 0.234029
+Time: 3.46
+Force on wheel: 64.7365, 51.1901, 184.926
+Drawbar pull coeff: 0.323682
+Max system velocity: 0.192067
+Time: 3.47
+Force on wheel: 77.7827, 50.8045, 209.068
+Drawbar pull coeff: 0.388913
+Max system velocity: 0.17212
+Time: 3.48
+Force on wheel: 53.9079, 39.2724, 204.216
+Drawbar pull coeff: 0.269539
+Max system velocity: 0.168528
+Time: 3.49
+Force on wheel: 40.0821, 28.9119, 197.317
+Drawbar pull coeff: 0.200411
+Max system velocity: 0.151021
+Outputting frame: 46
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 920011
+Number of updates dynamic gets: 22452
+Number of updates kinematic gets: 22452
+Average steps per dynamic update: 40.97679
+Average steps contact detection lags behind: 81.94477
+Number of times dynamic held back: 22320
+-----------------------------
+Time: 3.5
+Force on wheel: 40.1258, 39.8394, 210.089
+Drawbar pull coeff: 0.200629
+Max system velocity: 0.204709
+Time: 3.51
+Force on wheel: 55.1012, 54.7435, 224.974
+Drawbar pull coeff: 0.275506
+Max system velocity: 0.177033
+Time: 3.52
+Force on wheel: 71.9566, 43.3804, 209.65
+Drawbar pull coeff: 0.359783
+Max system velocity: 0.169957
+Time: 3.53
+Force on wheel: 31.3329, 11.4554, 138.342
+Drawbar pull coeff: 0.156665
+Max system velocity: 0.19909
+Time: 3.54
+Force on wheel: 39.5568, 17.0245, 218.323
+Drawbar pull coeff: 0.197784
+Max system velocity: 0.191735
+Time: 3.55
+Force on wheel: 82.7344, 9.70465, 225.072
+Drawbar pull coeff: 0.413672
+Max system velocity: 0.214302
+Time: 3.56
+Force on wheel: 50.961, 9.84696, 166.338
+Drawbar pull coeff: 0.254805
+Max system velocity: 0.238147
+Time: 3.57
+Force on wheel: 42.9094, -10.0474, 204.735
+Drawbar pull coeff: 0.214547
+Max system velocity: 0.275545
+Time: 3.58
+Force on wheel: 27.2557, 19.2047, 181.629
+Drawbar pull coeff: 0.136278
+Max system velocity: 0.291283
+Time: 3.59
+Force on wheel: 56.0339, 29.6926, 211.42
+Drawbar pull coeff: 0.28017
+Max system velocity: 0.197562
+Outputting frame: 47
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 940011
+Number of updates dynamic gets: 22940
+Number of updates kinematic gets: 22940
+Average steps per dynamic update: 40.97694
+Average steps contact detection lags behind: 81.94503
+Number of times dynamic held back: 22802
+-----------------------------
+Time: 3.6
+Force on wheel: 67.2268, 23.6113, 226.339
+Drawbar pull coeff: 0.336134
+Max system velocity: 0.191799
+Time: 3.61
+Force on wheel: 50.4831, 11.0506, 205.489
+Drawbar pull coeff: 0.252416
+Max system velocity: 0.195052
+Time: 3.62
+Force on wheel: 49.0306, 2.90851, 194.491
+Drawbar pull coeff: 0.245153
+Max system velocity: 0.211934
+Time: 3.63
+Force on wheel: 61.8011, 23.1463, 215.474
+Drawbar pull coeff: 0.309005
+Max system velocity: 0.228326
+Time: 3.64
+Force on wheel: 68.2173, 29.2071, 202.689
+Drawbar pull coeff: 0.341087
+Max system velocity: 0.239127
+Time: 3.65
+Force on wheel: 66.2084, 27.9993, 180.19
+Drawbar pull coeff: 0.331042
+Max system velocity: 0.264327
+Time: 3.66
+Force on wheel: 82.8623, 35.6159, 196.739
+Drawbar pull coeff: 0.414312
+Max system velocity: 0.296335
+Time: 3.67
+Force on wheel: 85.0752, 37.1126, 191.365
+Drawbar pull coeff: 0.425376
+Max system velocity: 0.33521
+Time: 3.68
+Force on wheel: 77.11, 41.2407, 189.394
+Drawbar pull coeff: 0.38555
+Max system velocity: 0.181337
+Time: 3.69
+Force on wheel: 76.3251, 50.2003, 189.491
+Drawbar pull coeff: 0.381626
+Max system velocity: 0.203012
+Outputting frame: 48
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 960011
+Number of updates dynamic gets: 23428
+Number of updates kinematic gets: 23428
+Average steps per dynamic update: 40.97708
+Average steps contact detection lags behind: 81.94583
+Number of times dynamic held back: 23289
+-----------------------------
+Time: 3.7
+Force on wheel: 73.1591, 35.1837, 200.566
+Drawbar pull coeff: 0.365796
+Max system velocity: 0.151017
+Time: 3.71
+Force on wheel: 36.8021, 16.333, 172.805
+Drawbar pull coeff: 0.18401
+Max system velocity: 0.162479
+Time: 3.72
+Force on wheel: 21.6604, 19.0108, 223.952
+Drawbar pull coeff: 0.108302
+Max system velocity: 0.169302
+Time: 3.73
+Force on wheel: 3.95681, 8.99159, 178.128
+Drawbar pull coeff: 0.0197841
+Max system velocity: 0.200176
+Time: 3.74
+Force on wheel: 3.97917, 15.6601, 202.329
+Drawbar pull coeff: 0.0198958
+Max system velocity: 0.148656
+Time: 3.75
+Force on wheel: 3.96939, 20.007, 173.643
+Drawbar pull coeff: 0.0198469
+Max system velocity: 0.262344
+Time: 3.76
+Force on wheel: 9.45695, 18.4395, 198.528
+Drawbar pull coeff: 0.0472847
+Max system velocity: 0.245841
+Time: 3.77
+Force on wheel: 35.7217, 45.9738, 195.344
+Drawbar pull coeff: 0.178608
+Max system velocity: 0.232179
+Time: 3.78
+Force on wheel: 64.3631, 45.5959, 257.279
+Drawbar pull coeff: 0.321815
+Max system velocity: 0.180074
+Time: 3.79
+Force on wheel: 29.6957, -14.3993, 181.339
+Drawbar pull coeff: 0.148478
+Max system velocity: 0.209239
+Outputting frame: 49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 980011
+Number of updates dynamic gets: 23916
+Number of updates kinematic gets: 23916
+Average steps per dynamic update: 40.97721
+Average steps contact detection lags behind: 81.94606
+Number of times dynamic held back: 23773
+-----------------------------
+Time: 3.8
+Force on wheel: 70.8115, 19.473, 234.885
+Drawbar pull coeff: 0.354057
+Max system velocity: 0.196864
+Time: 3.81
+Force on wheel: 49.9237, 13.9117, 162.816
+Drawbar pull coeff: 0.249619
+Max system velocity: 0.164292
+Time: 3.82
+Force on wheel: 107.984, 51.17, 254.989
+Drawbar pull coeff: 0.539921
+Max system velocity: 0.194502
+Time: 3.83
+Force on wheel: 75.1921, 37.7009, 197.657
+Drawbar pull coeff: 0.375961
+Max system velocity: 0.155094
+Time: 3.84
+Force on wheel: 63.8787, 23.3583, 196.334
+Drawbar pull coeff: 0.319394
+Max system velocity: 0.169897
+Time: 3.85
+Force on wheel: 71.3869, 37.2358, 191.424
+Drawbar pull coeff: 0.356935
+Max system velocity: 0.165242
+Time: 3.86
+Force on wheel: 83.6867, 46.213, 174.417
+Drawbar pull coeff: 0.418433
+Max system velocity: 0.187165
+Time: 3.87
+Force on wheel: 82.5091, 45.4156, 198.027
+Drawbar pull coeff: 0.412545
+Max system velocity: 0.200913
+Time: 3.88
+Force on wheel: 105.306, 64.9478, 212.788
+Drawbar pull coeff: 0.52653
+Max system velocity: 0.15994
+Time: 3.89
+Force on wheel: 82.7879, 59.311, 178.832
+Drawbar pull coeff: 0.413939
+Max system velocity: 0.169148
+Outputting frame: 50
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1000011
+Number of updates dynamic gets: 24405
+Number of updates kinematic gets: 24405
+Average steps per dynamic update: 40.97566
+Average steps contact detection lags behind: 81.94575
+Number of times dynamic held back: 24258
+-----------------------------
+Time: 3.9
+Force on wheel: 100.432, 53.5512, 209.207
+Drawbar pull coeff: 0.502159
+Max system velocity: 0.18205
+Time: 3.91
+Force on wheel: 78.1778, 46.772, 191.972
+Drawbar pull coeff: 0.390889
+Max system velocity: 0.21532
+Time: 3.92
+Force on wheel: 88.3903, 46.7552, 195.579
+Drawbar pull coeff: 0.441951
+Max system velocity: 0.237152
+Time: 3.93
+Force on wheel: 87.8106, 49.7357, 184.616
+Drawbar pull coeff: 0.439053
+Max system velocity: 0.207748
+Time: 3.94
+Force on wheel: 83.8614, 50.8911, 200.585
+Drawbar pull coeff: 0.419307
+Max system velocity: 0.246392
+Time: 3.95
+Force on wheel: 76.709, 48.5399, 225.561
+Drawbar pull coeff: 0.383545
+Max system velocity: 0.231995
+Time: 3.96
+Force on wheel: 32.4246, 25.9148, 178.287
+Drawbar pull coeff: 0.162123
+Max system velocity: 0.165641
+Time: 3.97
+Force on wheel: 60.3505, 45.9841, 237.143
+Drawbar pull coeff: 0.301753
+Max system velocity: 0.155475
+Time: 3.98
+Force on wheel: 45.573, 40.5045, 188.287
+Drawbar pull coeff: 0.227865
+Max system velocity: 0.181509
+Time: 3.99
+Force on wheel: 38.1789, 25.0602, 192.008
+Drawbar pull coeff: 0.190895
+Max system velocity: 0.147545
+Outputting frame: 51
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1020011
+Number of updates dynamic gets: 24893
+Number of updates kinematic gets: 24893
+Average steps per dynamic update: 40.97582
+Average steps contact detection lags behind: 81.94356
+Number of times dynamic held back: 24739
+-----------------------------
+Time: 4
+Force on wheel: 69.3189, 47.4111, 208.792
+Drawbar pull coeff: 0.346595
+Max system velocity: 0.152883
+Time: 4.01
+Force on wheel: 82.446, 45.5729, 192.986
+Drawbar pull coeff: 0.41223
+Max system velocity: 0.173115
+Time: 4.02
+Force on wheel: 75.8715, 31.7473, 208.772
+Drawbar pull coeff: 0.379358
+Max system velocity: 0.191546
+Time: 4.03
+Force on wheel: 54.6942, 28.9745, 169.567
+Drawbar pull coeff: 0.273471
+Max system velocity: 0.216307
+Time: 4.04
+Force on wheel: 95.286, 40.4381, 218.017
+Drawbar pull coeff: 0.47643
+Max system velocity: 0.216558
+Time: 4.05
+Force on wheel: 70.281, 44.6711, 204.499
+Drawbar pull coeff: 0.351405
+Max system velocity: 0.185559
+Time: 4.06
+Force on wheel: 66.0759, 48.2022, 227.194
+Drawbar pull coeff: 0.33038
+Max system velocity: 0.17614
+Time: 4.07
+Force on wheel: 71.5164, 48.6564, 205.031
+Drawbar pull coeff: 0.357582
+Max system velocity: 0.148222
+Time: 4.08
+Force on wheel: 79.692, 43.8527, 182.923
+Drawbar pull coeff: 0.39846
+Max system velocity: 0.186302
+Time: 4.09
+Force on wheel: 98.0727, 41.5373, 214.704
+Drawbar pull coeff: 0.490364
+Max system velocity: 0.131685
+Outputting frame: 52
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1040011
+Number of updates dynamic gets: 25381
+Number of updates kinematic gets: 25381
+Average steps per dynamic update: 40.97597
+Average steps contact detection lags behind: 81.9439
+Number of times dynamic held back: 25225
+-----------------------------
+Time: 4.1
+Force on wheel: 89.8807, 19.6684, 191.592
+Drawbar pull coeff: 0.449403
+Max system velocity: 0.171172
+Time: 4.11
+Force on wheel: 91.7585, 25.4535, 194.728
+Drawbar pull coeff: 0.458793
+Max system velocity: 0.179834
+Time: 4.12
+Force on wheel: 84.9377, 21.8736, 213.453
+Drawbar pull coeff: 0.424689
+Max system velocity: 0.15451
+Time: 4.13
+Force on wheel: 69.3104, 14.9667, 193.934
+Drawbar pull coeff: 0.346552
+Max system velocity: 0.177795
+Time: 4.14
+Force on wheel: 76.2407, 18.107, 208.917
+Drawbar pull coeff: 0.381203
+Max system velocity: 0.153917
+Time: 4.15
+Force on wheel: 72.7457, 21.4597, 191.398
+Drawbar pull coeff: 0.363728
+Max system velocity: 0.138295
+Time: 4.16
+Force on wheel: 75.0718, 22.9501, 200.082
+Drawbar pull coeff: 0.375359
+Max system velocity: 0.101604
+Time: 4.17
+Force on wheel: 72.3796, 24.0939, 192.906
+Drawbar pull coeff: 0.361898
+Max system velocity: 0.140987
+Time: 4.18
+Force on wheel: 61.9596, 21.3828, 185.112
+Drawbar pull coeff: 0.309798
+Max system velocity: 0.172766
+Time: 4.19
+Force on wheel: 66.188, 25.8211, 204.892
+Drawbar pull coeff: 0.33094
+Max system velocity: 0.206694
+Outputting frame: 53
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1060011
+Number of updates dynamic gets: 25869
+Number of updates kinematic gets: 25869
+Average steps per dynamic update: 40.97611
+Average steps contact detection lags behind: 81.94461
+Number of times dynamic held back: 25711
+-----------------------------
+Time: 4.2
+Force on wheel: 59.1223, 29.1882, 189.17
+Drawbar pull coeff: 0.295611
+Max system velocity: 0.223774
+Time: 4.21
+Force on wheel: 60.6148, 19.4496, 219.388
+Drawbar pull coeff: 0.303074
+Max system velocity: 0.187823
+Time: 4.22
+Force on wheel: 71.3358, 30.8268, 194.735
+Drawbar pull coeff: 0.356679
+Max system velocity: 0.182147
+Time: 4.23
+Force on wheel: 76.5056, 34.6144, 210.235
+Drawbar pull coeff: 0.382528
+Max system velocity: 0.209384
+Time: 4.24
+Force on wheel: 71.3232, 35.7781, 211.268
+Drawbar pull coeff: 0.356616
+Max system velocity: 0.117237
+Time: 4.25
+Force on wheel: 77.0547, 41.3933, 219.982
+Drawbar pull coeff: 0.385274
+Max system velocity: 0.157935
+Time: 4.26
+Force on wheel: 60.5302, 25.5977, 183.164
+Drawbar pull coeff: 0.302651
+Max system velocity: 0.186939
+Time: 4.27
+Force on wheel: 60.4423, 22.8325, 192.569
+Drawbar pull coeff: 0.302211
+Max system velocity: 0.144194
+Time: 4.28
+Force on wheel: 50.7393, 19.8835, 188.396
+Drawbar pull coeff: 0.253697
+Max system velocity: 0.173313
+Time: 4.29
+Force on wheel: 42.6081, 9.78565, 183.323
+Drawbar pull coeff: 0.21304
+Max system velocity: 0.208412
+Outputting frame: 54
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1080011
+Number of updates dynamic gets: 26357
+Number of updates kinematic gets: 26357
+Average steps per dynamic update: 40.97625
+Average steps contact detection lags behind: 81.94525
+Number of times dynamic held back: 26197
+-----------------------------
+Time: 4.3
+Force on wheel: 45.3267, 6.19471, 225.859
+Drawbar pull coeff: 0.226634
+Max system velocity: 0.249132
+Time: 4.31
+Force on wheel: 30.7877, -2.87715, 189.615
+Drawbar pull coeff: 0.153938
+Max system velocity: 0.279386
+Time: 4.32
+Force on wheel: 28.3748, 15.9219, 144.925
+Drawbar pull coeff: 0.141874
+Max system velocity: 0.259526
+Time: 4.33
+Force on wheel: 36.2757, 27.8812, 228.388
+Drawbar pull coeff: 0.181379
+Max system velocity: 0.199684
+Time: 4.34
+Force on wheel: 30.8115, 33.6983, 215.286
+Drawbar pull coeff: 0.154057
+Max system velocity: 0.23001
+Time: 4.35
+Force on wheel: 31.3858, 31.1203, 180.9
+Drawbar pull coeff: 0.156929
+Max system velocity: 0.265977
+Time: 4.36
+Force on wheel: 31.9895, 31.4188, 203.44
+Drawbar pull coeff: 0.159948
+Max system velocity: 0.315145
+Time: 4.37
+Force on wheel: 38.1829, 32.8631, 234.678
+Drawbar pull coeff: 0.190914
+Max system velocity: 0.333091
+Time: 4.38
+Force on wheel: 25.8655, 17.1192, 177.236
+Drawbar pull coeff: 0.129327
+Max system velocity: 0.224081
+Time: 4.39
+Force on wheel: 28.053, 13.2264, 215.602
+Drawbar pull coeff: 0.140265
+Max system velocity: 0.0897185
+Outputting frame: 55
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1100011
+Number of updates dynamic gets: 26845
+Number of updates kinematic gets: 26845
+Average steps per dynamic update: 40.97638
+Average steps contact detection lags behind: 81.94561
+Number of times dynamic held back: 26683
+-----------------------------
+Time: 4.4
+Force on wheel: 56.5446, 5.01903, 194.334
+Drawbar pull coeff: 0.282723
+Max system velocity: 0.18701
+Time: 4.41
+Force on wheel: 45.9634, 9.93931, 189.165
+Drawbar pull coeff: 0.229817
+Max system velocity: 0.281597
+Time: 4.42
+Force on wheel: 42.5823, 13.6952, 203.022
+Drawbar pull coeff: 0.212911
+Max system velocity: 0.214698
+Time: 4.43
+Force on wheel: 32.458, 13.8342, 185.757
+Drawbar pull coeff: 0.16229
+Max system velocity: 0.203672
+Time: 4.44
+Force on wheel: 44.3135, 2.24514, 220.235
+Drawbar pull coeff: 0.221567
+Max system velocity: 0.20353
+Time: 4.45
+Force on wheel: 39.3378, -4.16628, 192.026
+Drawbar pull coeff: 0.196689
+Max system velocity: 0.250639
+Time: 4.46
+Force on wheel: 45.6608, -10.3894, 197.935
+Drawbar pull coeff: 0.228304
+Max system velocity: 0.182391
+Time: 4.47
+Force on wheel: 39.1685, -8.88944, 195.277
+Drawbar pull coeff: 0.195843
+Max system velocity: 0.168201
+Time: 4.48
+Force on wheel: 47.4623, -14.6183, 193.199
+Drawbar pull coeff: 0.237311
+Max system velocity: 0.202545
+Time: 4.49
+Force on wheel: 43.134, -17.8388, 149.238
+Drawbar pull coeff: 0.21567
+Max system velocity: 0.241666
+Outputting frame: 56
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1120011
+Number of updates dynamic gets: 27333
+Number of updates kinematic gets: 27333
+Average steps per dynamic update: 40.97651
+Average steps contact detection lags behind: 81.94607
+Number of times dynamic held back: 27168
+-----------------------------
+Time: 4.5
+Force on wheel: 34.5916, -20.6047, 206.677
+Drawbar pull coeff: 0.172958
+Max system velocity: 0.285383
+Time: 4.51
+Force on wheel: 37.8929, -1.442, 239.485
+Drawbar pull coeff: 0.189464
+Max system velocity: 0.320581
+Time: 4.52
+Force on wheel: 26.0604, 0.582879, 198.635
+Drawbar pull coeff: 0.130302
+Max system velocity: 0.156316
+Time: 4.53
+Force on wheel: 36.0326, 7.09488, 209.579
+Drawbar pull coeff: 0.180163
+Max system velocity: 0.162786
+Time: 4.54
+Force on wheel: 25.3737, 4.59367, 181.838
+Drawbar pull coeff: 0.126869
+Max system velocity: 0.165328
+Time: 4.55
+Force on wheel: 46.6416, 15.8603, 204.448
+Drawbar pull coeff: 0.233208
+Max system velocity: 0.136353
+Time: 4.56
+Force on wheel: 51.9095, 22.241, 204.431
+Drawbar pull coeff: 0.259548
+Max system velocity: 0.142232
+Time: 4.57
+Force on wheel: 34.48, 21.0411, 174.27
+Drawbar pull coeff: 0.1724
+Max system velocity: 0.125954
+Time: 4.58
+Force on wheel: 33.1459, 19.7673, 202.192
+Drawbar pull coeff: 0.16573
+Max system velocity: 0.135518
+Time: 4.59
+Force on wheel: -5.90813, 1.94386, 170.603
+Drawbar pull coeff: -0.0295406
+Max system velocity: 0.156424
+Outputting frame: 57
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1140011
+Number of updates dynamic gets: 27821
+Number of updates kinematic gets: 27821
+Average steps per dynamic update: 40.97664
+Average steps contact detection lags behind: 81.94583
+Number of times dynamic held back: 27652
+-----------------------------
+Time: 4.6
+Force on wheel: 15.5755, 32.8335, 241.907
+Drawbar pull coeff: 0.0778774
+Max system velocity: 0.17545
+Time: 4.61
+Force on wheel: 11.4775, 27.2093, 145.487
+Drawbar pull coeff: 0.0573874
+Max system velocity: 0.185289
+Time: 4.62
+Force on wheel: 2.1562, 14.1431, 194.988
+Drawbar pull coeff: 0.010781
+Max system velocity: 0.232922
+Time: 4.63
+Force on wheel: 16.036, 26.3741, 236.151
+Drawbar pull coeff: 0.0801802
+Max system velocity: 0.216637
+Time: 4.64
+Force on wheel: 13.51, 17.5862, 170.423
+Drawbar pull coeff: 0.0675499
+Max system velocity: 0.248798
+Time: 4.65
+Force on wheel: 25.4852, 25.2016, 219.107
+Drawbar pull coeff: 0.127426
+Max system velocity: 0.125003
+Time: 4.66
+Force on wheel: 28.6927, 26.1402, 151.245
+Drawbar pull coeff: 0.143464
+Max system velocity: 0.106017
+Time: 4.67
+Force on wheel: 37.421, 44.0553, 212.381
+Drawbar pull coeff: 0.187105
+Max system velocity: 0.122793
+Time: 4.68
+Force on wheel: 18.8226, 32.0783, 178.825
+Drawbar pull coeff: 0.0941131
+Max system velocity: 0.131479
+Time: 4.69
+Force on wheel: 16.7233, 43.3438, 231.951
+Drawbar pull coeff: 0.0836167
+Max system velocity: 0.184892
+Outputting frame: 58
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1160011
+Number of updates dynamic gets: 28309
+Number of updates kinematic gets: 28309
+Average steps per dynamic update: 40.97676
+Average steps contact detection lags behind: 81.94648
+Number of times dynamic held back: 28139
+-----------------------------
+Time: 4.7
+Force on wheel: 2.56651, 36.7089, 206.777
+Drawbar pull coeff: 0.0128325
+Max system velocity: 0.139717
+Time: 4.71
+Force on wheel: 12.4292, 45.3657, 205.337
+Drawbar pull coeff: 0.0621459
+Max system velocity: 0.13535
+Time: 4.72
+Force on wheel: 26.0514, 54.1803, 216.042
+Drawbar pull coeff: 0.130257
+Max system velocity: 0.0847776
+Time: 4.73
+Force on wheel: 29.7594, 44.8662, 172.521
+Drawbar pull coeff: 0.148797
+Max system velocity: 0.0982756
+Time: 4.74
+Force on wheel: 41.0917, 54.1828, 199.045
+Drawbar pull coeff: 0.205458
+Max system velocity: 0.151597
+Time: 4.75
+Force on wheel: 52.4578, 48.9545, 217.165
+Drawbar pull coeff: 0.262289
+Max system velocity: 0.144325
+Time: 4.76
+Force on wheel: 52.4244, 38.9016, 195.373
+Drawbar pull coeff: 0.262122
+Max system velocity: 0.171955
+Time: 4.77
+Force on wheel: 55.6665, 29.0836, 189.94
+Drawbar pull coeff: 0.278332
+Max system velocity: 0.181418
+Time: 4.78
+Force on wheel: 45.2303, 27.6753, 171.837
+Drawbar pull coeff: 0.226152
+Max system velocity: 0.169337
+Time: 4.79
+Force on wheel: 51.9291, 38.6194, 224.119
+Drawbar pull coeff: 0.259645
+Max system velocity: 0.185191
+Outputting frame: 59
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1180011
+Number of updates dynamic gets: 28797
+Number of updates kinematic gets: 28797
+Average steps per dynamic update: 40.97687
+Average steps contact detection lags behind: 81.94708
+Number of times dynamic held back: 28625
+-----------------------------
+Time: 4.8
+Force on wheel: 74.0222, 32.0008, 220.254
+Drawbar pull coeff: 0.370111
+Max system velocity: 0.224497
+Time: 4.81
+Force on wheel: 69.7179, 15.9285, 180.378
+Drawbar pull coeff: 0.348589
+Max system velocity: 0.175344
+Time: 4.82
+Force on wheel: 85.1758, 32.0181, 210.669
+Drawbar pull coeff: 0.425879
+Max system velocity: 0.159867
+Time: 4.83
+Force on wheel: 57.1063, 7.48582, 195.328
+Drawbar pull coeff: 0.285531
+Max system velocity: 0.274589
+Time: 4.84
+Force on wheel: 45.4362, -4.45677, 216.939
+Drawbar pull coeff: 0.227181
+Max system velocity: 0.24921
+Time: 4.85
+Force on wheel: 75.5391, -5.63204, 203.083
+Drawbar pull coeff: 0.377696
+Max system velocity: 0.23334
+Time: 4.86
+Force on wheel: 80.5678, -5.96006, 198.707
+Drawbar pull coeff: 0.402839
+Max system velocity: 0.21699
+Time: 4.87
+Force on wheel: 85.4454, -6.23613, 206.639
+Drawbar pull coeff: 0.427227
+Max system velocity: 0.141085
+Time: 4.88
+Force on wheel: 91.1865, -11.1476, 209.229
+Drawbar pull coeff: 0.455933
+Max system velocity: 0.172398
+Time: 4.89
+Force on wheel: 96.1901, -15.3735, 208.3
+Drawbar pull coeff: 0.480951
+Max system velocity: 0.14608
+Outputting frame: 60
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1200011
+Number of updates dynamic gets: 29285
+Number of updates kinematic gets: 29285
+Average steps per dynamic update: 40.97698
+Average steps contact detection lags behind: 81.94717
+Number of times dynamic held back: 29111
+-----------------------------
+Time: 4.9
+Force on wheel: 101.955, -22.0902, 202.876
+Drawbar pull coeff: 0.509776
+Max system velocity: 0.179152
+Time: 4.91
+Force on wheel: 102.145, -22.8321, 191.684
+Drawbar pull coeff: 0.510725
+Max system velocity: 0.143006
+Time: 4.92
+Force on wheel: 133.449, -7.38845, 222.079
+Drawbar pull coeff: 0.667245
+Max system velocity: 0.150727
+Time: 4.93
+Force on wheel: 125.174, -3.06016, 213.58
+Drawbar pull coeff: 0.625869
+Max system velocity: 0.0971534
+Time: 4.94
+Force on wheel: 114.988, -0.506601, 201.172
+Drawbar pull coeff: 0.574942
+Max system velocity: 0.110538
+Time: 4.95
+Force on wheel: 119.174, -5.0034, 198.848
+Drawbar pull coeff: 0.595868
+Max system velocity: 0.098174
+Time: 4.96
+Force on wheel: 112.407, -9.6817, 197.179
+Drawbar pull coeff: 0.562033
+Max system velocity: 0.120008
+Time: 4.97
+Force on wheel: 85.2898, -18.1198, 170.478
+Drawbar pull coeff: 0.426449
+Max system velocity: 0.124193
+Time: 4.98
+Force on wheel: 99.9695, 8.28145, 201.311
+Drawbar pull coeff: 0.499848
+Max system velocity: 0.171114
+Time: 4.99
+Force on wheel: 85.4057, 12.9386, 185.665
+Drawbar pull coeff: 0.427029
+Max system velocity: 0.269397
+Outputting frame: 61
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1220011
+Number of updates dynamic gets: 29773
+Number of updates kinematic gets: 29773
+Average steps per dynamic update: 40.97709
+Average steps contact detection lags behind: 81.94764
+Number of times dynamic held back: 29597
+-----------------------------
+Time: 5
+Force on wheel: 44.0601, -10.4739, 125.81
+Drawbar pull coeff: 0.220301
+Max system velocity: 0.321014
+Time: 5.01
+Force on wheel: 61.6051, -7.74089, 186.279
+Drawbar pull coeff: 0.308025
+Max system velocity: 0.252611
+Time: 5.02
+Force on wheel: 55.3694, 14.1942, 199.805
+Drawbar pull coeff: 0.276847
+Max system velocity: 0.269706
+Time: 5.03
+Force on wheel: 54.3632, 18.2709, 181.869
+Drawbar pull coeff: 0.271816
+Max system velocity: 0.17741
+Time: 5.04
+Force on wheel: 68.9722, 14.3371, 212.492
+Drawbar pull coeff: 0.344861
+Max system velocity: 0.177967
+Time: 5.05
+Force on wheel: 58.4241, -3.21358, 225.683
+Drawbar pull coeff: 0.29212
+Max system velocity: 0.219118
+Time: 5.06
+Force on wheel: 73.1921, -15.4066, 230.793
+Drawbar pull coeff: 0.36596
+Max system velocity: 0.211623
+Time: 5.07
+Force on wheel: 77.2986, -1.4116, 198.16
+Drawbar pull coeff: 0.386493
+Max system velocity: 0.23555
+Time: 5.08
+Force on wheel: 67.7341, -6.92302, 184.261
+Drawbar pull coeff: 0.338671
+Max system velocity: 0.231851
+Time: 5.09
+Force on wheel: 50.7153, -14.0395, 189.597
+Drawbar pull coeff: 0.253576
+Max system velocity: 0.224976
+Outputting frame: 62
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1240011
+Number of updates dynamic gets: 30261
+Number of updates kinematic gets: 30261
+Average steps per dynamic update: 40.9772
+Average steps contact detection lags behind: 81.94822
+Number of times dynamic held back: 30084
+-----------------------------
+Time: 5.1
+Force on wheel: 49.4709, -11.6953, 240.39
+Drawbar pull coeff: 0.247354
+Max system velocity: 0.205625
+Time: 5.11
+Force on wheel: 62.4042, 7.0301, 192.677
+Drawbar pull coeff: 0.312021
+Max system velocity: 0.166919
+Time: 5.12
+Force on wheel: 72.697, 10.4654, 229.892
+Drawbar pull coeff: 0.363485
+Max system velocity: 0.132895
+Time: 5.13
+Force on wheel: 71.5902, 13.4172, 208.218
+Drawbar pull coeff: 0.357951
+Max system velocity: 0.131297
+Time: 5.14
+Force on wheel: 64.8745, 15.0303, 181.958
+Drawbar pull coeff: 0.324372
+Max system velocity: 0.123839
+Time: 5.15
+Force on wheel: 72.4045, 15.5104, 211.799
+Drawbar pull coeff: 0.362022
+Max system velocity: 0.157241
+Time: 5.16
+Force on wheel: 67.7279, 18.692, 199.517
+Drawbar pull coeff: 0.338639
+Max system velocity: 0.133975
+Time: 5.17
+Force on wheel: 55.4583, 13.9592, 189.795
+Drawbar pull coeff: 0.277292
+Max system velocity: 0.119688
+Time: 5.18
+Force on wheel: 72.371, 16.3806, 222.949
+Drawbar pull coeff: 0.361855
+Max system velocity: 0.107878
+Time: 5.19
+Force on wheel: 59.861, 15.6828, 172.086
+Drawbar pull coeff: 0.299305
+Max system velocity: 0.153295
+Outputting frame: 63
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1260011
+Number of updates dynamic gets: 30749
+Number of updates kinematic gets: 30749
+Average steps per dynamic update: 40.9773
+Average steps contact detection lags behind: 81.94839
+Number of times dynamic held back: 30570
+-----------------------------
+Time: 5.2
+Force on wheel: 87.2268, 17.1043, 228.538
+Drawbar pull coeff: 0.436134
+Max system velocity: 0.1742
+Time: 5.21
+Force on wheel: 70.2838, 16.5087, 177.937
+Drawbar pull coeff: 0.351419
+Max system velocity: 0.129104
+Time: 5.22
+Force on wheel: 58.8435, 14.043, 205.487
+Drawbar pull coeff: 0.294217
+Max system velocity: 0.127852
+Time: 5.23
+Force on wheel: 93.4912, 26.0035, 216.639
+Drawbar pull coeff: 0.467456
+Max system velocity: 0.112366
+Time: 5.24
+Force on wheel: 83.9279, 32.0002, 195.306
+Drawbar pull coeff: 0.419639
+Max system velocity: 0.137648
+Time: 5.25
+Force on wheel: 66.1706, 24.7916, 168.128
+Drawbar pull coeff: 0.330853
+Max system velocity: 0.138881
+Time: 5.26
+Force on wheel: 76.8479, 20.102, 177.616
+Drawbar pull coeff: 0.38424
+Max system velocity: 0.182735
+Time: 5.27
+Force on wheel: 60.0134, 22.7502, 224.389
+Drawbar pull coeff: 0.300067
+Max system velocity: 0.21312
+Time: 5.28
+Force on wheel: 86.8234, 24.3695, 234.2
+Drawbar pull coeff: 0.434117
+Max system velocity: 0.150322
+Time: 5.29
+Force on wheel: 117.822, 27.4491, 207.575
+Drawbar pull coeff: 0.589108
+Max system velocity: 0.122293
+Outputting frame: 64
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1280011
+Number of updates dynamic gets: 31237
+Number of updates kinematic gets: 31237
+Average steps per dynamic update: 40.9774
+Average steps contact detection lags behind: 81.94839
+Number of times dynamic held back: 31054
+-----------------------------
+Time: 5.3
+Force on wheel: 94.624, 23.198, 191.127
+Drawbar pull coeff: 0.47312
+Max system velocity: 0.147147
+Time: 5.31
+Force on wheel: 88.5799, 26.025, 208.616
+Drawbar pull coeff: 0.4429
+Max system velocity: 0.113602
+Time: 5.32
+Force on wheel: 84.9515, 23.8494, 188.31
+Drawbar pull coeff: 0.424757
+Max system velocity: 0.124356
+Time: 5.33
+Force on wheel: 85.8826, 24.254, 198.906
+Drawbar pull coeff: 0.429413
+Max system velocity: 0.129141
+Time: 5.34
+Force on wheel: 87.4689, 15.5985, 188.416
+Drawbar pull coeff: 0.437345
+Max system velocity: 0.142111
+Time: 5.35
+Force on wheel: 53.7789, -8.31717, 182.829
+Drawbar pull coeff: 0.268894
+Max system velocity: 0.186295
+Time: 5.36
+Force on wheel: 34.9956, -33.8113, 202.363
+Drawbar pull coeff: 0.174978
+Max system velocity: 0.215916
+Time: 5.37
+Force on wheel: 43.5893, -23.2616, 201.621
+Drawbar pull coeff: 0.217946
+Max system velocity: 0.21459
+Time: 5.38
+Force on wheel: 32.6721, -27.3794, 194.175
+Drawbar pull coeff: 0.16336
+Max system velocity: 0.186091
+Time: 5.39
+Force on wheel: 64.7538, -2.41633, 222.276
+Drawbar pull coeff: 0.323769
+Max system velocity: 0.207539
+Outputting frame: 65
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1300011
+Number of updates dynamic gets: 31725
+Number of updates kinematic gets: 31725
+Average steps per dynamic update: 40.97749
+Average steps contact detection lags behind: 81.94894
+Number of times dynamic held back: 31541
+-----------------------------
+Time: 5.4
+Force on wheel: 84.2223, 7.91805, 219.803
+Drawbar pull coeff: 0.421111
+Max system velocity: 0.187103
+Time: 5.41
+Force on wheel: 100.121, 26.3328, 191.873
+Drawbar pull coeff: 0.500605
+Max system velocity: 0.1627
+Time: 5.42
+Force on wheel: 96.9804, 36.1617, 194.942
+Drawbar pull coeff: 0.484902
+Max system velocity: 0.150542
+Time: 5.43
+Force on wheel: 83.338, 26.89, 181.59
+Drawbar pull coeff: 0.41669
+Max system velocity: 0.183249
+Time: 5.44
+Force on wheel: 76.6421, 27.792, 175.916
+Drawbar pull coeff: 0.38321
+Max system velocity: 0.234034
+Time: 5.45
+Force on wheel: 57.4507, 34.9627, 118.112
+Drawbar pull coeff: 0.287254
+Max system velocity: 0.269992
+Time: 5.46
+Force on wheel: 49.6506, 21.4405, 203.917
+Drawbar pull coeff: 0.248253
+Max system velocity: 0.28217
+Time: 5.47
+Force on wheel: 53.3136, 27.5932, 210.127
+Drawbar pull coeff: 0.266568
+Max system velocity: 0.250683
+Time: 5.48
+Force on wheel: 67.7512, 15.7015, 215.052
+Drawbar pull coeff: 0.338756
+Max system velocity: 0.30167
+Time: 5.49
+Force on wheel: 90.6759, 11.2877, 260.591
+Drawbar pull coeff: 0.45338
+Max system velocity: 0.20316
+Outputting frame: 66
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1320011
+Number of updates dynamic gets: 32213
+Number of updates kinematic gets: 32213
+Average steps per dynamic update: 40.97759
+Average steps contact detection lags behind: 81.94928
+Number of times dynamic held back: 32026
+-----------------------------
+Time: 5.5
+Force on wheel: 53.1916, 18.0874, 206.552
+Drawbar pull coeff: 0.265958
+Max system velocity: 0.179324
+Time: 5.51
+Force on wheel: 84.8623, 19.7802, 202.688
+Drawbar pull coeff: 0.424312
+Max system velocity: 0.176461
+Time: 5.52
+Force on wheel: 66.3388, 17.607, 213.574
+Drawbar pull coeff: 0.331694
+Max system velocity: 0.158715
+Time: 5.53
+Force on wheel: 118.037, 29.2525, 268.329
+Drawbar pull coeff: 0.590183
+Max system velocity: 0.149165
+Time: 5.54
+Force on wheel: 77.3343, 24.916, 140.138
+Drawbar pull coeff: 0.386671
+Max system velocity: 0.187355
+Time: 5.55
+Force on wheel: 101.041, -2.48286, 263.867
+Drawbar pull coeff: 0.505204
+Max system velocity: 0.241691
+Time: 5.56
+Force on wheel: 60.9393, -11.3567, 183.697
+Drawbar pull coeff: 0.304697
+Max system velocity: 0.30933
+Time: 5.57
+Force on wheel: 82.1749, 6.46831, 212.326
+Drawbar pull coeff: 0.410875
+Max system velocity: 0.264443
+Time: 5.58
+Force on wheel: 79.0403, 36.8948, 184.208
+Drawbar pull coeff: 0.395202
+Max system velocity: 0.213277
+Time: 5.59
+Force on wheel: 65.4779, 33.5117, 190.464
+Drawbar pull coeff: 0.327389
+Max system velocity: 0.199706
+Outputting frame: 67
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1340011
+Number of updates dynamic gets: 32701
+Number of updates kinematic gets: 32701
+Average steps per dynamic update: 40.97768
+Average steps contact detection lags behind: 81.94924
+Number of times dynamic held back: 32509
+-----------------------------
+Time: 5.6
+Force on wheel: 59.5707, -6.17894, 227.29
+Drawbar pull coeff: 0.297853
+Max system velocity: 0.214146
+Time: 5.61
+Force on wheel: 115.316, -8.27089, 176.197
+Drawbar pull coeff: 0.576578
+Max system velocity: 0.236846
+Time: 5.62
+Force on wheel: 136.259, 8.47541, 232.908
+Drawbar pull coeff: 0.681293
+Max system velocity: 0.191398
+Time: 5.63
+Force on wheel: 126.572, -0.929006, 201.904
+Drawbar pull coeff: 0.63286
+Max system velocity: 0.19692
+Time: 5.64
+Force on wheel: 109.773, 12.0554, 187.589
+Drawbar pull coeff: 0.548865
+Max system velocity: 0.221799
+Time: 5.65
+Force on wheel: 88.1371, 19.5197, 196.005
+Drawbar pull coeff: 0.440686
+Max system velocity: 0.156236
+Time: 5.66
+Force on wheel: 116.314, 19.6698, 216.875
+Drawbar pull coeff: 0.581568
+Max system velocity: 0.238392
+Time: 5.67
+Force on wheel: 77.8905, 27.2881, 174.251
+Drawbar pull coeff: 0.389453
+Max system velocity: 0.234708
+Time: 5.68
+Force on wheel: 78.7623, 27.4817, 212.216
+Drawbar pull coeff: 0.393811
+Max system velocity: 0.237182
+Time: 5.69
+Force on wheel: 56.6424, 24.0366, 194.982
+Drawbar pull coeff: 0.283212
+Max system velocity: 0.288163
+Outputting frame: 68
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1360011
+Number of updates dynamic gets: 33189
+Number of updates kinematic gets: 33189
+Average steps per dynamic update: 40.97776
+Average steps contact detection lags behind: 81.94926
+Number of times dynamic held back: 32991
+-----------------------------
+Time: 5.7
+Force on wheel: 77.8948, 32.1226, 237.122
+Drawbar pull coeff: 0.389474
+Max system velocity: 0.289773
+Time: 5.71
+Force on wheel: 144.134, 3.58892, 227.709
+Drawbar pull coeff: 0.720668
+Max system velocity: 0.175578
+Time: 5.72
+Force on wheel: 115.35, -2.00632, 155.495
+Drawbar pull coeff: 0.576751
+Max system velocity: 0.28644
+Time: 5.73
+Force on wheel: 131.199, 16.9232, 241.718
+Drawbar pull coeff: 0.655993
+Max system velocity: 0.205131
+Time: 5.74
+Force on wheel: 79.2911, 10.6283, 177.559
+Drawbar pull coeff: 0.396455
+Max system velocity: 0.222456
+Time: 5.75
+Force on wheel: 99.2269, -1.65079, 219.22
+Drawbar pull coeff: 0.496134
+Max system velocity: 0.127146
+Time: 5.76
+Force on wheel: 78.7345, -5.89239, 194.533
+Drawbar pull coeff: 0.393672
+Max system velocity: 0.193161
+Time: 5.77
+Force on wheel: 112.127, -0.78398, 200.918
+Drawbar pull coeff: 0.560634
+Max system velocity: 0.210218
+Time: 5.78
+Force on wheel: 83.154, -16.8081, 180.703
+Drawbar pull coeff: 0.41577
+Max system velocity: 0.233785
+Time: 5.79
+Force on wheel: 83.2906, -19.4573, 183.85
+Drawbar pull coeff: 0.416453
+Max system velocity: 0.276995
+Outputting frame: 69
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1380011
+Number of updates dynamic gets: 33677
+Number of updates kinematic gets: 33677
+Average steps per dynamic update: 40.97785
+Average steps contact detection lags behind: 81.94973
+Number of times dynamic held back: 33477
+-----------------------------
+Time: 5.8
+Force on wheel: 74.4785, 2.2754, 196.782
+Drawbar pull coeff: 0.372393
+Max system velocity: 0.308021
+Time: 5.81
+Force on wheel: 100.437, 4.95514, 258.902
+Drawbar pull coeff: 0.502185
+Max system velocity: 0.301146
+Time: 5.82
+Force on wheel: 73.0347, -2.08948, 183.959
+Drawbar pull coeff: 0.365174
+Max system velocity: 0.186701
+Time: 5.83
+Force on wheel: 68.0113, -17.078, 162.033
+Drawbar pull coeff: 0.340056
+Max system velocity: 0.241376
+Time: 5.84
+Force on wheel: 104.34, -46.2389, 236.032
+Drawbar pull coeff: 0.521701
+Max system velocity: 0.218695
+Time: 5.85
+Force on wheel: 91.0778, -32.4263, 208.956
+Drawbar pull coeff: 0.455389
+Max system velocity: 0.238746
+Time: 5.86
+Force on wheel: 75.2996, -1.00576, 192.627
+Drawbar pull coeff: 0.376498
+Max system velocity: 0.20002
+Time: 5.87
+Force on wheel: 108.772, 12.5214, 265.707
+Drawbar pull coeff: 0.543861
+Max system velocity: 0.202765
+Time: 5.88
+Force on wheel: 57.3018, 14.6232, 148.895
+Drawbar pull coeff: 0.286509
+Max system velocity: 0.204032
+Time: 5.89
+Force on wheel: 76.0378, 22.3038, 242.589
+Drawbar pull coeff: 0.380189
+Max system velocity: 0.198445
+Outputting frame: 70
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1400011
+Number of updates dynamic gets: 34165
+Number of updates kinematic gets: 34165
+Average steps per dynamic update: 40.97793
+Average steps contact detection lags behind: 81.95001
+Number of times dynamic held back: 33962
+-----------------------------
+Time: 5.9
+Force on wheel: 43.9991, 6.37309, 135.701
+Drawbar pull coeff: 0.219995
+Max system velocity: 0.149923
+Time: 5.91
+Force on wheel: 62.3631, 14.662, 212.853
+Drawbar pull coeff: 0.311816
+Max system velocity: 0.144191
+Time: 5.92
+Force on wheel: 109.612, 34.6469, 238.771
+Drawbar pull coeff: 0.54806
+Max system velocity: 0.149861
+Time: 5.93
+Force on wheel: 115.137, 50.2841, 209.199
+Drawbar pull coeff: 0.575684
+Max system velocity: 0.426392
+Time: 5.94
+Force on wheel: 103.474, 41.464, 238.753
+Drawbar pull coeff: 0.517368
+Max system velocity: 0.229125
+Time: 5.95
+Force on wheel: 121.727, 50.5341, 205.142
+Drawbar pull coeff: 0.608635
+Max system velocity: 0.232633
+Time: 5.96
+Force on wheel: 124.403, 45.0271, 201.178
+Drawbar pull coeff: 0.622013
+Max system velocity: 0.241796
+Time: 5.97
+Force on wheel: 103.579, 43.85, 182.651
+Drawbar pull coeff: 0.517896
+Max system velocity: 0.321689
+Time: 5.98
+Force on wheel: 87.6568, 64.9994, 196.336
+Drawbar pull coeff: 0.438284
+Max system velocity: 0.169156
+Time: 5.99
+Force on wheel: 79.8012, 61.4701, 204.229
+Drawbar pull coeff: 0.399006
+Max system velocity: 0.175388
+Outputting frame: 71
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1420011
+Number of updates dynamic gets: 34653
+Number of updates kinematic gets: 34653
+Average steps per dynamic update: 40.97801
+Average steps contact detection lags behind: 81.94993
+Number of times dynamic held back: 34446
+-----------------------------
+Time: 6
+Force on wheel: 99.6861, 64.31, 212.093
+Drawbar pull coeff: 0.49843
+Max system velocity: 0.202347
+327.295 seconds (wall time) to finish the simulation
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 387.902432 seconds
+Discretize domain: 139.683841 seconds, 36.01% of kT total runtime
+Find contact pairs: 183.15479 seconds, 47.2167% of kT total runtime
+Build history map: 23.3901421 seconds, 6.0299% of kT total runtime
+Unpack updates from dT: 14.0894726 seconds, 3.63222% of kT total runtime
+Send to dT buffer: 2.33532023 seconds, 0.602038% of kT total runtime
+Wait for dT update: 25.2488664 seconds, 6.50908% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 348.530326 seconds
+Clear force array: 23.9738544 seconds, 6.87856% of dT total runtime
+Calculate contact forces: 101.179375 seconds, 29.0303% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 63.9723921 seconds, 18.3549% of dT total runtime
+Unpack updates from kT: 3.39146708 seconds, 0.973077% of dT total runtime
+Send to kT buffer: 3.42766874 seconds, 0.983464% of dT total runtime
+Wait for kT update: 152.585569 seconds, 43.7797% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 3.10928 MiB
+kT device memory usage: 12.1462 MiB
+dT host memory usage: 3.80247 MiB
+dT device memory usage: 5.71457 MiB
+----------------------------------------
+WheelDPSimpilified demo exiting...

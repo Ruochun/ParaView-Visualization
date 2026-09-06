@@ -1,0 +1,5276 @@
+3553 spheres make up the rotating drum
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-2.5, 2.5]
+User-specified Y-dimension range: [-2.5, 2.5]
+User-specified Z-dimension range: [-2.5, 2.5]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 6, 6, 12
+Simulation world X range: [-3, 3]
+Simulation world Y range: [-3, 3]
+Simulation world Z range: [-3, 9]
+The length unit in this simulation is: 4.3655745685100555e-11
+The edge length of a voxel: 2.86102294921875e-06
+The initial time step size: 5e-06
+The initial edge length of a bin: 0.088473597764968867
+The initial number of bins: 628864
+The total number of clumps: 200385
+The combined number of component spheres: 1005473
+The total number of analytical objects: 1
+The total number of meshes: 0
+Grand total number of owners: 200386
+The number of material types: 2
+History-based Hertzian contact model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+Output at 20 FPS
+Frame: 0
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 0
+Number of updates dynamic gets: 0
+Number of updates kinematic gets: 0
+Number of times dynamic held back: 0
+-----------------------------
+Solver's current update frequency (auto-adapted): 20
+Maximum system velocity: 0
+------------------------------------
+Frame: 1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 10000
+Number of updates dynamic gets: 251
+Number of updates kinematic gets: 252
+Average steps per dynamic update: 39.68254
+Average steps contact detection lags behind: 78.75
+Number of times dynamic held back: 250
+-----------------------------
+Solver's current update frequency (auto-adapted): 58.5
+Maximum system velocity: 0.489965
+------------------------------------
+Frame: 2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 20000
+Number of updates dynamic gets: 403
+Number of updates kinematic gets: 404
+Average steps per dynamic update: 49.50495
+Average steps contact detection lags behind: 98.64851
+Number of times dynamic held back: 401
+-----------------------------
+Solver's current update frequency (auto-adapted): 70.5
+Maximum system velocity: 0.979916
+------------------------------------
+Frame: 3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 30000
+Number of updates dynamic gets: 512
+Number of updates kinematic gets: 513
+Average steps per dynamic update: 58.47953
+Average steps contact detection lags behind: 116.614
+Number of times dynamic held back: 509
+-----------------------------
+Solver's current update frequency (auto-adapted): 100
+Maximum system velocity: 2.26485
+------------------------------------
+Frame: 4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 40000
+Number of updates dynamic gets: 611
+Number of updates kinematic gets: 612
+Average steps per dynamic update: 65.35948
+Average steps contact detection lags behind: 130.3007
+Number of times dynamic held back: 602
+-----------------------------
+Solver's current update frequency (auto-adapted): 105
+Maximum system velocity: 3.16537
+------------------------------------
+Frame: 5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 50000
+Number of updates dynamic gets: 713
+Number of updates kinematic gets: 714
+Average steps per dynamic update: 70.02801
+Average steps contact detection lags behind: 139.8403
+Number of times dynamic held back: 625
+-----------------------------
+Solver's current update frequency (auto-adapted): 100
+Maximum system velocity: 4.03233
+------------------------------------
+Frame: 6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 60000
+Number of updates dynamic gets: 836
+Number of updates kinematic gets: 837
+Average steps per dynamic update: 71.68459
+Average steps contact detection lags behind: 143.2079
+Number of times dynamic held back: 626
+-----------------------------
+Solver's current update frequency (auto-adapted): 87.5
+Maximum system velocity: 4.10418
+------------------------------------
+Frame: 7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 70000
+Number of updates dynamic gets: 991
+Number of updates kinematic gets: 992
+Average steps per dynamic update: 70.56452
+Average steps contact detection lags behind: 140.9869
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 73.5
+Maximum system velocity: 5.04546
+------------------------------------
+Frame: 8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 80000
+Number of updates dynamic gets: 1177
+Number of updates kinematic gets: 1178
+Average steps per dynamic update: 67.91171
+Average steps contact detection lags behind: 135.7606
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 60
+Maximum system velocity: 4.70071
+------------------------------------
+Frame: 9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 90000
+Number of updates dynamic gets: 1402
+Number of updates kinematic gets: 1403
+Average steps per dynamic update: 64.14825
+Average steps contact detection lags behind: 128.2616
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 50
+Maximum system velocity: 5.6546
+------------------------------------
+Frame: 10
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 100000
+Number of updates dynamic gets: 1655
+Number of updates kinematic gets: 1656
+Average steps per dynamic update: 60.38647
+Average steps contact detection lags behind: 120.7337
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 43.5
+Maximum system velocity: 6.75265
+------------------------------------
+Frame: 11
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 110000
+Number of updates dynamic gets: 1921
+Number of updates kinematic gets: 1922
+Average steps per dynamic update: 57.23205
+Average steps contact detection lags behind: 114.4199
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 41.5
+Maximum system velocity: 6.65947
+------------------------------------
+Frame: 12
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 120000
+Number of updates dynamic gets: 2228
+Number of updates kinematic gets: 2229
+Average steps per dynamic update: 53.8358
+Average steps contact detection lags behind: 107.6397
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 36
+Maximum system velocity: 7.29448
+------------------------------------
+Frame: 13
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 130000
+Number of updates dynamic gets: 2551
+Number of updates kinematic gets: 2552
+Average steps per dynamic update: 50.94044
+Average steps contact detection lags behind: 101.8527
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 7.16536
+------------------------------------
+Frame: 14
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 140000
+Number of updates dynamic gets: 2872
+Number of updates kinematic gets: 2873
+Average steps per dynamic update: 48.72955
+Average steps contact detection lags behind: 97.43439
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 4.96759
+------------------------------------
+Frame: 15
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 150000
+Number of updates dynamic gets: 3199
+Number of updates kinematic gets: 3200
+Average steps per dynamic update: 46.875
+Average steps contact detection lags behind: 93.73656
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 4.71471
+------------------------------------
+Frame: 16
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 160000
+Number of updates dynamic gets: 3526
+Number of updates kinematic gets: 3527
+Average steps per dynamic update: 45.36433
+Average steps contact detection lags behind: 90.71931
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.52878
+------------------------------------
+Frame: 17
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 170000
+Number of updates dynamic gets: 3855
+Number of updates kinematic gets: 3856
+Average steps per dynamic update: 44.08714
+Average steps contact detection lags behind: 88.16157
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.92134
+------------------------------------
+Frame: 18
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 180000
+Number of updates dynamic gets: 4178
+Number of updates kinematic gets: 4179
+Average steps per dynamic update: 43.07251
+Average steps contact detection lags behind: 86.12395
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.67683
+------------------------------------
+Frame: 19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 190000
+Number of updates dynamic gets: 4508
+Number of updates kinematic gets: 4509
+Average steps per dynamic update: 42.13795
+Average steps contact detection lags behind: 84.2648
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.28196
+------------------------------------
+Frame: 20
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 200000
+Number of updates dynamic gets: 4822
+Number of updates kinematic gets: 4823
+Average steps per dynamic update: 41.46797
+Average steps contact detection lags behind: 82.91727
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 36
+Maximum system velocity: 2.65117
+------------------------------------
+Frame: 21
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 210000
+Number of updates dynamic gets: 5152
+Number of updates kinematic gets: 5153
+Average steps per dynamic update: 40.75296
+Average steps contact detection lags behind: 81.49233
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.838
+------------------------------------
+Frame: 22
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 220000
+Number of updates dynamic gets: 5475
+Number of updates kinematic gets: 5476
+Average steps per dynamic update: 40.17531
+Average steps contact detection lags behind: 80.33492
+Number of times dynamic held back: 631
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 3.03534
+------------------------------------
+Frame: 23
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 230000
+Number of updates dynamic gets: 5793
+Number of updates kinematic gets: 5794
+Average steps per dynamic update: 39.69624
+Average steps contact detection lags behind: 79.3797
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 36
+Maximum system velocity: 2.74893
+------------------------------------
+Frame: 24
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 240000
+Number of updates dynamic gets: 6118
+Number of updates kinematic gets: 6119
+Average steps per dynamic update: 39.2221
+Average steps contact detection lags behind: 78.43553
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.11116
+------------------------------------
+Frame: 25
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 250000
+Number of updates dynamic gets: 6448
+Number of updates kinematic gets: 6449
+Average steps per dynamic update: 38.7657
+Average steps contact detection lags behind: 77.52101
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.72145
+------------------------------------
+Frame: 26
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 260000
+Number of updates dynamic gets: 6779
+Number of updates kinematic gets: 6780
+Average steps per dynamic update: 38.34808
+Average steps contact detection lags behind: 76.69071
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.77479
+------------------------------------
+Frame: 27
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 270000
+Number of updates dynamic gets: 7107
+Number of updates kinematic gets: 7108
+Average steps per dynamic update: 37.98537
+Average steps contact detection lags behind: 75.96075
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.408
+------------------------------------
+Frame: 28
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 280000
+Number of updates dynamic gets: 7440
+Number of updates kinematic gets: 7441
+Average steps per dynamic update: 37.62935
+Average steps contact detection lags behind: 75.24808
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.0167
+------------------------------------
+Frame: 29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 290000
+Number of updates dynamic gets: 7771
+Number of updates kinematic gets: 7772
+Average steps per dynamic update: 37.31343
+Average steps contact detection lags behind: 74.61863
+Number of times dynamic held back: 632
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.862901
+------------------------------------
+Frame: 30
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 300000
+Number of updates dynamic gets: 8103
+Number of updates kinematic gets: 8104
+Average steps per dynamic update: 37.01876
+Average steps contact detection lags behind: 74.03171
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.586248
+------------------------------------
+Frame: 31
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 310000
+Number of updates dynamic gets: 8428
+Number of updates kinematic gets: 8429
+Average steps per dynamic update: 36.77779
+Average steps contact detection lags behind: 73.5506
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.59584
+------------------------------------
+Frame: 32
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 320000
+Number of updates dynamic gets: 8759
+Number of updates kinematic gets: 8760
+Average steps per dynamic update: 36.52968
+Average steps contact detection lags behind: 73.05468
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.611507
+------------------------------------
+Frame: 33
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 330000
+Number of updates dynamic gets: 9083
+Number of updates kinematic gets: 9084
+Average steps per dynamic update: 36.32761
+Average steps contact detection lags behind: 72.64707
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.412868
+------------------------------------
+Frame: 34
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 340000
+Number of updates dynamic gets: 9412
+Number of updates kinematic gets: 9413
+Average steps per dynamic update: 36.12026
+Average steps contact detection lags behind: 72.23595
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.354133
+------------------------------------
+Frame: 35
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 350000
+Number of updates dynamic gets: 9740
+Number of updates kinematic gets: 9741
+Average steps per dynamic update: 35.9306
+Average steps contact detection lags behind: 71.85556
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.300539
+------------------------------------
+Frame: 36
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 360000
+Number of updates dynamic gets: 10072
+Number of updates kinematic gets: 10073
+Average steps per dynamic update: 35.7391
+Average steps contact detection lags behind: 71.47056
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.448104
+------------------------------------
+Frame: 37
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 370000
+Number of updates dynamic gets: 10406
+Number of updates kinematic gets: 10407
+Average steps per dynamic update: 35.55299
+Average steps contact detection lags behind: 71.09897
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.485832
+------------------------------------
+Frame: 38
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 380000
+Number of updates dynamic gets: 10739
+Number of updates kinematic gets: 10740
+Average steps per dynamic update: 35.38175
+Average steps contact detection lags behind: 70.76024
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.397246
+------------------------------------
+Frame: 39
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 390000
+Number of updates dynamic gets: 11071
+Number of updates kinematic gets: 11072
+Average steps per dynamic update: 35.22399
+Average steps contact detection lags behind: 70.44147
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.3493
+------------------------------------
+Frame: 40
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 400000
+Number of updates dynamic gets: 11400
+Number of updates kinematic gets: 11401
+Average steps per dynamic update: 35.08464
+Average steps contact detection lags behind: 70.16551
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.350915
+------------------------------------
+Frame: 41
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 410000
+Number of updates dynamic gets: 11732
+Number of updates kinematic gets: 11733
+Average steps per dynamic update: 34.94417
+Average steps contact detection lags behind: 69.88392
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.589097
+------------------------------------
+Frame: 42
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 420000
+Number of updates dynamic gets: 12064
+Number of updates kinematic gets: 12064
+Average steps per dynamic update: 34.81432
+Average steps contact detection lags behind: 69.62144
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.342093
+------------------------------------
+Frame: 43
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 430000
+Number of updates dynamic gets: 12394
+Number of updates kinematic gets: 12395
+Average steps per dynamic update: 34.69141
+Average steps contact detection lags behind: 69.37628
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.323744
+------------------------------------
+Frame: 44
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 440000
+Number of updates dynamic gets: 12720
+Number of updates kinematic gets: 12721
+Average steps per dynamic update: 34.58848
+Average steps contact detection lags behind: 69.16996
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.416487
+------------------------------------
+Frame: 45
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 450000
+Number of updates dynamic gets: 13048
+Number of updates kinematic gets: 13049
+Average steps per dynamic update: 34.4854
+Average steps contact detection lags behind: 68.96735
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.433502
+------------------------------------
+Frame: 46
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 460000
+Number of updates dynamic gets: 13374
+Number of updates kinematic gets: 13374
+Average steps per dynamic update: 34.39509
+Average steps contact detection lags behind: 68.78346
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.440237
+------------------------------------
+Frame: 47
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 470000
+Number of updates dynamic gets: 13705
+Number of updates kinematic gets: 13706
+Average steps per dynamic update: 34.29155
+Average steps contact detection lags behind: 68.57894
+Number of times dynamic held back: 633
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.414764
+------------------------------------
+Frame: 48
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 480000
+Number of updates dynamic gets: 14037
+Number of updates kinematic gets: 14038
+Average steps per dynamic update: 34.1929
+Average steps contact detection lags behind: 68.38104
+Number of times dynamic held back: 634
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.33038
+------------------------------------
+Frame: 49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 490000
+Number of updates dynamic gets: 14367
+Number of updates kinematic gets: 14368
+Average steps per dynamic update: 34.10356
+Average steps contact detection lags behind: 68.2026
+Number of times dynamic held back: 634
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.448203
+------------------------------------
+Frame: 50
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 500000
+Number of updates dynamic gets: 14700
+Number of updates kinematic gets: 14701
+Average steps per dynamic update: 34.01129
+Average steps contact detection lags behind: 68.02034
+Number of times dynamic held back: 634
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.370114
+------------------------------------
+Frame: 51
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 510000
+Number of updates dynamic gets: 15029
+Number of updates kinematic gets: 15030
+Average steps per dynamic update: 33.93214
+Average steps contact detection lags behind: 67.85888
+Number of times dynamic held back: 634
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.30275
+------------------------------------
+Frame: 52
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 520000
+Number of updates dynamic gets: 15360
+Number of updates kinematic gets: 15361
+Average steps per dynamic update: 33.85196
+Average steps contact detection lags behind: 67.70178
+Number of times dynamic held back: 635
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.35583
+------------------------------------
+Frame: 53
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 530000
+Number of updates dynamic gets: 15692
+Number of updates kinematic gets: 15693
+Average steps per dynamic update: 33.77302
+Average steps contact detection lags behind: 67.54113
+Number of times dynamic held back: 635
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.339794
+------------------------------------
+Frame: 54
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 540000
+Number of updates dynamic gets: 16024
+Number of updates kinematic gets: 16025
+Average steps per dynamic update: 33.69735
+Average steps contact detection lags behind: 67.38977
+Number of times dynamic held back: 635
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.37254
+------------------------------------
+Frame: 55
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 550000
+Number of updates dynamic gets: 16358
+Number of updates kinematic gets: 16359
+Average steps per dynamic update: 33.62064
+Average steps contact detection lags behind: 67.2392
+Number of times dynamic held back: 635
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.335259
+------------------------------------
+Frame: 56
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 560000
+Number of updates dynamic gets: 16685
+Number of updates kinematic gets: 16686
+Average steps per dynamic update: 33.56107
+Average steps contact detection lags behind: 67.11944
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.344052
+------------------------------------
+Frame: 57
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 570000
+Number of updates dynamic gets: 17019
+Number of updates kinematic gets: 17020
+Average steps per dynamic update: 33.49001
+Average steps contact detection lags behind: 66.97797
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.469328
+------------------------------------
+Frame: 58
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 580000
+Number of updates dynamic gets: 17352
+Number of updates kinematic gets: 17353
+Average steps per dynamic update: 33.42362
+Average steps contact detection lags behind: 66.84418
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.362425
+------------------------------------
+Frame: 59
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 590000
+Number of updates dynamic gets: 17685
+Number of updates kinematic gets: 17685
+Average steps per dynamic update: 33.36161
+Average steps contact detection lags behind: 66.71818
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.376923
+------------------------------------
+Frame: 60
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 600000
+Number of updates dynamic gets: 18012
+Number of updates kinematic gets: 18013
+Average steps per dynamic update: 33.30928
+Average steps contact detection lags behind: 66.61411
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.588296
+------------------------------------
+Frame: 61
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 610000
+Number of updates dynamic gets: 18344
+Number of updates kinematic gets: 18345
+Average steps per dynamic update: 33.25157
+Average steps contact detection lags behind: 66.50101
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 0.374421
+------------------------------------
+Frame: 62
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 620000
+Number of updates dynamic gets: 18668
+Number of updates kinematic gets: 18669
+Average steps per dynamic update: 33.21013
+Average steps contact detection lags behind: 66.41813
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.511755
+------------------------------------
+Frame: 63
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 630000
+Number of updates dynamic gets: 18996
+Number of updates kinematic gets: 18997
+Average steps per dynamic update: 33.16313
+Average steps contact detection lags behind: 66.32221
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.35662
+------------------------------------
+Frame: 64
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 640000
+Number of updates dynamic gets: 19328
+Number of updates kinematic gets: 19329
+Average steps per dynamic update: 33.11087
+Average steps contact detection lags behind: 66.21951
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.522164
+------------------------------------
+Frame: 65
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 650000
+Number of updates dynamic gets: 19659
+Number of updates kinematic gets: 19660
+Average steps per dynamic update: 33.06205
+Average steps contact detection lags behind: 66.11994
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.375352
+------------------------------------
+Frame: 66
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 660000
+Number of updates dynamic gets: 19991
+Number of updates kinematic gets: 19992
+Average steps per dynamic update: 33.01321
+Average steps contact detection lags behind: 66.02386
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.464255
+------------------------------------
+Frame: 67
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 670000
+Number of updates dynamic gets: 20320
+Number of updates kinematic gets: 20321
+Average steps per dynamic update: 32.97082
+Average steps contact detection lags behind: 65.93893
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.506593
+------------------------------------
+Frame: 68
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 680000
+Number of updates dynamic gets: 20652
+Number of updates kinematic gets: 20653
+Average steps per dynamic update: 32.925
+Average steps contact detection lags behind: 65.84598
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.479472
+------------------------------------
+Frame: 69
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 690000
+Number of updates dynamic gets: 20985
+Number of updates kinematic gets: 20986
+Average steps per dynamic update: 32.87906
+Average steps contact detection lags behind: 65.75617
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.46011
+------------------------------------
+Frame: 70
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 700000
+Number of updates dynamic gets: 21314
+Number of updates kinematic gets: 21315
+Average steps per dynamic update: 32.84072
+Average steps contact detection lags behind: 65.67905
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.471517
+------------------------------------
+Frame: 71
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 710000
+Number of updates dynamic gets: 21645
+Number of updates kinematic gets: 21646
+Average steps per dynamic update: 32.80052
+Average steps contact detection lags behind: 65.59845
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.513311
+------------------------------------
+Frame: 72
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 720000
+Number of updates dynamic gets: 21974
+Number of updates kinematic gets: 21975
+Average steps per dynamic update: 32.76451
+Average steps contact detection lags behind: 65.52696
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.694394
+------------------------------------
+Frame: 73
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 730000
+Number of updates dynamic gets: 22306
+Number of updates kinematic gets: 22307
+Average steps per dynamic update: 32.72515
+Average steps contact detection lags behind: 65.44829
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.596138
+------------------------------------
+Frame: 74
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 740000
+Number of updates dynamic gets: 22629
+Number of updates kinematic gets: 22630
+Average steps per dynamic update: 32.69996
+Average steps contact detection lags behind: 65.39753
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.861808
+------------------------------------
+Frame: 75
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 750000
+Number of updates dynamic gets: 22961
+Number of updates kinematic gets: 22962
+Average steps per dynamic update: 32.66266
+Average steps contact detection lags behind: 65.32306
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.613779
+------------------------------------
+Frame: 76
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 760000
+Number of updates dynamic gets: 23282
+Number of updates kinematic gets: 23283
+Average steps per dynamic update: 32.64184
+Average steps contact detection lags behind: 65.28029
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.675576
+------------------------------------
+Frame: 77
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 770000
+Number of updates dynamic gets: 23616
+Number of updates kinematic gets: 23617
+Average steps per dynamic update: 32.60363
+Average steps contact detection lags behind: 65.20553
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.17857
+------------------------------------
+Frame: 78
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 780000
+Number of updates dynamic gets: 23948
+Number of updates kinematic gets: 23949
+Average steps per dynamic update: 32.56921
+Average steps contact detection lags behind: 65.13495
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.943327
+------------------------------------
+Frame: 79
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 790000
+Number of updates dynamic gets: 24276
+Number of updates kinematic gets: 24277
+Average steps per dynamic update: 32.54109
+Average steps contact detection lags behind: 65.07929
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.710592
+------------------------------------
+Frame: 80
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 800000
+Number of updates dynamic gets: 24606
+Number of updates kinematic gets: 24607
+Average steps per dynamic update: 32.51107
+Average steps contact detection lags behind: 65.02064
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.19821
+------------------------------------
+Frame: 81
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 810000
+Number of updates dynamic gets: 24935
+Number of updates kinematic gets: 24936
+Average steps per dynamic update: 32.48316
+Average steps contact detection lags behind: 64.96286
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 0.587052
+------------------------------------
+Frame: 82
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 820000
+Number of updates dynamic gets: 25266
+Number of updates kinematic gets: 25267
+Average steps per dynamic update: 32.4534
+Average steps contact detection lags behind: 64.90406
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.694342
+------------------------------------
+Frame: 83
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 830000
+Number of updates dynamic gets: 25596
+Number of updates kinematic gets: 25597
+Average steps per dynamic update: 32.42567
+Average steps contact detection lags behind: 64.84959
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.932604
+------------------------------------
+Frame: 84
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 840000
+Number of updates dynamic gets: 25924
+Number of updates kinematic gets: 25925
+Average steps per dynamic update: 32.40116
+Average steps contact detection lags behind: 64.79892
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 0.749931
+------------------------------------
+Frame: 85
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 850000
+Number of updates dynamic gets: 26257
+Number of updates kinematic gets: 26258
+Average steps per dynamic update: 32.37109
+Average steps contact detection lags behind: 64.74076
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.916275
+------------------------------------
+Frame: 86
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 860000
+Number of updates dynamic gets: 26587
+Number of updates kinematic gets: 26588
+Average steps per dynamic update: 32.34542
+Average steps contact detection lags behind: 64.68802
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.937322
+------------------------------------
+Frame: 87
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 870000
+Number of updates dynamic gets: 26921
+Number of updates kinematic gets: 26922
+Average steps per dynamic update: 32.31558
+Average steps contact detection lags behind: 64.62941
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.06824
+------------------------------------
+Frame: 88
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 880000
+Number of updates dynamic gets: 27254
+Number of updates kinematic gets: 27255
+Average steps per dynamic update: 32.28765
+Average steps contact detection lags behind: 64.57417
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.895544
+------------------------------------
+Frame: 89
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 890000
+Number of updates dynamic gets: 27586
+Number of updates kinematic gets: 27587
+Average steps per dynamic update: 32.26157
+Average steps contact detection lags behind: 64.52184
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.949205
+------------------------------------
+Frame: 90
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 900000
+Number of updates dynamic gets: 27916
+Number of updates kinematic gets: 27917
+Average steps per dynamic update: 32.23842
+Average steps contact detection lags behind: 64.47566
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 0.875977
+------------------------------------
+Frame: 91
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 910000
+Number of updates dynamic gets: 28249
+Number of updates kinematic gets: 28250
+Average steps per dynamic update: 32.21239
+Average steps contact detection lags behind: 64.42251
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.1549
+------------------------------------
+Frame: 92
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 920000
+Number of updates dynamic gets: 28579
+Number of updates kinematic gets: 28580
+Average steps per dynamic update: 32.19034
+Average steps contact detection lags behind: 64.37897
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.29298
+------------------------------------
+Frame: 93
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 930000
+Number of updates dynamic gets: 28910
+Number of updates kinematic gets: 28911
+Average steps per dynamic update: 32.16769
+Average steps contact detection lags behind: 64.33385
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.30416
+------------------------------------
+Frame: 94
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 940000
+Number of updates dynamic gets: 29242
+Number of updates kinematic gets: 29243
+Average steps per dynamic update: 32.14444
+Average steps contact detection lags behind: 64.28756
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.30588
+------------------------------------
+Frame: 95
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 950000
+Number of updates dynamic gets: 29564
+Number of updates kinematic gets: 29565
+Average steps per dynamic update: 32.13259
+Average steps contact detection lags behind: 64.26325
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 36
+Maximum system velocity: 1.66281
+------------------------------------
+Frame: 96
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 960000
+Number of updates dynamic gets: 29889
+Number of updates kinematic gets: 29890
+Average steps per dynamic update: 32.11777
+Average steps contact detection lags behind: 64.23269
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.48269
+------------------------------------
+Frame: 97
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 970000
+Number of updates dynamic gets: 30219
+Number of updates kinematic gets: 30220
+Average steps per dynamic update: 32.09795
+Average steps contact detection lags behind: 64.19332
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.79821
+------------------------------------
+Frame: 98
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 980000
+Number of updates dynamic gets: 30542
+Number of updates kinematic gets: 30543
+Average steps per dynamic update: 32.08591
+Average steps contact detection lags behind: 64.16976
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 1.76926
+------------------------------------
+Frame: 99
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 990000
+Number of updates dynamic gets: 30862
+Number of updates kinematic gets: 30863
+Average steps per dynamic update: 32.07724
+Average steps contact detection lags behind: 64.15336
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.8298
+------------------------------------
+Frame: 100
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1000000
+Number of updates dynamic gets: 31196
+Number of updates kinematic gets: 31197
+Average steps per dynamic update: 32.05436
+Average steps contact detection lags behind: 64.10671
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.80572
+------------------------------------
+Frame: 101
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1010000
+Number of updates dynamic gets: 31529
+Number of updates kinematic gets: 31530
+Average steps per dynamic update: 32.03298
+Average steps contact detection lags behind: 64.06375
+Number of times dynamic held back: 636
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.94747
+------------------------------------
+Frame: 102
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1020000
+Number of updates dynamic gets: 31863
+Number of updates kinematic gets: 31864
+Average steps per dynamic update: 32.01105
+Average steps contact detection lags behind: 64.021
+Number of times dynamic held back: 638
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.54203
+------------------------------------
+Frame: 103
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1030000
+Number of updates dynamic gets: 32195
+Number of updates kinematic gets: 32196
+Average steps per dynamic update: 31.99155
+Average steps contact detection lags behind: 63.98071
+Number of times dynamic held back: 638
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.55183
+------------------------------------
+Frame: 104
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1040000
+Number of updates dynamic gets: 32529
+Number of updates kinematic gets: 32530
+Average steps per dynamic update: 31.97049
+Average steps contact detection lags behind: 63.93941
+Number of times dynamic held back: 638
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.39669
+------------------------------------
+Frame: 105
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1050000
+Number of updates dynamic gets: 32862
+Number of updates kinematic gets: 32863
+Average steps per dynamic update: 31.95083
+Average steps contact detection lags behind: 63.89949
+Number of times dynamic held back: 638
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.8064
+------------------------------------
+Frame: 106
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1060000
+Number of updates dynamic gets: 33189
+Number of updates kinematic gets: 33190
+Average steps per dynamic update: 31.93733
+Average steps contact detection lags behind: 63.87279
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.55956
+------------------------------------
+Frame: 107
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1070000
+Number of updates dynamic gets: 33514
+Number of updates kinematic gets: 33515
+Average steps per dynamic update: 31.926
+Average steps contact detection lags behind: 63.85078
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.02162
+------------------------------------
+Frame: 108
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1080000
+Number of updates dynamic gets: 33848
+Number of updates kinematic gets: 33849
+Average steps per dynamic update: 31.90641
+Average steps contact detection lags behind: 63.81128
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.77519
+------------------------------------
+Frame: 109
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1090000
+Number of updates dynamic gets: 34181
+Number of updates kinematic gets: 34182
+Average steps per dynamic update: 31.88813
+Average steps contact detection lags behind: 63.77386
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.8703
+------------------------------------
+Frame: 110
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1100000
+Number of updates dynamic gets: 34510
+Number of updates kinematic gets: 34511
+Average steps per dynamic update: 31.8739
+Average steps contact detection lags behind: 63.74588
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.74022
+------------------------------------
+Frame: 111
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1110000
+Number of updates dynamic gets: 34841
+Number of updates kinematic gets: 34842
+Average steps per dynamic update: 31.8581
+Average steps contact detection lags behind: 63.71394
+Number of times dynamic held back: 640
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.00342
+------------------------------------
+Frame: 112
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1120000
+Number of updates dynamic gets: 35169
+Number of updates kinematic gets: 35170
+Average steps per dynamic update: 31.84532
+Average steps contact detection lags behind: 63.68829
+Number of times dynamic held back: 642
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 1.98509
+------------------------------------
+Frame: 113
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1130000
+Number of updates dynamic gets: 35499
+Number of updates kinematic gets: 35500
+Average steps per dynamic update: 31.83099
+Average steps contact detection lags behind: 63.66104
+Number of times dynamic held back: 642
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.7
+------------------------------------
+Frame: 114
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1140000
+Number of updates dynamic gets: 35831
+Number of updates kinematic gets: 35832
+Average steps per dynamic update: 31.81514
+Average steps contact detection lags behind: 63.62866
+Number of times dynamic held back: 642
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.54703
+------------------------------------
+Frame: 115
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1150000
+Number of updates dynamic gets: 36162
+Number of updates kinematic gets: 36163
+Average steps per dynamic update: 31.80046
+Average steps contact detection lags behind: 63.59862
+Number of times dynamic held back: 642
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.77749
+------------------------------------
+Frame: 116
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1160000
+Number of updates dynamic gets: 36496
+Number of updates kinematic gets: 36497
+Average steps per dynamic update: 31.78343
+Average steps contact detection lags behind: 63.56564
+Number of times dynamic held back: 642
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.64651
+------------------------------------
+Frame: 117
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1170000
+Number of updates dynamic gets: 36828
+Number of updates kinematic gets: 36829
+Average steps per dynamic update: 31.76844
+Average steps contact detection lags behind: 63.53477
+Number of times dynamic held back: 643
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.89888
+------------------------------------
+Frame: 118
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1180000
+Number of updates dynamic gets: 37160
+Number of updates kinematic gets: 37161
+Average steps per dynamic update: 31.75372
+Average steps contact detection lags behind: 63.50655
+Number of times dynamic held back: 643
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.72438
+------------------------------------
+Frame: 119
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1190000
+Number of updates dynamic gets: 37494
+Number of updates kinematic gets: 37494
+Average steps per dynamic update: 31.73841
+Average steps contact detection lags behind: 63.4744
+Number of times dynamic held back: 643
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.50288
+------------------------------------
+Frame: 120
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1200000
+Number of updates dynamic gets: 37827
+Number of updates kinematic gets: 37828
+Average steps per dynamic update: 31.72253
+Average steps contact detection lags behind: 63.44345
+Number of times dynamic held back: 643
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.74906
+------------------------------------
+Frame: 121
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1210000
+Number of updates dynamic gets: 38160
+Number of updates kinematic gets: 38161
+Average steps per dynamic update: 31.70776
+Average steps contact detection lags behind: 63.41351
+Number of times dynamic held back: 643
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.08964
+------------------------------------
+Frame: 122
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1220000
+Number of updates dynamic gets: 38493
+Number of updates kinematic gets: 38494
+Average steps per dynamic update: 31.69325
+Average steps contact detection lags behind: 63.3845
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.60385
+------------------------------------
+Frame: 123
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1230000
+Number of updates dynamic gets: 38827
+Number of updates kinematic gets: 38828
+Average steps per dynamic update: 31.67817
+Average steps contact detection lags behind: 63.35539
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 1.5571
+------------------------------------
+Frame: 124
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1240000
+Number of updates dynamic gets: 39158
+Number of updates kinematic gets: 39159
+Average steps per dynamic update: 31.66577
+Average steps contact detection lags behind: 63.33065
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.61517
+------------------------------------
+Frame: 125
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1250000
+Number of updates dynamic gets: 39487
+Number of updates kinematic gets: 39488
+Average steps per dynamic update: 31.65519
+Average steps contact detection lags behind: 63.30939
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.63151
+------------------------------------
+Frame: 126
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1260000
+Number of updates dynamic gets: 39821
+Number of updates kinematic gets: 39822
+Average steps per dynamic update: 31.6408
+Average steps contact detection lags behind: 63.27987
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.51936
+------------------------------------
+Frame: 127
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1270000
+Number of updates dynamic gets: 40155
+Number of updates kinematic gets: 40156
+Average steps per dynamic update: 31.62666
+Average steps contact detection lags behind: 63.25254
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.47767
+------------------------------------
+Frame: 128
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1280000
+Number of updates dynamic gets: 40488
+Number of updates kinematic gets: 40489
+Average steps per dynamic update: 31.61352
+Average steps contact detection lags behind: 63.225
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.7184
+------------------------------------
+Frame: 129
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1290000
+Number of updates dynamic gets: 40819
+Number of updates kinematic gets: 40820
+Average steps per dynamic update: 31.60216
+Average steps contact detection lags behind: 63.20223
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.49481
+------------------------------------
+Frame: 130
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1300000
+Number of updates dynamic gets: 41153
+Number of updates kinematic gets: 41154
+Average steps per dynamic update: 31.58867
+Average steps contact detection lags behind: 63.17643
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.65431
+------------------------------------
+Frame: 131
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1310000
+Number of updates dynamic gets: 41486
+Number of updates kinematic gets: 41487
+Average steps per dynamic update: 31.57616
+Average steps contact detection lags behind: 63.15036
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 1.657
+------------------------------------
+Frame: 132
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1320000
+Number of updates dynamic gets: 41820
+Number of updates kinematic gets: 41821
+Average steps per dynamic update: 31.56309
+Average steps contact detection lags behind: 63.12472
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.72467
+------------------------------------
+Frame: 133
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1330000
+Number of updates dynamic gets: 42154
+Number of updates kinematic gets: 42154
+Average steps per dynamic update: 31.55098
+Average steps contact detection lags behind: 63.0999
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.03027
+------------------------------------
+Frame: 134
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1340000
+Number of updates dynamic gets: 42487
+Number of updates kinematic gets: 42488
+Average steps per dynamic update: 31.53832
+Average steps contact detection lags behind: 63.07506
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 1.93405
+------------------------------------
+Frame: 135
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1350000
+Number of updates dynamic gets: 42818
+Number of updates kinematic gets: 42819
+Average steps per dynamic update: 31.52806
+Average steps contact detection lags behind: 63.05451
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.37161
+------------------------------------
+Frame: 136
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1360000
+Number of updates dynamic gets: 43143
+Number of updates kinematic gets: 43143
+Average steps per dynamic update: 31.52307
+Average steps contact detection lags behind: 63.04402
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 2.09132
+------------------------------------
+Frame: 137
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1370000
+Number of updates dynamic gets: 43458
+Number of updates kinematic gets: 43459
+Average steps per dynamic update: 31.52397
+Average steps contact detection lags behind: 63.04646
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 2.19637
+------------------------------------
+Frame: 138
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1380000
+Number of updates dynamic gets: 43791
+Number of updates kinematic gets: 43792
+Average steps per dynamic update: 31.51261
+Average steps contact detection lags behind: 63.02382
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.13698
+------------------------------------
+Frame: 139
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1390000
+Number of updates dynamic gets: 44125
+Number of updates kinematic gets: 44126
+Average steps per dynamic update: 31.5007
+Average steps contact detection lags behind: 63.00043
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.36343
+------------------------------------
+Frame: 140
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1400000
+Number of updates dynamic gets: 44453
+Number of updates kinematic gets: 44454
+Average steps per dynamic update: 31.49323
+Average steps contact detection lags behind: 62.98531
+Number of times dynamic held back: 645
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 2.33787
+------------------------------------
+Frame: 141
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1410000
+Number of updates dynamic gets: 44776
+Number of updates kinematic gets: 44777
+Average steps per dynamic update: 31.48938
+Average steps contact detection lags behind: 62.97794
+Number of times dynamic held back: 647
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 2.26499
+------------------------------------
+Frame: 142
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1420000
+Number of updates dynamic gets: 45110
+Number of updates kinematic gets: 45111
+Average steps per dynamic update: 31.47791
+Average steps contact detection lags behind: 62.95425
+Number of times dynamic held back: 647
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.93888
+------------------------------------
+Frame: 143
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1430000
+Number of updates dynamic gets: 45444
+Number of updates kinematic gets: 45445
+Average steps per dynamic update: 31.46661
+Average steps contact detection lags behind: 62.93214
+Number of times dynamic held back: 647
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.55983
+------------------------------------
+Frame: 144
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1440000
+Number of updates dynamic gets: 45777
+Number of updates kinematic gets: 45778
+Average steps per dynamic update: 31.45616
+Average steps contact detection lags behind: 62.91083
+Number of times dynamic held back: 647
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.39673
+------------------------------------
+Frame: 145
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1450000
+Number of updates dynamic gets: 46111
+Number of updates kinematic gets: 46112
+Average steps per dynamic update: 31.44518
+Average steps contact detection lags behind: 62.88899
+Number of times dynamic held back: 649
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.38117
+------------------------------------
+Frame: 146
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1460000
+Number of updates dynamic gets: 46443
+Number of updates kinematic gets: 46444
+Average steps per dynamic update: 31.43571
+Average steps contact detection lags behind: 62.87042
+Number of times dynamic held back: 649
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.38302
+------------------------------------
+Frame: 147
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1470000
+Number of updates dynamic gets: 46778
+Number of updates kinematic gets: 46779
+Average steps per dynamic update: 31.42436
+Average steps contact detection lags behind: 62.84792
+Number of times dynamic held back: 649
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.58018
+------------------------------------
+Frame: 148
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1480000
+Number of updates dynamic gets: 47106
+Number of updates kinematic gets: 47106
+Average steps per dynamic update: 31.4185
+Average steps contact detection lags behind: 62.83516
+Number of times dynamic held back: 649
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.66164
+------------------------------------
+Frame: 149
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1490000
+Number of updates dynamic gets: 47439
+Number of updates kinematic gets: 47440
+Average steps per dynamic update: 31.40809
+Average steps contact detection lags behind: 62.81471
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.27838
+------------------------------------
+Frame: 150
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1500000
+Number of updates dynamic gets: 47770
+Number of updates kinematic gets: 47771
+Average steps per dynamic update: 31.3998
+Average steps contact detection lags behind: 62.79781
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.31864
+------------------------------------
+Frame: 151
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1510000
+Number of updates dynamic gets: 48101
+Number of updates kinematic gets: 48102
+Average steps per dynamic update: 31.39163
+Average steps contact detection lags behind: 62.78261
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.31197
+------------------------------------
+Frame: 152
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1520000
+Number of updates dynamic gets: 48436
+Number of updates kinematic gets: 48437
+Average steps per dynamic update: 31.38097
+Average steps contact detection lags behind: 62.7606
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.60005
+------------------------------------
+Frame: 153
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1530000
+Number of updates dynamic gets: 48771
+Number of updates kinematic gets: 48772
+Average steps per dynamic update: 31.37046
+Average steps contact detection lags behind: 62.73956
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.46578
+------------------------------------
+Frame: 154
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1540000
+Number of updates dynamic gets: 49106
+Number of updates kinematic gets: 49107
+Average steps per dynamic update: 31.36009
+Average steps contact detection lags behind: 62.71943
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.4265
+------------------------------------
+Frame: 155
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1550000
+Number of updates dynamic gets: 49441
+Number of updates kinematic gets: 49442
+Average steps per dynamic update: 31.34986
+Average steps contact detection lags behind: 62.69878
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.48723
+------------------------------------
+Frame: 156
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1560000
+Number of updates dynamic gets: 49771
+Number of updates kinematic gets: 49772
+Average steps per dynamic update: 31.34292
+Average steps contact detection lags behind: 62.6842
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.3748
+------------------------------------
+Frame: 157
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1570000
+Number of updates dynamic gets: 50105
+Number of updates kinematic gets: 50105
+Average steps per dynamic update: 31.3342
+Average steps contact detection lags behind: 62.66666
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.61938
+------------------------------------
+Frame: 158
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1580000
+Number of updates dynamic gets: 50437
+Number of updates kinematic gets: 50438
+Average steps per dynamic update: 31.32559
+Average steps contact detection lags behind: 62.64975
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.25293
+------------------------------------
+Frame: 159
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1590000
+Number of updates dynamic gets: 50771
+Number of updates kinematic gets: 50772
+Average steps per dynamic update: 31.31647
+Average steps contact detection lags behind: 62.63123
+Number of times dynamic held back: 650
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.34124
+------------------------------------
+Frame: 160
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1600000
+Number of updates dynamic gets: 51100
+Number of updates kinematic gets: 51101
+Average steps per dynamic update: 31.31054
+Average steps contact detection lags behind: 62.61987
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.30356
+------------------------------------
+Frame: 161
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1610000
+Number of updates dynamic gets: 51435
+Number of updates kinematic gets: 51436
+Average steps per dynamic update: 31.30103
+Average steps contact detection lags behind: 62.60061
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.58849
+------------------------------------
+Frame: 162
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1620000
+Number of updates dynamic gets: 51769
+Number of updates kinematic gets: 51770
+Average steps per dynamic update: 31.29225
+Average steps contact detection lags behind: 62.58368
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.53014
+------------------------------------
+Frame: 163
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1630000
+Number of updates dynamic gets: 52103
+Number of updates kinematic gets: 52104
+Average steps per dynamic update: 31.28359
+Average steps contact detection lags behind: 62.56554
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.68484
+------------------------------------
+Frame: 164
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1640000
+Number of updates dynamic gets: 52429
+Number of updates kinematic gets: 52430
+Average steps per dynamic update: 31.2798
+Average steps contact detection lags behind: 62.55821
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.37113
+------------------------------------
+Frame: 165
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1650000
+Number of updates dynamic gets: 52763
+Number of updates kinematic gets: 52764
+Average steps per dynamic update: 31.27132
+Average steps contact detection lags behind: 62.54118
+Number of times dynamic held back: 651
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.63981
+------------------------------------
+Frame: 166
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1660000
+Number of updates dynamic gets: 53094
+Number of updates kinematic gets: 53095
+Average steps per dynamic update: 31.26471
+Average steps contact detection lags behind: 62.52802
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.36348
+------------------------------------
+Frame: 167
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1670000
+Number of updates dynamic gets: 53428
+Number of updates kinematic gets: 53429
+Average steps per dynamic update: 31.25643
+Average steps contact detection lags behind: 62.51146
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.24935
+------------------------------------
+Frame: 168
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1680000
+Number of updates dynamic gets: 53762
+Number of updates kinematic gets: 53762
+Average steps per dynamic update: 31.24884
+Average steps contact detection lags behind: 62.49602
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.4308
+------------------------------------
+Frame: 169
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1690000
+Number of updates dynamic gets: 54096
+Number of updates kinematic gets: 54097
+Average steps per dynamic update: 31.24018
+Average steps contact detection lags behind: 62.47968
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.28799
+------------------------------------
+Frame: 170
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1700000
+Number of updates dynamic gets: 54431
+Number of updates kinematic gets: 54432
+Average steps per dynamic update: 31.23163
+Average steps contact detection lags behind: 62.46261
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.44903
+------------------------------------
+Frame: 171
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1710000
+Number of updates dynamic gets: 54760
+Number of updates kinematic gets: 54761
+Average steps per dynamic update: 31.2266
+Average steps contact detection lags behind: 62.45164
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.3626
+------------------------------------
+Frame: 172
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1720000
+Number of updates dynamic gets: 55094
+Number of updates kinematic gets: 55095
+Average steps per dynamic update: 31.2188
+Average steps contact detection lags behind: 62.43621
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.49499
+------------------------------------
+Frame: 173
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1730000
+Number of updates dynamic gets: 55422
+Number of updates kinematic gets: 55423
+Average steps per dynamic update: 31.21448
+Average steps contact detection lags behind: 62.42773
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.58046
+------------------------------------
+Frame: 174
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1740000
+Number of updates dynamic gets: 55757
+Number of updates kinematic gets: 55758
+Average steps per dynamic update: 31.20628
+Average steps contact detection lags behind: 62.4116
+Number of times dynamic held back: 652
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.55133
+------------------------------------
+Frame: 175
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1750000
+Number of updates dynamic gets: 56091
+Number of updates kinematic gets: 56092
+Average steps per dynamic update: 31.19874
+Average steps contact detection lags behind: 62.39676
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.67554
+------------------------------------
+Frame: 176
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1760000
+Number of updates dynamic gets: 56419
+Number of updates kinematic gets: 56420
+Average steps per dynamic update: 31.19461
+Average steps contact detection lags behind: 62.38846
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.77508
+------------------------------------
+Frame: 177
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1770000
+Number of updates dynamic gets: 56754
+Number of updates kinematic gets: 56755
+Average steps per dynamic update: 31.18668
+Average steps contact detection lags behind: 62.37253
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.66555
+------------------------------------
+Frame: 178
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1780000
+Number of updates dynamic gets: 57089
+Number of updates kinematic gets: 57090
+Average steps per dynamic update: 31.17884
+Average steps contact detection lags behind: 62.357
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.54566
+------------------------------------
+Frame: 179
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1790000
+Number of updates dynamic gets: 57423
+Number of updates kinematic gets: 57424
+Average steps per dynamic update: 31.17164
+Average steps contact detection lags behind: 62.34263
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.70688
+------------------------------------
+Frame: 180
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1800000
+Number of updates dynamic gets: 57758
+Number of updates kinematic gets: 57759
+Average steps per dynamic update: 31.16397
+Average steps contact detection lags behind: 62.32738
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.47042
+------------------------------------
+Frame: 181
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1810000
+Number of updates dynamic gets: 58094
+Number of updates kinematic gets: 58095
+Average steps per dynamic update: 31.15587
+Average steps contact detection lags behind: 62.31054
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.75944
+------------------------------------
+Frame: 182
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1820000
+Number of updates dynamic gets: 58427
+Number of updates kinematic gets: 58428
+Average steps per dynamic update: 31.14945
+Average steps contact detection lags behind: 62.29813
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.53373
+------------------------------------
+Frame: 183
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1830000
+Number of updates dynamic gets: 58762
+Number of updates kinematic gets: 58763
+Average steps per dynamic update: 31.14205
+Average steps contact detection lags behind: 62.28353
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.65823
+------------------------------------
+Frame: 184
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1840000
+Number of updates dynamic gets: 59098
+Number of updates kinematic gets: 59099
+Average steps per dynamic update: 31.1342
+Average steps contact detection lags behind: 62.26743
+Number of times dynamic held back: 654
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.46193
+------------------------------------
+Frame: 185
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1850000
+Number of updates dynamic gets: 59432
+Number of updates kinematic gets: 59433
+Average steps per dynamic update: 31.12749
+Average steps contact detection lags behind: 62.254
+Number of times dynamic held back: 655
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.90314
+------------------------------------
+Frame: 186
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1860000
+Number of updates dynamic gets: 59766
+Number of updates kinematic gets: 59767
+Average steps per dynamic update: 31.12085
+Average steps contact detection lags behind: 62.24038
+Number of times dynamic held back: 655
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.54534
+------------------------------------
+Frame: 187
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1870000
+Number of updates dynamic gets: 60096
+Number of updates kinematic gets: 60097
+Average steps per dynamic update: 31.11636
+Average steps contact detection lags behind: 62.23154
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.83647
+------------------------------------
+Frame: 188
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1880000
+Number of updates dynamic gets: 60430
+Number of updates kinematic gets: 60431
+Average steps per dynamic update: 31.10986
+Average steps contact detection lags behind: 62.21918
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.70671
+------------------------------------
+Frame: 189
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1890000
+Number of updates dynamic gets: 60763
+Number of updates kinematic gets: 60764
+Average steps per dynamic update: 31.10394
+Average steps contact detection lags behind: 62.20655
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.57265
+------------------------------------
+Frame: 190
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1900000
+Number of updates dynamic gets: 61097
+Number of updates kinematic gets: 61098
+Average steps per dynamic update: 31.09758
+Average steps contact detection lags behind: 62.194
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.52622
+------------------------------------
+Frame: 191
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1910000
+Number of updates dynamic gets: 61432
+Number of updates kinematic gets: 61433
+Average steps per dynamic update: 31.09078
+Average steps contact detection lags behind: 62.18065
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.62114
+------------------------------------
+Frame: 192
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1920000
+Number of updates dynamic gets: 61767
+Number of updates kinematic gets: 61768
+Average steps per dynamic update: 31.08406
+Average steps contact detection lags behind: 62.1667
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.97077
+------------------------------------
+Frame: 193
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1930000
+Number of updates dynamic gets: 62095
+Number of updates kinematic gets: 62096
+Average steps per dynamic update: 31.08091
+Average steps contact detection lags behind: 62.16057
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.72732
+------------------------------------
+Frame: 194
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1940000
+Number of updates dynamic gets: 62431
+Number of updates kinematic gets: 62432
+Average steps per dynamic update: 31.07381
+Average steps contact detection lags behind: 62.14696
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.64653
+------------------------------------
+Frame: 195
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1950000
+Number of updates dynamic gets: 62767
+Number of updates kinematic gets: 62768
+Average steps per dynamic update: 31.06679
+Average steps contact detection lags behind: 62.13301
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.73403
+------------------------------------
+Frame: 196
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1960000
+Number of updates dynamic gets: 63100
+Number of updates kinematic gets: 63101
+Average steps per dynamic update: 31.06131
+Average steps contact detection lags behind: 62.12182
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.56191
+------------------------------------
+Frame: 197
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1970000
+Number of updates dynamic gets: 63435
+Number of updates kinematic gets: 63436
+Average steps per dynamic update: 31.05492
+Average steps contact detection lags behind: 62.10853
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.70011
+------------------------------------
+Frame: 198
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1980000
+Number of updates dynamic gets: 63770
+Number of updates kinematic gets: 63771
+Average steps per dynamic update: 31.0486
+Average steps contact detection lags behind: 62.0963
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.81821
+------------------------------------
+Frame: 199
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1990000
+Number of updates dynamic gets: 64107
+Number of updates kinematic gets: 64108
+Average steps per dynamic update: 31.04137
+Average steps contact detection lags behind: 62.08191
+Number of times dynamic held back: 656
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.63182
+------------------------------------
+Frame: 200
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2000000
+Number of updates dynamic gets: 64442
+Number of updates kinematic gets: 64443
+Average steps per dynamic update: 31.03518
+Average steps contact detection lags behind: 62.06963
+Number of times dynamic held back: 658
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.75655
+------------------------------------
+Frame: 201
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2010000
+Number of updates dynamic gets: 64777
+Number of updates kinematic gets: 64778
+Average steps per dynamic update: 31.02905
+Average steps contact detection lags behind: 62.05723
+Number of times dynamic held back: 658
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.98931
+------------------------------------
+Frame: 202
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2020000
+Number of updates dynamic gets: 65112
+Number of updates kinematic gets: 65113
+Average steps per dynamic update: 31.02299
+Average steps contact detection lags behind: 62.04506
+Number of times dynamic held back: 658
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.94729
+------------------------------------
+Frame: 203
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2030000
+Number of updates dynamic gets: 65441
+Number of updates kinematic gets: 65442
+Average steps per dynamic update: 31.01983
+Average steps contact detection lags behind: 62.03906
+Number of times dynamic held back: 658
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.76176
+------------------------------------
+Frame: 204
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2040000
+Number of updates dynamic gets: 65775
+Number of updates kinematic gets: 65776
+Average steps per dynamic update: 31.01435
+Average steps contact detection lags behind: 62.02765
+Number of times dynamic held back: 658
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.71871
+------------------------------------
+Frame: 205
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2050000
+Number of updates dynamic gets: 66109
+Number of updates kinematic gets: 66110
+Average steps per dynamic update: 31.00892
+Average steps contact detection lags behind: 62.01726
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.70115
+------------------------------------
+Frame: 206
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2060000
+Number of updates dynamic gets: 66445
+Number of updates kinematic gets: 66446
+Average steps per dynamic update: 31.00262
+Average steps contact detection lags behind: 62.00477
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.08612
+------------------------------------
+Frame: 207
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2070000
+Number of updates dynamic gets: 66780
+Number of updates kinematic gets: 66781
+Average steps per dynamic update: 30.99684
+Average steps contact detection lags behind: 61.99301
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.67973
+------------------------------------
+Frame: 208
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2080000
+Number of updates dynamic gets: 67114
+Number of updates kinematic gets: 67115
+Average steps per dynamic update: 30.99158
+Average steps contact detection lags behind: 61.98193
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.73697
+------------------------------------
+Frame: 209
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2090000
+Number of updates dynamic gets: 67449
+Number of updates kinematic gets: 67450
+Average steps per dynamic update: 30.98592
+Average steps contact detection lags behind: 61.97078
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.02559
+------------------------------------
+Frame: 210
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2100000
+Number of updates dynamic gets: 67784
+Number of updates kinematic gets: 67785
+Average steps per dynamic update: 30.98031
+Average steps contact detection lags behind: 61.95974
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.60586
+------------------------------------
+Frame: 211
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2110000
+Number of updates dynamic gets: 68110
+Number of updates kinematic gets: 68111
+Average steps per dynamic update: 30.97884
+Average steps contact detection lags behind: 61.95664
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.67718
+------------------------------------
+Frame: 212
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2120000
+Number of updates dynamic gets: 68447
+Number of updates kinematic gets: 68448
+Average steps per dynamic update: 30.97242
+Average steps contact detection lags behind: 61.94438
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.83504
+------------------------------------
+Frame: 213
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2130000
+Number of updates dynamic gets: 68779
+Number of updates kinematic gets: 68780
+Average steps per dynamic update: 30.9683
+Average steps contact detection lags behind: 61.936
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.76609
+------------------------------------
+Frame: 214
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2140000
+Number of updates dynamic gets: 69116
+Number of updates kinematic gets: 69117
+Average steps per dynamic update: 30.96199
+Average steps contact detection lags behind: 61.9228
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.51198
+------------------------------------
+Frame: 215
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2150000
+Number of updates dynamic gets: 69450
+Number of updates kinematic gets: 69451
+Average steps per dynamic update: 30.95708
+Average steps contact detection lags behind: 61.91293
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.86175
+------------------------------------
+Frame: 216
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2160000
+Number of updates dynamic gets: 69786
+Number of updates kinematic gets: 69787
+Average steps per dynamic update: 30.95132
+Average steps contact detection lags behind: 61.90174
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.47015
+------------------------------------
+Frame: 217
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2170000
+Number of updates dynamic gets: 70118
+Number of updates kinematic gets: 70119
+Average steps per dynamic update: 30.94739
+Average steps contact detection lags behind: 61.89425
+Number of times dynamic held back: 660
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.6765
+------------------------------------
+Frame: 218
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2180000
+Number of updates dynamic gets: 70455
+Number of updates kinematic gets: 70456
+Average steps per dynamic update: 30.9413
+Average steps contact detection lags behind: 61.88201
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.10064
+------------------------------------
+Frame: 219
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2190000
+Number of updates dynamic gets: 70793
+Number of updates kinematic gets: 70793
+Average steps per dynamic update: 30.93526
+Average steps contact detection lags behind: 61.86927
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.57278
+------------------------------------
+Frame: 220
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2200000
+Number of updates dynamic gets: 71128
+Number of updates kinematic gets: 71129
+Average steps per dynamic update: 30.92972
+Average steps contact detection lags behind: 61.85861
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.75802
+------------------------------------
+Frame: 221
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2210000
+Number of updates dynamic gets: 71463
+Number of updates kinematic gets: 71464
+Average steps per dynamic update: 30.92466
+Average steps contact detection lags behind: 61.84844
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.87039
+------------------------------------
+Frame: 222
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2220000
+Number of updates dynamic gets: 71801
+Number of updates kinematic gets: 71802
+Average steps per dynamic update: 30.91836
+Average steps contact detection lags behind: 61.83592
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.73951
+------------------------------------
+Frame: 223
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2230000
+Number of updates dynamic gets: 72138
+Number of updates kinematic gets: 72139
+Average steps per dynamic update: 30.91254
+Average steps contact detection lags behind: 61.82466
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.61984
+------------------------------------
+Frame: 224
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2240000
+Number of updates dynamic gets: 72471
+Number of updates kinematic gets: 72472
+Average steps per dynamic update: 30.90849
+Average steps contact detection lags behind: 61.81625
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.35063
+------------------------------------
+Frame: 225
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2250000
+Number of updates dynamic gets: 72808
+Number of updates kinematic gets: 72809
+Average steps per dynamic update: 30.90277
+Average steps contact detection lags behind: 61.80479
+Number of times dynamic held back: 661
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.7853
+------------------------------------
+Frame: 226
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2260000
+Number of updates dynamic gets: 73143
+Number of updates kinematic gets: 73144
+Average steps per dynamic update: 30.89795
+Average steps contact detection lags behind: 61.79475
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.64697
+------------------------------------
+Frame: 227
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2270000
+Number of updates dynamic gets: 73476
+Number of updates kinematic gets: 73477
+Average steps per dynamic update: 30.89402
+Average steps contact detection lags behind: 61.78738
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.33015
+------------------------------------
+Frame: 228
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2280000
+Number of updates dynamic gets: 73813
+Number of updates kinematic gets: 73814
+Average steps per dynamic update: 30.88845
+Average steps contact detection lags behind: 61.7761
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.46741
+------------------------------------
+Frame: 229
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2290000
+Number of updates dynamic gets: 74151
+Number of updates kinematic gets: 74151
+Average steps per dynamic update: 30.88293
+Average steps contact detection lags behind: 61.76466
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.37576
+------------------------------------
+Frame: 230
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2300000
+Number of updates dynamic gets: 74484
+Number of updates kinematic gets: 74485
+Average steps per dynamic update: 30.8787
+Average steps contact detection lags behind: 61.75637
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.41569
+------------------------------------
+Frame: 231
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2310000
+Number of updates dynamic gets: 74820
+Number of updates kinematic gets: 74821
+Average steps per dynamic update: 30.87369
+Average steps contact detection lags behind: 61.7468
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.53386
+------------------------------------
+Frame: 232
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2320000
+Number of updates dynamic gets: 75153
+Number of updates kinematic gets: 75154
+Average steps per dynamic update: 30.86995
+Average steps contact detection lags behind: 61.73915
+Number of times dynamic held back: 663
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.54938
+------------------------------------
+Frame: 233
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2330000
+Number of updates dynamic gets: 75487
+Number of updates kinematic gets: 75488
+Average steps per dynamic update: 30.86583
+Average steps contact detection lags behind: 61.73086
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.73531
+------------------------------------
+Frame: 234
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2340000
+Number of updates dynamic gets: 75824
+Number of updates kinematic gets: 75825
+Average steps per dynamic update: 30.86053
+Average steps contact detection lags behind: 61.72029
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.03465
+------------------------------------
+Frame: 235
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2350000
+Number of updates dynamic gets: 76156
+Number of updates kinematic gets: 76157
+Average steps per dynamic update: 30.85731
+Average steps contact detection lags behind: 61.71418
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.71412
+------------------------------------
+Frame: 236
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2360000
+Number of updates dynamic gets: 76493
+Number of updates kinematic gets: 76494
+Average steps per dynamic update: 30.85209
+Average steps contact detection lags behind: 61.70368
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.16142
+------------------------------------
+Frame: 237
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2370000
+Number of updates dynamic gets: 76830
+Number of updates kinematic gets: 76831
+Average steps per dynamic update: 30.84692
+Average steps contact detection lags behind: 61.69287
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.36232
+------------------------------------
+Frame: 238
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2380000
+Number of updates dynamic gets: 77157
+Number of updates kinematic gets: 77158
+Average steps per dynamic update: 30.8458
+Average steps contact detection lags behind: 61.69061
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.73027
+------------------------------------
+Frame: 239
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2390000
+Number of updates dynamic gets: 77490
+Number of updates kinematic gets: 77491
+Average steps per dynamic update: 30.84229
+Average steps contact detection lags behind: 61.68372
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.90107
+------------------------------------
+Frame: 240
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2400000
+Number of updates dynamic gets: 77827
+Number of updates kinematic gets: 77828
+Average steps per dynamic update: 30.83723
+Average steps contact detection lags behind: 61.67368
+Number of times dynamic held back: 665
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.52279
+------------------------------------
+Frame: 241
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2410000
+Number of updates dynamic gets: 78164
+Number of updates kinematic gets: 78165
+Average steps per dynamic update: 30.83221
+Average steps contact detection lags behind: 61.6637
+Number of times dynamic held back: 667
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.55391
+------------------------------------
+Frame: 242
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2420000
+Number of updates dynamic gets: 78503
+Number of updates kinematic gets: 78504
+Average steps per dynamic update: 30.82645
+Average steps contact detection lags behind: 61.65223
+Number of times dynamic held back: 667
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.63517
+------------------------------------
+Frame: 243
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2430000
+Number of updates dynamic gets: 78841
+Number of updates kinematic gets: 78841
+Average steps per dynamic update: 30.82153
+Average steps contact detection lags behind: 61.64196
+Number of times dynamic held back: 667
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.54271
+------------------------------------
+Frame: 244
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2440000
+Number of updates dynamic gets: 79178
+Number of updates kinematic gets: 79179
+Average steps per dynamic update: 30.81625
+Average steps contact detection lags behind: 61.63158
+Number of times dynamic held back: 667
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.83703
+------------------------------------
+Frame: 245
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2450000
+Number of updates dynamic gets: 79511
+Number of updates kinematic gets: 79512
+Average steps per dynamic update: 30.81296
+Average steps contact detection lags behind: 61.62515
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.83971
+------------------------------------
+Frame: 246
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2460000
+Number of updates dynamic gets: 79836
+Number of updates kinematic gets: 79837
+Average steps per dynamic update: 30.81278
+Average steps contact detection lags behind: 61.62461
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.63203
+------------------------------------
+Frame: 247
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2470000
+Number of updates dynamic gets: 80163
+Number of updates kinematic gets: 80164
+Average steps per dynamic update: 30.81184
+Average steps contact detection lags behind: 61.6228
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.59079
+------------------------------------
+Frame: 248
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2480000
+Number of updates dynamic gets: 80501
+Number of updates kinematic gets: 80502
+Average steps per dynamic update: 30.80669
+Average steps contact detection lags behind: 61.61279
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.92669
+------------------------------------
+Frame: 249
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2490000
+Number of updates dynamic gets: 80838
+Number of updates kinematic gets: 80839
+Average steps per dynamic update: 30.80196
+Average steps contact detection lags behind: 61.60337
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.55568
+------------------------------------
+Frame: 250
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2500000
+Number of updates dynamic gets: 81174
+Number of updates kinematic gets: 81175
+Average steps per dynamic update: 30.79766
+Average steps contact detection lags behind: 61.59454
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.56762
+------------------------------------
+Frame: 251
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2510000
+Number of updates dynamic gets: 81512
+Number of updates kinematic gets: 81513
+Average steps per dynamic update: 30.79263
+Average steps contact detection lags behind: 61.58443
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.47775
+------------------------------------
+Frame: 252
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2520000
+Number of updates dynamic gets: 81848
+Number of updates kinematic gets: 81849
+Average steps per dynamic update: 30.7884
+Average steps contact detection lags behind: 61.57623
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.56129
+------------------------------------
+Frame: 253
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2530000
+Number of updates dynamic gets: 82182
+Number of updates kinematic gets: 82183
+Average steps per dynamic update: 30.78496
+Average steps contact detection lags behind: 61.56897
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.43889
+------------------------------------
+Frame: 254
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2540000
+Number of updates dynamic gets: 82518
+Number of updates kinematic gets: 82519
+Average steps per dynamic update: 30.78079
+Average steps contact detection lags behind: 61.56113
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.74312
+------------------------------------
+Frame: 255
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2550000
+Number of updates dynamic gets: 82845
+Number of updates kinematic gets: 82846
+Average steps per dynamic update: 30.78
+Average steps contact detection lags behind: 61.55922
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.23431
+------------------------------------
+Frame: 256
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2560000
+Number of updates dynamic gets: 83183
+Number of updates kinematic gets: 83184
+Average steps per dynamic update: 30.77515
+Average steps contact detection lags behind: 61.54942
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.7256
+------------------------------------
+Frame: 257
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2570000
+Number of updates dynamic gets: 83519
+Number of updates kinematic gets: 83520
+Average steps per dynamic update: 30.77107
+Average steps contact detection lags behind: 61.5412
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.55188
+------------------------------------
+Frame: 258
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2580000
+Number of updates dynamic gets: 83845
+Number of updates kinematic gets: 83846
+Average steps per dynamic update: 30.7707
+Average steps contact detection lags behind: 61.5406
+Number of times dynamic held back: 669
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.86529
+------------------------------------
+Frame: 259
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2590000
+Number of updates dynamic gets: 84180
+Number of updates kinematic gets: 84181
+Average steps per dynamic update: 30.76704
+Average steps contact detection lags behind: 61.53337
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.8089
+------------------------------------
+Frame: 260
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2600000
+Number of updates dynamic gets: 84519
+Number of updates kinematic gets: 84520
+Average steps per dynamic update: 30.76195
+Average steps contact detection lags behind: 61.52344
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.33924
+------------------------------------
+Frame: 261
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2610000
+Number of updates dynamic gets: 84855
+Number of updates kinematic gets: 84856
+Average steps per dynamic update: 30.75799
+Average steps contact detection lags behind: 61.51557
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.18329
+------------------------------------
+Frame: 262
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2620000
+Number of updates dynamic gets: 85193
+Number of updates kinematic gets: 85194
+Average steps per dynamic update: 30.75334
+Average steps contact detection lags behind: 61.50602
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.05839
+------------------------------------
+Frame: 263
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2630000
+Number of updates dynamic gets: 85527
+Number of updates kinematic gets: 85528
+Average steps per dynamic update: 30.75016
+Average steps contact detection lags behind: 61.49957
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.54947
+------------------------------------
+Frame: 264
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2640000
+Number of updates dynamic gets: 85865
+Number of updates kinematic gets: 85866
+Average steps per dynamic update: 30.74558
+Average steps contact detection lags behind: 61.49017
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 4.04058
+------------------------------------
+Frame: 265
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2650000
+Number of updates dynamic gets: 86202
+Number of updates kinematic gets: 86203
+Average steps per dynamic update: 30.74139
+Average steps contact detection lags behind: 61.48186
+Number of times dynamic held back: 670
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 4.5317
+------------------------------------
+Frame: 266
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2660000
+Number of updates dynamic gets: 86541
+Number of updates kinematic gets: 86542
+Average steps per dynamic update: 30.73652
+Average steps contact detection lags behind: 61.47227
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.63315
+------------------------------------
+Frame: 267
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2670000
+Number of updates dynamic gets: 86879
+Number of updates kinematic gets: 86880
+Average steps per dynamic update: 30.73204
+Average steps contact detection lags behind: 61.46355
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.48924
+------------------------------------
+Frame: 268
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2680000
+Number of updates dynamic gets: 87217
+Number of updates kinematic gets: 87218
+Average steps per dynamic update: 30.7276
+Average steps contact detection lags behind: 61.45462
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.91977
+------------------------------------
+Frame: 269
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2690000
+Number of updates dynamic gets: 87555
+Number of updates kinematic gets: 87556
+Average steps per dynamic update: 30.72319
+Average steps contact detection lags behind: 61.44599
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.1019
+------------------------------------
+Frame: 270
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2700000
+Number of updates dynamic gets: 87893
+Number of updates kinematic gets: 87894
+Average steps per dynamic update: 30.71882
+Average steps contact detection lags behind: 61.43676
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.64093
+------------------------------------
+Frame: 271
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2710000
+Number of updates dynamic gets: 88232
+Number of updates kinematic gets: 88233
+Average steps per dynamic update: 30.71413
+Average steps contact detection lags behind: 61.4279
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.62894
+------------------------------------
+Frame: 272
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2720000
+Number of updates dynamic gets: 88570
+Number of updates kinematic gets: 88571
+Average steps per dynamic update: 30.70983
+Average steps contact detection lags behind: 61.4187
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.57116
+------------------------------------
+Frame: 273
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2730000
+Number of updates dynamic gets: 88906
+Number of updates kinematic gets: 88907
+Average steps per dynamic update: 30.70624
+Average steps contact detection lags behind: 61.41161
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.95533
+------------------------------------
+Frame: 274
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2740000
+Number of updates dynamic gets: 89242
+Number of updates kinematic gets: 89243
+Average steps per dynamic update: 30.70269
+Average steps contact detection lags behind: 61.40486
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.23183
+------------------------------------
+Frame: 275
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2750000
+Number of updates dynamic gets: 89579
+Number of updates kinematic gets: 89580
+Average steps per dynamic update: 30.69882
+Average steps contact detection lags behind: 61.39668
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.6176
+------------------------------------
+Frame: 276
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2760000
+Number of updates dynamic gets: 89914
+Number of updates kinematic gets: 89915
+Average steps per dynamic update: 30.69566
+Average steps contact detection lags behind: 61.39079
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.64424
+------------------------------------
+Frame: 277
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2770000
+Number of updates dynamic gets: 90247
+Number of updates kinematic gets: 90248
+Average steps per dynamic update: 30.6932
+Average steps contact detection lags behind: 61.38578
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.74881
+------------------------------------
+Frame: 278
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2780000
+Number of updates dynamic gets: 90585
+Number of updates kinematic gets: 90585
+Average steps per dynamic update: 30.68941
+Average steps contact detection lags behind: 61.37783
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.769
+------------------------------------
+Frame: 279
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2790000
+Number of updates dynamic gets: 90914
+Number of updates kinematic gets: 90915
+Average steps per dynamic update: 30.68801
+Average steps contact detection lags behind: 61.37546
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.58861
+------------------------------------
+Frame: 280
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2800000
+Number of updates dynamic gets: 91249
+Number of updates kinematic gets: 91250
+Average steps per dynamic update: 30.68493
+Average steps contact detection lags behind: 61.3694
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.71459
+------------------------------------
+Frame: 281
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2810000
+Number of updates dynamic gets: 91586
+Number of updates kinematic gets: 91587
+Average steps per dynamic update: 30.68121
+Average steps contact detection lags behind: 61.36195
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.74364
+------------------------------------
+Frame: 282
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2820000
+Number of updates dynamic gets: 91925
+Number of updates kinematic gets: 91926
+Average steps per dynamic update: 30.67685
+Average steps contact detection lags behind: 61.35319
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.70261
+------------------------------------
+Frame: 283
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2830000
+Number of updates dynamic gets: 92265
+Number of updates kinematic gets: 92265
+Average steps per dynamic update: 30.67252
+Average steps contact detection lags behind: 61.34407
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.88569
+------------------------------------
+Frame: 284
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2840000
+Number of updates dynamic gets: 92603
+Number of updates kinematic gets: 92604
+Average steps per dynamic update: 30.66822
+Average steps contact detection lags behind: 61.33558
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.66465
+------------------------------------
+Frame: 285
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2850000
+Number of updates dynamic gets: 92940
+Number of updates kinematic gets: 92941
+Average steps per dynamic update: 30.66462
+Average steps contact detection lags behind: 61.32841
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.18137
+------------------------------------
+Frame: 286
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2860000
+Number of updates dynamic gets: 93279
+Number of updates kinematic gets: 93280
+Average steps per dynamic update: 30.66038
+Average steps contact detection lags behind: 61.32035
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.91222
+------------------------------------
+Frame: 287
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2870000
+Number of updates dynamic gets: 93619
+Number of updates kinematic gets: 93620
+Average steps per dynamic update: 30.65584
+Average steps contact detection lags behind: 61.3113
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.65161
+------------------------------------
+Frame: 288
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2880000
+Number of updates dynamic gets: 93957
+Number of updates kinematic gets: 93958
+Average steps per dynamic update: 30.65199
+Average steps contact detection lags behind: 61.3034
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.71295
+------------------------------------
+Frame: 289
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2890000
+Number of updates dynamic gets: 94292
+Number of updates kinematic gets: 94293
+Average steps per dynamic update: 30.64915
+Average steps contact detection lags behind: 61.2979
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.82909
+------------------------------------
+Frame: 290
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2900000
+Number of updates dynamic gets: 94623
+Number of updates kinematic gets: 94624
+Average steps per dynamic update: 30.64762
+Average steps contact detection lags behind: 61.29461
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.84891
+------------------------------------
+Frame: 291
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2910000
+Number of updates dynamic gets: 94960
+Number of updates kinematic gets: 94961
+Average steps per dynamic update: 30.64416
+Average steps contact detection lags behind: 61.28791
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.06221
+------------------------------------
+Frame: 292
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2920000
+Number of updates dynamic gets: 95300
+Number of updates kinematic gets: 95301
+Average steps per dynamic update: 30.63976
+Average steps contact detection lags behind: 61.27902
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.48382
+------------------------------------
+Frame: 293
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2930000
+Number of updates dynamic gets: 95636
+Number of updates kinematic gets: 95637
+Average steps per dynamic update: 30.63668
+Average steps contact detection lags behind: 61.27253
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.71289
+------------------------------------
+Frame: 294
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2940000
+Number of updates dynamic gets: 95970
+Number of updates kinematic gets: 95971
+Average steps per dynamic update: 30.63425
+Average steps contact detection lags behind: 61.26804
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.58797
+------------------------------------
+Frame: 295
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2950000
+Number of updates dynamic gets: 96310
+Number of updates kinematic gets: 96311
+Average steps per dynamic update: 30.62994
+Average steps contact detection lags behind: 61.25949
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.61161
+------------------------------------
+Frame: 296
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2960000
+Number of updates dynamic gets: 96646
+Number of updates kinematic gets: 96647
+Average steps per dynamic update: 30.62692
+Average steps contact detection lags behind: 61.25333
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.68068
+------------------------------------
+Frame: 297
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2970000
+Number of updates dynamic gets: 96982
+Number of updates kinematic gets: 96983
+Average steps per dynamic update: 30.62392
+Average steps contact detection lags behind: 61.24712
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.53812
+------------------------------------
+Frame: 298
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2980000
+Number of updates dynamic gets: 97319
+Number of updates kinematic gets: 97320
+Average steps per dynamic update: 30.62063
+Average steps contact detection lags behind: 61.2409
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.67406
+------------------------------------
+Frame: 299
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2990000
+Number of updates dynamic gets: 97656
+Number of updates kinematic gets: 97657
+Average steps per dynamic update: 30.61736
+Average steps contact detection lags behind: 61.23413
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.52528
+------------------------------------
+Frame: 300
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3000000
+Number of updates dynamic gets: 97996
+Number of updates kinematic gets: 97996
+Average steps per dynamic update: 30.61349
+Average steps contact detection lags behind: 61.22611
+Number of times dynamic held back: 672
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.57576
+------------------------------------
+Frame: 301
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3010000
+Number of updates dynamic gets: 98328
+Number of updates kinematic gets: 98329
+Average steps per dynamic update: 30.61152
+Average steps contact detection lags behind: 61.22251
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.75395
+------------------------------------
+Frame: 302
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3020000
+Number of updates dynamic gets: 98657
+Number of updates kinematic gets: 98658
+Average steps per dynamic update: 30.6108
+Average steps contact detection lags behind: 61.22077
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.77676
+------------------------------------
+Frame: 303
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3030000
+Number of updates dynamic gets: 98997
+Number of updates kinematic gets: 98998
+Average steps per dynamic update: 30.60668
+Average steps contact detection lags behind: 61.21296
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.65757
+------------------------------------
+Frame: 304
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3040000
+Number of updates dynamic gets: 99331
+Number of updates kinematic gets: 99332
+Average steps per dynamic update: 30.60444
+Average steps contact detection lags behind: 61.20811
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.41552
+------------------------------------
+Frame: 305
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3050000
+Number of updates dynamic gets: 99669
+Number of updates kinematic gets: 99670
+Average steps per dynamic update: 30.60098
+Average steps contact detection lags behind: 61.20145
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.79324
+------------------------------------
+Frame: 306
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3060000
+Number of updates dynamic gets: 100001
+Number of updates kinematic gets: 100002
+Average steps per dynamic update: 30.59939
+Average steps contact detection lags behind: 61.19815
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.52832
+------------------------------------
+Frame: 307
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3070000
+Number of updates dynamic gets: 100339
+Number of updates kinematic gets: 100340
+Average steps per dynamic update: 30.59597
+Average steps contact detection lags behind: 61.19113
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.59294
+------------------------------------
+Frame: 308
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3080000
+Number of updates dynamic gets: 100672
+Number of updates kinematic gets: 100673
+Average steps per dynamic update: 30.5941
+Average steps contact detection lags behind: 61.18742
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.60889
+------------------------------------
+Frame: 309
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3090000
+Number of updates dynamic gets: 101004
+Number of updates kinematic gets: 101005
+Average steps per dynamic update: 30.59254
+Average steps contact detection lags behind: 61.18469
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.9864
+------------------------------------
+Frame: 310
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3100000
+Number of updates dynamic gets: 101343
+Number of updates kinematic gets: 101344
+Average steps per dynamic update: 30.58889
+Average steps contact detection lags behind: 61.17733
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.84169
+------------------------------------
+Frame: 311
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3110000
+Number of updates dynamic gets: 101675
+Number of updates kinematic gets: 101676
+Average steps per dynamic update: 30.58736
+Average steps contact detection lags behind: 61.17393
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.91612
+------------------------------------
+Frame: 312
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3120000
+Number of updates dynamic gets: 102015
+Number of updates kinematic gets: 102016
+Average steps per dynamic update: 30.58344
+Average steps contact detection lags behind: 61.16635
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.86307
+------------------------------------
+Frame: 313
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3130000
+Number of updates dynamic gets: 102354
+Number of updates kinematic gets: 102355
+Average steps per dynamic update: 30.57984
+Average steps contact detection lags behind: 61.15919
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.49624
+------------------------------------
+Frame: 314
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3140000
+Number of updates dynamic gets: 102694
+Number of updates kinematic gets: 102694
+Average steps per dynamic update: 30.57628
+Average steps contact detection lags behind: 61.1517
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.84903
+------------------------------------
+Frame: 315
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3150000
+Number of updates dynamic gets: 103032
+Number of updates kinematic gets: 103033
+Average steps per dynamic update: 30.57273
+Average steps contact detection lags behind: 61.14474
+Number of times dynamic held back: 673
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.70036
+------------------------------------
+Frame: 316
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3160000
+Number of updates dynamic gets: 103372
+Number of updates kinematic gets: 103373
+Average steps per dynamic update: 30.56891
+Average steps contact detection lags behind: 61.13729
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.94547
+------------------------------------
+Frame: 317
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3170000
+Number of updates dynamic gets: 103710
+Number of updates kinematic gets: 103711
+Average steps per dynamic update: 30.56571
+Average steps contact detection lags behind: 61.13109
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.66241
+------------------------------------
+Frame: 318
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3180000
+Number of updates dynamic gets: 104048
+Number of updates kinematic gets: 104049
+Average steps per dynamic update: 30.56252
+Average steps contact detection lags behind: 61.12425
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.79142
+------------------------------------
+Frame: 319
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3190000
+Number of updates dynamic gets: 104388
+Number of updates kinematic gets: 104389
+Average steps per dynamic update: 30.55878
+Average steps contact detection lags behind: 61.11708
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.84097
+------------------------------------
+Frame: 320
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3200000
+Number of updates dynamic gets: 104722
+Number of updates kinematic gets: 104723
+Average steps per dynamic update: 30.5568
+Average steps contact detection lags behind: 61.11327
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.43448
+------------------------------------
+Frame: 321
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3210000
+Number of updates dynamic gets: 105051
+Number of updates kinematic gets: 105052
+Average steps per dynamic update: 30.5563
+Average steps contact detection lags behind: 61.11216
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.92548
+------------------------------------
+Frame: 322
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3220000
+Number of updates dynamic gets: 105391
+Number of updates kinematic gets: 105392
+Average steps per dynamic update: 30.5526
+Average steps contact detection lags behind: 61.1046
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.77092
+------------------------------------
+Frame: 323
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3230000
+Number of updates dynamic gets: 105726
+Number of updates kinematic gets: 105727
+Average steps per dynamic update: 30.55038
+Average steps contact detection lags behind: 61.10032
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.03312
+------------------------------------
+Frame: 324
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3240000
+Number of updates dynamic gets: 106062
+Number of updates kinematic gets: 106063
+Average steps per dynamic update: 30.54788
+Average steps contact detection lags behind: 61.09504
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.53714
+------------------------------------
+Frame: 325
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3250000
+Number of updates dynamic gets: 106398
+Number of updates kinematic gets: 106399
+Average steps per dynamic update: 30.5454
+Average steps contact detection lags behind: 61.09009
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.5537
+------------------------------------
+Frame: 326
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3260000
+Number of updates dynamic gets: 106728
+Number of updates kinematic gets: 106729
+Average steps per dynamic update: 30.54465
+Average steps contact detection lags behind: 61.08889
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 35
+Maximum system velocity: 2.95705
+------------------------------------
+Frame: 327
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3270000
+Number of updates dynamic gets: 107065
+Number of updates kinematic gets: 107066
+Average steps per dynamic update: 30.54191
+Average steps contact detection lags behind: 61.08352
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.78795
+------------------------------------
+Frame: 328
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3280000
+Number of updates dynamic gets: 107404
+Number of updates kinematic gets: 107405
+Average steps per dynamic update: 30.53862
+Average steps contact detection lags behind: 61.07673
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.6839
+------------------------------------
+Frame: 329
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3290000
+Number of updates dynamic gets: 107744
+Number of updates kinematic gets: 107745
+Average steps per dynamic update: 30.53506
+Average steps contact detection lags behind: 61.06979
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.60711
+------------------------------------
+Frame: 330
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3300000
+Number of updates dynamic gets: 108076
+Number of updates kinematic gets: 108077
+Average steps per dynamic update: 30.53379
+Average steps contact detection lags behind: 61.06719
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.94579
+------------------------------------
+Frame: 331
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3310000
+Number of updates dynamic gets: 108413
+Number of updates kinematic gets: 108414
+Average steps per dynamic update: 30.53111
+Average steps contact detection lags behind: 61.06154
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.86514
+------------------------------------
+Frame: 332
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3320000
+Number of updates dynamic gets: 108753
+Number of updates kinematic gets: 108754
+Average steps per dynamic update: 30.52761
+Average steps contact detection lags behind: 61.05477
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.61881
+------------------------------------
+Frame: 333
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3330000
+Number of updates dynamic gets: 109093
+Number of updates kinematic gets: 109094
+Average steps per dynamic update: 30.52414
+Average steps contact detection lags behind: 61.04787
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.64649
+------------------------------------
+Frame: 334
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3340000
+Number of updates dynamic gets: 109433
+Number of updates kinematic gets: 109434
+Average steps per dynamic update: 30.52068
+Average steps contact detection lags behind: 61.04095
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.46762
+------------------------------------
+Frame: 335
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3350000
+Number of updates dynamic gets: 109770
+Number of updates kinematic gets: 109771
+Average steps per dynamic update: 30.51808
+Average steps contact detection lags behind: 61.03552
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.56548
+------------------------------------
+Frame: 336
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3360000
+Number of updates dynamic gets: 110111
+Number of updates kinematic gets: 110112
+Average steps per dynamic update: 30.51439
+Average steps contact detection lags behind: 61.02807
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.7325
+------------------------------------
+Frame: 337
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3370000
+Number of updates dynamic gets: 110450
+Number of updates kinematic gets: 110451
+Average steps per dynamic update: 30.51127
+Average steps contact detection lags behind: 61.02202
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.67702
+------------------------------------
+Frame: 338
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3380000
+Number of updates dynamic gets: 110788
+Number of updates kinematic gets: 110788
+Average steps per dynamic update: 30.50872
+Average steps contact detection lags behind: 61.01664
+Number of times dynamic held back: 674
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.82283
+------------------------------------
+Frame: 339
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3390000
+Number of updates dynamic gets: 111120
+Number of updates kinematic gets: 111121
+Average steps per dynamic update: 30.50728
+Average steps contact detection lags behind: 61.014
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.63202
+------------------------------------
+Frame: 340
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3400000
+Number of updates dynamic gets: 111460
+Number of updates kinematic gets: 111461
+Average steps per dynamic update: 30.50394
+Average steps contact detection lags behind: 61.00754
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.65298
+------------------------------------
+Frame: 341
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3410000
+Number of updates dynamic gets: 111799
+Number of updates kinematic gets: 111800
+Average steps per dynamic update: 30.50089
+Average steps contact detection lags behind: 61.00134
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.61303
+------------------------------------
+Frame: 342
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3420000
+Number of updates dynamic gets: 112136
+Number of updates kinematic gets: 112137
+Average steps per dynamic update: 30.49841
+Average steps contact detection lags behind: 60.99641
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.54351
+------------------------------------
+Frame: 343
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3430000
+Number of updates dynamic gets: 112475
+Number of updates kinematic gets: 112476
+Average steps per dynamic update: 30.49539
+Average steps contact detection lags behind: 60.9903
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.6396
+------------------------------------
+Frame: 344
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3440000
+Number of updates dynamic gets: 112810
+Number of updates kinematic gets: 112811
+Average steps per dynamic update: 30.49348
+Average steps contact detection lags behind: 60.98648
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.83515
+------------------------------------
+Frame: 345
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3450000
+Number of updates dynamic gets: 113149
+Number of updates kinematic gets: 113150
+Average steps per dynamic update: 30.4905
+Average steps contact detection lags behind: 60.98046
+Number of times dynamic held back: 676
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.72847
+------------------------------------
+Frame: 346
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3460000
+Number of updates dynamic gets: 113483
+Number of updates kinematic gets: 113484
+Average steps per dynamic update: 30.48888
+Average steps contact detection lags behind: 60.97718
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.61413
+------------------------------------
+Frame: 347
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3470000
+Number of updates dynamic gets: 113825
+Number of updates kinematic gets: 113826
+Average steps per dynamic update: 30.48513
+Average steps contact detection lags behind: 60.96966
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.69155
+------------------------------------
+Frame: 348
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3480000
+Number of updates dynamic gets: 114167
+Number of updates kinematic gets: 114168
+Average steps per dynamic update: 30.4814
+Average steps contact detection lags behind: 60.96218
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.51408
+------------------------------------
+Frame: 349
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3490000
+Number of updates dynamic gets: 114502
+Number of updates kinematic gets: 114503
+Average steps per dynamic update: 30.47955
+Average steps contact detection lags behind: 60.9585
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.7891
+------------------------------------
+Frame: 350
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3500000
+Number of updates dynamic gets: 114842
+Number of updates kinematic gets: 114843
+Average steps per dynamic update: 30.47639
+Average steps contact detection lags behind: 60.95247
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.88087
+------------------------------------
+Frame: 351
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3510000
+Number of updates dynamic gets: 115178
+Number of updates kinematic gets: 115179
+Average steps per dynamic update: 30.47431
+Average steps contact detection lags behind: 60.94817
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.7458
+------------------------------------
+Frame: 352
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3520000
+Number of updates dynamic gets: 115512
+Number of updates kinematic gets: 115513
+Average steps per dynamic update: 30.47276
+Average steps contact detection lags behind: 60.94519
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.45538
+------------------------------------
+Frame: 353
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3530000
+Number of updates dynamic gets: 115853
+Number of updates kinematic gets: 115854
+Average steps per dynamic update: 30.46938
+Average steps contact detection lags behind: 60.93815
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.50645
+------------------------------------
+Frame: 354
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3540000
+Number of updates dynamic gets: 116191
+Number of updates kinematic gets: 116192
+Average steps per dynamic update: 30.46681
+Average steps contact detection lags behind: 60.9329
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.80639
+------------------------------------
+Frame: 355
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3550000
+Number of updates dynamic gets: 116527
+Number of updates kinematic gets: 116528
+Average steps per dynamic update: 30.46478
+Average steps contact detection lags behind: 60.92918
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.61896
+------------------------------------
+Frame: 356
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3560000
+Number of updates dynamic gets: 116867
+Number of updates kinematic gets: 116868
+Average steps per dynamic update: 30.46172
+Average steps contact detection lags behind: 60.9231
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.66157
+------------------------------------
+Frame: 357
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3570000
+Number of updates dynamic gets: 117205
+Number of updates kinematic gets: 117206
+Average steps per dynamic update: 30.45919
+Average steps contact detection lags behind: 60.91785
+Number of times dynamic held back: 678
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.78665
+------------------------------------
+Frame: 358
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3580000
+Number of updates dynamic gets: 117546
+Number of updates kinematic gets: 117547
+Average steps per dynamic update: 30.4559
+Average steps contact detection lags behind: 60.91149
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.60572
+------------------------------------
+Frame: 359
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3590000
+Number of updates dynamic gets: 117882
+Number of updates kinematic gets: 117883
+Average steps per dynamic update: 30.45392
+Average steps contact detection lags behind: 60.90722
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.92958
+------------------------------------
+Frame: 360
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3600000
+Number of updates dynamic gets: 118223
+Number of updates kinematic gets: 118224
+Average steps per dynamic update: 30.45067
+Average steps contact detection lags behind: 60.90101
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.51398
+------------------------------------
+Frame: 361
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3610000
+Number of updates dynamic gets: 118557
+Number of updates kinematic gets: 118558
+Average steps per dynamic update: 30.44923
+Average steps contact detection lags behind: 60.89778
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 3.31338
+------------------------------------
+Frame: 362
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3620000
+Number of updates dynamic gets: 118893
+Number of updates kinematic gets: 118894
+Average steps per dynamic update: 30.44729
+Average steps contact detection lags behind: 60.89423
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.84612
+------------------------------------
+Frame: 363
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3630000
+Number of updates dynamic gets: 119236
+Number of updates kinematic gets: 119237
+Average steps per dynamic update: 30.44357
+Average steps contact detection lags behind: 60.88645
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.98419
+------------------------------------
+Frame: 364
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3640000
+Number of updates dynamic gets: 119580
+Number of updates kinematic gets: 119581
+Average steps per dynamic update: 30.43962
+Average steps contact detection lags behind: 60.87872
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.60327
+------------------------------------
+Frame: 365
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3650000
+Number of updates dynamic gets: 119923
+Number of updates kinematic gets: 119924
+Average steps per dynamic update: 30.43594
+Average steps contact detection lags behind: 60.8712
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.73821
+------------------------------------
+Frame: 366
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3660000
+Number of updates dynamic gets: 120264
+Number of updates kinematic gets: 120265
+Average steps per dynamic update: 30.43279
+Average steps contact detection lags behind: 60.86533
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.58153
+------------------------------------
+Frame: 367
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3670000
+Number of updates dynamic gets: 120596
+Number of updates kinematic gets: 120597
+Average steps per dynamic update: 30.43193
+Average steps contact detection lags behind: 60.86319
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.5282
+------------------------------------
+Frame: 368
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3680000
+Number of updates dynamic gets: 120922
+Number of updates kinematic gets: 120923
+Average steps per dynamic update: 30.43259
+Average steps contact detection lags behind: 60.86453
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 35.5
+Maximum system velocity: 2.68337
+------------------------------------
+Frame: 369
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3690000
+Number of updates dynamic gets: 121260
+Number of updates kinematic gets: 121261
+Average steps per dynamic update: 30.43023
+Average steps contact detection lags behind: 60.86021
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.62524
+------------------------------------
+Frame: 370
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3700000
+Number of updates dynamic gets: 121596
+Number of updates kinematic gets: 121597
+Average steps per dynamic update: 30.42838
+Average steps contact detection lags behind: 60.85618
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.58082
+------------------------------------
+Frame: 371
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3710000
+Number of updates dynamic gets: 121938
+Number of updates kinematic gets: 121939
+Average steps per dynamic update: 30.42505
+Average steps contact detection lags behind: 60.84961
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.85698
+------------------------------------
+Frame: 372
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3720000
+Number of updates dynamic gets: 122274
+Number of updates kinematic gets: 122275
+Average steps per dynamic update: 30.42323
+Average steps contact detection lags behind: 60.84599
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.65948
+------------------------------------
+Frame: 373
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3730000
+Number of updates dynamic gets: 122614
+Number of updates kinematic gets: 122615
+Average steps per dynamic update: 30.42042
+Average steps contact detection lags behind: 60.84023
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.77584
+------------------------------------
+Frame: 374
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3740000
+Number of updates dynamic gets: 122950
+Number of updates kinematic gets: 122951
+Average steps per dynamic update: 30.41862
+Average steps contact detection lags behind: 60.83675
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.55668
+------------------------------------
+Frame: 375
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3750000
+Number of updates dynamic gets: 123290
+Number of updates kinematic gets: 123291
+Average steps per dynamic update: 30.41585
+Average steps contact detection lags behind: 60.83105
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.61597
+------------------------------------
+Frame: 376
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3760000
+Number of updates dynamic gets: 123627
+Number of updates kinematic gets: 123628
+Average steps per dynamic update: 30.41382
+Average steps contact detection lags behind: 60.82713
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.54489
+------------------------------------
+Frame: 377
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3770000
+Number of updates dynamic gets: 123966
+Number of updates kinematic gets: 123967
+Average steps per dynamic update: 30.41132
+Average steps contact detection lags behind: 60.8221
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.96831
+------------------------------------
+Frame: 378
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3780000
+Number of updates dynamic gets: 124301
+Number of updates kinematic gets: 124302
+Average steps per dynamic update: 30.40981
+Average steps contact detection lags behind: 60.81903
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.76039
+------------------------------------
+Frame: 379
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3790000
+Number of updates dynamic gets: 124641
+Number of updates kinematic gets: 124642
+Average steps per dynamic update: 30.40709
+Average steps contact detection lags behind: 60.81351
+Number of times dynamic held back: 679
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.85624
+------------------------------------
+Frame: 380
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3800000
+Number of updates dynamic gets: 124976
+Number of updates kinematic gets: 124977
+Average steps per dynamic update: 30.40559
+Average steps contact detection lags behind: 60.81077
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.77369
+------------------------------------
+Frame: 381
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3810000
+Number of updates dynamic gets: 125316
+Number of updates kinematic gets: 125317
+Average steps per dynamic update: 30.4029
+Average steps contact detection lags behind: 60.80543
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.26436
+------------------------------------
+Frame: 382
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3820000
+Number of updates dynamic gets: 125653
+Number of updates kinematic gets: 125654
+Average steps per dynamic update: 30.40094
+Average steps contact detection lags behind: 60.80126
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.7551
+------------------------------------
+Frame: 383
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3830000
+Number of updates dynamic gets: 125991
+Number of updates kinematic gets: 125992
+Average steps per dynamic update: 30.39876
+Average steps contact detection lags behind: 60.79707
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 3.5869
+------------------------------------
+Frame: 384
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3840000
+Number of updates dynamic gets: 126330
+Number of updates kinematic gets: 126331
+Average steps per dynamic update: 30.39634
+Average steps contact detection lags behind: 60.79241
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 4.07778
+------------------------------------
+Frame: 385
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3850000
+Number of updates dynamic gets: 126670
+Number of updates kinematic gets: 126671
+Average steps per dynamic update: 30.3937
+Average steps contact detection lags behind: 60.78702
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 4.56872
+------------------------------------
+Frame: 386
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3860000
+Number of updates dynamic gets: 127011
+Number of updates kinematic gets: 127012
+Average steps per dynamic update: 30.39083
+Average steps contact detection lags behind: 60.78119
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 5.05971
+------------------------------------
+Frame: 387
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3870000
+Number of updates dynamic gets: 127344
+Number of updates kinematic gets: 127345
+Average steps per dynamic update: 30.38989
+Average steps contact detection lags behind: 60.77912
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 34.5
+Maximum system velocity: 2.79305
+------------------------------------
+Frame: 388
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3880000
+Number of updates dynamic gets: 127684
+Number of updates kinematic gets: 127685
+Average steps per dynamic update: 30.38728
+Average steps contact detection lags behind: 60.77425
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.60962
+------------------------------------
+Frame: 389
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3890000
+Number of updates dynamic gets: 128024
+Number of updates kinematic gets: 128025
+Average steps per dynamic update: 30.38469
+Average steps contact detection lags behind: 60.7689
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.9269
+------------------------------------
+Frame: 390
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3900000
+Number of updates dynamic gets: 128366
+Number of updates kinematic gets: 128367
+Average steps per dynamic update: 30.38164
+Average steps contact detection lags behind: 60.76263
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.76452
+------------------------------------
+Frame: 391
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3910000
+Number of updates dynamic gets: 128708
+Number of updates kinematic gets: 128709
+Average steps per dynamic update: 30.37861
+Average steps contact detection lags behind: 60.75695
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.70746
+------------------------------------
+Frame: 392
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3920000
+Number of updates dynamic gets: 129051
+Number of updates kinematic gets: 129052
+Average steps per dynamic update: 30.37535
+Average steps contact detection lags behind: 60.75022
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 3.11126
+------------------------------------
+Frame: 393
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3930000
+Number of updates dynamic gets: 129395
+Number of updates kinematic gets: 129396
+Average steps per dynamic update: 30.37188
+Average steps contact detection lags behind: 60.74332
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.42116
+------------------------------------
+Frame: 394
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3940000
+Number of updates dynamic gets: 129737
+Number of updates kinematic gets: 129738
+Average steps per dynamic update: 30.3689
+Average steps contact detection lags behind: 60.73738
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.67139
+------------------------------------
+Frame: 395
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3950000
+Number of updates dynamic gets: 130076
+Number of updates kinematic gets: 130077
+Average steps per dynamic update: 30.36663
+Average steps contact detection lags behind: 60.73263
+Number of times dynamic held back: 680
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.69931
+------------------------------------
+Frame: 396
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3960000
+Number of updates dynamic gets: 130415
+Number of updates kinematic gets: 130416
+Average steps per dynamic update: 30.36437
+Average steps contact detection lags behind: 60.72837
+Number of times dynamic held back: 681
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.67007
+------------------------------------
+Frame: 397
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3970000
+Number of updates dynamic gets: 130755
+Number of updates kinematic gets: 130756
+Average steps per dynamic update: 30.3619
+Average steps contact detection lags behind: 60.72355
+Number of times dynamic held back: 681
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.56351
+------------------------------------
+Frame: 398
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3980000
+Number of updates dynamic gets: 131093
+Number of updates kinematic gets: 131094
+Average steps per dynamic update: 30.35989
+Average steps contact detection lags behind: 60.71932
+Number of times dynamic held back: 681
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.73209
+------------------------------------
+Frame: 399
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 3990000
+Number of updates dynamic gets: 131431
+Number of updates kinematic gets: 131432
+Average steps per dynamic update: 30.3579
+Average steps contact detection lags behind: 60.71537
+Number of times dynamic held back: 681
+-----------------------------
+Solver's current update frequency (auto-adapted): 33
+Maximum system velocity: 2.78867
+------------------------------------
+Frame: 400
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 4000000
+Number of updates dynamic gets: 131769
+Number of updates kinematic gets: 131770
+Average steps per dynamic update: 30.35592
+Average steps contact detection lags behind: 60.71123
+Number of times dynamic held back: 681
+-----------------------------
+Solver's current update frequency (auto-adapted): 33.5
+Maximum system velocity: 2.56372
+------------------------------------
+5247.43 seconds (wall time) to finish 10 seconds' simulation
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 4000001
+Number of updates dynamic gets: 131770
+Number of updates kinematic gets: 131771
+Average steps per dynamic update: 30.3557
+Average steps contact detection lags behind: 60.7112
+Number of times dynamic held back: 681
+-----------------------------
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 10464.7884 seconds
+Discretize domain: 412.212495 seconds, 3.93904% of kT total runtime
+Find contact pairs: 7607.82592 seconds, 72.6993% of kT total runtime
+Build history map: 314.7119 seconds, 3.00734% of kT total runtime
+Unpack updates from dT: 441.487971 seconds, 4.2188% of kT total runtime
+Send to dT buffer: 41.9429162 seconds, 0.4008% of kT total runtime
+Wait for dT update: 1646.60721 seconds, 15.7347% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 9494.5558 seconds
+Clear force array: 102.009083 seconds, 1.0744% of dT total runtime
+Calculate contact forces: 7946.58191 seconds, 83.6962% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 1286.86568 seconds, 13.5537% of dT total runtime
+Unpack updates from kT: 72.8219632 seconds, 0.766987% of dT total runtime
+Send to kT buffer: 32.78163 seconds, 0.345268% of dT total runtime
+Wait for kT update: 53.4955382 seconds, 0.563434% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 114.937 MiB
+kT device memory usage: 349.156 MiB
+dT host memory usage: 136.631 MiB
+dT device memory usage: 273.92 MiB
+----------------------------------------
+DEMdemo_RotatingDrum exiting...

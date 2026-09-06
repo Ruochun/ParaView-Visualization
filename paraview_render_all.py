@@ -18,6 +18,8 @@ import traceback
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+from timing_report import generate_timing_report
+
 from paraview.simple import *  # noqa: F401,F403 - ParaView scripts conventionally use this.
 
 
@@ -398,6 +400,14 @@ def main(argv):
     output_dir = Path(_resolve(defaults.get("output_dir", "movies"), base_dir))
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    timing_failed = False
+    try:
+        generate_timing_report(manifest.get("timing", {}), base_dir, output_dir)
+    except Exception as exc:
+        timing_failed = True
+        print(f"ERROR: timing report failed: {exc}", file=sys.stderr)
+        traceback.print_exc()
+
     handlers = {
         "state": render_state_job,
         "mesh": render_mesh_job,
@@ -433,6 +443,8 @@ def main(argv):
     print("\n=== Summary ===")
     print(f"Completed: {len(completed)}")
     print(f"Failed: {len(failed)}")
+    if timing_failed:
+        print("Timing report failed.", file=sys.stderr)
     if failed:
         print("\nFailed jobs:", file=sys.stderr)
         for name, kind, exc in failed:
@@ -440,7 +452,7 @@ def main(argv):
         return 1
 
     print("\nDone.")
-    return 0
+    return 1 if timing_failed else 0
 
 
 if __name__ == "__main__":

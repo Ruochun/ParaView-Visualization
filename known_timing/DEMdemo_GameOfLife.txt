@@ -1,0 +1,5960 @@
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-1375, 1375]
+User-specified Y-dimension range: [-1375, 1375]
+User-specified Z-dimension range: [-1375, 1375]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 3300, 3300, 6600
+Simulation world X range: [-1650, 1650]
+Simulation world Y range: [-1650, 1650]
+Simulation world Z range: [-1650, 4950]
+The length unit in this simulation is: 2.4010660126805305e-08
+The edge length of a voxel: 0.0015735626220703125
+The initial time step size: 1
+The initial edge length of a bin: 43.094486917079983
+The initial number of bins: 913066
+The total number of clumps: 6255001
+The combined number of component spheres: 6255001
+The total number of analytical objects: 0
+The total number of meshes: 0
+Grand total number of owners: 6255001
+The number of material types: 1
+A user-custom force model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+Frame: 0
+Average contacts each sphere has: 0
+Frame: 1
+Average contacts each sphere has: 2.25803
+Frame: 2
+Average contacts each sphere has: 2.01472
+Frame: 3
+Average contacts each sphere has: 2.00115
+Frame: 4
+Average contacts each sphere has: 1.90427
+Frame: 5
+Average contacts each sphere has: 1.87292
+Frame: 6
+Average contacts each sphere has: 1.79171
+Frame: 7
+Average contacts each sphere has: 1.95839
+Frame: 8
+Average contacts each sphere has: 1.98451
+Frame: 9
+Average contacts each sphere has: 1.9917
+Frame: 10
+Average contacts each sphere has: 1.92235
+Frame: 11
+Average contacts each sphere has: 1.89045
+Frame: 12
+Average contacts each sphere has: 1.8712
+Frame: 13
+Average contacts each sphere has: 1.96754
+Frame: 14
+Average contacts each sphere has: 1.93943
+Frame: 15
+Average contacts each sphere has: 1.97569
+Frame: 16
+Average contacts each sphere has: 1.86897
+Frame: 17
+Average contacts each sphere has: 1.90209
+Frame: 18
+Average contacts each sphere has: 2.00167
+Frame: 19
+Average contacts each sphere has: 1.87727
+Frame: 20
+Average contacts each sphere has: 1.95711
+Frame: 21
+Average contacts each sphere has: 2.00034
+Frame: 22
+Average contacts each sphere has: 1.97148
+Frame: 23
+Average contacts each sphere has: 1.92541
+Frame: 24
+Average contacts each sphere has: 1.95905
+Frame: 25
+Average contacts each sphere has: 1.9494
+Frame: 26
+Average contacts each sphere has: 1.94519
+Frame: 27
+Average contacts each sphere has: 1.94388
+Frame: 28
+Average contacts each sphere has: 1.92739
+Frame: 29
+Average contacts each sphere has: 2.00824
+Frame: 30
+Average contacts each sphere has: 1.99055
+Frame: 31
+Average contacts each sphere has: 1.97288
+Frame: 32
+Average contacts each sphere has: 1.93644
+Frame: 33
+Average contacts each sphere has: 1.92444
+Frame: 34
+Average contacts each sphere has: 1.94525
+Frame: 35
+Average contacts each sphere has: 1.93709
+Frame: 36
+Average contacts each sphere has: 1.94188
+Frame: 37
+Average contacts each sphere has: 1.9401
+Frame: 38
+Average contacts each sphere has: 1.89899
+Frame: 39
+Average contacts each sphere has: 1.97228
+Frame: 40
+Average contacts each sphere has: 1.94058
+Frame: 41
+Average contacts each sphere has: 1.95886
+Frame: 42
+Average contacts each sphere has: 1.97124
+Frame: 43
+Average contacts each sphere has: 1.94291
+Frame: 44
+Average contacts each sphere has: 1.96803
+Frame: 45
+Average contacts each sphere has: 1.94974
+Frame: 46
+Average contacts each sphere has: 1.91302
+Frame: 47
+Average contacts each sphere has: 1.94717
+Frame: 48
+Average contacts each sphere has: 1.94357
+Frame: 49
+Average contacts each sphere has: 1.94819
+Frame: 50
+Average contacts each sphere has: 1.93517
+Frame: 51
+Average contacts each sphere has: 1.93664
+Frame: 52
+Average contacts each sphere has: 1.9359
+Frame: 53
+Average contacts each sphere has: 1.94568
+Frame: 54
+Average contacts each sphere has: 1.93523
+Frame: 55
+Average contacts each sphere has: 1.93449
+Frame: 56
+Average contacts each sphere has: 1.93382
+Frame: 57
+Average contacts each sphere has: 1.94463
+Frame: 58
+Average contacts each sphere has: 1.93426
+Frame: 59
+Average contacts each sphere has: 1.93451
+Frame: 60
+Average contacts each sphere has: 1.93692
+Frame: 61
+Average contacts each sphere has: 1.94559
+Frame: 62
+Average contacts each sphere has: 1.93545
+Frame: 63
+Average contacts each sphere has: 1.93686
+Frame: 64
+Average contacts each sphere has: 1.93493
+Frame: 65
+Average contacts each sphere has: 1.94367
+Frame: 66
+Average contacts each sphere has: 1.93471
+Frame: 67
+Average contacts each sphere has: 1.93485
+Frame: 68
+Average contacts each sphere has: 1.93492
+Frame: 69
+Average contacts each sphere has: 1.94413
+Frame: 70
+Average contacts each sphere has: 1.93618
+Frame: 71
+Average contacts each sphere has: 1.93559
+Frame: 72
+Average contacts each sphere has: 1.9372
+Frame: 73
+Average contacts each sphere has: 1.94361
+Frame: 74
+Average contacts each sphere has: 1.93662
+Frame: 75
+Average contacts each sphere has: 1.9364
+Frame: 76
+Average contacts each sphere has: 1.9376
+Frame: 77
+Average contacts each sphere has: 1.94284
+Frame: 78
+Average contacts each sphere has: 1.93863
+Frame: 79
+Average contacts each sphere has: 1.937
+Frame: 80
+Average contacts each sphere has: 1.93629
+Frame: 81
+Average contacts each sphere has: 1.94282
+Frame: 82
+Average contacts each sphere has: 1.9373
+Frame: 83
+Average contacts each sphere has: 1.93612
+Frame: 84
+Average contacts each sphere has: 1.93718
+Frame: 85
+Average contacts each sphere has: 1.94298
+Frame: 86
+Average contacts each sphere has: 1.93769
+Frame: 87
+Average contacts each sphere has: 1.93787
+Frame: 88
+Average contacts each sphere has: 1.93815
+Frame: 89
+Average contacts each sphere has: 1.94319
+Frame: 90
+Average contacts each sphere has: 1.93782
+Frame: 91
+Average contacts each sphere has: 1.93686
+Frame: 92
+Average contacts each sphere has: 1.93726
+Frame: 93
+Average contacts each sphere has: 1.94254
+Frame: 94
+Average contacts each sphere has: 1.93867
+Frame: 95
+Average contacts each sphere has: 1.93747
+Frame: 96
+Average contacts each sphere has: 1.93871
+Frame: 97
+Average contacts each sphere has: 1.94256
+Frame: 98
+Average contacts each sphere has: 1.93886
+Frame: 99
+Average contacts each sphere has: 1.93765
+Frame: 100
+Average contacts each sphere has: 1.93792
+Frame: 101
+Average contacts each sphere has: 1.94275
+Frame: 102
+Average contacts each sphere has: 1.93804
+Frame: 103
+Average contacts each sphere has: 1.93859
+Frame: 104
+Average contacts each sphere has: 1.93896
+Frame: 105
+Average contacts each sphere has: 1.94129
+Frame: 106
+Average contacts each sphere has: 1.93936
+Frame: 107
+Average contacts each sphere has: 1.93789
+Frame: 108
+Average contacts each sphere has: 1.9387
+Frame: 109
+Average contacts each sphere has: 1.94138
+Frame: 110
+Average contacts each sphere has: 1.93893
+Frame: 111
+Average contacts each sphere has: 1.93815
+Frame: 112
+Average contacts each sphere has: 1.93738
+Frame: 113
+Average contacts each sphere has: 1.94147
+Frame: 114
+Average contacts each sphere has: 1.93961
+Frame: 115
+Average contacts each sphere has: 1.93854
+Frame: 116
+Average contacts each sphere has: 1.93869
+Frame: 117
+Average contacts each sphere has: 1.94062
+Frame: 118
+Average contacts each sphere has: 1.93947
+Frame: 119
+Average contacts each sphere has: 1.93871
+Frame: 120
+Average contacts each sphere has: 1.93932
+Frame: 121
+Average contacts each sphere has: 1.9396
+Frame: 122
+Average contacts each sphere has: 1.93914
+Frame: 123
+Average contacts each sphere has: 1.93854
+Frame: 124
+Average contacts each sphere has: 1.93881
+Frame: 125
+Average contacts each sphere has: 1.94142
+Frame: 126
+Average contacts each sphere has: 1.93987
+Frame: 127
+Average contacts each sphere has: 1.9391
+Frame: 128
+Average contacts each sphere has: 1.93926
+Frame: 129
+Average contacts each sphere has: 1.94086
+Frame: 130
+Average contacts each sphere has: 1.93949
+Frame: 131
+Average contacts each sphere has: 1.93888
+Frame: 132
+Average contacts each sphere has: 1.93951
+Frame: 133
+Average contacts each sphere has: 1.94008
+Frame: 134
+Average contacts each sphere has: 1.93777
+Frame: 135
+Average contacts each sphere has: 1.93758
+Frame: 136
+Average contacts each sphere has: 1.93887
+Frame: 137
+Average contacts each sphere has: 1.93956
+Frame: 138
+Average contacts each sphere has: 1.9391
+Frame: 139
+Average contacts each sphere has: 1.93846
+Frame: 140
+Average contacts each sphere has: 1.93997
+Frame: 141
+Average contacts each sphere has: 1.94015
+Frame: 142
+Average contacts each sphere has: 1.93875
+Frame: 143
+Average contacts each sphere has: 1.93802
+Frame: 144
+Average contacts each sphere has: 1.93925
+Frame: 145
+Average contacts each sphere has: 1.93957
+Frame: 146
+Average contacts each sphere has: 1.93995
+Frame: 147
+Average contacts each sphere has: 1.93885
+Frame: 148
+Average contacts each sphere has: 1.94024
+Frame: 149
+Average contacts each sphere has: 1.94074
+Frame: 150
+Average contacts each sphere has: 1.93901
+Frame: 151
+Average contacts each sphere has: 1.93913
+Frame: 152
+Average contacts each sphere has: 1.93925
+Frame: 153
+Average contacts each sphere has: 1.93945
+Frame: 154
+Average contacts each sphere has: 1.93826
+Frame: 155
+Average contacts each sphere has: 1.93835
+Frame: 156
+Average contacts each sphere has: 1.93938
+Frame: 157
+Average contacts each sphere has: 1.93955
+Frame: 158
+Average contacts each sphere has: 1.93828
+Frame: 159
+Average contacts each sphere has: 1.93728
+Frame: 160
+Average contacts each sphere has: 1.93896
+Frame: 161
+Average contacts each sphere has: 1.93948
+Frame: 162
+Average contacts each sphere has: 1.93877
+Frame: 163
+Average contacts each sphere has: 1.93705
+Frame: 164
+Average contacts each sphere has: 1.93949
+Frame: 165
+Average contacts each sphere has: 1.93978
+Frame: 166
+Average contacts each sphere has: 1.93892
+Frame: 167
+Average contacts each sphere has: 1.93838
+Frame: 168
+Average contacts each sphere has: 1.93924
+Frame: 169
+Average contacts each sphere has: 1.93828
+Frame: 170
+Average contacts each sphere has: 1.9387
+Frame: 171
+Average contacts each sphere has: 1.93774
+Frame: 172
+Average contacts each sphere has: 1.93803
+Frame: 173
+Average contacts each sphere has: 1.93865
+Frame: 174
+Average contacts each sphere has: 1.94006
+Frame: 175
+Average contacts each sphere has: 1.93992
+Frame: 176
+Average contacts each sphere has: 1.93869
+Frame: 177
+Average contacts each sphere has: 1.93871
+Frame: 178
+Average contacts each sphere has: 1.93861
+Frame: 179
+Average contacts each sphere has: 1.93719
+Frame: 180
+Average contacts each sphere has: 1.93873
+Frame: 181
+Average contacts each sphere has: 1.93947
+Frame: 182
+Average contacts each sphere has: 1.93937
+Frame: 183
+Average contacts each sphere has: 1.93835
+Frame: 184
+Average contacts each sphere has: 1.93821
+Frame: 185
+Average contacts each sphere has: 1.9381
+Frame: 186
+Average contacts each sphere has: 1.93791
+Frame: 187
+Average contacts each sphere has: 1.93825
+Frame: 188
+Average contacts each sphere has: 1.93824
+Frame: 189
+Average contacts each sphere has: 1.93841
+Frame: 190
+Average contacts each sphere has: 1.9385
+Frame: 191
+Average contacts each sphere has: 1.93728
+Frame: 192
+Average contacts each sphere has: 1.93796
+Frame: 193
+Average contacts each sphere has: 1.9378
+Frame: 194
+Average contacts each sphere has: 1.93774
+Frame: 195
+Average contacts each sphere has: 1.93767
+Frame: 196
+Average contacts each sphere has: 1.9396
+Frame: 197
+Average contacts each sphere has: 1.93892
+Frame: 198
+Average contacts each sphere has: 1.93952
+Frame: 199
+Average contacts each sphere has: 1.93854
+Frame: 200
+Average contacts each sphere has: 1.93899
+Frame: 201
+Average contacts each sphere has: 1.93907
+Frame: 202
+Average contacts each sphere has: 1.93933
+Frame: 203
+Average contacts each sphere has: 1.93793
+Frame: 204
+Average contacts each sphere has: 1.93896
+Frame: 205
+Average contacts each sphere has: 1.93851
+Frame: 206
+Average contacts each sphere has: 1.93828
+Frame: 207
+Average contacts each sphere has: 1.9373
+Frame: 208
+Average contacts each sphere has: 1.93778
+Frame: 209
+Average contacts each sphere has: 1.93766
+Frame: 210
+Average contacts each sphere has: 1.93795
+Frame: 211
+Average contacts each sphere has: 1.93714
+Frame: 212
+Average contacts each sphere has: 1.9389
+Frame: 213
+Average contacts each sphere has: 1.93765
+Frame: 214
+Average contacts each sphere has: 1.93823
+Frame: 215
+Average contacts each sphere has: 1.938
+Frame: 216
+Average contacts each sphere has: 1.93866
+Frame: 217
+Average contacts each sphere has: 1.93705
+Frame: 218
+Average contacts each sphere has: 1.93748
+Frame: 219
+Average contacts each sphere has: 1.93719
+Frame: 220
+Average contacts each sphere has: 1.93839
+Frame: 221
+Average contacts each sphere has: 1.9375
+Frame: 222
+Average contacts each sphere has: 1.93853
+Frame: 223
+Average contacts each sphere has: 1.93752
+Frame: 224
+Average contacts each sphere has: 1.93836
+Frame: 225
+Average contacts each sphere has: 1.93817
+Frame: 226
+Average contacts each sphere has: 1.93862
+Frame: 227
+Average contacts each sphere has: 1.93713
+Frame: 228
+Average contacts each sphere has: 1.93888
+Frame: 229
+Average contacts each sphere has: 1.93845
+Frame: 230
+Average contacts each sphere has: 1.93857
+Frame: 231
+Average contacts each sphere has: 1.93806
+Frame: 232
+Average contacts each sphere has: 1.93862
+Frame: 233
+Average contacts each sphere has: 1.93688
+Frame: 234
+Average contacts each sphere has: 1.9377
+Frame: 235
+Average contacts each sphere has: 1.93676
+Frame: 236
+Average contacts each sphere has: 1.93821
+Frame: 237
+Average contacts each sphere has: 1.93817
+Frame: 238
+Average contacts each sphere has: 1.93933
+Frame: 239
+Average contacts each sphere has: 1.93767
+Frame: 240
+Average contacts each sphere has: 1.93932
+Frame: 241
+Average contacts each sphere has: 1.93788
+Frame: 242
+Average contacts each sphere has: 1.93845
+Frame: 243
+Average contacts each sphere has: 1.93735
+Frame: 244
+Average contacts each sphere has: 1.93808
+Frame: 245
+Average contacts each sphere has: 1.93815
+Frame: 246
+Average contacts each sphere has: 1.93768
+Frame: 247
+Average contacts each sphere has: 1.93687
+Frame: 248
+Average contacts each sphere has: 1.93866
+Frame: 249
+Average contacts each sphere has: 1.93715
+Frame: 250
+Average contacts each sphere has: 1.93771
+Frame: 251
+Average contacts each sphere has: 1.93597
+Frame: 252
+Average contacts each sphere has: 1.93707
+Frame: 253
+Average contacts each sphere has: 1.93704
+Frame: 254
+Average contacts each sphere has: 1.93671
+Frame: 255
+Average contacts each sphere has: 1.93635
+Frame: 256
+Average contacts each sphere has: 1.93726
+Frame: 257
+Average contacts each sphere has: 1.93705
+Frame: 258
+Average contacts each sphere has: 1.93714
+Frame: 259
+Average contacts each sphere has: 1.93694
+Frame: 260
+Average contacts each sphere has: 1.93825
+Frame: 261
+Average contacts each sphere has: 1.93618
+Frame: 262
+Average contacts each sphere has: 1.93749
+Frame: 263
+Average contacts each sphere has: 1.93674
+Frame: 264
+Average contacts each sphere has: 1.93697
+Frame: 265
+Average contacts each sphere has: 1.93665
+Frame: 266
+Average contacts each sphere has: 1.93598
+Frame: 267
+Average contacts each sphere has: 1.93596
+Frame: 268
+Average contacts each sphere has: 1.93698
+Frame: 269
+Average contacts each sphere has: 1.93606
+Frame: 270
+Average contacts each sphere has: 1.9374
+Frame: 271
+Average contacts each sphere has: 1.93634
+Frame: 272
+Average contacts each sphere has: 1.93663
+Frame: 273
+Average contacts each sphere has: 1.93626
+Frame: 274
+Average contacts each sphere has: 1.93736
+Frame: 275
+Average contacts each sphere has: 1.93632
+Frame: 276
+Average contacts each sphere has: 1.93721
+Frame: 277
+Average contacts each sphere has: 1.93575
+Frame: 278
+Average contacts each sphere has: 1.93724
+Frame: 279
+Average contacts each sphere has: 1.93633
+Frame: 280
+Average contacts each sphere has: 1.93678
+Frame: 281
+Average contacts each sphere has: 1.93543
+Frame: 282
+Average contacts each sphere has: 1.93667
+Frame: 283
+Average contacts each sphere has: 1.93577
+Frame: 284
+Average contacts each sphere has: 1.93677
+Frame: 285
+Average contacts each sphere has: 1.93506
+Frame: 286
+Average contacts each sphere has: 1.93774
+Frame: 287
+Average contacts each sphere has: 1.93774
+Frame: 288
+Average contacts each sphere has: 1.93815
+Frame: 289
+Average contacts each sphere has: 1.93653
+Frame: 290
+Average contacts each sphere has: 1.93733
+Frame: 291
+Average contacts each sphere has: 1.93659
+Frame: 292
+Average contacts each sphere has: 1.93715
+Frame: 293
+Average contacts each sphere has: 1.93675
+Frame: 294
+Average contacts each sphere has: 1.93694
+Frame: 295
+Average contacts each sphere has: 1.93707
+Frame: 296
+Average contacts each sphere has: 1.93699
+Frame: 297
+Average contacts each sphere has: 1.93663
+Frame: 298
+Average contacts each sphere has: 1.93663
+Frame: 299
+Average contacts each sphere has: 1.93649
+Frame: 300
+Average contacts each sphere has: 1.93746
+Frame: 301
+Average contacts each sphere has: 1.9367
+Frame: 302
+Average contacts each sphere has: 1.93587
+Frame: 303
+Average contacts each sphere has: 1.93638
+Frame: 304
+Average contacts each sphere has: 1.93678
+Frame: 305
+Average contacts each sphere has: 1.93665
+Frame: 306
+Average contacts each sphere has: 1.9377
+Frame: 307
+Average contacts each sphere has: 1.93708
+Frame: 308
+Average contacts each sphere has: 1.93726
+Frame: 309
+Average contacts each sphere has: 1.93587
+Frame: 310
+Average contacts each sphere has: 1.93674
+Frame: 311
+Average contacts each sphere has: 1.93601
+Frame: 312
+Average contacts each sphere has: 1.9364
+Frame: 313
+Average contacts each sphere has: 1.93661
+Frame: 314
+Average contacts each sphere has: 1.93747
+Frame: 315
+Average contacts each sphere has: 1.9359
+Frame: 316
+Average contacts each sphere has: 1.93634
+Frame: 317
+Average contacts each sphere has: 1.93615
+Frame: 318
+Average contacts each sphere has: 1.93719
+Frame: 319
+Average contacts each sphere has: 1.93664
+Frame: 320
+Average contacts each sphere has: 1.93735
+Frame: 321
+Average contacts each sphere has: 1.93623
+Frame: 322
+Average contacts each sphere has: 1.93637
+Frame: 323
+Average contacts each sphere has: 1.93545
+Frame: 324
+Average contacts each sphere has: 1.93638
+Frame: 325
+Average contacts each sphere has: 1.93655
+Frame: 326
+Average contacts each sphere has: 1.93714
+Frame: 327
+Average contacts each sphere has: 1.93582
+Frame: 328
+Average contacts each sphere has: 1.93686
+Frame: 329
+Average contacts each sphere has: 1.93669
+Frame: 330
+Average contacts each sphere has: 1.93628
+Frame: 331
+Average contacts each sphere has: 1.93595
+Frame: 332
+Average contacts each sphere has: 1.93695
+Frame: 333
+Average contacts each sphere has: 1.93625
+Frame: 334
+Average contacts each sphere has: 1.93572
+Frame: 335
+Average contacts each sphere has: 1.93526
+Frame: 336
+Average contacts each sphere has: 1.93633
+Frame: 337
+Average contacts each sphere has: 1.93651
+Frame: 338
+Average contacts each sphere has: 1.93728
+Frame: 339
+Average contacts each sphere has: 1.93638
+Frame: 340
+Average contacts each sphere has: 1.937
+Frame: 341
+Average contacts each sphere has: 1.93525
+Frame: 342
+Average contacts each sphere has: 1.93647
+Frame: 343
+Average contacts each sphere has: 1.9352
+Frame: 344
+Average contacts each sphere has: 1.93708
+Frame: 345
+Average contacts each sphere has: 1.93581
+Frame: 346
+Average contacts each sphere has: 1.93597
+Frame: 347
+Average contacts each sphere has: 1.93516
+Frame: 348
+Average contacts each sphere has: 1.93625
+Frame: 349
+Average contacts each sphere has: 1.93639
+Frame: 350
+Average contacts each sphere has: 1.9358
+Frame: 351
+Average contacts each sphere has: 1.934
+Frame: 352
+Average contacts each sphere has: 1.93657
+Frame: 353
+Average contacts each sphere has: 1.93545
+Frame: 354
+Average contacts each sphere has: 1.93577
+Frame: 355
+Average contacts each sphere has: 1.93585
+Frame: 356
+Average contacts each sphere has: 1.9361
+Frame: 357
+Average contacts each sphere has: 1.93677
+Frame: 358
+Average contacts each sphere has: 1.93644
+Frame: 359
+Average contacts each sphere has: 1.93538
+Frame: 360
+Average contacts each sphere has: 1.93566
+Frame: 361
+Average contacts each sphere has: 1.93532
+Frame: 362
+Average contacts each sphere has: 1.9359
+Frame: 363
+Average contacts each sphere has: 1.93477
+Frame: 364
+Average contacts each sphere has: 1.93645
+Frame: 365
+Average contacts each sphere has: 1.93656
+Frame: 366
+Average contacts each sphere has: 1.93611
+Frame: 367
+Average contacts each sphere has: 1.93536
+Frame: 368
+Average contacts each sphere has: 1.93606
+Frame: 369
+Average contacts each sphere has: 1.93491
+Frame: 370
+Average contacts each sphere has: 1.93603
+Frame: 371
+Average contacts each sphere has: 1.93508
+Frame: 372
+Average contacts each sphere has: 1.9354
+Frame: 373
+Average contacts each sphere has: 1.93425
+Frame: 374
+Average contacts each sphere has: 1.93479
+Frame: 375
+Average contacts each sphere has: 1.93472
+Frame: 376
+Average contacts each sphere has: 1.93527
+Frame: 377
+Average contacts each sphere has: 1.93511
+Frame: 378
+Average contacts each sphere has: 1.93632
+Frame: 379
+Average contacts each sphere has: 1.93486
+Frame: 380
+Average contacts each sphere has: 1.93618
+Frame: 381
+Average contacts each sphere has: 1.93446
+Frame: 382
+Average contacts each sphere has: 1.9349
+Frame: 383
+Average contacts each sphere has: 1.93478
+Frame: 384
+Average contacts each sphere has: 1.93443
+Frame: 385
+Average contacts each sphere has: 1.93395
+Frame: 386
+Average contacts each sphere has: 1.93447
+Frame: 387
+Average contacts each sphere has: 1.93491
+Frame: 388
+Average contacts each sphere has: 1.93476
+Frame: 389
+Average contacts each sphere has: 1.93495
+Frame: 390
+Average contacts each sphere has: 1.93534
+Frame: 391
+Average contacts each sphere has: 1.93467
+Frame: 392
+Average contacts each sphere has: 1.93589
+Frame: 393
+Average contacts each sphere has: 1.93482
+Frame: 394
+Average contacts each sphere has: 1.93511
+Frame: 395
+Average contacts each sphere has: 1.93449
+Frame: 396
+Average contacts each sphere has: 1.93494
+Frame: 397
+Average contacts each sphere has: 1.93403
+Frame: 398
+Average contacts each sphere has: 1.93546
+Frame: 399
+Average contacts each sphere has: 1.93537
+Frame: 400
+Average contacts each sphere has: 1.93482
+Frame: 401
+Average contacts each sphere has: 1.93405
+Frame: 402
+Average contacts each sphere has: 1.93425
+Frame: 403
+Average contacts each sphere has: 1.93433
+Frame: 404
+Average contacts each sphere has: 1.93621
+Frame: 405
+Average contacts each sphere has: 1.93579
+Frame: 406
+Average contacts each sphere has: 1.9356
+Frame: 407
+Average contacts each sphere has: 1.93537
+Frame: 408
+Average contacts each sphere has: 1.93651
+Frame: 409
+Average contacts each sphere has: 1.93557
+Frame: 410
+Average contacts each sphere has: 1.93556
+Frame: 411
+Average contacts each sphere has: 1.93446
+Frame: 412
+Average contacts each sphere has: 1.93588
+Frame: 413
+Average contacts each sphere has: 1.93491
+Frame: 414
+Average contacts each sphere has: 1.93498
+Frame: 415
+Average contacts each sphere has: 1.93468
+Frame: 416
+Average contacts each sphere has: 1.93535
+Frame: 417
+Average contacts each sphere has: 1.93529
+Frame: 418
+Average contacts each sphere has: 1.93599
+Frame: 419
+Average contacts each sphere has: 1.93569
+Frame: 420
+Average contacts each sphere has: 1.93557
+Frame: 421
+Average contacts each sphere has: 1.9354
+Frame: 422
+Average contacts each sphere has: 1.93578
+Frame: 423
+Average contacts each sphere has: 1.93479
+Frame: 424
+Average contacts each sphere has: 1.9358
+Frame: 425
+Average contacts each sphere has: 1.934
+Frame: 426
+Average contacts each sphere has: 1.9353
+Frame: 427
+Average contacts each sphere has: 1.93509
+Frame: 428
+Average contacts each sphere has: 1.9355
+Frame: 429
+Average contacts each sphere has: 1.93505
+Frame: 430
+Average contacts each sphere has: 1.93495
+Frame: 431
+Average contacts each sphere has: 1.93412
+Frame: 432
+Average contacts each sphere has: 1.93525
+Frame: 433
+Average contacts each sphere has: 1.93439
+Frame: 434
+Average contacts each sphere has: 1.93446
+Frame: 435
+Average contacts each sphere has: 1.93399
+Frame: 436
+Average contacts each sphere has: 1.93436
+Frame: 437
+Average contacts each sphere has: 1.93438
+Frame: 438
+Average contacts each sphere has: 1.93603
+Frame: 439
+Average contacts each sphere has: 1.93398
+Frame: 440
+Average contacts each sphere has: 1.93458
+Frame: 441
+Average contacts each sphere has: 1.93369
+Frame: 442
+Average contacts each sphere has: 1.93419
+Frame: 443
+Average contacts each sphere has: 1.93393
+Frame: 444
+Average contacts each sphere has: 1.93481
+Frame: 445
+Average contacts each sphere has: 1.93473
+Frame: 446
+Average contacts each sphere has: 1.9348
+Frame: 447
+Average contacts each sphere has: 1.93537
+Frame: 448
+Average contacts each sphere has: 1.93477
+Frame: 449
+Average contacts each sphere has: 1.93434
+Frame: 450
+Average contacts each sphere has: 1.93413
+Frame: 451
+Average contacts each sphere has: 1.93461
+Frame: 452
+Average contacts each sphere has: 1.93471
+Frame: 453
+Average contacts each sphere has: 1.93399
+Frame: 454
+Average contacts each sphere has: 1.93442
+Frame: 455
+Average contacts each sphere has: 1.93446
+Frame: 456
+Average contacts each sphere has: 1.93612
+Frame: 457
+Average contacts each sphere has: 1.93391
+Frame: 458
+Average contacts each sphere has: 1.93444
+Frame: 459
+Average contacts each sphere has: 1.93389
+Frame: 460
+Average contacts each sphere has: 1.93496
+Frame: 461
+Average contacts each sphere has: 1.93358
+Frame: 462
+Average contacts each sphere has: 1.93419
+Frame: 463
+Average contacts each sphere has: 1.93376
+Frame: 464
+Average contacts each sphere has: 1.93432
+Frame: 465
+Average contacts each sphere has: 1.93442
+Frame: 466
+Average contacts each sphere has: 1.93502
+Frame: 467
+Average contacts each sphere has: 1.93421
+Frame: 468
+Average contacts each sphere has: 1.93506
+Frame: 469
+Average contacts each sphere has: 1.93406
+Frame: 470
+Average contacts each sphere has: 1.93554
+Frame: 471
+Average contacts each sphere has: 1.93403
+Frame: 472
+Average contacts each sphere has: 1.9338
+Frame: 473
+Average contacts each sphere has: 1.93453
+Frame: 474
+Average contacts each sphere has: 1.93457
+Frame: 475
+Average contacts each sphere has: 1.93466
+Frame: 476
+Average contacts each sphere has: 1.93449
+Frame: 477
+Average contacts each sphere has: 1.93336
+Frame: 478
+Average contacts each sphere has: 1.93473
+Frame: 479
+Average contacts each sphere has: 1.9341
+Frame: 480
+Average contacts each sphere has: 1.93509
+Frame: 481
+Average contacts each sphere has: 1.93423
+Frame: 482
+Average contacts each sphere has: 1.93506
+Frame: 483
+Average contacts each sphere has: 1.93371
+Frame: 484
+Average contacts each sphere has: 1.93364
+Frame: 485
+Average contacts each sphere has: 1.93297
+Frame: 486
+Average contacts each sphere has: 1.93346
+Frame: 487
+Average contacts each sphere has: 1.93347
+Frame: 488
+Average contacts each sphere has: 1.93411
+Frame: 489
+Average contacts each sphere has: 1.93269
+Frame: 490
+Average contacts each sphere has: 1.93383
+Frame: 491
+Average contacts each sphere has: 1.93394
+Frame: 492
+Average contacts each sphere has: 1.93385
+Frame: 493
+Average contacts each sphere has: 1.93347
+Frame: 494
+Average contacts each sphere has: 1.93366
+Frame: 495
+Average contacts each sphere has: 1.93393
+Frame: 496
+Average contacts each sphere has: 1.93484
+Frame: 497
+Average contacts each sphere has: 1.93387
+Frame: 498
+Average contacts each sphere has: 1.9338
+Frame: 499
+Average contacts each sphere has: 1.93431
+Frame: 500
+Average contacts each sphere has: 1.93437
+Frame: 501
+Average contacts each sphere has: 1.93362
+Frame: 502
+Average contacts each sphere has: 1.93397
+Frame: 503
+Average contacts each sphere has: 1.93383
+Frame: 504
+Average contacts each sphere has: 1.93451
+Frame: 505
+Average contacts each sphere has: 1.93372
+Frame: 506
+Average contacts each sphere has: 1.93397
+Frame: 507
+Average contacts each sphere has: 1.93271
+Frame: 508
+Average contacts each sphere has: 1.93372
+Frame: 509
+Average contacts each sphere has: 1.93334
+Frame: 510
+Average contacts each sphere has: 1.93343
+Frame: 511
+Average contacts each sphere has: 1.93325
+Frame: 512
+Average contacts each sphere has: 1.93294
+Frame: 513
+Average contacts each sphere has: 1.93303
+Frame: 514
+Average contacts each sphere has: 1.93365
+Frame: 515
+Average contacts each sphere has: 1.93365
+Frame: 516
+Average contacts each sphere has: 1.9336
+Frame: 517
+Average contacts each sphere has: 1.93396
+Frame: 518
+Average contacts each sphere has: 1.93378
+Frame: 519
+Average contacts each sphere has: 1.93296
+Frame: 520
+Average contacts each sphere has: 1.93428
+Frame: 521
+Average contacts each sphere has: 1.9333
+Frame: 522
+Average contacts each sphere has: 1.93401
+Frame: 523
+Average contacts each sphere has: 1.93276
+Frame: 524
+Average contacts each sphere has: 1.93398
+Frame: 525
+Average contacts each sphere has: 1.93212
+Frame: 526
+Average contacts each sphere has: 1.93329
+Frame: 527
+Average contacts each sphere has: 1.93315
+Frame: 528
+Average contacts each sphere has: 1.93421
+Frame: 529
+Average contacts each sphere has: 1.93369
+Frame: 530
+Average contacts each sphere has: 1.93464
+Frame: 531
+Average contacts each sphere has: 1.93316
+Frame: 532
+Average contacts each sphere has: 1.93393
+Frame: 533
+Average contacts each sphere has: 1.93396
+Frame: 534
+Average contacts each sphere has: 1.93373
+Frame: 535
+Average contacts each sphere has: 1.93387
+Frame: 536
+Average contacts each sphere has: 1.93465
+Frame: 537
+Average contacts each sphere has: 1.93351
+Frame: 538
+Average contacts each sphere has: 1.93449
+Frame: 539
+Average contacts each sphere has: 1.933
+Frame: 540
+Average contacts each sphere has: 1.93429
+Frame: 541
+Average contacts each sphere has: 1.93211
+Frame: 542
+Average contacts each sphere has: 1.93317
+Frame: 543
+Average contacts each sphere has: 1.93336
+Frame: 544
+Average contacts each sphere has: 1.93374
+Frame: 545
+Average contacts each sphere has: 1.93244
+Frame: 546
+Average contacts each sphere has: 1.93394
+Frame: 547
+Average contacts each sphere has: 1.93296
+Frame: 548
+Average contacts each sphere has: 1.93357
+Frame: 549
+Average contacts each sphere has: 1.93279
+Frame: 550
+Average contacts each sphere has: 1.93382
+Frame: 551
+Average contacts each sphere has: 1.93267
+Frame: 552
+Average contacts each sphere has: 1.93337
+Frame: 553
+Average contacts each sphere has: 1.93215
+Frame: 554
+Average contacts each sphere has: 1.93332
+Frame: 555
+Average contacts each sphere has: 1.93321
+Frame: 556
+Average contacts each sphere has: 1.9336
+Frame: 557
+Average contacts each sphere has: 1.93247
+Frame: 558
+Average contacts each sphere has: 1.93329
+Frame: 559
+Average contacts each sphere has: 1.93279
+Frame: 560
+Average contacts each sphere has: 1.93361
+Frame: 561
+Average contacts each sphere has: 1.93273
+Frame: 562
+Average contacts each sphere has: 1.93362
+Frame: 563
+Average contacts each sphere has: 1.93316
+Frame: 564
+Average contacts each sphere has: 1.934
+Frame: 565
+Average contacts each sphere has: 1.93301
+Frame: 566
+Average contacts each sphere has: 1.93433
+Frame: 567
+Average contacts each sphere has: 1.93213
+Frame: 568
+Average contacts each sphere has: 1.93357
+Frame: 569
+Average contacts each sphere has: 1.93197
+Frame: 570
+Average contacts each sphere has: 1.93324
+Frame: 571
+Average contacts each sphere has: 1.93205
+Frame: 572
+Average contacts each sphere has: 1.93424
+Frame: 573
+Average contacts each sphere has: 1.93214
+Frame: 574
+Average contacts each sphere has: 1.93417
+Frame: 575
+Average contacts each sphere has: 1.93218
+Frame: 576
+Average contacts each sphere has: 1.93336
+Frame: 577
+Average contacts each sphere has: 1.93291
+Frame: 578
+Average contacts each sphere has: 1.93313
+Frame: 579
+Average contacts each sphere has: 1.93215
+Frame: 580
+Average contacts each sphere has: 1.93216
+Frame: 581
+Average contacts each sphere has: 1.93154
+Frame: 582
+Average contacts each sphere has: 1.93272
+Frame: 583
+Average contacts each sphere has: 1.93212
+Frame: 584
+Average contacts each sphere has: 1.93267
+Frame: 585
+Average contacts each sphere has: 1.93113
+Frame: 586
+Average contacts each sphere has: 1.93218
+Frame: 587
+Average contacts each sphere has: 1.93127
+Frame: 588
+Average contacts each sphere has: 1.93199
+Frame: 589
+Average contacts each sphere has: 1.93213
+Frame: 590
+Average contacts each sphere has: 1.93219
+Frame: 591
+Average contacts each sphere has: 1.93202
+Frame: 592
+Average contacts each sphere has: 1.93312
+Frame: 593
+Average contacts each sphere has: 1.93266
+Frame: 594
+Average contacts each sphere has: 1.93274
+Frame: 595
+Average contacts each sphere has: 1.93294
+Frame: 596
+Average contacts each sphere has: 1.93338
+Frame: 597
+Average contacts each sphere has: 1.93203
+Frame: 598
+Average contacts each sphere has: 1.93238
+Frame: 599
+Average contacts each sphere has: 1.9313
+Frame: 600
+Average contacts each sphere has: 1.93206
+Frame: 601
+Average contacts each sphere has: 1.93132
+Frame: 602
+Average contacts each sphere has: 1.93211
+Frame: 603
+Average contacts each sphere has: 1.93205
+Frame: 604
+Average contacts each sphere has: 1.93311
+Frame: 605
+Average contacts each sphere has: 1.93119
+Frame: 606
+Average contacts each sphere has: 1.9326
+Frame: 607
+Average contacts each sphere has: 1.93254
+Frame: 608
+Average contacts each sphere has: 1.93327
+Frame: 609
+Average contacts each sphere has: 1.93256
+Frame: 610
+Average contacts each sphere has: 1.93354
+Frame: 611
+Average contacts each sphere has: 1.93176
+Frame: 612
+Average contacts each sphere has: 1.93246
+Frame: 613
+Average contacts each sphere has: 1.93257
+Frame: 614
+Average contacts each sphere has: 1.93344
+Frame: 615
+Average contacts each sphere has: 1.93252
+Frame: 616
+Average contacts each sphere has: 1.93221
+Frame: 617
+Average contacts each sphere has: 1.93198
+Frame: 618
+Average contacts each sphere has: 1.93278
+Frame: 619
+Average contacts each sphere has: 1.9317
+Frame: 620
+Average contacts each sphere has: 1.93217
+Frame: 621
+Average contacts each sphere has: 1.93217
+Frame: 622
+Average contacts each sphere has: 1.93325
+Frame: 623
+Average contacts each sphere has: 1.93241
+Frame: 624
+Average contacts each sphere has: 1.93296
+Frame: 625
+Average contacts each sphere has: 1.93253
+Frame: 626
+Average contacts each sphere has: 1.93215
+Frame: 627
+Average contacts each sphere has: 1.93207
+Frame: 628
+Average contacts each sphere has: 1.93219
+Frame: 629
+Average contacts each sphere has: 1.93022
+Frame: 630
+Average contacts each sphere has: 1.93174
+Frame: 631
+Average contacts each sphere has: 1.93209
+Frame: 632
+Average contacts each sphere has: 1.932
+Frame: 633
+Average contacts each sphere has: 1.93154
+Frame: 634
+Average contacts each sphere has: 1.93223
+Frame: 635
+Average contacts each sphere has: 1.93136
+Frame: 636
+Average contacts each sphere has: 1.93122
+Frame: 637
+Average contacts each sphere has: 1.93052
+Frame: 638
+Average contacts each sphere has: 1.9318
+Frame: 639
+Average contacts each sphere has: 1.93069
+Frame: 640
+Average contacts each sphere has: 1.93199
+Frame: 641
+Average contacts each sphere has: 1.93141
+Frame: 642
+Average contacts each sphere has: 1.93227
+Frame: 643
+Average contacts each sphere has: 1.93143
+Frame: 644
+Average contacts each sphere has: 1.93171
+Frame: 645
+Average contacts each sphere has: 1.93085
+Frame: 646
+Average contacts each sphere has: 1.93089
+Frame: 647
+Average contacts each sphere has: 1.93095
+Frame: 648
+Average contacts each sphere has: 1.93227
+Frame: 649
+Average contacts each sphere has: 1.93142
+Frame: 650
+Average contacts each sphere has: 1.93199
+Frame: 651
+Average contacts each sphere has: 1.93152
+Frame: 652
+Average contacts each sphere has: 1.93261
+Frame: 653
+Average contacts each sphere has: 1.93178
+Frame: 654
+Average contacts each sphere has: 1.9325
+Frame: 655
+Average contacts each sphere has: 1.93165
+Frame: 656
+Average contacts each sphere has: 1.93249
+Frame: 657
+Average contacts each sphere has: 1.93128
+Frame: 658
+Average contacts each sphere has: 1.93261
+Frame: 659
+Average contacts each sphere has: 1.93169
+Frame: 660
+Average contacts each sphere has: 1.93239
+Frame: 661
+Average contacts each sphere has: 1.93188
+Frame: 662
+Average contacts each sphere has: 1.9318
+Frame: 663
+Average contacts each sphere has: 1.93086
+Frame: 664
+Average contacts each sphere has: 1.93191
+Frame: 665
+Average contacts each sphere has: 1.93069
+Frame: 666
+Average contacts each sphere has: 1.93117
+Frame: 667
+Average contacts each sphere has: 1.93141
+Frame: 668
+Average contacts each sphere has: 1.93147
+Frame: 669
+Average contacts each sphere has: 1.93088
+Frame: 670
+Average contacts each sphere has: 1.93108
+Frame: 671
+Average contacts each sphere has: 1.93071
+Frame: 672
+Average contacts each sphere has: 1.93152
+Frame: 673
+Average contacts each sphere has: 1.93108
+Frame: 674
+Average contacts each sphere has: 1.93182
+Frame: 675
+Average contacts each sphere has: 1.93081
+Frame: 676
+Average contacts each sphere has: 1.932
+Frame: 677
+Average contacts each sphere has: 1.93114
+Frame: 678
+Average contacts each sphere has: 1.93151
+Frame: 679
+Average contacts each sphere has: 1.93023
+Frame: 680
+Average contacts each sphere has: 1.93239
+Frame: 681
+Average contacts each sphere has: 1.93029
+Frame: 682
+Average contacts each sphere has: 1.93082
+Frame: 683
+Average contacts each sphere has: 1.93045
+Frame: 684
+Average contacts each sphere has: 1.93112
+Frame: 685
+Average contacts each sphere has: 1.93104
+Frame: 686
+Average contacts each sphere has: 1.93136
+Frame: 687
+Average contacts each sphere has: 1.93104
+Frame: 688
+Average contacts each sphere has: 1.93144
+Frame: 689
+Average contacts each sphere has: 1.93114
+Frame: 690
+Average contacts each sphere has: 1.9324
+Frame: 691
+Average contacts each sphere has: 1.93117
+Frame: 692
+Average contacts each sphere has: 1.93138
+Frame: 693
+Average contacts each sphere has: 1.93089
+Frame: 694
+Average contacts each sphere has: 1.93144
+Frame: 695
+Average contacts each sphere has: 1.931
+Frame: 696
+Average contacts each sphere has: 1.93164
+Frame: 697
+Average contacts each sphere has: 1.93045
+Frame: 698
+Average contacts each sphere has: 1.93177
+Frame: 699
+Average contacts each sphere has: 1.9299
+Frame: 700
+Average contacts each sphere has: 1.93074
+Frame: 701
+Average contacts each sphere has: 1.93019
+Frame: 702
+Average contacts each sphere has: 1.93112
+Frame: 703
+Average contacts each sphere has: 1.93065
+Frame: 704
+Average contacts each sphere has: 1.93198
+Frame: 705
+Average contacts each sphere has: 1.93065
+Frame: 706
+Average contacts each sphere has: 1.93111
+Frame: 707
+Average contacts each sphere has: 1.93049
+Frame: 708
+Average contacts each sphere has: 1.93178
+Frame: 709
+Average contacts each sphere has: 1.93003
+Frame: 710
+Average contacts each sphere has: 1.93067
+Frame: 711
+Average contacts each sphere has: 1.92997
+Frame: 712
+Average contacts each sphere has: 1.93088
+Frame: 713
+Average contacts each sphere has: 1.93003
+Frame: 714
+Average contacts each sphere has: 1.93018
+Frame: 715
+Average contacts each sphere has: 1.92986
+Frame: 716
+Average contacts each sphere has: 1.92973
+Frame: 717
+Average contacts each sphere has: 1.92966
+Frame: 718
+Average contacts each sphere has: 1.93113
+Frame: 719
+Average contacts each sphere has: 1.92988
+Frame: 720
+Average contacts each sphere has: 1.9304
+Frame: 721
+Average contacts each sphere has: 1.93073
+Frame: 722
+Average contacts each sphere has: 1.93059
+Frame: 723
+Average contacts each sphere has: 1.93049
+Frame: 724
+Average contacts each sphere has: 1.9312
+Frame: 725
+Average contacts each sphere has: 1.93024
+Frame: 726
+Average contacts each sphere has: 1.93204
+Frame: 727
+Average contacts each sphere has: 1.93078
+Frame: 728
+Average contacts each sphere has: 1.93036
+Frame: 729
+Average contacts each sphere has: 1.93021
+Frame: 730
+Average contacts each sphere has: 1.93087
+Frame: 731
+Average contacts each sphere has: 1.93037
+Frame: 732
+Average contacts each sphere has: 1.93048
+Frame: 733
+Average contacts each sphere has: 1.93026
+Frame: 734
+Average contacts each sphere has: 1.93066
+Frame: 735
+Average contacts each sphere has: 1.92987
+Frame: 736
+Average contacts each sphere has: 1.93092
+Frame: 737
+Average contacts each sphere has: 1.93085
+Frame: 738
+Average contacts each sphere has: 1.93108
+Frame: 739
+Average contacts each sphere has: 1.92998
+Frame: 740
+Average contacts each sphere has: 1.93035
+Frame: 741
+Average contacts each sphere has: 1.92987
+Frame: 742
+Average contacts each sphere has: 1.93142
+Frame: 743
+Average contacts each sphere has: 1.93056
+Frame: 744
+Average contacts each sphere has: 1.93058
+Frame: 745
+Average contacts each sphere has: 1.93001
+Frame: 746
+Average contacts each sphere has: 1.93078
+Frame: 747
+Average contacts each sphere has: 1.93085
+Frame: 748
+Average contacts each sphere has: 1.93093
+Frame: 749
+Average contacts each sphere has: 1.9298
+Frame: 750
+Average contacts each sphere has: 1.92986
+Frame: 751
+Average contacts each sphere has: 1.9305
+Frame: 752
+Average contacts each sphere has: 1.93098
+Frame: 753
+Average contacts each sphere has: 1.93012
+Frame: 754
+Average contacts each sphere has: 1.9304
+Frame: 755
+Average contacts each sphere has: 1.92993
+Frame: 756
+Average contacts each sphere has: 1.92904
+Frame: 757
+Average contacts each sphere has: 1.92934
+Frame: 758
+Average contacts each sphere has: 1.93045
+Frame: 759
+Average contacts each sphere has: 1.92976
+Frame: 760
+Average contacts each sphere has: 1.93048
+Frame: 761
+Average contacts each sphere has: 1.92995
+Frame: 762
+Average contacts each sphere has: 1.93029
+Frame: 763
+Average contacts each sphere has: 1.92957
+Frame: 764
+Average contacts each sphere has: 1.93023
+Frame: 765
+Average contacts each sphere has: 1.9293
+Frame: 766
+Average contacts each sphere has: 1.93053
+Frame: 767
+Average contacts each sphere has: 1.92863
+Frame: 768
+Average contacts each sphere has: 1.9292
+Frame: 769
+Average contacts each sphere has: 1.92963
+Frame: 770
+Average contacts each sphere has: 1.93017
+Frame: 771
+Average contacts each sphere has: 1.9301
+Frame: 772
+Average contacts each sphere has: 1.92987
+Frame: 773
+Average contacts each sphere has: 1.92895
+Frame: 774
+Average contacts each sphere has: 1.92935
+Frame: 775
+Average contacts each sphere has: 1.92942
+Frame: 776
+Average contacts each sphere has: 1.93064
+Frame: 777
+Average contacts each sphere has: 1.92942
+Frame: 778
+Average contacts each sphere has: 1.9294
+Frame: 779
+Average contacts each sphere has: 1.92861
+Frame: 780
+Average contacts each sphere has: 1.92999
+Frame: 781
+Average contacts each sphere has: 1.92942
+Frame: 782
+Average contacts each sphere has: 1.93059
+Frame: 783
+Average contacts each sphere has: 1.92915
+Frame: 784
+Average contacts each sphere has: 1.93087
+Frame: 785
+Average contacts each sphere has: 1.92906
+Frame: 786
+Average contacts each sphere has: 1.92971
+Frame: 787
+Average contacts each sphere has: 1.92962
+Frame: 788
+Average contacts each sphere has: 1.92951
+Frame: 789
+Average contacts each sphere has: 1.92937
+Frame: 790
+Average contacts each sphere has: 1.92964
+Frame: 791
+Average contacts each sphere has: 1.9291
+Frame: 792
+Average contacts each sphere has: 1.92946
+Frame: 793
+Average contacts each sphere has: 1.92846
+Frame: 794
+Average contacts each sphere has: 1.92939
+Frame: 795
+Average contacts each sphere has: 1.92955
+Frame: 796
+Average contacts each sphere has: 1.92974
+Frame: 797
+Average contacts each sphere has: 1.92925
+Frame: 798
+Average contacts each sphere has: 1.92982
+Frame: 799
+Average contacts each sphere has: 1.92868
+Frame: 800
+Average contacts each sphere has: 1.92905
+Frame: 801
+Average contacts each sphere has: 1.92923
+Frame: 802
+Average contacts each sphere has: 1.92907
+Frame: 803
+Average contacts each sphere has: 1.92917
+Frame: 804
+Average contacts each sphere has: 1.93034
+Frame: 805
+Average contacts each sphere has: 1.92949
+Frame: 806
+Average contacts each sphere has: 1.93031
+Frame: 807
+Average contacts each sphere has: 1.93037
+Frame: 808
+Average contacts each sphere has: 1.93042
+Frame: 809
+Average contacts each sphere has: 1.92938
+Frame: 810
+Average contacts each sphere has: 1.9304
+Frame: 811
+Average contacts each sphere has: 1.92968
+Frame: 812
+Average contacts each sphere has: 1.92977
+Frame: 813
+Average contacts each sphere has: 1.93046
+Frame: 814
+Average contacts each sphere has: 1.93016
+Frame: 815
+Average contacts each sphere has: 1.93059
+Frame: 816
+Average contacts each sphere has: 1.9289
+Frame: 817
+Average contacts each sphere has: 1.92901
+Frame: 818
+Average contacts each sphere has: 1.92977
+Frame: 819
+Average contacts each sphere has: 1.9295
+Frame: 820
+Average contacts each sphere has: 1.93023
+Frame: 821
+Average contacts each sphere has: 1.93008
+Frame: 822
+Average contacts each sphere has: 1.92991
+Frame: 823
+Average contacts each sphere has: 1.92933
+Frame: 824
+Average contacts each sphere has: 1.92938
+Frame: 825
+Average contacts each sphere has: 1.92955
+Frame: 826
+Average contacts each sphere has: 1.9301
+Frame: 827
+Average contacts each sphere has: 1.9292
+Frame: 828
+Average contacts each sphere has: 1.9304
+Frame: 829
+Average contacts each sphere has: 1.9296
+Frame: 830
+Average contacts each sphere has: 1.92911
+Frame: 831
+Average contacts each sphere has: 1.92945
+Frame: 832
+Average contacts each sphere has: 1.92992
+Frame: 833
+Average contacts each sphere has: 1.92968
+Frame: 834
+Average contacts each sphere has: 1.92957
+Frame: 835
+Average contacts each sphere has: 1.9289
+Frame: 836
+Average contacts each sphere has: 1.92935
+Frame: 837
+Average contacts each sphere has: 1.9284
+Frame: 838
+Average contacts each sphere has: 1.92806
+Frame: 839
+Average contacts each sphere has: 1.92841
+Frame: 840
+Average contacts each sphere has: 1.92907
+Frame: 841
+Average contacts each sphere has: 1.92955
+Frame: 842
+Average contacts each sphere has: 1.92885
+Frame: 843
+Average contacts each sphere has: 1.92924
+Frame: 844
+Average contacts each sphere has: 1.92906
+Frame: 845
+Average contacts each sphere has: 1.92824
+Frame: 846
+Average contacts each sphere has: 1.92896
+Frame: 847
+Average contacts each sphere has: 1.92931
+Frame: 848
+Average contacts each sphere has: 1.92935
+Frame: 849
+Average contacts each sphere has: 1.92892
+Frame: 850
+Average contacts each sphere has: 1.9293
+Frame: 851
+Average contacts each sphere has: 1.92909
+Frame: 852
+Average contacts each sphere has: 1.92846
+Frame: 853
+Average contacts each sphere has: 1.9299
+Frame: 854
+Average contacts each sphere has: 1.92958
+Frame: 855
+Average contacts each sphere has: 1.92891
+Frame: 856
+Average contacts each sphere has: 1.92902
+Frame: 857
+Average contacts each sphere has: 1.92852
+Frame: 858
+Average contacts each sphere has: 1.92942
+Frame: 859
+Average contacts each sphere has: 1.92816
+Frame: 860
+Average contacts each sphere has: 1.92854
+Frame: 861
+Average contacts each sphere has: 1.92815
+Frame: 862
+Average contacts each sphere has: 1.92887
+Frame: 863
+Average contacts each sphere has: 1.92806
+Frame: 864
+Average contacts each sphere has: 1.92929
+Frame: 865
+Average contacts each sphere has: 1.92872
+Frame: 866
+Average contacts each sphere has: 1.92812
+Frame: 867
+Average contacts each sphere has: 1.92872
+Frame: 868
+Average contacts each sphere has: 1.92902
+Frame: 869
+Average contacts each sphere has: 1.92923
+Frame: 870
+Average contacts each sphere has: 1.92905
+Frame: 871
+Average contacts each sphere has: 1.92878
+Frame: 872
+Average contacts each sphere has: 1.92824
+Frame: 873
+Average contacts each sphere has: 1.92812
+Frame: 874
+Average contacts each sphere has: 1.92909
+Frame: 875
+Average contacts each sphere has: 1.92886
+Frame: 876
+Average contacts each sphere has: 1.92815
+Frame: 877
+Average contacts each sphere has: 1.9287
+Frame: 878
+Average contacts each sphere has: 1.92896
+Frame: 879
+Average contacts each sphere has: 1.92844
+Frame: 880
+Average contacts each sphere has: 1.92885
+Frame: 881
+Average contacts each sphere has: 1.92852
+Frame: 882
+Average contacts each sphere has: 1.92854
+Frame: 883
+Average contacts each sphere has: 1.92892
+Frame: 884
+Average contacts each sphere has: 1.92891
+Frame: 885
+Average contacts each sphere has: 1.92865
+Frame: 886
+Average contacts each sphere has: 1.92884
+Frame: 887
+Average contacts each sphere has: 1.92887
+Frame: 888
+Average contacts each sphere has: 1.92921
+Frame: 889
+Average contacts each sphere has: 1.9291
+Frame: 890
+Average contacts each sphere has: 1.92856
+Frame: 891
+Average contacts each sphere has: 1.92896
+Frame: 892
+Average contacts each sphere has: 1.92911
+Frame: 893
+Average contacts each sphere has: 1.92905
+Frame: 894
+Average contacts each sphere has: 1.92861
+Frame: 895
+Average contacts each sphere has: 1.92816
+Frame: 896
+Average contacts each sphere has: 1.92904
+Frame: 897
+Average contacts each sphere has: 1.92866
+Frame: 898
+Average contacts each sphere has: 1.92934
+Frame: 899
+Average contacts each sphere has: 1.9286
+Frame: 900
+Average contacts each sphere has: 1.92829
+Frame: 901
+Average contacts each sphere has: 1.9288
+Frame: 902
+Average contacts each sphere has: 1.92899
+Frame: 903
+Average contacts each sphere has: 1.92868
+Frame: 904
+Average contacts each sphere has: 1.92888
+Frame: 905
+Average contacts each sphere has: 1.92866
+Frame: 906
+Average contacts each sphere has: 1.92916
+Frame: 907
+Average contacts each sphere has: 1.92883
+Frame: 908
+Average contacts each sphere has: 1.92895
+Frame: 909
+Average contacts each sphere has: 1.92918
+Frame: 910
+Average contacts each sphere has: 1.92878
+Frame: 911
+Average contacts each sphere has: 1.9287
+Frame: 912
+Average contacts each sphere has: 1.92818
+Frame: 913
+Average contacts each sphere has: 1.92812
+Frame: 914
+Average contacts each sphere has: 1.92741
+Frame: 915
+Average contacts each sphere has: 1.92822
+Frame: 916
+Average contacts each sphere has: 1.92872
+Frame: 917
+Average contacts each sphere has: 1.92876
+Frame: 918
+Average contacts each sphere has: 1.92891
+Frame: 919
+Average contacts each sphere has: 1.92806
+Frame: 920
+Average contacts each sphere has: 1.9292
+Frame: 921
+Average contacts each sphere has: 1.92941
+Frame: 922
+Average contacts each sphere has: 1.9279
+Frame: 923
+Average contacts each sphere has: 1.92813
+Frame: 924
+Average contacts each sphere has: 1.92801
+Frame: 925
+Average contacts each sphere has: 1.9286
+Frame: 926
+Average contacts each sphere has: 1.92772
+Frame: 927
+Average contacts each sphere has: 1.92837
+Frame: 928
+Average contacts each sphere has: 1.92842
+Frame: 929
+Average contacts each sphere has: 1.92868
+Frame: 930
+Average contacts each sphere has: 1.92854
+Frame: 931
+Average contacts each sphere has: 1.92793
+Frame: 932
+Average contacts each sphere has: 1.92825
+Frame: 933
+Average contacts each sphere has: 1.92833
+Frame: 934
+Average contacts each sphere has: 1.92842
+Frame: 935
+Average contacts each sphere has: 1.92897
+Frame: 936
+Average contacts each sphere has: 1.92852
+Frame: 937
+Average contacts each sphere has: 1.92863
+Frame: 938
+Average contacts each sphere has: 1.92802
+Frame: 939
+Average contacts each sphere has: 1.92828
+Frame: 940
+Average contacts each sphere has: 1.92864
+Frame: 941
+Average contacts each sphere has: 1.92883
+Frame: 942
+Average contacts each sphere has: 1.92841
+Frame: 943
+Average contacts each sphere has: 1.92815
+Frame: 944
+Average contacts each sphere has: 1.9285
+Frame: 945
+Average contacts each sphere has: 1.92824
+Frame: 946
+Average contacts each sphere has: 1.92799
+Frame: 947
+Average contacts each sphere has: 1.92909
+Frame: 948
+Average contacts each sphere has: 1.92901
+Frame: 949
+Average contacts each sphere has: 1.92871
+Frame: 950
+Average contacts each sphere has: 1.92869
+Frame: 951
+Average contacts each sphere has: 1.92892
+Frame: 952
+Average contacts each sphere has: 1.92938
+Frame: 953
+Average contacts each sphere has: 1.9285
+Frame: 954
+Average contacts each sphere has: 1.92903
+Frame: 955
+Average contacts each sphere has: 1.92792
+Frame: 956
+Average contacts each sphere has: 1.92805
+Frame: 957
+Average contacts each sphere has: 1.92853
+Frame: 958
+Average contacts each sphere has: 1.92818
+Frame: 959
+Average contacts each sphere has: 1.9279
+Frame: 960
+Average contacts each sphere has: 1.92823
+Frame: 961
+Average contacts each sphere has: 1.92815
+Frame: 962
+Average contacts each sphere has: 1.92847
+Frame: 963
+Average contacts each sphere has: 1.9275
+Frame: 964
+Average contacts each sphere has: 1.92895
+Frame: 965
+Average contacts each sphere has: 1.92782
+Frame: 966
+Average contacts each sphere has: 1.92837
+Frame: 967
+Average contacts each sphere has: 1.92857
+Frame: 968
+Average contacts each sphere has: 1.92833
+Frame: 969
+Average contacts each sphere has: 1.92731
+Frame: 970
+Average contacts each sphere has: 1.92846
+Frame: 971
+Average contacts each sphere has: 1.92795
+Frame: 972
+Average contacts each sphere has: 1.928
+Frame: 973
+Average contacts each sphere has: 1.9271
+Frame: 974
+Average contacts each sphere has: 1.92769
+Frame: 975
+Average contacts each sphere has: 1.9271
+Frame: 976
+Average contacts each sphere has: 1.92732
+Frame: 977
+Average contacts each sphere has: 1.92752
+Frame: 978
+Average contacts each sphere has: 1.92886
+Frame: 979
+Average contacts each sphere has: 1.92848
+Frame: 980
+Average contacts each sphere has: 1.92866
+Frame: 981
+Average contacts each sphere has: 1.9285
+Frame: 982
+Average contacts each sphere has: 1.92865
+Frame: 983
+Average contacts each sphere has: 1.92867
+Frame: 984
+Average contacts each sphere has: 1.92827
+Frame: 985
+Average contacts each sphere has: 1.92902
+Frame: 986
+Average contacts each sphere has: 1.92809
+Frame: 987
+Average contacts each sphere has: 1.92863
+Frame: 988
+Average contacts each sphere has: 1.92849
+Frame: 989
+Average contacts each sphere has: 1.92826
+Frame: 990
+Average contacts each sphere has: 1.92885
+Frame: 991
+Average contacts each sphere has: 1.92835
+Frame: 992
+Average contacts each sphere has: 1.92872
+Frame: 993
+Average contacts each sphere has: 1.92783
+Frame: 994
+Average contacts each sphere has: 1.92787
+Frame: 995
+Average contacts each sphere has: 1.92745
+Frame: 996
+Average contacts each sphere has: 1.92824
+Frame: 997
+Average contacts each sphere has: 1.9273
+Frame: 998
+Average contacts each sphere has: 1.92875
+Frame: 999
+Average contacts each sphere has: 1.92809
+Frame: 1000
+Average contacts each sphere has: 1.92831
+Frame: 1001
+Average contacts each sphere has: 1.92827
+Frame: 1002
+Average contacts each sphere has: 1.92831
+Frame: 1003
+Average contacts each sphere has: 1.92797
+Frame: 1004
+Average contacts each sphere has: 1.92726
+Frame: 1005
+Average contacts each sphere has: 1.92708
+Frame: 1006
+Average contacts each sphere has: 1.92793
+Frame: 1007
+Average contacts each sphere has: 1.92842
+Frame: 1008
+Average contacts each sphere has: 1.92873
+Frame: 1009
+Average contacts each sphere has: 1.92738
+Frame: 1010
+Average contacts each sphere has: 1.92815
+Frame: 1011
+Average contacts each sphere has: 1.92736
+Frame: 1012
+Average contacts each sphere has: 1.92827
+Frame: 1013
+Average contacts each sphere has: 1.92755
+Frame: 1014
+Average contacts each sphere has: 1.92735
+Frame: 1015
+Average contacts each sphere has: 1.92751
+Frame: 1016
+Average contacts each sphere has: 1.92771
+Frame: 1017
+Average contacts each sphere has: 1.92758
+Frame: 1018
+Average contacts each sphere has: 1.92823
+Frame: 1019
+Average contacts each sphere has: 1.92751
+Frame: 1020
+Average contacts each sphere has: 1.92767
+Frame: 1021
+Average contacts each sphere has: 1.92759
+Frame: 1022
+Average contacts each sphere has: 1.92712
+Frame: 1023
+Average contacts each sphere has: 1.9271
+Frame: 1024
+Average contacts each sphere has: 1.9271
+Frame: 1025
+Average contacts each sphere has: 1.92776
+Frame: 1026
+Average contacts each sphere has: 1.92747
+Frame: 1027
+Average contacts each sphere has: 1.92748
+Frame: 1028
+Average contacts each sphere has: 1.92802
+Frame: 1029
+Average contacts each sphere has: 1.92689
+Frame: 1030
+Average contacts each sphere has: 1.92738
+Frame: 1031
+Average contacts each sphere has: 1.92661
+Frame: 1032
+Average contacts each sphere has: 1.92675
+Frame: 1033
+Average contacts each sphere has: 1.92657
+Frame: 1034
+Average contacts each sphere has: 1.927
+Frame: 1035
+Average contacts each sphere has: 1.92728
+Frame: 1036
+Average contacts each sphere has: 1.92624
+Frame: 1037
+Average contacts each sphere has: 1.9271
+Frame: 1038
+Average contacts each sphere has: 1.92747
+Frame: 1039
+Average contacts each sphere has: 1.92716
+Frame: 1040
+Average contacts each sphere has: 1.92747
+Frame: 1041
+Average contacts each sphere has: 1.92717
+Frame: 1042
+Average contacts each sphere has: 1.92748
+Frame: 1043
+Average contacts each sphere has: 1.92716
+Frame: 1044
+Average contacts each sphere has: 1.92775
+Frame: 1045
+Average contacts each sphere has: 1.92745
+Frame: 1046
+Average contacts each sphere has: 1.9286
+Frame: 1047
+Average contacts each sphere has: 1.92766
+Frame: 1048
+Average contacts each sphere has: 1.92779
+Frame: 1049
+Average contacts each sphere has: 1.92729
+Frame: 1050
+Average contacts each sphere has: 1.92789
+Frame: 1051
+Average contacts each sphere has: 1.92759
+Frame: 1052
+Average contacts each sphere has: 1.92807
+Frame: 1053
+Average contacts each sphere has: 1.9272
+Frame: 1054
+Average contacts each sphere has: 1.92787
+Frame: 1055
+Average contacts each sphere has: 1.92716
+Frame: 1056
+Average contacts each sphere has: 1.92834
+Frame: 1057
+Average contacts each sphere has: 1.92677
+Frame: 1058
+Average contacts each sphere has: 1.92763
+Frame: 1059
+Average contacts each sphere has: 1.9272
+Frame: 1060
+Average contacts each sphere has: 1.92856
+Frame: 1061
+Average contacts each sphere has: 1.92796
+Frame: 1062
+Average contacts each sphere has: 1.92819
+Frame: 1063
+Average contacts each sphere has: 1.9274
+Frame: 1064
+Average contacts each sphere has: 1.92732
+Frame: 1065
+Average contacts each sphere has: 1.92716
+Frame: 1066
+Average contacts each sphere has: 1.92716
+Frame: 1067
+Average contacts each sphere has: 1.92716
+Frame: 1068
+Average contacts each sphere has: 1.92677
+Frame: 1069
+Average contacts each sphere has: 1.92709
+Frame: 1070
+Average contacts each sphere has: 1.92738
+Frame: 1071
+Average contacts each sphere has: 1.92731
+Frame: 1072
+Average contacts each sphere has: 1.92737
+Frame: 1073
+Average contacts each sphere has: 1.92683
+Frame: 1074
+Average contacts each sphere has: 1.92692
+Frame: 1075
+Average contacts each sphere has: 1.92672
+Frame: 1076
+Average contacts each sphere has: 1.92701
+Frame: 1077
+Average contacts each sphere has: 1.92704
+Frame: 1078
+Average contacts each sphere has: 1.92748
+Frame: 1079
+Average contacts each sphere has: 1.92755
+Frame: 1080
+Average contacts each sphere has: 1.92744
+Frame: 1081
+Average contacts each sphere has: 1.92818
+Frame: 1082
+Average contacts each sphere has: 1.92716
+Frame: 1083
+Average contacts each sphere has: 1.92735
+Frame: 1084
+Average contacts each sphere has: 1.92676
+Frame: 1085
+Average contacts each sphere has: 1.92737
+Frame: 1086
+Average contacts each sphere has: 1.92767
+Frame: 1087
+Average contacts each sphere has: 1.92738
+Frame: 1088
+Average contacts each sphere has: 1.92797
+Frame: 1089
+Average contacts each sphere has: 1.92734
+Frame: 1090
+Average contacts each sphere has: 1.92738
+Frame: 1091
+Average contacts each sphere has: 1.92773
+Frame: 1092
+Average contacts each sphere has: 1.92829
+Frame: 1093
+Average contacts each sphere has: 1.92732
+Frame: 1094
+Average contacts each sphere has: 1.92725
+Frame: 1095
+Average contacts each sphere has: 1.92685
+Frame: 1096
+Average contacts each sphere has: 1.92697
+Frame: 1097
+Average contacts each sphere has: 1.92749
+Frame: 1098
+Average contacts each sphere has: 1.92688
+Frame: 1099
+Average contacts each sphere has: 1.92721
+Frame: 1100
+Average contacts each sphere has: 1.92687
+Frame: 1101
+Average contacts each sphere has: 1.92757
+Frame: 1102
+Average contacts each sphere has: 1.9279
+Frame: 1103
+Average contacts each sphere has: 1.92787
+Frame: 1104
+Average contacts each sphere has: 1.92675
+Frame: 1105
+Average contacts each sphere has: 1.92757
+Frame: 1106
+Average contacts each sphere has: 1.92652
+Frame: 1107
+Average contacts each sphere has: 1.92614
+Frame: 1108
+Average contacts each sphere has: 1.92678
+Frame: 1109
+Average contacts each sphere has: 1.92639
+Frame: 1110
+Average contacts each sphere has: 1.92705
+Frame: 1111
+Average contacts each sphere has: 1.92674
+Frame: 1112
+Average contacts each sphere has: 1.92692
+Frame: 1113
+Average contacts each sphere has: 1.92661
+Frame: 1114
+Average contacts each sphere has: 1.92648
+Frame: 1115
+Average contacts each sphere has: 1.9272
+Frame: 1116
+Average contacts each sphere has: 1.92706
+Frame: 1117
+Average contacts each sphere has: 1.92621
+Frame: 1118
+Average contacts each sphere has: 1.92619
+Frame: 1119
+Average contacts each sphere has: 1.92664
+Frame: 1120
+Average contacts each sphere has: 1.9266
+Frame: 1121
+Average contacts each sphere has: 1.92651
+Frame: 1122
+Average contacts each sphere has: 1.92541
+Frame: 1123
+Average contacts each sphere has: 1.92677
+Frame: 1124
+Average contacts each sphere has: 1.92679
+Frame: 1125
+Average contacts each sphere has: 1.92701
+Frame: 1126
+Average contacts each sphere has: 1.92681
+Frame: 1127
+Average contacts each sphere has: 1.92734
+Frame: 1128
+Average contacts each sphere has: 1.92729
+Frame: 1129
+Average contacts each sphere has: 1.92683
+Frame: 1130
+Average contacts each sphere has: 1.92671
+Frame: 1131
+Average contacts each sphere has: 1.92736
+Frame: 1132
+Average contacts each sphere has: 1.92646
+Frame: 1133
+Average contacts each sphere has: 1.92645
+Frame: 1134
+Average contacts each sphere has: 1.92664
+Frame: 1135
+Average contacts each sphere has: 1.92658
+Frame: 1136
+Average contacts each sphere has: 1.92752
+Frame: 1137
+Average contacts each sphere has: 1.92803
+Frame: 1138
+Average contacts each sphere has: 1.92797
+Frame: 1139
+Average contacts each sphere has: 1.92753
+Frame: 1140
+Average contacts each sphere has: 1.92682
+Frame: 1141
+Average contacts each sphere has: 1.92673
+Frame: 1142
+Average contacts each sphere has: 1.92706
+Frame: 1143
+Average contacts each sphere has: 1.92676
+Frame: 1144
+Average contacts each sphere has: 1.92682
+Frame: 1145
+Average contacts each sphere has: 1.92714
+Frame: 1146
+Average contacts each sphere has: 1.92707
+Frame: 1147
+Average contacts each sphere has: 1.92728
+Frame: 1148
+Average contacts each sphere has: 1.92741
+Frame: 1149
+Average contacts each sphere has: 1.92719
+Frame: 1150
+Average contacts each sphere has: 1.92715
+Frame: 1151
+Average contacts each sphere has: 1.92657
+Frame: 1152
+Average contacts each sphere has: 1.92637
+Frame: 1153
+Average contacts each sphere has: 1.92646
+Frame: 1154
+Average contacts each sphere has: 1.92592
+Frame: 1155
+Average contacts each sphere has: 1.92741
+Frame: 1156
+Average contacts each sphere has: 1.92669
+Frame: 1157
+Average contacts each sphere has: 1.92652
+Frame: 1158
+Average contacts each sphere has: 1.92593
+Frame: 1159
+Average contacts each sphere has: 1.9269
+Frame: 1160
+Average contacts each sphere has: 1.92659
+Frame: 1161
+Average contacts each sphere has: 1.92579
+Frame: 1162
+Average contacts each sphere has: 1.92681
+Frame: 1163
+Average contacts each sphere has: 1.92628
+Frame: 1164
+Average contacts each sphere has: 1.92646
+Frame: 1165
+Average contacts each sphere has: 1.9266
+Frame: 1166
+Average contacts each sphere has: 1.92686
+Frame: 1167
+Average contacts each sphere has: 1.92687
+Frame: 1168
+Average contacts each sphere has: 1.92639
+Frame: 1169
+Average contacts each sphere has: 1.92653
+Frame: 1170
+Average contacts each sphere has: 1.92663
+Frame: 1171
+Average contacts each sphere has: 1.92564
+Frame: 1172
+Average contacts each sphere has: 1.92624
+Frame: 1173
+Average contacts each sphere has: 1.92645
+Frame: 1174
+Average contacts each sphere has: 1.92714
+Frame: 1175
+Average contacts each sphere has: 1.92707
+Frame: 1176
+Average contacts each sphere has: 1.92682
+Frame: 1177
+Average contacts each sphere has: 1.92678
+Frame: 1178
+Average contacts each sphere has: 1.92594
+Frame: 1179
+Average contacts each sphere has: 1.92645
+Frame: 1180
+Average contacts each sphere has: 1.9262
+Frame: 1181
+Average contacts each sphere has: 1.92671
+Frame: 1182
+Average contacts each sphere has: 1.92633
+Frame: 1183
+Average contacts each sphere has: 1.92661
+Frame: 1184
+Average contacts each sphere has: 1.92633
+Frame: 1185
+Average contacts each sphere has: 1.92624
+Frame: 1186
+Average contacts each sphere has: 1.92678
+Frame: 1187
+Average contacts each sphere has: 1.92695
+Frame: 1188
+Average contacts each sphere has: 1.92604
+Frame: 1189
+Average contacts each sphere has: 1.92602
+Frame: 1190
+Average contacts each sphere has: 1.92552
+Frame: 1191
+Average contacts each sphere has: 1.92673
+Frame: 1192
+Average contacts each sphere has: 1.92643
+Frame: 1193
+Average contacts each sphere has: 1.92656
+Frame: 1194
+Average contacts each sphere has: 1.9262
+Frame: 1195
+Average contacts each sphere has: 1.92632
+Frame: 1196
+Average contacts each sphere has: 1.92604
+Frame: 1197
+Average contacts each sphere has: 1.92662
+Frame: 1198
+Average contacts each sphere has: 1.92698
+Frame: 1199
+Average contacts each sphere has: 1.92615
+Frame: 1200
+Average contacts each sphere has: 1.92561
+Frame: 1201
+Average contacts each sphere has: 1.92673
+Frame: 1202
+Average contacts each sphere has: 1.92611
+Frame: 1203
+Average contacts each sphere has: 1.92733
+Frame: 1204
+Average contacts each sphere has: 1.92589
+Frame: 1205
+Average contacts each sphere has: 1.92657
+Frame: 1206
+Average contacts each sphere has: 1.92691
+Frame: 1207
+Average contacts each sphere has: 1.92603
+Frame: 1208
+Average contacts each sphere has: 1.92636
+Frame: 1209
+Average contacts each sphere has: 1.92606
+Frame: 1210
+Average contacts each sphere has: 1.92613
+Frame: 1211
+Average contacts each sphere has: 1.92666
+Frame: 1212
+Average contacts each sphere has: 1.92602
+Frame: 1213
+Average contacts each sphere has: 1.92713
+Frame: 1214
+Average contacts each sphere has: 1.92638
+Frame: 1215
+Average contacts each sphere has: 1.92673
+Frame: 1216
+Average contacts each sphere has: 1.92667
+Frame: 1217
+Average contacts each sphere has: 1.92672
+Frame: 1218
+Average contacts each sphere has: 1.92668
+Frame: 1219
+Average contacts each sphere has: 1.92618
+Frame: 1220
+Average contacts each sphere has: 1.92632
+Frame: 1221
+Average contacts each sphere has: 1.92562
+Frame: 1222
+Average contacts each sphere has: 1.92591
+Frame: 1223
+Average contacts each sphere has: 1.92579
+Frame: 1224
+Average contacts each sphere has: 1.92545
+Frame: 1225
+Average contacts each sphere has: 1.92629
+Frame: 1226
+Average contacts each sphere has: 1.92547
+Frame: 1227
+Average contacts each sphere has: 1.92549
+Frame: 1228
+Average contacts each sphere has: 1.9255
+Frame: 1229
+Average contacts each sphere has: 1.92579
+Frame: 1230
+Average contacts each sphere has: 1.926
+Frame: 1231
+Average contacts each sphere has: 1.92572
+Frame: 1232
+Average contacts each sphere has: 1.9259
+Frame: 1233
+Average contacts each sphere has: 1.92532
+Frame: 1234
+Average contacts each sphere has: 1.92514
+Frame: 1235
+Average contacts each sphere has: 1.92537
+Frame: 1236
+Average contacts each sphere has: 1.92573
+Frame: 1237
+Average contacts each sphere has: 1.92581
+Frame: 1238
+Average contacts each sphere has: 1.92618
+Frame: 1239
+Average contacts each sphere has: 1.92555
+Frame: 1240
+Average contacts each sphere has: 1.92539
+Frame: 1241
+Average contacts each sphere has: 1.92509
+Frame: 1242
+Average contacts each sphere has: 1.9255
+Frame: 1243
+Average contacts each sphere has: 1.92516
+Frame: 1244
+Average contacts each sphere has: 1.92543
+Frame: 1245
+Average contacts each sphere has: 1.92501
+Frame: 1246
+Average contacts each sphere has: 1.92553
+Frame: 1247
+Average contacts each sphere has: 1.92525
+Frame: 1248
+Average contacts each sphere has: 1.92577
+Frame: 1249
+Average contacts each sphere has: 1.92559
+Frame: 1250
+Average contacts each sphere has: 1.92465
+Frame: 1251
+Average contacts each sphere has: 1.92476
+Frame: 1252
+Average contacts each sphere has: 1.92477
+Frame: 1253
+Average contacts each sphere has: 1.92538
+Frame: 1254
+Average contacts each sphere has: 1.92505
+Frame: 1255
+Average contacts each sphere has: 1.92481
+Frame: 1256
+Average contacts each sphere has: 1.92513
+Frame: 1257
+Average contacts each sphere has: 1.92434
+Frame: 1258
+Average contacts each sphere has: 1.92537
+Frame: 1259
+Average contacts each sphere has: 1.92494
+Frame: 1260
+Average contacts each sphere has: 1.92481
+Frame: 1261
+Average contacts each sphere has: 1.92436
+Frame: 1262
+Average contacts each sphere has: 1.92475
+Frame: 1263
+Average contacts each sphere has: 1.92378
+Frame: 1264
+Average contacts each sphere has: 1.92459
+Frame: 1265
+Average contacts each sphere has: 1.92498
+Frame: 1266
+Average contacts each sphere has: 1.92439
+Frame: 1267
+Average contacts each sphere has: 1.92563
+Frame: 1268
+Average contacts each sphere has: 1.92516
+Frame: 1269
+Average contacts each sphere has: 1.92543
+Frame: 1270
+Average contacts each sphere has: 1.92553
+Frame: 1271
+Average contacts each sphere has: 1.9253
+Frame: 1272
+Average contacts each sphere has: 1.92493
+Frame: 1273
+Average contacts each sphere has: 1.92509
+Frame: 1274
+Average contacts each sphere has: 1.92556
+Frame: 1275
+Average contacts each sphere has: 1.92531
+Frame: 1276
+Average contacts each sphere has: 1.92471
+Frame: 1277
+Average contacts each sphere has: 1.92639
+Frame: 1278
+Average contacts each sphere has: 1.9255
+Frame: 1279
+Average contacts each sphere has: 1.92469
+Frame: 1280
+Average contacts each sphere has: 1.92546
+Frame: 1281
+Average contacts each sphere has: 1.92518
+Frame: 1282
+Average contacts each sphere has: 1.92588
+Frame: 1283
+Average contacts each sphere has: 1.92526
+Frame: 1284
+Average contacts each sphere has: 1.92588
+Frame: 1285
+Average contacts each sphere has: 1.92595
+Frame: 1286
+Average contacts each sphere has: 1.92551
+Frame: 1287
+Average contacts each sphere has: 1.92613
+Frame: 1288
+Average contacts each sphere has: 1.92613
+Frame: 1289
+Average contacts each sphere has: 1.9261
+Frame: 1290
+Average contacts each sphere has: 1.9256
+Frame: 1291
+Average contacts each sphere has: 1.92583
+Frame: 1292
+Average contacts each sphere has: 1.92627
+Frame: 1293
+Average contacts each sphere has: 1.92538
+Frame: 1294
+Average contacts each sphere has: 1.9256
+Frame: 1295
+Average contacts each sphere has: 1.92479
+Frame: 1296
+Average contacts each sphere has: 1.92482
+Frame: 1297
+Average contacts each sphere has: 1.9256
+Frame: 1298
+Average contacts each sphere has: 1.92519
+Frame: 1299
+Average contacts each sphere has: 1.92504
+Frame: 1300
+Average contacts each sphere has: 1.92525
+Frame: 1301
+Average contacts each sphere has: 1.92504
+Frame: 1302
+Average contacts each sphere has: 1.92554
+Frame: 1303
+Average contacts each sphere has: 1.92498
+Frame: 1304
+Average contacts each sphere has: 1.92511
+Frame: 1305
+Average contacts each sphere has: 1.92561
+Frame: 1306
+Average contacts each sphere has: 1.92524
+Frame: 1307
+Average contacts each sphere has: 1.9254
+Frame: 1308
+Average contacts each sphere has: 1.92549
+Frame: 1309
+Average contacts each sphere has: 1.92549
+Frame: 1310
+Average contacts each sphere has: 1.92581
+Frame: 1311
+Average contacts each sphere has: 1.92588
+Frame: 1312
+Average contacts each sphere has: 1.92601
+Frame: 1313
+Average contacts each sphere has: 1.92644
+Frame: 1314
+Average contacts each sphere has: 1.92519
+Frame: 1315
+Average contacts each sphere has: 1.92534
+Frame: 1316
+Average contacts each sphere has: 1.92523
+Frame: 1317
+Average contacts each sphere has: 1.92506
+Frame: 1318
+Average contacts each sphere has: 1.92604
+Frame: 1319
+Average contacts each sphere has: 1.92554
+Frame: 1320
+Average contacts each sphere has: 1.9258
+Frame: 1321
+Average contacts each sphere has: 1.9254
+Frame: 1322
+Average contacts each sphere has: 1.9258
+Frame: 1323
+Average contacts each sphere has: 1.92566
+Frame: 1324
+Average contacts each sphere has: 1.92585
+Frame: 1325
+Average contacts each sphere has: 1.92521
+Frame: 1326
+Average contacts each sphere has: 1.92536
+Frame: 1327
+Average contacts each sphere has: 1.92535
+Frame: 1328
+Average contacts each sphere has: 1.9256
+Frame: 1329
+Average contacts each sphere has: 1.92463
+Frame: 1330
+Average contacts each sphere has: 1.92485
+Frame: 1331
+Average contacts each sphere has: 1.92547
+Frame: 1332
+Average contacts each sphere has: 1.92549
+Frame: 1333
+Average contacts each sphere has: 1.92565
+Frame: 1334
+Average contacts each sphere has: 1.92618
+Frame: 1335
+Average contacts each sphere has: 1.92526
+Frame: 1336
+Average contacts each sphere has: 1.92507
+Frame: 1337
+Average contacts each sphere has: 1.92457
+Frame: 1338
+Average contacts each sphere has: 1.92578
+Frame: 1339
+Average contacts each sphere has: 1.92473
+Frame: 1340
+Average contacts each sphere has: 1.92592
+Frame: 1341
+Average contacts each sphere has: 1.92495
+Frame: 1342
+Average contacts each sphere has: 1.92615
+Frame: 1343
+Average contacts each sphere has: 1.9253
+Frame: 1344
+Average contacts each sphere has: 1.92603
+Frame: 1345
+Average contacts each sphere has: 1.92473
+Frame: 1346
+Average contacts each sphere has: 1.92507
+Frame: 1347
+Average contacts each sphere has: 1.92416
+Frame: 1348
+Average contacts each sphere has: 1.92508
+Frame: 1349
+Average contacts each sphere has: 1.9254
+Frame: 1350
+Average contacts each sphere has: 1.92526
+Frame: 1351
+Average contacts each sphere has: 1.92481
+Frame: 1352
+Average contacts each sphere has: 1.92511
+Frame: 1353
+Average contacts each sphere has: 1.92435
+Frame: 1354
+Average contacts each sphere has: 1.92559
+Frame: 1355
+Average contacts each sphere has: 1.92463
+Frame: 1356
+Average contacts each sphere has: 1.92536
+Frame: 1357
+Average contacts each sphere has: 1.92447
+Frame: 1358
+Average contacts each sphere has: 1.92538
+Frame: 1359
+Average contacts each sphere has: 1.92525
+Frame: 1360
+Average contacts each sphere has: 1.92592
+Frame: 1361
+Average contacts each sphere has: 1.92576
+Frame: 1362
+Average contacts each sphere has: 1.92529
+Frame: 1363
+Average contacts each sphere has: 1.92458
+Frame: 1364
+Average contacts each sphere has: 1.92516
+Frame: 1365
+Average contacts each sphere has: 1.9254
+Frame: 1366
+Average contacts each sphere has: 1.92544
+Frame: 1367
+Average contacts each sphere has: 1.9247
+Frame: 1368
+Average contacts each sphere has: 1.92454
+Frame: 1369
+Average contacts each sphere has: 1.92513
+Frame: 1370
+Average contacts each sphere has: 1.92602
+Frame: 1371
+Average contacts each sphere has: 1.92566
+Frame: 1372
+Average contacts each sphere has: 1.92529
+Frame: 1373
+Average contacts each sphere has: 1.92481
+Frame: 1374
+Average contacts each sphere has: 1.9248
+Frame: 1375
+Average contacts each sphere has: 1.92475
+Frame: 1376
+Average contacts each sphere has: 1.92551
+Frame: 1377
+Average contacts each sphere has: 1.92558
+Frame: 1378
+Average contacts each sphere has: 1.92564
+Frame: 1379
+Average contacts each sphere has: 1.9246
+Frame: 1380
+Average contacts each sphere has: 1.92513
+Frame: 1381
+Average contacts each sphere has: 1.92497
+Frame: 1382
+Average contacts each sphere has: 1.92528
+Frame: 1383
+Average contacts each sphere has: 1.92515
+Frame: 1384
+Average contacts each sphere has: 1.92501
+Frame: 1385
+Average contacts each sphere has: 1.92438
+Frame: 1386
+Average contacts each sphere has: 1.92435
+Frame: 1387
+Average contacts each sphere has: 1.92466
+Frame: 1388
+Average contacts each sphere has: 1.92488
+Frame: 1389
+Average contacts each sphere has: 1.92484
+Frame: 1390
+Average contacts each sphere has: 1.92436
+Frame: 1391
+Average contacts each sphere has: 1.92438
+Frame: 1392
+Average contacts each sphere has: 1.92466
+Frame: 1393
+Average contacts each sphere has: 1.92426
+Frame: 1394
+Average contacts each sphere has: 1.92469
+Frame: 1395
+Average contacts each sphere has: 1.92364
+Frame: 1396
+Average contacts each sphere has: 1.92415
+Frame: 1397
+Average contacts each sphere has: 1.9246
+Frame: 1398
+Average contacts each sphere has: 1.9252
+Frame: 1399
+Average contacts each sphere has: 1.92512
+Frame: 1400
+Average contacts each sphere has: 1.92435
+Frame: 1401
+Average contacts each sphere has: 1.92481
+Frame: 1402
+Average contacts each sphere has: 1.92491
+Frame: 1403
+Average contacts each sphere has: 1.92471
+Frame: 1404
+Average contacts each sphere has: 1.92501
+Frame: 1405
+Average contacts each sphere has: 1.92469
+Frame: 1406
+Average contacts each sphere has: 1.92438
+Frame: 1407
+Average contacts each sphere has: 1.92422
+Frame: 1408
+Average contacts each sphere has: 1.92466
+Frame: 1409
+Average contacts each sphere has: 1.9242
+Frame: 1410
+Average contacts each sphere has: 1.92402
+Frame: 1411
+Average contacts each sphere has: 1.92438
+Frame: 1412
+Average contacts each sphere has: 1.92499
+Frame: 1413
+Average contacts each sphere has: 1.92411
+Frame: 1414
+Average contacts each sphere has: 1.92389
+Frame: 1415
+Average contacts each sphere has: 1.92449
+Frame: 1416
+Average contacts each sphere has: 1.92488
+Frame: 1417
+Average contacts each sphere has: 1.92421
+Frame: 1418
+Average contacts each sphere has: 1.92482
+Frame: 1419
+Average contacts each sphere has: 1.92467
+Frame: 1420
+Average contacts each sphere has: 1.92427
+Frame: 1421
+Average contacts each sphere has: 1.92452
+Frame: 1422
+Average contacts each sphere has: 1.9246
+Frame: 1423
+Average contacts each sphere has: 1.92458
+Frame: 1424
+Average contacts each sphere has: 1.92433
+Frame: 1425
+Average contacts each sphere has: 1.92532
+Frame: 1426
+Average contacts each sphere has: 1.92553
+Frame: 1427
+Average contacts each sphere has: 1.92432
+Frame: 1428
+Average contacts each sphere has: 1.9254
+Frame: 1429
+Average contacts each sphere has: 1.92488
+Frame: 1430
+Average contacts each sphere has: 1.92512
+Frame: 1431
+Average contacts each sphere has: 1.92468
+Frame: 1432
+Average contacts each sphere has: 1.92426
+Frame: 1433
+Average contacts each sphere has: 1.92502
+Frame: 1434
+Average contacts each sphere has: 1.92507
+Frame: 1435
+Average contacts each sphere has: 1.92518
+Frame: 1436
+Average contacts each sphere has: 1.92528
+Frame: 1437
+Average contacts each sphere has: 1.92467
+Frame: 1438
+Average contacts each sphere has: 1.92492
+Frame: 1439
+Average contacts each sphere has: 1.92493
+Frame: 1440
+Average contacts each sphere has: 1.9245
+Frame: 1441
+Average contacts each sphere has: 1.92468
+Frame: 1442
+Average contacts each sphere has: 1.92433
+Frame: 1443
+Average contacts each sphere has: 1.92468
+Frame: 1444
+Average contacts each sphere has: 1.92474
+Frame: 1445
+Average contacts each sphere has: 1.92523
+Frame: 1446
+Average contacts each sphere has: 1.92463
+Frame: 1447
+Average contacts each sphere has: 1.92504
+Frame: 1448
+Average contacts each sphere has: 1.92522
+Frame: 1449
+Average contacts each sphere has: 1.9247
+Frame: 1450
+Average contacts each sphere has: 1.9249
+Frame: 1451
+Average contacts each sphere has: 1.92437
+Frame: 1452
+Average contacts each sphere has: 1.92468
+Frame: 1453
+Average contacts each sphere has: 1.92451
+Frame: 1454
+Average contacts each sphere has: 1.92484
+Frame: 1455
+Average contacts each sphere has: 1.92411
+Frame: 1456
+Average contacts each sphere has: 1.92454
+Frame: 1457
+Average contacts each sphere has: 1.92436
+Frame: 1458
+Average contacts each sphere has: 1.92383
+Frame: 1459
+Average contacts each sphere has: 1.92436
+Frame: 1460
+Average contacts each sphere has: 1.92407
+Frame: 1461
+Average contacts each sphere has: 1.92448
+Frame: 1462
+Average contacts each sphere has: 1.92495
+Frame: 1463
+Average contacts each sphere has: 1.92425
+Frame: 1464
+Average contacts each sphere has: 1.92428
+Frame: 1465
+Average contacts each sphere has: 1.92413
+Frame: 1466
+Average contacts each sphere has: 1.92391
+Frame: 1467
+Average contacts each sphere has: 1.92431
+Frame: 1468
+Average contacts each sphere has: 1.92497
+Frame: 1469
+Average contacts each sphere has: 1.92505
+Frame: 1470
+Average contacts each sphere has: 1.92498
+Frame: 1471
+Average contacts each sphere has: 1.92452
+Frame: 1472
+Average contacts each sphere has: 1.92412
+Frame: 1473
+Average contacts each sphere has: 1.92439
+Frame: 1474
+Average contacts each sphere has: 1.92421
+Frame: 1475
+Average contacts each sphere has: 1.92353
+Frame: 1476
+Average contacts each sphere has: 1.92499
+Frame: 1477
+Average contacts each sphere has: 1.92498
+Frame: 1478
+Average contacts each sphere has: 1.92428
+Frame: 1479
+Average contacts each sphere has: 1.92416
+Frame: 1480
+Average contacts each sphere has: 1.92447
+Frame: 1481
+Average contacts each sphere has: 1.92503
+Frame: 1482
+Average contacts each sphere has: 1.9251
+Frame: 1483
+Average contacts each sphere has: 1.92499
+Frame: 1484
+Average contacts each sphere has: 1.92405
+Frame: 1485
+Average contacts each sphere has: 1.92536
+Frame: 1486
+Average contacts each sphere has: 1.92433
+Frame: 1487
+Average contacts each sphere has: 1.92436
+Frame: 1488
+Average contacts each sphere has: 1.92399
+Frame: 1489
+Average contacts each sphere has: 1.9252
+Frame: 1490
+Average contacts each sphere has: 1.92443
+Frame: 1491
+Average contacts each sphere has: 1.9244
+Frame: 1492
+Average contacts each sphere has: 1.92445
+Frame: 1493
+Average contacts each sphere has: 1.92441
+Frame: 1494
+Average contacts each sphere has: 1.92415
+Frame: 1495
+Average contacts each sphere has: 1.92415
+Frame: 1496
+Average contacts each sphere has: 1.92429
+Frame: 1497
+Average contacts each sphere has: 1.92435
+Frame: 1498
+Average contacts each sphere has: 1.92423
+Frame: 1499
+Average contacts each sphere has: 1.92376
+Frame: 1500
+Average contacts each sphere has: 1.92385
+Frame: 1501
+Average contacts each sphere has: 1.92428
+Frame: 1502
+Average contacts each sphere has: 1.92409
+Frame: 1503
+Average contacts each sphere has: 1.9245
+Frame: 1504
+Average contacts each sphere has: 1.92433
+Frame: 1505
+Average contacts each sphere has: 1.92412
+Frame: 1506
+Average contacts each sphere has: 1.92428
+Frame: 1507
+Average contacts each sphere has: 1.9243
+Frame: 1508
+Average contacts each sphere has: 1.92415
+Frame: 1509
+Average contacts each sphere has: 1.92501
+Frame: 1510
+Average contacts each sphere has: 1.92431
+Frame: 1511
+Average contacts each sphere has: 1.92471
+Frame: 1512
+Average contacts each sphere has: 1.92405
+Frame: 1513
+Average contacts each sphere has: 1.92417
+Frame: 1514
+Average contacts each sphere has: 1.9243
+Frame: 1515
+Average contacts each sphere has: 1.92479
+Frame: 1516
+Average contacts each sphere has: 1.92455
+Frame: 1517
+Average contacts each sphere has: 1.92446
+Frame: 1518
+Average contacts each sphere has: 1.9242
+Frame: 1519
+Average contacts each sphere has: 1.92431
+Frame: 1520
+Average contacts each sphere has: 1.92478
+Frame: 1521
+Average contacts each sphere has: 1.92486
+Frame: 1522
+Average contacts each sphere has: 1.9251
+Frame: 1523
+Average contacts each sphere has: 1.92453
+Frame: 1524
+Average contacts each sphere has: 1.9247
+Frame: 1525
+Average contacts each sphere has: 1.92423
+Frame: 1526
+Average contacts each sphere has: 1.92412
+Frame: 1527
+Average contacts each sphere has: 1.92395
+Frame: 1528
+Average contacts each sphere has: 1.92419
+Frame: 1529
+Average contacts each sphere has: 1.92437
+Frame: 1530
+Average contacts each sphere has: 1.92429
+Frame: 1531
+Average contacts each sphere has: 1.92447
+Frame: 1532
+Average contacts each sphere has: 1.92462
+Frame: 1533
+Average contacts each sphere has: 1.92471
+Frame: 1534
+Average contacts each sphere has: 1.92442
+Frame: 1535
+Average contacts each sphere has: 1.9241
+Frame: 1536
+Average contacts each sphere has: 1.92396
+Frame: 1537
+Average contacts each sphere has: 1.92453
+Frame: 1538
+Average contacts each sphere has: 1.92443
+Frame: 1539
+Average contacts each sphere has: 1.92407
+Frame: 1540
+Average contacts each sphere has: 1.92369
+Frame: 1541
+Average contacts each sphere has: 1.92338
+Frame: 1542
+Average contacts each sphere has: 1.9233
+Frame: 1543
+Average contacts each sphere has: 1.92262
+Frame: 1544
+Average contacts each sphere has: 1.92352
+Frame: 1545
+Average contacts each sphere has: 1.92302
+Frame: 1546
+Average contacts each sphere has: 1.92431
+Frame: 1547
+Average contacts each sphere has: 1.92446
+Frame: 1548
+Average contacts each sphere has: 1.9243
+Frame: 1549
+Average contacts each sphere has: 1.92406
+Frame: 1550
+Average contacts each sphere has: 1.92438
+Frame: 1551
+Average contacts each sphere has: 1.92484
+Frame: 1552
+Average contacts each sphere has: 1.9237
+Frame: 1553
+Average contacts each sphere has: 1.92448
+Frame: 1554
+Average contacts each sphere has: 1.92363
+Frame: 1555
+Average contacts each sphere has: 1.9238
+Frame: 1556
+Average contacts each sphere has: 1.92388
+Frame: 1557
+Average contacts each sphere has: 1.92312
+Frame: 1558
+Average contacts each sphere has: 1.92356
+Frame: 1559
+Average contacts each sphere has: 1.92406
+Frame: 1560
+Average contacts each sphere has: 1.92427
+Frame: 1561
+Average contacts each sphere has: 1.9236
+Frame: 1562
+Average contacts each sphere has: 1.92385
+Frame: 1563
+Average contacts each sphere has: 1.92407
+Frame: 1564
+Average contacts each sphere has: 1.92435
+Frame: 1565
+Average contacts each sphere has: 1.92493
+Frame: 1566
+Average contacts each sphere has: 1.92406
+Frame: 1567
+Average contacts each sphere has: 1.92422
+Frame: 1568
+Average contacts each sphere has: 1.92387
+Frame: 1569
+Average contacts each sphere has: 1.92392
+Frame: 1570
+Average contacts each sphere has: 1.92383
+Frame: 1571
+Average contacts each sphere has: 1.92442
+Frame: 1572
+Average contacts each sphere has: 1.92417
+Frame: 1573
+Average contacts each sphere has: 1.9238
+Frame: 1574
+Average contacts each sphere has: 1.92337
+Frame: 1575
+Average contacts each sphere has: 1.9235
+Frame: 1576
+Average contacts each sphere has: 1.92361
+Frame: 1577
+Average contacts each sphere has: 1.92415
+Frame: 1578
+Average contacts each sphere has: 1.924
+Frame: 1579
+Average contacts each sphere has: 1.92337
+Frame: 1580
+Average contacts each sphere has: 1.9234
+Frame: 1581
+Average contacts each sphere has: 1.92413
+Frame: 1582
+Average contacts each sphere has: 1.92334
+Frame: 1583
+Average contacts each sphere has: 1.924
+Frame: 1584
+Average contacts each sphere has: 1.92455
+Frame: 1585
+Average contacts each sphere has: 1.92389
+Frame: 1586
+Average contacts each sphere has: 1.9241
+Frame: 1587
+Average contacts each sphere has: 1.92334
+Frame: 1588
+Average contacts each sphere has: 1.92335
+Frame: 1589
+Average contacts each sphere has: 1.92393
+Frame: 1590
+Average contacts each sphere has: 1.92426
+Frame: 1591
+Average contacts each sphere has: 1.92439
+Frame: 1592
+Average contacts each sphere has: 1.92421
+Frame: 1593
+Average contacts each sphere has: 1.92389
+Frame: 1594
+Average contacts each sphere has: 1.92378
+Frame: 1595
+Average contacts each sphere has: 1.92349
+Frame: 1596
+Average contacts each sphere has: 1.92375
+Frame: 1597
+Average contacts each sphere has: 1.9236
+Frame: 1598
+Average contacts each sphere has: 1.92362
+Frame: 1599
+Average contacts each sphere has: 1.92311
+Frame: 1600
+Average contacts each sphere has: 1.92389
+Frame: 1601
+Average contacts each sphere has: 1.92374
+Frame: 1602
+Average contacts each sphere has: 1.92406
+Frame: 1603
+Average contacts each sphere has: 1.92408
+Frame: 1604
+Average contacts each sphere has: 1.9235
+Frame: 1605
+Average contacts each sphere has: 1.924
+Frame: 1606
+Average contacts each sphere has: 1.92333
+Frame: 1607
+Average contacts each sphere has: 1.9241
+Frame: 1608
+Average contacts each sphere has: 1.92382
+Frame: 1609
+Average contacts each sphere has: 1.92356
+Frame: 1610
+Average contacts each sphere has: 1.92384
+Frame: 1611
+Average contacts each sphere has: 1.92424
+Frame: 1612
+Average contacts each sphere has: 1.92478
+Frame: 1613
+Average contacts each sphere has: 1.9244
+Frame: 1614
+Average contacts each sphere has: 1.92366
+Frame: 1615
+Average contacts each sphere has: 1.9233
+Frame: 1616
+Average contacts each sphere has: 1.9232
+Frame: 1617
+Average contacts each sphere has: 1.9235
+Frame: 1618
+Average contacts each sphere has: 1.92402
+Frame: 1619
+Average contacts each sphere has: 1.92397
+Frame: 1620
+Average contacts each sphere has: 1.92382
+Frame: 1621
+Average contacts each sphere has: 1.92367
+Frame: 1622
+Average contacts each sphere has: 1.92331
+Frame: 1623
+Average contacts each sphere has: 1.92401
+Frame: 1624
+Average contacts each sphere has: 1.92343
+Frame: 1625
+Average contacts each sphere has: 1.92371
+Frame: 1626
+Average contacts each sphere has: 1.92433
+Frame: 1627
+Average contacts each sphere has: 1.92412
+Frame: 1628
+Average contacts each sphere has: 1.92456
+Frame: 1629
+Average contacts each sphere has: 1.92452
+Frame: 1630
+Average contacts each sphere has: 1.92452
+Frame: 1631
+Average contacts each sphere has: 1.92428
+Frame: 1632
+Average contacts each sphere has: 1.92458
+Frame: 1633
+Average contacts each sphere has: 1.92526
+Frame: 1634
+Average contacts each sphere has: 1.9236
+Frame: 1635
+Average contacts each sphere has: 1.92421
+Frame: 1636
+Average contacts each sphere has: 1.92395
+Frame: 1637
+Average contacts each sphere has: 1.92506
+Frame: 1638
+Average contacts each sphere has: 1.92363
+Frame: 1639
+Average contacts each sphere has: 1.92457
+Frame: 1640
+Average contacts each sphere has: 1.92386
+Frame: 1641
+Average contacts each sphere has: 1.92383
+Frame: 1642
+Average contacts each sphere has: 1.92337
+Frame: 1643
+Average contacts each sphere has: 1.92413
+Frame: 1644
+Average contacts each sphere has: 1.92399
+Frame: 1645
+Average contacts each sphere has: 1.92378
+Frame: 1646
+Average contacts each sphere has: 1.92458
+Frame: 1647
+Average contacts each sphere has: 1.92346
+Frame: 1648
+Average contacts each sphere has: 1.92273
+Frame: 1649
+Average contacts each sphere has: 1.9236
+Frame: 1650
+Average contacts each sphere has: 1.92346
+Frame: 1651
+Average contacts each sphere has: 1.9231
+Frame: 1652
+Average contacts each sphere has: 1.92256
+Frame: 1653
+Average contacts each sphere has: 1.92232
+Frame: 1654
+Average contacts each sphere has: 1.92296
+Frame: 1655
+Average contacts each sphere has: 1.92344
+Frame: 1656
+Average contacts each sphere has: 1.923
+Frame: 1657
+Average contacts each sphere has: 1.92297
+Frame: 1658
+Average contacts each sphere has: 1.9239
+Frame: 1659
+Average contacts each sphere has: 1.92322
+Frame: 1660
+Average contacts each sphere has: 1.92343
+Frame: 1661
+Average contacts each sphere has: 1.9241
+Frame: 1662
+Average contacts each sphere has: 1.9237
+Frame: 1663
+Average contacts each sphere has: 1.92345
+Frame: 1664
+Average contacts each sphere has: 1.92392
+Frame: 1665
+Average contacts each sphere has: 1.92408
+Frame: 1666
+Average contacts each sphere has: 1.92325
+Frame: 1667
+Average contacts each sphere has: 1.924
+Frame: 1668
+Average contacts each sphere has: 1.92403
+Frame: 1669
+Average contacts each sphere has: 1.92423
+Frame: 1670
+Average contacts each sphere has: 1.92342
+Frame: 1671
+Average contacts each sphere has: 1.92358
+Frame: 1672
+Average contacts each sphere has: 1.92359
+Frame: 1673
+Average contacts each sphere has: 1.9239
+Frame: 1674
+Average contacts each sphere has: 1.92454
+Frame: 1675
+Average contacts each sphere has: 1.92396
+Frame: 1676
+Average contacts each sphere has: 1.92391
+Frame: 1677
+Average contacts each sphere has: 1.9241
+Frame: 1678
+Average contacts each sphere has: 1.92383
+Frame: 1679
+Average contacts each sphere has: 1.92428
+Frame: 1680
+Average contacts each sphere has: 1.92474
+Frame: 1681
+Average contacts each sphere has: 1.92394
+Frame: 1682
+Average contacts each sphere has: 1.92333
+Frame: 1683
+Average contacts each sphere has: 1.92378
+Frame: 1684
+Average contacts each sphere has: 1.9243
+Frame: 1685
+Average contacts each sphere has: 1.92413
+Frame: 1686
+Average contacts each sphere has: 1.92364
+Frame: 1687
+Average contacts each sphere has: 1.92381
+Frame: 1688
+Average contacts each sphere has: 1.92363
+Frame: 1689
+Average contacts each sphere has: 1.92449
+Frame: 1690
+Average contacts each sphere has: 1.92378
+Frame: 1691
+Average contacts each sphere has: 1.92371
+Frame: 1692
+Average contacts each sphere has: 1.92334
+Frame: 1693
+Average contacts each sphere has: 1.92411
+Frame: 1694
+Average contacts each sphere has: 1.92323
+Frame: 1695
+Average contacts each sphere has: 1.92417
+Frame: 1696
+Average contacts each sphere has: 1.92348
+Frame: 1697
+Average contacts each sphere has: 1.92441
+Frame: 1698
+Average contacts each sphere has: 1.92396
+Frame: 1699
+Average contacts each sphere has: 1.92397
+Frame: 1700
+Average contacts each sphere has: 1.92309
+Frame: 1701
+Average contacts each sphere has: 1.92334
+Frame: 1702
+Average contacts each sphere has: 1.92357
+Frame: 1703
+Average contacts each sphere has: 1.92344
+Frame: 1704
+Average contacts each sphere has: 1.92325
+Frame: 1705
+Average contacts each sphere has: 1.92372
+Frame: 1706
+Average contacts each sphere has: 1.92404
+Frame: 1707
+Average contacts each sphere has: 1.92318
+Frame: 1708
+Average contacts each sphere has: 1.92374
+Frame: 1709
+Average contacts each sphere has: 1.92404
+Frame: 1710
+Average contacts each sphere has: 1.92323
+Frame: 1711
+Average contacts each sphere has: 1.92268
+Frame: 1712
+Average contacts each sphere has: 1.92314
+Frame: 1713
+Average contacts each sphere has: 1.92296
+Frame: 1714
+Average contacts each sphere has: 1.92327
+Frame: 1715
+Average contacts each sphere has: 1.92298
+Frame: 1716
+Average contacts each sphere has: 1.92333
+Frame: 1717
+Average contacts each sphere has: 1.9226
+Frame: 1718
+Average contacts each sphere has: 1.92257
+Frame: 1719
+Average contacts each sphere has: 1.923
+Frame: 1720
+Average contacts each sphere has: 1.9233
+Frame: 1721
+Average contacts each sphere has: 1.92303
+Frame: 1722
+Average contacts each sphere has: 1.92295
+Frame: 1723
+Average contacts each sphere has: 1.92369
+Frame: 1724
+Average contacts each sphere has: 1.92345
+Frame: 1725
+Average contacts each sphere has: 1.92342
+Frame: 1726
+Average contacts each sphere has: 1.92313
+Frame: 1727
+Average contacts each sphere has: 1.92317
+Frame: 1728
+Average contacts each sphere has: 1.92274
+Frame: 1729
+Average contacts each sphere has: 1.92342
+Frame: 1730
+Average contacts each sphere has: 1.9234
+Frame: 1731
+Average contacts each sphere has: 1.92302
+Frame: 1732
+Average contacts each sphere has: 1.92254
+Frame: 1733
+Average contacts each sphere has: 1.92304
+Frame: 1734
+Average contacts each sphere has: 1.92358
+Frame: 1735
+Average contacts each sphere has: 1.92273
+Frame: 1736
+Average contacts each sphere has: 1.92287
+Frame: 1737
+Average contacts each sphere has: 1.92288
+Frame: 1738
+Average contacts each sphere has: 1.92293
+Frame: 1739
+Average contacts each sphere has: 1.92347
+Frame: 1740
+Average contacts each sphere has: 1.92269
+Frame: 1741
+Average contacts each sphere has: 1.92294
+Frame: 1742
+Average contacts each sphere has: 1.92281
+Frame: 1743
+Average contacts each sphere has: 1.92224
+Frame: 1744
+Average contacts each sphere has: 1.92259
+Frame: 1745
+Average contacts each sphere has: 1.923
+Frame: 1746
+Average contacts each sphere has: 1.92238
+Frame: 1747
+Average contacts each sphere has: 1.92289
+Frame: 1748
+Average contacts each sphere has: 1.92287
+Frame: 1749
+Average contacts each sphere has: 1.92193
+Frame: 1750
+Average contacts each sphere has: 1.92235
+Frame: 1751
+Average contacts each sphere has: 1.92263
+Frame: 1752
+Average contacts each sphere has: 1.92315
+Frame: 1753
+Average contacts each sphere has: 1.92296
+Frame: 1754
+Average contacts each sphere has: 1.92332
+Frame: 1755
+Average contacts each sphere has: 1.92307
+Frame: 1756
+Average contacts each sphere has: 1.9225
+Frame: 1757
+Average contacts each sphere has: 1.92307
+Frame: 1758
+Average contacts each sphere has: 1.92272
+Frame: 1759
+Average contacts each sphere has: 1.92294
+Frame: 1760
+Average contacts each sphere has: 1.92302
+Frame: 1761
+Average contacts each sphere has: 1.92229
+Frame: 1762
+Average contacts each sphere has: 1.92253
+Frame: 1763
+Average contacts each sphere has: 1.92249
+Frame: 1764
+Average contacts each sphere has: 1.92269
+Frame: 1765
+Average contacts each sphere has: 1.92253
+Frame: 1766
+Average contacts each sphere has: 1.92251
+Frame: 1767
+Average contacts each sphere has: 1.9221
+Frame: 1768
+Average contacts each sphere has: 1.92303
+Frame: 1769
+Average contacts each sphere has: 1.92322
+Frame: 1770
+Average contacts each sphere has: 1.92236
+Frame: 1771
+Average contacts each sphere has: 1.92285
+Frame: 1772
+Average contacts each sphere has: 1.92242
+Frame: 1773
+Average contacts each sphere has: 1.92256
+Frame: 1774
+Average contacts each sphere has: 1.92318
+Frame: 1775
+Average contacts each sphere has: 1.92229
+Frame: 1776
+Average contacts each sphere has: 1.92289
+Frame: 1777
+Average contacts each sphere has: 1.92228
+Frame: 1778
+Average contacts each sphere has: 1.92215
+Frame: 1779
+Average contacts each sphere has: 1.92324
+Frame: 1780
+Average contacts each sphere has: 1.92314
+Frame: 1781
+Average contacts each sphere has: 1.92264
+Frame: 1782
+Average contacts each sphere has: 1.92357
+Frame: 1783
+Average contacts each sphere has: 1.92306
+Frame: 1784
+Average contacts each sphere has: 1.92243
+Frame: 1785
+Average contacts each sphere has: 1.92272
+Frame: 1786
+Average contacts each sphere has: 1.92333
+Frame: 1787
+Average contacts each sphere has: 1.92363
+Frame: 1788
+Average contacts each sphere has: 1.92363
+Frame: 1789
+Average contacts each sphere has: 1.9225
+Frame: 1790
+Average contacts each sphere has: 1.9231
+Frame: 1791
+Average contacts each sphere has: 1.9226
+Frame: 1792
+Average contacts each sphere has: 1.92258
+Frame: 1793
+Average contacts each sphere has: 1.9225
+Frame: 1794
+Average contacts each sphere has: 1.92223
+Frame: 1795
+Average contacts each sphere has: 1.92259
+Frame: 1796
+Average contacts each sphere has: 1.92266
+Frame: 1797
+Average contacts each sphere has: 1.92264
+Frame: 1798
+Average contacts each sphere has: 1.92255
+Frame: 1799
+Average contacts each sphere has: 1.92284
+Frame: 1800
+Average contacts each sphere has: 1.92295
+Frame: 1801
+Average contacts each sphere has: 1.92218
+Frame: 1802
+Average contacts each sphere has: 1.9228
+Frame: 1803
+Average contacts each sphere has: 1.92198
+Frame: 1804
+Average contacts each sphere has: 1.92274
+Frame: 1805
+Average contacts each sphere has: 1.92186
+Frame: 1806
+Average contacts each sphere has: 1.92208
+Frame: 1807
+Average contacts each sphere has: 1.92248
+Frame: 1808
+Average contacts each sphere has: 1.92234
+Frame: 1809
+Average contacts each sphere has: 1.92243
+Frame: 1810
+Average contacts each sphere has: 1.92321
+Frame: 1811
+Average contacts each sphere has: 1.92278
+Frame: 1812
+Average contacts each sphere has: 1.92341
+Frame: 1813
+Average contacts each sphere has: 1.9231
+Frame: 1814
+Average contacts each sphere has: 1.92361
+Frame: 1815
+Average contacts each sphere has: 1.92337
+Frame: 1816
+Average contacts each sphere has: 1.92255
+Frame: 1817
+Average contacts each sphere has: 1.92273
+Frame: 1818
+Average contacts each sphere has: 1.9226
+Frame: 1819
+Average contacts each sphere has: 1.92247
+Frame: 1820
+Average contacts each sphere has: 1.92313
+Frame: 1821
+Average contacts each sphere has: 1.92332
+Frame: 1822
+Average contacts each sphere has: 1.92316
+Frame: 1823
+Average contacts each sphere has: 1.92267
+Frame: 1824
+Average contacts each sphere has: 1.92315
+Frame: 1825
+Average contacts each sphere has: 1.92272
+Frame: 1826
+Average contacts each sphere has: 1.92294
+Frame: 1827
+Average contacts each sphere has: 1.92267
+Frame: 1828
+Average contacts each sphere has: 1.9233
+Frame: 1829
+Average contacts each sphere has: 1.92309
+Frame: 1830
+Average contacts each sphere has: 1.92337
+Frame: 1831
+Average contacts each sphere has: 1.92276
+Frame: 1832
+Average contacts each sphere has: 1.92283
+Frame: 1833
+Average contacts each sphere has: 1.92257
+Frame: 1834
+Average contacts each sphere has: 1.92285
+Frame: 1835
+Average contacts each sphere has: 1.92234
+Frame: 1836
+Average contacts each sphere has: 1.92303
+Frame: 1837
+Average contacts each sphere has: 1.92254
+Frame: 1838
+Average contacts each sphere has: 1.92183
+Frame: 1839
+Average contacts each sphere has: 1.92225
+Frame: 1840
+Average contacts each sphere has: 1.92235
+Frame: 1841
+Average contacts each sphere has: 1.92252
+Frame: 1842
+Average contacts each sphere has: 1.92256
+Frame: 1843
+Average contacts each sphere has: 1.92299
+Frame: 1844
+Average contacts each sphere has: 1.92341
+Frame: 1845
+Average contacts each sphere has: 1.92262
+Frame: 1846
+Average contacts each sphere has: 1.92286
+Frame: 1847
+Average contacts each sphere has: 1.92305
+Frame: 1848
+Average contacts each sphere has: 1.92324
+Frame: 1849
+Average contacts each sphere has: 1.92215
+Frame: 1850
+Average contacts each sphere has: 1.92261
+Frame: 1851
+Average contacts each sphere has: 1.92258
+Frame: 1852
+Average contacts each sphere has: 1.92292
+Frame: 1853
+Average contacts each sphere has: 1.92287
+Frame: 1854
+Average contacts each sphere has: 1.92252
+Frame: 1855
+Average contacts each sphere has: 1.92268
+Frame: 1856
+Average contacts each sphere has: 1.92303
+Frame: 1857
+Average contacts each sphere has: 1.92262
+Frame: 1858
+Average contacts each sphere has: 1.92335
+Frame: 1859
+Average contacts each sphere has: 1.92267
+Frame: 1860
+Average contacts each sphere has: 1.92352
+Frame: 1861
+Average contacts each sphere has: 1.92296
+Frame: 1862
+Average contacts each sphere has: 1.92256
+Frame: 1863
+Average contacts each sphere has: 1.92204
+Frame: 1864
+Average contacts each sphere has: 1.92309
+Frame: 1865
+Average contacts each sphere has: 1.9228
+Frame: 1866
+Average contacts each sphere has: 1.92268
+Frame: 1867
+Average contacts each sphere has: 1.92251
+Frame: 1868
+Average contacts each sphere has: 1.92262
+Frame: 1869
+Average contacts each sphere has: 1.92266
+Frame: 1870
+Average contacts each sphere has: 1.92207
+Frame: 1871
+Average contacts each sphere has: 1.92264
+Frame: 1872
+Average contacts each sphere has: 1.92252
+Frame: 1873
+Average contacts each sphere has: 1.92304
+Frame: 1874
+Average contacts each sphere has: 1.92263
+Frame: 1875
+Average contacts each sphere has: 1.92265
+Frame: 1876
+Average contacts each sphere has: 1.92251
+Frame: 1877
+Average contacts each sphere has: 1.92222
+Frame: 1878
+Average contacts each sphere has: 1.92241
+Frame: 1879
+Average contacts each sphere has: 1.92256
+Frame: 1880
+Average contacts each sphere has: 1.92205
+Frame: 1881
+Average contacts each sphere has: 1.92221
+Frame: 1882
+Average contacts each sphere has: 1.92176
+Frame: 1883
+Average contacts each sphere has: 1.92212
+Frame: 1884
+Average contacts each sphere has: 1.92223
+Frame: 1885
+Average contacts each sphere has: 1.92275
+Frame: 1886
+Average contacts each sphere has: 1.9224
+Frame: 1887
+Average contacts each sphere has: 1.92285
+Frame: 1888
+Average contacts each sphere has: 1.92274
+Frame: 1889
+Average contacts each sphere has: 1.92299
+Frame: 1890
+Average contacts each sphere has: 1.92261
+Frame: 1891
+Average contacts each sphere has: 1.92245
+Frame: 1892
+Average contacts each sphere has: 1.9225
+Frame: 1893
+Average contacts each sphere has: 1.92232
+Frame: 1894
+Average contacts each sphere has: 1.92235
+Frame: 1895
+Average contacts each sphere has: 1.92238
+Frame: 1896
+Average contacts each sphere has: 1.92254
+Frame: 1897
+Average contacts each sphere has: 1.92215
+Frame: 1898
+Average contacts each sphere has: 1.92202
+Frame: 1899
+Average contacts each sphere has: 1.92282
+Frame: 1900
+Average contacts each sphere has: 1.9228
+Frame: 1901
+Average contacts each sphere has: 1.92248
+Frame: 1902
+Average contacts each sphere has: 1.92253
+Frame: 1903
+Average contacts each sphere has: 1.92256
+Frame: 1904
+Average contacts each sphere has: 1.92317
+Frame: 1905
+Average contacts each sphere has: 1.92272
+Frame: 1906
+Average contacts each sphere has: 1.92201
+Frame: 1907
+Average contacts each sphere has: 1.92227
+Frame: 1908
+Average contacts each sphere has: 1.92189
+Frame: 1909
+Average contacts each sphere has: 1.92186
+Frame: 1910
+Average contacts each sphere has: 1.92238
+Frame: 1911
+Average contacts each sphere has: 1.92231
+Frame: 1912
+Average contacts each sphere has: 1.9223
+Frame: 1913
+Average contacts each sphere has: 1.92164
+Frame: 1914
+Average contacts each sphere has: 1.92232
+Frame: 1915
+Average contacts each sphere has: 1.92174
+Frame: 1916
+Average contacts each sphere has: 1.92225
+Frame: 1917
+Average contacts each sphere has: 1.92179
+Frame: 1918
+Average contacts each sphere has: 1.92205
+Frame: 1919
+Average contacts each sphere has: 1.92164
+Frame: 1920
+Average contacts each sphere has: 1.92188
+Frame: 1921
+Average contacts each sphere has: 1.92147
+Frame: 1922
+Average contacts each sphere has: 1.92222
+Frame: 1923
+Average contacts each sphere has: 1.92247
+Frame: 1924
+Average contacts each sphere has: 1.92209
+Frame: 1925
+Average contacts each sphere has: 1.92178
+Frame: 1926
+Average contacts each sphere has: 1.92239
+Frame: 1927
+Average contacts each sphere has: 1.92147
+Frame: 1928
+Average contacts each sphere has: 1.92198
+Frame: 1929
+Average contacts each sphere has: 1.92199
+Frame: 1930
+Average contacts each sphere has: 1.92215
+Frame: 1931
+Average contacts each sphere has: 1.92225
+Frame: 1932
+Average contacts each sphere has: 1.92271
+Frame: 1933
+Average contacts each sphere has: 1.92212
+Frame: 1934
+Average contacts each sphere has: 1.92166
+Frame: 1935
+Average contacts each sphere has: 1.92172
+Frame: 1936
+Average contacts each sphere has: 1.92243
+Frame: 1937
+Average contacts each sphere has: 1.92167
+Frame: 1938
+Average contacts each sphere has: 1.92244
+Frame: 1939
+Average contacts each sphere has: 1.92169
+Frame: 1940
+Average contacts each sphere has: 1.92201
+Frame: 1941
+Average contacts each sphere has: 1.92182
+Frame: 1942
+Average contacts each sphere has: 1.92148
+Frame: 1943
+Average contacts each sphere has: 1.92208
+Frame: 1944
+Average contacts each sphere has: 1.92276
+Frame: 1945
+Average contacts each sphere has: 1.92226
+Frame: 1946
+Average contacts each sphere has: 1.92267
+Frame: 1947
+Average contacts each sphere has: 1.92157
+Frame: 1948
+Average contacts each sphere has: 1.92213
+Frame: 1949
+Average contacts each sphere has: 1.92173
+Frame: 1950
+Average contacts each sphere has: 1.92225
+Frame: 1951
+Average contacts each sphere has: 1.92239
+Frame: 1952
+Average contacts each sphere has: 1.92223
+Frame: 1953
+Average contacts each sphere has: 1.92264
+Frame: 1954
+Average contacts each sphere has: 1.92315
+Frame: 1955
+Average contacts each sphere has: 1.9217
+Frame: 1956
+Average contacts each sphere has: 1.92219
+Frame: 1957
+Average contacts each sphere has: 1.9215
+Frame: 1958
+Average contacts each sphere has: 1.92213
+Frame: 1959
+Average contacts each sphere has: 1.92233
+Frame: 1960
+Average contacts each sphere has: 1.92254
+Frame: 1961
+Average contacts each sphere has: 1.92244
+Frame: 1962
+Average contacts each sphere has: 1.92255
+Frame: 1963
+Average contacts each sphere has: 1.92226
+Frame: 1964
+Average contacts each sphere has: 1.9222
+Frame: 1965
+Average contacts each sphere has: 1.92227
+Frame: 1966
+Average contacts each sphere has: 1.92254
+Frame: 1967
+Average contacts each sphere has: 1.92175
+Frame: 1968
+Average contacts each sphere has: 1.92196
+Frame: 1969
+Average contacts each sphere has: 1.92201
+Frame: 1970
+Average contacts each sphere has: 1.92274
+Frame: 1971
+Average contacts each sphere has: 1.92227
+Frame: 1972
+Average contacts each sphere has: 1.92221
+Frame: 1973
+Average contacts each sphere has: 1.92145
+Frame: 1974
+Average contacts each sphere has: 1.92168
+Frame: 1975
+Average contacts each sphere has: 1.92194
+Frame: 1976
+Average contacts each sphere has: 1.92225
+Frame: 1977
+Average contacts each sphere has: 1.92259
+Frame: 1978
+Average contacts each sphere has: 1.92237
+Frame: 1979
+Average contacts each sphere has: 1.92208
+Frame: 1980
+Average contacts each sphere has: 1.92242
+Frame: 1981
+Average contacts each sphere has: 1.92214
+Frame: 1982
+Average contacts each sphere has: 1.92213
+Frame: 1983
+Average contacts each sphere has: 1.9215
+Frame: 1984
+Average contacts each sphere has: 1.92194
+Frame: 1985
+Average contacts each sphere has: 1.9222
+Frame: 1986
+Average contacts each sphere has: 1.92288
+Frame: 1987
+Average contacts each sphere has: 1.92165
+Frame: 1988
+Average contacts each sphere has: 1.92164
+Frame: 1989
+Average contacts each sphere has: 1.92173
+Frame: 1990
+Average contacts each sphere has: 1.92209
+Frame: 1991
+Average contacts each sphere has: 1.9219
+Frame: 1992
+Average contacts each sphere has: 1.92199
+Frame: 1993
+Average contacts each sphere has: 1.92149
+Frame: 1994
+Average contacts each sphere has: 1.92213
+Frame: 1995
+Average contacts each sphere has: 1.92177
+Frame: 1996
+Average contacts each sphere has: 1.92191
+Frame: 1997
+Average contacts each sphere has: 1.92119
+Frame: 1998
+Average contacts each sphere has: 1.92152
+Frame: 1999
+Average contacts each sphere has: 1.92185
+Frame: 2000
+Average contacts each sphere has: 1.9215
+Frame: 2001
+Average contacts each sphere has: 1.9222
+Frame: 2002
+Average contacts each sphere has: 1.92213
+Frame: 2003
+Average contacts each sphere has: 1.92196
+Frame: 2004
+Average contacts each sphere has: 1.92155
+Frame: 2005
+Average contacts each sphere has: 1.92125
+Frame: 2006
+Average contacts each sphere has: 1.9217
+Frame: 2007
+Average contacts each sphere has: 1.9213
+Frame: 2008
+Average contacts each sphere has: 1.92186
+Frame: 2009
+Average contacts each sphere has: 1.9213
+Frame: 2010
+Average contacts each sphere has: 1.92162
+Frame: 2011
+Average contacts each sphere has: 1.92138
+Frame: 2012
+Average contacts each sphere has: 1.92195
+Frame: 2013
+Average contacts each sphere has: 1.92127
+Frame: 2014
+Average contacts each sphere has: 1.92138
+Frame: 2015
+Average contacts each sphere has: 1.92085
+Frame: 2016
+Average contacts each sphere has: 1.92056
+Frame: 2017
+Average contacts each sphere has: 1.92114
+Frame: 2018
+Average contacts each sphere has: 1.9221
+Frame: 2019
+Average contacts each sphere has: 1.92177
+Frame: 2020
+Average contacts each sphere has: 1.9216
+Frame: 2021
+Average contacts each sphere has: 1.92104
+Frame: 2022
+Average contacts each sphere has: 1.92073
+Frame: 2023
+Average contacts each sphere has: 1.92126
+Frame: 2024
+Average contacts each sphere has: 1.92156
+Frame: 2025
+Average contacts each sphere has: 1.92138
+Frame: 2026
+Average contacts each sphere has: 1.92127
+Frame: 2027
+Average contacts each sphere has: 1.92081
+Frame: 2028
+Average contacts each sphere has: 1.92145
+Frame: 2029
+Average contacts each sphere has: 1.92034
+Frame: 2030
+Average contacts each sphere has: 1.92139
+Frame: 2031
+Average contacts each sphere has: 1.9207
+Frame: 2032
+Average contacts each sphere has: 1.92153
+Frame: 2033
+Average contacts each sphere has: 1.92063
+Frame: 2034
+Average contacts each sphere has: 1.92177
+Frame: 2035
+Average contacts each sphere has: 1.92107
+Frame: 2036
+Average contacts each sphere has: 1.92131
+Frame: 2037
+Average contacts each sphere has: 1.92098
+Frame: 2038
+Average contacts each sphere has: 1.9215
+Frame: 2039
+Average contacts each sphere has: 1.92068
+Frame: 2040
+Average contacts each sphere has: 1.92119
+Frame: 2041
+Average contacts each sphere has: 1.92005
+Frame: 2042
+Average contacts each sphere has: 1.92105
+Frame: 2043
+Average contacts each sphere has: 1.92062
+Frame: 2044
+Average contacts each sphere has: 1.92075
+Frame: 2045
+Average contacts each sphere has: 1.9204
+Frame: 2046
+Average contacts each sphere has: 1.92131
+Frame: 2047
+Average contacts each sphere has: 1.92047
+Frame: 2048
+Average contacts each sphere has: 1.92139
+Frame: 2049
+Average contacts each sphere has: 1.92125
+Frame: 2050
+Average contacts each sphere has: 1.92222
+Frame: 2051
+Average contacts each sphere has: 1.92101
+Frame: 2052
+Average contacts each sphere has: 1.9216
+Frame: 2053
+Average contacts each sphere has: 1.92082
+Frame: 2054
+Average contacts each sphere has: 1.9217
+Frame: 2055
+Average contacts each sphere has: 1.92136
+Frame: 2056
+Average contacts each sphere has: 1.92128
+Frame: 2057
+Average contacts each sphere has: 1.92111
+Frame: 2058
+Average contacts each sphere has: 1.92197
+Frame: 2059
+Average contacts each sphere has: 1.92069
+Frame: 2060
+Average contacts each sphere has: 1.92078
+Frame: 2061
+Average contacts each sphere has: 1.92069
+Frame: 2062
+Average contacts each sphere has: 1.92092
+Frame: 2063
+Average contacts each sphere has: 1.92079
+Frame: 2064
+Average contacts each sphere has: 1.92214
+Frame: 2065
+Average contacts each sphere has: 1.9214
+Frame: 2066
+Average contacts each sphere has: 1.92189
+Frame: 2067
+Average contacts each sphere has: 1.92069
+Frame: 2068
+Average contacts each sphere has: 1.92083
+Frame: 2069
+Average contacts each sphere has: 1.92054
+Frame: 2070
+Average contacts each sphere has: 1.92134
+Frame: 2071
+Average contacts each sphere has: 1.91993
+Frame: 2072
+Average contacts each sphere has: 1.92156
+Frame: 2073
+Average contacts each sphere has: 1.92071
+Frame: 2074
+Average contacts each sphere has: 1.92088
+Frame: 2075
+Average contacts each sphere has: 1.92075
+Frame: 2076
+Average contacts each sphere has: 1.92135
+Frame: 2077
+Average contacts each sphere has: 1.92068
+Frame: 2078
+Average contacts each sphere has: 1.92078
+Frame: 2079
+Average contacts each sphere has: 1.92057
+Frame: 2080
+Average contacts each sphere has: 1.92093
+Frame: 2081
+Average contacts each sphere has: 1.92031
+Frame: 2082
+Average contacts each sphere has: 1.92147
+Frame: 2083
+Average contacts each sphere has: 1.92152
+Frame: 2084
+Average contacts each sphere has: 1.92116
+Frame: 2085
+Average contacts each sphere has: 1.92066
+Frame: 2086
+Average contacts each sphere has: 1.92116
+Frame: 2087
+Average contacts each sphere has: 1.9206
+Frame: 2088
+Average contacts each sphere has: 1.92131
+Frame: 2089
+Average contacts each sphere has: 1.92111
+Frame: 2090
+Average contacts each sphere has: 1.92163
+Frame: 2091
+Average contacts each sphere has: 1.92003
+Frame: 2092
+Average contacts each sphere has: 1.92084
+Frame: 2093
+Average contacts each sphere has: 1.92076
+Frame: 2094
+Average contacts each sphere has: 1.92138
+Frame: 2095
+Average contacts each sphere has: 1.91997
+Frame: 2096
+Average contacts each sphere has: 1.92113
+Frame: 2097
+Average contacts each sphere has: 1.92007
+Frame: 2098
+Average contacts each sphere has: 1.92124
+Frame: 2099
+Average contacts each sphere has: 1.92094
+Frame: 2100
+Average contacts each sphere has: 1.92137
+Frame: 2101
+Average contacts each sphere has: 1.92064
+Frame: 2102
+Average contacts each sphere has: 1.92149
+Frame: 2103
+Average contacts each sphere has: 1.92049
+Frame: 2104
+Average contacts each sphere has: 1.92124
+Frame: 2105
+Average contacts each sphere has: 1.92029
+Frame: 2106
+Average contacts each sphere has: 1.92088
+Frame: 2107
+Average contacts each sphere has: 1.92024
+Frame: 2108
+Average contacts each sphere has: 1.92094
+Frame: 2109
+Average contacts each sphere has: 1.92049
+Frame: 2110
+Average contacts each sphere has: 1.9216
+Frame: 2111
+Average contacts each sphere has: 1.92026
+Frame: 2112
+Average contacts each sphere has: 1.92189
+Frame: 2113
+Average contacts each sphere has: 1.9207
+Frame: 2114
+Average contacts each sphere has: 1.92151
+Frame: 2115
+Average contacts each sphere has: 1.9202
+Frame: 2116
+Average contacts each sphere has: 1.92095
+Frame: 2117
+Average contacts each sphere has: 1.92071
+Frame: 2118
+Average contacts each sphere has: 1.92136
+Frame: 2119
+Average contacts each sphere has: 1.92043
+Frame: 2120
+Average contacts each sphere has: 1.92147
+Frame: 2121
+Average contacts each sphere has: 1.92073
+Frame: 2122
+Average contacts each sphere has: 1.92121
+Frame: 2123
+Average contacts each sphere has: 1.92089
+Frame: 2124
+Average contacts each sphere has: 1.92164
+Frame: 2125
+Average contacts each sphere has: 1.92087
+Frame: 2126
+Average contacts each sphere has: 1.92146
+Frame: 2127
+Average contacts each sphere has: 1.9208
+Frame: 2128
+Average contacts each sphere has: 1.9212
+Frame: 2129
+Average contacts each sphere has: 1.92053
+Frame: 2130
+Average contacts each sphere has: 1.92143
+Frame: 2131
+Average contacts each sphere has: 1.92109
+Frame: 2132
+Average contacts each sphere has: 1.92201
+Frame: 2133
+Average contacts each sphere has: 1.92082
+Frame: 2134
+Average contacts each sphere has: 1.92102
+Frame: 2135
+Average contacts each sphere has: 1.92102
+Frame: 2136
+Average contacts each sphere has: 1.92089
+Frame: 2137
+Average contacts each sphere has: 1.92149
+Frame: 2138
+Average contacts each sphere has: 1.92144
+Frame: 2139
+Average contacts each sphere has: 1.92097
+Frame: 2140
+Average contacts each sphere has: 1.92177
+Frame: 2141
+Average contacts each sphere has: 1.92132
+Frame: 2142
+Average contacts each sphere has: 1.92143
+Frame: 2143
+Average contacts each sphere has: 1.92088
+Frame: 2144
+Average contacts each sphere has: 1.92175
+Frame: 2145
+Average contacts each sphere has: 1.92136
+Frame: 2146
+Average contacts each sphere has: 1.92173
+Frame: 2147
+Average contacts each sphere has: 1.92112
+Frame: 2148
+Average contacts each sphere has: 1.92163
+Frame: 2149
+Average contacts each sphere has: 1.92122
+Frame: 2150
+Average contacts each sphere has: 1.92129
+Frame: 2151
+Average contacts each sphere has: 1.92147
+Frame: 2152
+Average contacts each sphere has: 1.92175
+Frame: 2153
+Average contacts each sphere has: 1.92123
+Frame: 2154
+Average contacts each sphere has: 1.92193
+Frame: 2155
+Average contacts each sphere has: 1.92141
+Frame: 2156
+Average contacts each sphere has: 1.922
+Frame: 2157
+Average contacts each sphere has: 1.92104
+Frame: 2158
+Average contacts each sphere has: 1.92163
+Frame: 2159
+Average contacts each sphere has: 1.92075
+Frame: 2160
+Average contacts each sphere has: 1.92101
+Frame: 2161
+Average contacts each sphere has: 1.92089
+Frame: 2162
+Average contacts each sphere has: 1.92215
+Frame: 2163
+Average contacts each sphere has: 1.92141
+Frame: 2164
+Average contacts each sphere has: 1.92191
+Frame: 2165
+Average contacts each sphere has: 1.92089
+Frame: 2166
+Average contacts each sphere has: 1.92175
+Frame: 2167
+Average contacts each sphere has: 1.92127
+Frame: 2168
+Average contacts each sphere has: 1.92202
+Frame: 2169
+Average contacts each sphere has: 1.92093
+Frame: 2170
+Average contacts each sphere has: 1.92197
+Frame: 2171
+Average contacts each sphere has: 1.92139
+Frame: 2172
+Average contacts each sphere has: 1.92129
+Frame: 2173
+Average contacts each sphere has: 1.92097
+Frame: 2174
+Average contacts each sphere has: 1.92117
+Frame: 2175
+Average contacts each sphere has: 1.92064
+Frame: 2176
+Average contacts each sphere has: 1.92154
+Frame: 2177
+Average contacts each sphere has: 1.92138
+Frame: 2178
+Average contacts each sphere has: 1.92147
+Frame: 2179
+Average contacts each sphere has: 1.92044
+Frame: 2180
+Average contacts each sphere has: 1.92152
+Frame: 2181
+Average contacts each sphere has: 1.9209
+Frame: 2182
+Average contacts each sphere has: 1.92171
+Frame: 2183
+Average contacts each sphere has: 1.92176
+Frame: 2184
+Average contacts each sphere has: 1.9213
+Frame: 2185
+Average contacts each sphere has: 1.92151
+Frame: 2186
+Average contacts each sphere has: 1.9218
+Frame: 2187
+Average contacts each sphere has: 1.92125
+Frame: 2188
+Average contacts each sphere has: 1.92163
+Frame: 2189
+Average contacts each sphere has: 1.92114
+Frame: 2190
+Average contacts each sphere has: 1.92223
+Frame: 2191
+Average contacts each sphere has: 1.92106
+Frame: 2192
+Average contacts each sphere has: 1.92123
+Frame: 2193
+Average contacts each sphere has: 1.92116
+Frame: 2194
+Average contacts each sphere has: 1.92166
+Frame: 2195
+Average contacts each sphere has: 1.92088
+Frame: 2196
+Average contacts each sphere has: 1.92092
+Frame: 2197
+Average contacts each sphere has: 1.92064
+Frame: 2198
+Average contacts each sphere has: 1.92104
+Frame: 2199
+Average contacts each sphere has: 1.92065
+Frame: 2200
+Average contacts each sphere has: 1.92111
+Frame: 2201
+Average contacts each sphere has: 1.92067
+Frame: 2202
+Average contacts each sphere has: 1.92136
+Frame: 2203
+Average contacts each sphere has: 1.92088
+Frame: 2204
+Average contacts each sphere has: 1.92151
+Frame: 2205
+Average contacts each sphere has: 1.92158
+Frame: 2206
+Average contacts each sphere has: 1.92129
+Frame: 2207
+Average contacts each sphere has: 1.92139
+Frame: 2208
+Average contacts each sphere has: 1.92097
+Frame: 2209
+Average contacts each sphere has: 1.92085
+Frame: 2210
+Average contacts each sphere has: 1.92106
+Frame: 2211
+Average contacts each sphere has: 1.92124
+Frame: 2212
+Average contacts each sphere has: 1.92151
+Frame: 2213
+Average contacts each sphere has: 1.92133
+Frame: 2214
+Average contacts each sphere has: 1.92148
+Frame: 2215
+Average contacts each sphere has: 1.92102
+Frame: 2216
+Average contacts each sphere has: 1.92073
+Frame: 2217
+Average contacts each sphere has: 1.92047
+Frame: 2218
+Average contacts each sphere has: 1.92065
+Frame: 2219
+Average contacts each sphere has: 1.92095
+Frame: 2220
+Average contacts each sphere has: 1.92039
+Frame: 2221
+Average contacts each sphere has: 1.92016
+Frame: 2222
+Average contacts each sphere has: 1.92057
+Frame: 2223
+Average contacts each sphere has: 1.92083
+Frame: 2224
+Average contacts each sphere has: 1.92074
+Frame: 2225
+Average contacts each sphere has: 1.92011
+Frame: 2226
+Average contacts each sphere has: 1.92019
+Frame: 2227
+Average contacts each sphere has: 1.92017
+Frame: 2228
+Average contacts each sphere has: 1.92047
+Frame: 2229
+Average contacts each sphere has: 1.92
+Frame: 2230
+Average contacts each sphere has: 1.92053
+Frame: 2231
+Average contacts each sphere has: 1.91992
+Frame: 2232
+Average contacts each sphere has: 1.92138
+Frame: 2233
+Average contacts each sphere has: 1.92009
+Frame: 2234
+Average contacts each sphere has: 1.92045
+Frame: 2235
+Average contacts each sphere has: 1.92002
+Frame: 2236
+Average contacts each sphere has: 1.92026
+Frame: 2237
+Average contacts each sphere has: 1.92041
+Frame: 2238
+Average contacts each sphere has: 1.92009
+Frame: 2239
+Average contacts each sphere has: 1.92022
+Frame: 2240
+Average contacts each sphere has: 1.92062
+Frame: 2241
+Average contacts each sphere has: 1.9201
+Frame: 2242
+Average contacts each sphere has: 1.9211
+Frame: 2243
+Average contacts each sphere has: 1.92076
+Frame: 2244
+Average contacts each sphere has: 1.92073
+Frame: 2245
+Average contacts each sphere has: 1.92018
+Frame: 2246
+Average contacts each sphere has: 1.92098
+Frame: 2247
+Average contacts each sphere has: 1.9205
+Frame: 2248
+Average contacts each sphere has: 1.92095
+Frame: 2249
+Average contacts each sphere has: 1.92052
+Frame: 2250
+Average contacts each sphere has: 1.92044
+Frame: 2251
+Average contacts each sphere has: 1.92048
+Frame: 2252
+Average contacts each sphere has: 1.92063
+Frame: 2253
+Average contacts each sphere has: 1.91985
+Frame: 2254
+Average contacts each sphere has: 1.92089
+Frame: 2255
+Average contacts each sphere has: 1.92056
+Frame: 2256
+Average contacts each sphere has: 1.92085
+Frame: 2257
+Average contacts each sphere has: 1.9205
+Frame: 2258
+Average contacts each sphere has: 1.92117
+Frame: 2259
+Average contacts each sphere has: 1.92166
+Frame: 2260
+Average contacts each sphere has: 1.92111
+Frame: 2261
+Average contacts each sphere has: 1.92127
+Frame: 2262
+Average contacts each sphere has: 1.92071
+Frame: 2263
+Average contacts each sphere has: 1.92068
+Frame: 2264
+Average contacts each sphere has: 1.92064
+Frame: 2265
+Average contacts each sphere has: 1.91995
+Frame: 2266
+Average contacts each sphere has: 1.92035
+Frame: 2267
+Average contacts each sphere has: 1.92043
+Frame: 2268
+Average contacts each sphere has: 1.92084
+Frame: 2269
+Average contacts each sphere has: 1.92078
+Frame: 2270
+Average contacts each sphere has: 1.9211
+Frame: 2271
+Average contacts each sphere has: 1.92096
+Frame: 2272
+Average contacts each sphere has: 1.92093
+Frame: 2273
+Average contacts each sphere has: 1.9212
+Frame: 2274
+Average contacts each sphere has: 1.92096
+Frame: 2275
+Average contacts each sphere has: 1.92054
+Frame: 2276
+Average contacts each sphere has: 1.92102
+Frame: 2277
+Average contacts each sphere has: 1.92084
+Frame: 2278
+Average contacts each sphere has: 1.92102
+Frame: 2279
+Average contacts each sphere has: 1.92108
+Frame: 2280
+Average contacts each sphere has: 1.92038
+Frame: 2281
+Average contacts each sphere has: 1.92029
+Frame: 2282
+Average contacts each sphere has: 1.92051
+Frame: 2283
+Average contacts each sphere has: 1.92094
+Frame: 2284
+Average contacts each sphere has: 1.92146
+Frame: 2285
+Average contacts each sphere has: 1.92135
+Frame: 2286
+Average contacts each sphere has: 1.9204
+Frame: 2287
+Average contacts each sphere has: 1.92137
+Frame: 2288
+Average contacts each sphere has: 1.921
+Frame: 2289
+Average contacts each sphere has: 1.92087
+Frame: 2290
+Average contacts each sphere has: 1.92074
+Frame: 2291
+Average contacts each sphere has: 1.92057
+Frame: 2292
+Average contacts each sphere has: 1.92067
+Frame: 2293
+Average contacts each sphere has: 1.92102
+Frame: 2294
+Average contacts each sphere has: 1.92103
+Frame: 2295
+Average contacts each sphere has: 1.92078
+Frame: 2296
+Average contacts each sphere has: 1.9208
+Frame: 2297
+Average contacts each sphere has: 1.92079
+Frame: 2298
+Average contacts each sphere has: 1.92074
+Frame: 2299
+Average contacts each sphere has: 1.92023
+Frame: 2300
+Average contacts each sphere has: 1.92036
+Frame: 2301
+Average contacts each sphere has: 1.92063
+Frame: 2302
+Average contacts each sphere has: 1.92063
+Frame: 2303
+Average contacts each sphere has: 1.92099
+Frame: 2304
+Average contacts each sphere has: 1.92046
+Frame: 2305
+Average contacts each sphere has: 1.92043
+Frame: 2306
+Average contacts each sphere has: 1.92064
+Frame: 2307
+Average contacts each sphere has: 1.92041
+Frame: 2308
+Average contacts each sphere has: 1.92076
+Frame: 2309
+Average contacts each sphere has: 1.92035
+Frame: 2310
+Average contacts each sphere has: 1.92149
+Frame: 2311
+Average contacts each sphere has: 1.9208
+Frame: 2312
+Average contacts each sphere has: 1.92099
+Frame: 2313
+Average contacts each sphere has: 1.92081
+Frame: 2314
+Average contacts each sphere has: 1.92102
+Frame: 2315
+Average contacts each sphere has: 1.92117
+Frame: 2316
+Average contacts each sphere has: 1.92057
+Frame: 2317
+Average contacts each sphere has: 1.92102
+Frame: 2318
+Average contacts each sphere has: 1.92088
+Frame: 2319
+Average contacts each sphere has: 1.92008
+Frame: 2320
+Average contacts each sphere has: 1.92092
+Frame: 2321
+Average contacts each sphere has: 1.9206
+Frame: 2322
+Average contacts each sphere has: 1.92181
+Frame: 2323
+Average contacts each sphere has: 1.92104
+Frame: 2324
+Average contacts each sphere has: 1.92096
+Frame: 2325
+Average contacts each sphere has: 1.92064
+Frame: 2326
+Average contacts each sphere has: 1.9209
+Frame: 2327
+Average contacts each sphere has: 1.92094
+Frame: 2328
+Average contacts each sphere has: 1.92104
+Frame: 2329
+Average contacts each sphere has: 1.92043
+Frame: 2330
+Average contacts each sphere has: 1.92119
+Frame: 2331
+Average contacts each sphere has: 1.92079
+Frame: 2332
+Average contacts each sphere has: 1.92126
+Frame: 2333
+Average contacts each sphere has: 1.92089
+Frame: 2334
+Average contacts each sphere has: 1.92103
+Frame: 2335
+Average contacts each sphere has: 1.92072
+Frame: 2336
+Average contacts each sphere has: 1.92041
+Frame: 2337
+Average contacts each sphere has: 1.92032
+Frame: 2338
+Average contacts each sphere has: 1.92092
+Frame: 2339
+Average contacts each sphere has: 1.92021
+Frame: 2340
+Average contacts each sphere has: 1.92039
+Frame: 2341
+Average contacts each sphere has: 1.92006
+Frame: 2342
+Average contacts each sphere has: 1.92016
+Frame: 2343
+Average contacts each sphere has: 1.9196
+Frame: 2344
+Average contacts each sphere has: 1.92107
+Frame: 2345
+Average contacts each sphere has: 1.92061
+Frame: 2346
+Average contacts each sphere has: 1.92069
+Frame: 2347
+Average contacts each sphere has: 1.92044
+Frame: 2348
+Average contacts each sphere has: 1.92088
+Frame: 2349
+Average contacts each sphere has: 1.9204
+Frame: 2350
+Average contacts each sphere has: 1.9205
+Frame: 2351
+Average contacts each sphere has: 1.92084
+Frame: 2352
+Average contacts each sphere has: 1.92066
+Frame: 2353
+Average contacts each sphere has: 1.92067
+Frame: 2354
+Average contacts each sphere has: 1.92059
+Frame: 2355
+Average contacts each sphere has: 1.9203
+Frame: 2356
+Average contacts each sphere has: 1.92035
+Frame: 2357
+Average contacts each sphere has: 1.92022
+Frame: 2358
+Average contacts each sphere has: 1.92016
+Frame: 2359
+Average contacts each sphere has: 1.92008
+Frame: 2360
+Average contacts each sphere has: 1.92024
+Frame: 2361
+Average contacts each sphere has: 1.92043
+Frame: 2362
+Average contacts each sphere has: 1.921
+Frame: 2363
+Average contacts each sphere has: 1.92133
+Frame: 2364
+Average contacts each sphere has: 1.92095
+Frame: 2365
+Average contacts each sphere has: 1.92081
+Frame: 2366
+Average contacts each sphere has: 1.92082
+Frame: 2367
+Average contacts each sphere has: 1.92036
+Frame: 2368
+Average contacts each sphere has: 1.9205
+Frame: 2369
+Average contacts each sphere has: 1.92047
+Frame: 2370
+Average contacts each sphere has: 1.92018
+Frame: 2371
+Average contacts each sphere has: 1.9208
+Frame: 2372
+Average contacts each sphere has: 1.92093
+Frame: 2373
+Average contacts each sphere has: 1.92077
+Frame: 2374
+Average contacts each sphere has: 1.92081
+Frame: 2375
+Average contacts each sphere has: 1.92013
+Frame: 2376
+Average contacts each sphere has: 1.92069
+Frame: 2377
+Average contacts each sphere has: 1.92032
+Frame: 2378
+Average contacts each sphere has: 1.92083
+Frame: 2379
+Average contacts each sphere has: 1.9205
+Frame: 2380
+Average contacts each sphere has: 1.9211
+Frame: 2381
+Average contacts each sphere has: 1.92047
+Frame: 2382
+Average contacts each sphere has: 1.92115
+Frame: 2383
+Average contacts each sphere has: 1.92095
+Frame: 2384
+Average contacts each sphere has: 1.92063
+Frame: 2385
+Average contacts each sphere has: 1.92034
+Frame: 2386
+Average contacts each sphere has: 1.92002
+Frame: 2387
+Average contacts each sphere has: 1.92022
+Frame: 2388
+Average contacts each sphere has: 1.92021
+Frame: 2389
+Average contacts each sphere has: 1.9195
+Frame: 2390
+Average contacts each sphere has: 1.92001
+Frame: 2391
+Average contacts each sphere has: 1.91947
+Frame: 2392
+Average contacts each sphere has: 1.9199
+Frame: 2393
+Average contacts each sphere has: 1.91981
+Frame: 2394
+Average contacts each sphere has: 1.92055
+Frame: 2395
+Average contacts each sphere has: 1.92069
+Frame: 2396
+Average contacts each sphere has: 1.92034
+Frame: 2397
+Average contacts each sphere has: 1.92022
+Frame: 2398
+Average contacts each sphere has: 1.92057
+Frame: 2399
+Average contacts each sphere has: 1.92016
+Frame: 2400
+Average contacts each sphere has: 1.92065
+Frame: 2401
+Average contacts each sphere has: 1.9202
+Frame: 2402
+Average contacts each sphere has: 1.92045
+Frame: 2403
+Average contacts each sphere has: 1.92059
+Frame: 2404
+Average contacts each sphere has: 1.92009
+Frame: 2405
+Average contacts each sphere has: 1.92012
+Frame: 2406
+Average contacts each sphere has: 1.92041
+Frame: 2407
+Average contacts each sphere has: 1.92033
+Frame: 2408
+Average contacts each sphere has: 1.92064
+Frame: 2409
+Average contacts each sphere has: 1.92043
+Frame: 2410
+Average contacts each sphere has: 1.9208
+Frame: 2411
+Average contacts each sphere has: 1.92031
+Frame: 2412
+Average contacts each sphere has: 1.92048
+Frame: 2413
+Average contacts each sphere has: 1.9208
+Frame: 2414
+Average contacts each sphere has: 1.92073
+Frame: 2415
+Average contacts each sphere has: 1.92047
+Frame: 2416
+Average contacts each sphere has: 1.92026
+Frame: 2417
+Average contacts each sphere has: 1.91987
+Frame: 2418
+Average contacts each sphere has: 1.92005
+Frame: 2419
+Average contacts each sphere has: 1.91981
+Frame: 2420
+Average contacts each sphere has: 1.92021
+Frame: 2421
+Average contacts each sphere has: 1.92045
+Frame: 2422
+Average contacts each sphere has: 1.92015
+Frame: 2423
+Average contacts each sphere has: 1.91973
+Frame: 2424
+Average contacts each sphere has: 1.91975
+Frame: 2425
+Average contacts each sphere has: 1.9204
+Frame: 2426
+Average contacts each sphere has: 1.92069
+Frame: 2427
+Average contacts each sphere has: 1.9203
+Frame: 2428
+Average contacts each sphere has: 1.92035
+Frame: 2429
+Average contacts each sphere has: 1.91974
+Frame: 2430
+Average contacts each sphere has: 1.92018
+Frame: 2431
+Average contacts each sphere has: 1.91986
+Frame: 2432
+Average contacts each sphere has: 1.92027
+Frame: 2433
+Average contacts each sphere has: 1.91982
+Frame: 2434
+Average contacts each sphere has: 1.92005
+Frame: 2435
+Average contacts each sphere has: 1.91973
+Frame: 2436
+Average contacts each sphere has: 1.92031
+Frame: 2437
+Average contacts each sphere has: 1.91957
+Frame: 2438
+Average contacts each sphere has: 1.92009
+Frame: 2439
+Average contacts each sphere has: 1.9203
+Frame: 2440
+Average contacts each sphere has: 1.92007
+Frame: 2441
+Average contacts each sphere has: 1.92014
+Frame: 2442
+Average contacts each sphere has: 1.91978
+Frame: 2443
+Average contacts each sphere has: 1.91982
+Frame: 2444
+Average contacts each sphere has: 1.92008
+Frame: 2445
+Average contacts each sphere has: 1.91991
+Frame: 2446
+Average contacts each sphere has: 1.92039
+Frame: 2447
+Average contacts each sphere has: 1.91985
+Frame: 2448
+Average contacts each sphere has: 1.92038
+Frame: 2449
+Average contacts each sphere has: 1.91983
+Frame: 2450
+Average contacts each sphere has: 1.92014
+Frame: 2451
+Average contacts each sphere has: 1.91951
+Frame: 2452
+Average contacts each sphere has: 1.92009
+Frame: 2453
+Average contacts each sphere has: 1.92022
+Frame: 2454
+Average contacts each sphere has: 1.92083
+Frame: 2455
+Average contacts each sphere has: 1.92058
+Frame: 2456
+Average contacts each sphere has: 1.92
+Frame: 2457
+Average contacts each sphere has: 1.91986
+Frame: 2458
+Average contacts each sphere has: 1.91988
+Frame: 2459
+Average contacts each sphere has: 1.91988
+Frame: 2460
+Average contacts each sphere has: 1.92028
+Frame: 2461
+Average contacts each sphere has: 1.91926
+Frame: 2462
+Average contacts each sphere has: 1.91954
+Frame: 2463
+Average contacts each sphere has: 1.91948
+Frame: 2464
+Average contacts each sphere has: 1.91974
+Frame: 2465
+Average contacts each sphere has: 1.91901
+Frame: 2466
+Average contacts each sphere has: 1.9192
+Frame: 2467
+Average contacts each sphere has: 1.91929
+Frame: 2468
+Average contacts each sphere has: 1.91979
+Frame: 2469
+Average contacts each sphere has: 1.92002
+Frame: 2470
+Average contacts each sphere has: 1.91993
+Frame: 2471
+Average contacts each sphere has: 1.91952
+Frame: 2472
+Average contacts each sphere has: 1.91962
+Frame: 2473
+Average contacts each sphere has: 1.91903
+Frame: 2474
+Average contacts each sphere has: 1.91956
+Frame: 2475
+Average contacts each sphere has: 1.9195
+Frame: 2476
+Average contacts each sphere has: 1.92021
+Frame: 2477
+Average contacts each sphere has: 1.91981
+Frame: 2478
+Average contacts each sphere has: 1.91994
+Frame: 2479
+Average contacts each sphere has: 1.91899
+Frame: 2480
+Average contacts each sphere has: 1.91976
+Frame: 2481
+Average contacts each sphere has: 1.91928
+Frame: 2482
+Average contacts each sphere has: 1.91971
+Frame: 2483
+Average contacts each sphere has: 1.91939
+Frame: 2484
+Average contacts each sphere has: 1.91965
+Frame: 2485
+Average contacts each sphere has: 1.91979
+Frame: 2486
+Average contacts each sphere has: 1.92012
+Frame: 2487
+Average contacts each sphere has: 1.91977
+Frame: 2488
+Average contacts each sphere has: 1.91986
+Frame: 2489
+Average contacts each sphere has: 1.91912
+Frame: 2490
+Average contacts each sphere has: 1.91933
+Frame: 2491
+Average contacts each sphere has: 1.91922
+Frame: 2492
+Average contacts each sphere has: 1.91907
+Frame: 2493
+Average contacts each sphere has: 1.91903
+Frame: 2494
+Average contacts each sphere has: 1.91956
+Frame: 2495
+Average contacts each sphere has: 1.91992
+Frame: 2496
+Average contacts each sphere has: 1.91973
+Frame: 2497
+Average contacts each sphere has: 1.91928
+Frame: 2498
+Average contacts each sphere has: 1.91977
+Frame: 2499
+Average contacts each sphere has: 1.91906
+Frame: 2500
+Average contacts each sphere has: 1.91948
+Frame: 2501
+Average contacts each sphere has: 1.91925
+Frame: 2502
+Average contacts each sphere has: 1.91999
+Frame: 2503
+Average contacts each sphere has: 1.91886
+Frame: 2504
+Average contacts each sphere has: 1.92004
+Frame: 2505
+Average contacts each sphere has: 1.9194
+Frame: 2506
+Average contacts each sphere has: 1.92008
+Frame: 2507
+Average contacts each sphere has: 1.91891
+Frame: 2508
+Average contacts each sphere has: 1.91989
+Frame: 2509
+Average contacts each sphere has: 1.91949
+Frame: 2510
+Average contacts each sphere has: 1.92007
+Frame: 2511
+Average contacts each sphere has: 1.91982
+Frame: 2512
+Average contacts each sphere has: 1.92033
+Frame: 2513
+Average contacts each sphere has: 1.91988
+Frame: 2514
+Average contacts each sphere has: 1.91953
+Frame: 2515
+Average contacts each sphere has: 1.91947
+Frame: 2516
+Average contacts each sphere has: 1.92003
+Frame: 2517
+Average contacts each sphere has: 1.91927
+Frame: 2518
+Average contacts each sphere has: 1.92002
+Frame: 2519
+Average contacts each sphere has: 1.91942
+Frame: 2520
+Average contacts each sphere has: 1.92009
+Frame: 2521
+Average contacts each sphere has: 1.92002
+Frame: 2522
+Average contacts each sphere has: 1.92002
+Frame: 2523
+Average contacts each sphere has: 1.91999
+Frame: 2524
+Average contacts each sphere has: 1.92028
+Frame: 2525
+Average contacts each sphere has: 1.9203
+Frame: 2526
+Average contacts each sphere has: 1.91992
+Frame: 2527
+Average contacts each sphere has: 1.91941
+Frame: 2528
+Average contacts each sphere has: 1.92041
+Frame: 2529
+Average contacts each sphere has: 1.91967
+Frame: 2530
+Average contacts each sphere has: 1.91987
+Frame: 2531
+Average contacts each sphere has: 1.91916
+Frame: 2532
+Average contacts each sphere has: 1.91962
+Frame: 2533
+Average contacts each sphere has: 1.91931
+Frame: 2534
+Average contacts each sphere has: 1.91971
+Frame: 2535
+Average contacts each sphere has: 1.9193
+Frame: 2536
+Average contacts each sphere has: 1.92025
+Frame: 2537
+Average contacts each sphere has: 1.91969
+Frame: 2538
+Average contacts each sphere has: 1.91995
+Frame: 2539
+Average contacts each sphere has: 1.91959
+Frame: 2540
+Average contacts each sphere has: 1.9198
+Frame: 2541
+Average contacts each sphere has: 1.92012
+Frame: 2542
+Average contacts each sphere has: 1.92031
+Frame: 2543
+Average contacts each sphere has: 1.91936
+Frame: 2544
+Average contacts each sphere has: 1.91975
+Frame: 2545
+Average contacts each sphere has: 1.91928
+Frame: 2546
+Average contacts each sphere has: 1.9202
+Frame: 2547
+Average contacts each sphere has: 1.91977
+Frame: 2548
+Average contacts each sphere has: 1.92023
+Frame: 2549
+Average contacts each sphere has: 1.91924
+Frame: 2550
+Average contacts each sphere has: 1.91989
+Frame: 2551
+Average contacts each sphere has: 1.91949
+Frame: 2552
+Average contacts each sphere has: 1.92057
+Frame: 2553
+Average contacts each sphere has: 1.92014
+Frame: 2554
+Average contacts each sphere has: 1.91992
+Frame: 2555
+Average contacts each sphere has: 1.91919
+Frame: 2556
+Average contacts each sphere has: 1.91949
+Frame: 2557
+Average contacts each sphere has: 1.91971
+Frame: 2558
+Average contacts each sphere has: 1.92021
+Frame: 2559
+Average contacts each sphere has: 1.91972
+Frame: 2560
+Average contacts each sphere has: 1.91981
+Frame: 2561
+Average contacts each sphere has: 1.91959
+Frame: 2562
+Average contacts each sphere has: 1.91934
+Frame: 2563
+Average contacts each sphere has: 1.91901
+Frame: 2564
+Average contacts each sphere has: 1.91989
+Frame: 2565
+Average contacts each sphere has: 1.92008
+Frame: 2566
+Average contacts each sphere has: 1.91975
+Frame: 2567
+Average contacts each sphere has: 1.91939
+Frame: 2568
+Average contacts each sphere has: 1.9195
+Frame: 2569
+Average contacts each sphere has: 1.91915
+Frame: 2570
+Average contacts each sphere has: 1.91971
+Frame: 2571
+Average contacts each sphere has: 1.91882
+Frame: 2572
+Average contacts each sphere has: 1.91918
+Frame: 2573
+Average contacts each sphere has: 1.91895
+Frame: 2574
+Average contacts each sphere has: 1.91964
+Frame: 2575
+Average contacts each sphere has: 1.9194
+Frame: 2576
+Average contacts each sphere has: 1.91976
+Frame: 2577
+Average contacts each sphere has: 1.91933
+Frame: 2578
+Average contacts each sphere has: 1.91983
+Frame: 2579
+Average contacts each sphere has: 1.91915
+Frame: 2580
+Average contacts each sphere has: 1.91986
+Frame: 2581
+Average contacts each sphere has: 1.9188
+Frame: 2582
+Average contacts each sphere has: 1.91951
+Frame: 2583
+Average contacts each sphere has: 1.91871
+Frame: 2584
+Average contacts each sphere has: 1.91882
+Frame: 2585
+Average contacts each sphere has: 1.9189
+Frame: 2586
+Average contacts each sphere has: 1.91939
+Frame: 2587
+Average contacts each sphere has: 1.91926
+Frame: 2588
+Average contacts each sphere has: 1.91931
+Frame: 2589
+Average contacts each sphere has: 1.91867
+Frame: 2590
+Average contacts each sphere has: 1.91959
+Frame: 2591
+Average contacts each sphere has: 1.91893
+Frame: 2592
+Average contacts each sphere has: 1.91955
+Frame: 2593
+Average contacts each sphere has: 1.91922
+Frame: 2594
+Average contacts each sphere has: 1.91917
+Frame: 2595
+Average contacts each sphere has: 1.91878
+Frame: 2596
+Average contacts each sphere has: 1.91946
+Frame: 2597
+Average contacts each sphere has: 1.91884
+Frame: 2598
+Average contacts each sphere has: 1.91939
+Frame: 2599
+Average contacts each sphere has: 1.91882
+Frame: 2600
+Average contacts each sphere has: 1.91936
+Frame: 2601
+Average contacts each sphere has: 1.91893
+Frame: 2602
+Average contacts each sphere has: 1.91921
+Frame: 2603
+Average contacts each sphere has: 1.91887
+Frame: 2604
+Average contacts each sphere has: 1.91991
+Frame: 2605
+Average contacts each sphere has: 1.91913
+Frame: 2606
+Average contacts each sphere has: 1.91932
+Frame: 2607
+Average contacts each sphere has: 1.9195
+Frame: 2608
+Average contacts each sphere has: 1.91921
+Frame: 2609
+Average contacts each sphere has: 1.91911
+Frame: 2610
+Average contacts each sphere has: 1.91969
+Frame: 2611
+Average contacts each sphere has: 1.91905
+Frame: 2612
+Average contacts each sphere has: 1.91919
+Frame: 2613
+Average contacts each sphere has: 1.91917
+Frame: 2614
+Average contacts each sphere has: 1.9195
+Frame: 2615
+Average contacts each sphere has: 1.91914
+Frame: 2616
+Average contacts each sphere has: 1.9196
+Frame: 2617
+Average contacts each sphere has: 1.91931
+Frame: 2618
+Average contacts each sphere has: 1.91914
+Frame: 2619
+Average contacts each sphere has: 1.91879
+Frame: 2620
+Average contacts each sphere has: 1.91924
+Frame: 2621
+Average contacts each sphere has: 1.91918
+Frame: 2622
+Average contacts each sphere has: 1.91964
+Frame: 2623
+Average contacts each sphere has: 1.91899
+Frame: 2624
+Average contacts each sphere has: 1.91941
+Frame: 2625
+Average contacts each sphere has: 1.91853
+Frame: 2626
+Average contacts each sphere has: 1.91869
+Frame: 2627
+Average contacts each sphere has: 1.91839
+Frame: 2628
+Average contacts each sphere has: 1.919
+Frame: 2629
+Average contacts each sphere has: 1.91843
+Frame: 2630
+Average contacts each sphere has: 1.91908
+Frame: 2631
+Average contacts each sphere has: 1.91889
+Frame: 2632
+Average contacts each sphere has: 1.91938
+Frame: 2633
+Average contacts each sphere has: 1.91907
+Frame: 2634
+Average contacts each sphere has: 1.91917
+Frame: 2635
+Average contacts each sphere has: 1.91899
+Frame: 2636
+Average contacts each sphere has: 1.91959
+Frame: 2637
+Average contacts each sphere has: 1.91917
+Frame: 2638
+Average contacts each sphere has: 1.91938
+Frame: 2639
+Average contacts each sphere has: 1.91909
+Frame: 2640
+Average contacts each sphere has: 1.91962
+Frame: 2641
+Average contacts each sphere has: 1.91933
+Frame: 2642
+Average contacts each sphere has: 1.92005
+Frame: 2643
+Average contacts each sphere has: 1.91881
+Frame: 2644
+Average contacts each sphere has: 1.9193
+Frame: 2645
+Average contacts each sphere has: 1.91868
+Frame: 2646
+Average contacts each sphere has: 1.91948
+Frame: 2647
+Average contacts each sphere has: 1.91906
+Frame: 2648
+Average contacts each sphere has: 1.91964
+Frame: 2649
+Average contacts each sphere has: 1.91837
+Frame: 2650
+Average contacts each sphere has: 1.91926
+Frame: 2651
+Average contacts each sphere has: 1.91901
+Frame: 2652
+Average contacts each sphere has: 1.91943
+Frame: 2653
+Average contacts each sphere has: 1.91908
+Frame: 2654
+Average contacts each sphere has: 1.91954
+Frame: 2655
+Average contacts each sphere has: 1.91857
+Frame: 2656
+Average contacts each sphere has: 1.9198
+Frame: 2657
+Average contacts each sphere has: 1.91856
+Frame: 2658
+Average contacts each sphere has: 1.91951
+Frame: 2659
+Average contacts each sphere has: 1.91816
+Frame: 2660
+Average contacts each sphere has: 1.91938
+Frame: 2661
+Average contacts each sphere has: 1.91812
+Frame: 2662
+Average contacts each sphere has: 1.91901
+Frame: 2663
+Average contacts each sphere has: 1.91842
+Frame: 2664
+Average contacts each sphere has: 1.91889
+Frame: 2665
+Average contacts each sphere has: 1.91909
+Frame: 2666
+Average contacts each sphere has: 1.91913
+Frame: 2667
+Average contacts each sphere has: 1.91842
+Frame: 2668
+Average contacts each sphere has: 1.91854
+Frame: 2669
+Average contacts each sphere has: 1.91852
+Frame: 2670
+Average contacts each sphere has: 1.91879
+Frame: 2671
+Average contacts each sphere has: 1.91874
+Frame: 2672
+Average contacts each sphere has: 1.91912
+Frame: 2673
+Average contacts each sphere has: 1.9183
+Frame: 2674
+Average contacts each sphere has: 1.91919
+Frame: 2675
+Average contacts each sphere has: 1.91865
+Frame: 2676
+Average contacts each sphere has: 1.91926
+Frame: 2677
+Average contacts each sphere has: 1.91892
+Frame: 2678
+Average contacts each sphere has: 1.91889
+Frame: 2679
+Average contacts each sphere has: 1.91886
+Frame: 2680
+Average contacts each sphere has: 1.91927
+Frame: 2681
+Average contacts each sphere has: 1.9186
+Frame: 2682
+Average contacts each sphere has: 1.91911
+Frame: 2683
+Average contacts each sphere has: 1.919
+Frame: 2684
+Average contacts each sphere has: 1.91936
+Frame: 2685
+Average contacts each sphere has: 1.91895
+Frame: 2686
+Average contacts each sphere has: 1.9193
+Frame: 2687
+Average contacts each sphere has: 1.91849
+Frame: 2688
+Average contacts each sphere has: 1.91908
+Frame: 2689
+Average contacts each sphere has: 1.91859
+Frame: 2690
+Average contacts each sphere has: 1.91922
+Frame: 2691
+Average contacts each sphere has: 1.9186
+Frame: 2692
+Average contacts each sphere has: 1.91924
+Frame: 2693
+Average contacts each sphere has: 1.91833
+Frame: 2694
+Average contacts each sphere has: 1.91939
+Frame: 2695
+Average contacts each sphere has: 1.9188
+Frame: 2696
+Average contacts each sphere has: 1.91921
+Frame: 2697
+Average contacts each sphere has: 1.91918
+Frame: 2698
+Average contacts each sphere has: 1.91921
+Frame: 2699
+Average contacts each sphere has: 1.91901
+Frame: 2700
+Average contacts each sphere has: 1.91921
+Frame: 2701
+Average contacts each sphere has: 1.91891
+Frame: 2702
+Average contacts each sphere has: 1.91915
+Frame: 2703
+Average contacts each sphere has: 1.9191
+Frame: 2704
+Average contacts each sphere has: 1.92001
+Frame: 2705
+Average contacts each sphere has: 1.9193
+Frame: 2706
+Average contacts each sphere has: 1.92004
+Frame: 2707
+Average contacts each sphere has: 1.91904
+Frame: 2708
+Average contacts each sphere has: 1.91956
+Frame: 2709
+Average contacts each sphere has: 1.91907
+Frame: 2710
+Average contacts each sphere has: 1.91925
+Frame: 2711
+Average contacts each sphere has: 1.91846
+Frame: 2712
+Average contacts each sphere has: 1.91944
+Frame: 2713
+Average contacts each sphere has: 1.91829
+Frame: 2714
+Average contacts each sphere has: 1.91896
+Frame: 2715
+Average contacts each sphere has: 1.91868
+Frame: 2716
+Average contacts each sphere has: 1.91933
+Frame: 2717
+Average contacts each sphere has: 1.91876
+Frame: 2718
+Average contacts each sphere has: 1.91889
+Frame: 2719
+Average contacts each sphere has: 1.91839
+Frame: 2720
+Average contacts each sphere has: 1.91917
+Frame: 2721
+Average contacts each sphere has: 1.91856
+Frame: 2722
+Average contacts each sphere has: 1.91906
+Frame: 2723
+Average contacts each sphere has: 1.91847
+Frame: 2724
+Average contacts each sphere has: 1.91898
+Frame: 2725
+Average contacts each sphere has: 1.91857
+Frame: 2726
+Average contacts each sphere has: 1.91901
+Frame: 2727
+Average contacts each sphere has: 1.91798
+Frame: 2728
+Average contacts each sphere has: 1.9187
+Frame: 2729
+Average contacts each sphere has: 1.91846
+Frame: 2730
+Average contacts each sphere has: 1.91918
+Frame: 2731
+Average contacts each sphere has: 1.91871
+Frame: 2732
+Average contacts each sphere has: 1.91973
+Frame: 2733
+Average contacts each sphere has: 1.91885
+Frame: 2734
+Average contacts each sphere has: 1.91886
+Frame: 2735
+Average contacts each sphere has: 1.91856
+Frame: 2736
+Average contacts each sphere has: 1.91934
+Frame: 2737
+Average contacts each sphere has: 1.91897
+Frame: 2738
+Average contacts each sphere has: 1.91985
+Frame: 2739
+Average contacts each sphere has: 1.91847
+Frame: 2740
+Average contacts each sphere has: 1.91923
+Frame: 2741
+Average contacts each sphere has: 1.91872
+Frame: 2742
+Average contacts each sphere has: 1.91938
+Frame: 2743
+Average contacts each sphere has: 1.91845
+Frame: 2744
+Average contacts each sphere has: 1.91894
+Frame: 2745
+Average contacts each sphere has: 1.91876
+Frame: 2746
+Average contacts each sphere has: 1.91962
+Frame: 2747
+Average contacts each sphere has: 1.91899
+Frame: 2748
+Average contacts each sphere has: 1.91913
+Frame: 2749
+Average contacts each sphere has: 1.9182
+Frame: 2750
+Average contacts each sphere has: 1.91898
+Frame: 2751
+Average contacts each sphere has: 1.91796
+Frame: 2752
+Average contacts each sphere has: 1.91906
+Frame: 2753
+Average contacts each sphere has: 1.91823
+Frame: 2754
+Average contacts each sphere has: 1.91901
+Frame: 2755
+Average contacts each sphere has: 1.91859
+Frame: 2756
+Average contacts each sphere has: 1.91878
+Frame: 2757
+Average contacts each sphere has: 1.91812
+Frame: 2758
+Average contacts each sphere has: 1.91871
+Frame: 2759
+Average contacts each sphere has: 1.91807
+Frame: 2760
+Average contacts each sphere has: 1.91872
+Frame: 2761
+Average contacts each sphere has: 1.91818
+Frame: 2762
+Average contacts each sphere has: 1.91851
+Frame: 2763
+Average contacts each sphere has: 1.91838
+Frame: 2764
+Average contacts each sphere has: 1.91897
+Frame: 2765
+Average contacts each sphere has: 1.91811
+Frame: 2766
+Average contacts each sphere has: 1.91861
+Frame: 2767
+Average contacts each sphere has: 1.91809
+Frame: 2768
+Average contacts each sphere has: 1.91864
+Frame: 2769
+Average contacts each sphere has: 1.91858
+Frame: 2770
+Average contacts each sphere has: 1.91822
+Frame: 2771
+Average contacts each sphere has: 1.91809
+Frame: 2772
+Average contacts each sphere has: 1.91888
+Frame: 2773
+Average contacts each sphere has: 1.91824
+Frame: 2774
+Average contacts each sphere has: 1.91911
+Frame: 2775
+Average contacts each sphere has: 1.91844
+Frame: 2776
+Average contacts each sphere has: 1.91888
+Frame: 2777
+Average contacts each sphere has: 1.91843
+Frame: 2778
+Average contacts each sphere has: 1.91866
+Frame: 2779
+Average contacts each sphere has: 1.91755
+Frame: 2780
+Average contacts each sphere has: 1.91851
+Frame: 2781
+Average contacts each sphere has: 1.91807
+Frame: 2782
+Average contacts each sphere has: 1.91807
+Frame: 2783
+Average contacts each sphere has: 1.91803
+Frame: 2784
+Average contacts each sphere has: 1.91912
+Frame: 2785
+Average contacts each sphere has: 1.91833
+Frame: 2786
+Average contacts each sphere has: 1.91898
+Frame: 2787
+Average contacts each sphere has: 1.91776
+Frame: 2788
+Average contacts each sphere has: 1.9188
+Frame: 2789
+Average contacts each sphere has: 1.91852
+Frame: 2790
+Average contacts each sphere has: 1.91885
+Frame: 2791
+Average contacts each sphere has: 1.91798
+Frame: 2792
+Average contacts each sphere has: 1.91888
+Frame: 2793
+Average contacts each sphere has: 1.91759
+Frame: 2794
+Average contacts each sphere has: 1.91843
+Frame: 2795
+Average contacts each sphere has: 1.91776
+Frame: 2796
+Average contacts each sphere has: 1.91837
+Frame: 2797
+Average contacts each sphere has: 1.91828
+Frame: 2798
+Average contacts each sphere has: 1.91823
+Frame: 2799
+Average contacts each sphere has: 1.91792
+Frame: 2800
+Average contacts each sphere has: 1.918
+Frame: 2801
+Average contacts each sphere has: 1.91773
+Frame: 2802
+Average contacts each sphere has: 1.91859
+Frame: 2803
+Average contacts each sphere has: 1.91798
+Frame: 2804
+Average contacts each sphere has: 1.91828
+Frame: 2805
+Average contacts each sphere has: 1.91763
+Frame: 2806
+Average contacts each sphere has: 1.91847
+Frame: 2807
+Average contacts each sphere has: 1.9176
+Frame: 2808
+Average contacts each sphere has: 1.91845
+Frame: 2809
+Average contacts each sphere has: 1.9183
+Frame: 2810
+Average contacts each sphere has: 1.91891
+Frame: 2811
+Average contacts each sphere has: 1.9184
+Frame: 2812
+Average contacts each sphere has: 1.91877
+Frame: 2813
+Average contacts each sphere has: 1.91793
+Frame: 2814
+Average contacts each sphere has: 1.91827
+Frame: 2815
+Average contacts each sphere has: 1.9182
+Frame: 2816
+Average contacts each sphere has: 1.91895
+Frame: 2817
+Average contacts each sphere has: 1.91822
+Frame: 2818
+Average contacts each sphere has: 1.91836
+Frame: 2819
+Average contacts each sphere has: 1.91768
+Frame: 2820
+Average contacts each sphere has: 1.91822
+Frame: 2821
+Average contacts each sphere has: 1.91794
+Frame: 2822
+Average contacts each sphere has: 1.91858
+Frame: 2823
+Average contacts each sphere has: 1.91795
+Frame: 2824
+Average contacts each sphere has: 1.91825
+Frame: 2825
+Average contacts each sphere has: 1.91805
+Frame: 2826
+Average contacts each sphere has: 1.91841
+Frame: 2827
+Average contacts each sphere has: 1.91846
+Frame: 2828
+Average contacts each sphere has: 1.91879
+Frame: 2829
+Average contacts each sphere has: 1.91887
+Frame: 2830
+Average contacts each sphere has: 1.91894
+Frame: 2831
+Average contacts each sphere has: 1.91867
+Frame: 2832
+Average contacts each sphere has: 1.91849
+Frame: 2833
+Average contacts each sphere has: 1.91819
+Frame: 2834
+Average contacts each sphere has: 1.91811
+Frame: 2835
+Average contacts each sphere has: 1.91763
+Frame: 2836
+Average contacts each sphere has: 1.91823
+Frame: 2837
+Average contacts each sphere has: 1.91809
+Frame: 2838
+Average contacts each sphere has: 1.91815
+Frame: 2839
+Average contacts each sphere has: 1.91844
+Frame: 2840
+Average contacts each sphere has: 1.91838
+Frame: 2841
+Average contacts each sphere has: 1.91827
+Frame: 2842
+Average contacts each sphere has: 1.91826
+Frame: 2843
+Average contacts each sphere has: 1.91813
+Frame: 2844
+Average contacts each sphere has: 1.91831
+Frame: 2845
+Average contacts each sphere has: 1.91794
+Frame: 2846
+Average contacts each sphere has: 1.91832
+Frame: 2847
+Average contacts each sphere has: 1.91835
+Frame: 2848
+Average contacts each sphere has: 1.91876
+Frame: 2849
+Average contacts each sphere has: 1.918
+Frame: 2850
+Average contacts each sphere has: 1.91872
+Frame: 2851
+Average contacts each sphere has: 1.91858
+Frame: 2852
+Average contacts each sphere has: 1.91836
+Frame: 2853
+Average contacts each sphere has: 1.9178
+Frame: 2854
+Average contacts each sphere has: 1.91824
+Frame: 2855
+Average contacts each sphere has: 1.91791
+Frame: 2856
+Average contacts each sphere has: 1.91813
+Frame: 2857
+Average contacts each sphere has: 1.91797
+Frame: 2858
+Average contacts each sphere has: 1.91823
+Frame: 2859
+Average contacts each sphere has: 1.91833
+Frame: 2860
+Average contacts each sphere has: 1.91879
+Frame: 2861
+Average contacts each sphere has: 1.91822
+Frame: 2862
+Average contacts each sphere has: 1.9185
+Frame: 2863
+Average contacts each sphere has: 1.91857
+Frame: 2864
+Average contacts each sphere has: 1.91837
+Frame: 2865
+Average contacts each sphere has: 1.91852
+Frame: 2866
+Average contacts each sphere has: 1.91874
+Frame: 2867
+Average contacts each sphere has: 1.91828
+Frame: 2868
+Average contacts each sphere has: 1.91797
+Frame: 2869
+Average contacts each sphere has: 1.91782
+Frame: 2870
+Average contacts each sphere has: 1.91832
+Frame: 2871
+Average contacts each sphere has: 1.91823
+Frame: 2872
+Average contacts each sphere has: 1.91798
+Frame: 2873
+Average contacts each sphere has: 1.91794
+Frame: 2874
+Average contacts each sphere has: 1.91788
+Frame: 2875
+Average contacts each sphere has: 1.91824
+Frame: 2876
+Average contacts each sphere has: 1.91869
+Frame: 2877
+Average contacts each sphere has: 1.9181
+Frame: 2878
+Average contacts each sphere has: 1.9184
+Frame: 2879
+Average contacts each sphere has: 1.9179
+Frame: 2880
+Average contacts each sphere has: 1.91858
+Frame: 2881
+Average contacts each sphere has: 1.91807
+Frame: 2882
+Average contacts each sphere has: 1.91831
+Frame: 2883
+Average contacts each sphere has: 1.91784
+Frame: 2884
+Average contacts each sphere has: 1.91807
+Frame: 2885
+Average contacts each sphere has: 1.91803
+Frame: 2886
+Average contacts each sphere has: 1.91811
+Frame: 2887
+Average contacts each sphere has: 1.91834
+Frame: 2888
+Average contacts each sphere has: 1.91812
+Frame: 2889
+Average contacts each sphere has: 1.91805
+Frame: 2890
+Average contacts each sphere has: 1.9184
+Frame: 2891
+Average contacts each sphere has: 1.91834
+Frame: 2892
+Average contacts each sphere has: 1.91838
+Frame: 2893
+Average contacts each sphere has: 1.91758
+Frame: 2894
+Average contacts each sphere has: 1.91836
+Frame: 2895
+Average contacts each sphere has: 1.91789
+Frame: 2896
+Average contacts each sphere has: 1.91834
+Frame: 2897
+Average contacts each sphere has: 1.91795
+Frame: 2898
+Average contacts each sphere has: 1.91834
+Frame: 2899
+Average contacts each sphere has: 1.918
+Frame: 2900
+Average contacts each sphere has: 1.91841
+Frame: 2901
+Average contacts each sphere has: 1.91857
+Frame: 2902
+Average contacts each sphere has: 1.91869
+Frame: 2903
+Average contacts each sphere has: 1.9184
+Frame: 2904
+Average contacts each sphere has: 1.91886
+Frame: 2905
+Average contacts each sphere has: 1.9182
+Frame: 2906
+Average contacts each sphere has: 1.91827
+Frame: 2907
+Average contacts each sphere has: 1.91816
+Frame: 2908
+Average contacts each sphere has: 1.91853
+Frame: 2909
+Average contacts each sphere has: 1.91826
+Frame: 2910
+Average contacts each sphere has: 1.91832
+Frame: 2911
+Average contacts each sphere has: 1.91807
+Frame: 2912
+Average contacts each sphere has: 1.91836
+Frame: 2913
+Average contacts each sphere has: 1.91854
+Frame: 2914
+Average contacts each sphere has: 1.9184
+Frame: 2915
+Average contacts each sphere has: 1.91805
+Frame: 2916
+Average contacts each sphere has: 1.91854
+Frame: 2917
+Average contacts each sphere has: 1.91841
+Frame: 2918
+Average contacts each sphere has: 1.91871
+Frame: 2919
+Average contacts each sphere has: 1.91821
+Frame: 2920
+Average contacts each sphere has: 1.91828
+Frame: 2921
+Average contacts each sphere has: 1.91828
+Frame: 2922
+Average contacts each sphere has: 1.91799
+Frame: 2923
+Average contacts each sphere has: 1.91799
+Frame: 2924
+Average contacts each sphere has: 1.9181
+Frame: 2925
+Average contacts each sphere has: 1.91815
+Frame: 2926
+Average contacts each sphere has: 1.91837
+Frame: 2927
+Average contacts each sphere has: 1.91833
+Frame: 2928
+Average contacts each sphere has: 1.91841
+Frame: 2929
+Average contacts each sphere has: 1.91815
+Frame: 2930
+Average contacts each sphere has: 1.9185
+Frame: 2931
+Average contacts each sphere has: 1.91862
+Frame: 2932
+Average contacts each sphere has: 1.91803
+Frame: 2933
+Average contacts each sphere has: 1.91796
+Frame: 2934
+Average contacts each sphere has: 1.91853
+Frame: 2935
+Average contacts each sphere has: 1.91814
+Frame: 2936
+Average contacts each sphere has: 1.91838
+Frame: 2937
+Average contacts each sphere has: 1.91848
+Frame: 2938
+Average contacts each sphere has: 1.91837
+Frame: 2939
+Average contacts each sphere has: 1.91759
+Frame: 2940
+Average contacts each sphere has: 1.91842
+Frame: 2941
+Average contacts each sphere has: 1.91838
+Frame: 2942
+Average contacts each sphere has: 1.91848
+Frame: 2943
+Average contacts each sphere has: 1.91772
+Frame: 2944
+Average contacts each sphere has: 1.91818
+Frame: 2945
+Average contacts each sphere has: 1.91858
+Frame: 2946
+Average contacts each sphere has: 1.91811
+Frame: 2947
+Average contacts each sphere has: 1.91815
+Frame: 2948
+Average contacts each sphere has: 1.91785
+Frame: 2949
+Average contacts each sphere has: 1.91761
+Frame: 2950
+Average contacts each sphere has: 1.91787
+Frame: 2951
+Average contacts each sphere has: 1.91757
+Frame: 2952
+Average contacts each sphere has: 1.9179
+Frame: 2953
+Average contacts each sphere has: 1.91809
+Frame: 2954
+Average contacts each sphere has: 1.91788
+Frame: 2955
+Average contacts each sphere has: 1.9176
+Frame: 2956
+Average contacts each sphere has: 1.9183
+Frame: 2957
+Average contacts each sphere has: 1.91737
+Frame: 2958
+Average contacts each sphere has: 1.9178
+Frame: 2959
+Average contacts each sphere has: 1.91815
+Frame: 2960
+Average contacts each sphere has: 1.91837
+Frame: 2961
+Average contacts each sphere has: 1.91811
+Frame: 2962
+Average contacts each sphere has: 1.91835
+Frame: 2963
+Average contacts each sphere has: 1.91834
+Frame: 2964
+Average contacts each sphere has: 1.91818
+Frame: 2965
+Average contacts each sphere has: 1.91773
+Frame: 2966
+Average contacts each sphere h

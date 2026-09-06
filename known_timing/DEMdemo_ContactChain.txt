@@ -1,0 +1,135 @@
+============================================================
+Initializing DEMdemo_ContactChain demo.
+Inner friction: 0.1; Mass multiplier: 5.
+907 Data points are loaded from the external list.
+Total num of particles: 908.
+Selected output at 5 FPS.
+Output file: 0 at time 0 s.
+Output file: 1 at time 0.2 s.
+Output file: 2 at time 0.4 s.
+Output file: 3 at time 0.6 s.
+Output file: 4 at time 0.8 s.
+Output file: 5 at time 1 s.
+Output file: 6 at time 1.2 s.
+Output file: 7 at time 1.4 s.
+Output file: 8 at time 1.6 s.
+Output file: 9 at time 1.8 s.
+Output file: 10 at time 2 s.
+Output file: 11 at time 2.2 s.
+Output file: 12 at time 2.4 s.
+Output file: 13 at time 2.6 s.
+Including restitution coefficient.
+Output file: 14 at time 2.8 s.
+Output file: 15 at time 3 s.
+Output file: 16 at time 3.2 s.
+Output file: 17 at time 3.4 s.
+Output file: 18 at time 3.6 s.
+Output file: 19 at time 3.8 s.
+Output file: 20 at time 4 s.
+Output file: 21 at time 4.2 s.
+Output file: 22 at time 4.4 s.
+Output file: 23 at time 4.6 s.
+Output file: 24 at time 4.8 s.
+Output file: 25 at time 5 s.
+Output file: 26 at time 5.2 s.
+Ramping up the applied load for 1.40071 s.
+Output file: 27 at time 5.4 s.
+Output file: 28 at time 5.6 s.
+Output file: 29 at time 5.8 s.
+Output file: 30 at time 6 s.
+Output file: 31 at time 6.2 s.
+Output file: 32 at time 6.4 s.
+Output file: 33 at time 6.6 s.
+Output file: 34 at time 6.8 s.
+Output file: 35 at time 7 s.
+Output file: 36 at time 7.2 s.
+Output file: 37 at time 7.4 s.
+Output file: 38 at time 7.6 s.
+Output file: 39 at time 7.8 s.
+Output file: 40 at time 8 s.
+Output file: 41 at time 8.2 s.
+Output file: 42 at time 8.4 s.
+Output file: 43 at time 8.6 s.
+Output file: 44 at time 8.8 s.
+Output file: 45 at time 9 s.
+Output file: 46 at time 9.2 s.
+Output file: 47 at time 9.4 s.
+Output file: 48 at time 9.6 s.
+Output file: 49 at time 9.8 s.
+Output file: 50 at time 10 s.
+Output file: 51 at time 10.2 s.
+Output file: 52 at time 10.4 s.
+Output file: 53 at time 10.6 s.
+Output file: 54 at time 10.8 s.
+Output file: 55 at time 11 s.
+Output file: 56 at time 11.2 s.
+Output file: 57 at time 11.4 s.
+Output file: 58 at time 11.6 s.
+Output file: 59 at time 11.8 s.
+Output file: 60 at time 12 s.
+Output file: 61 at time 12.2 s.
+Output file: 62 at time 12.4 s.
+Output file: 63 at time 12.6 s.
+Output file: 64 at time 12.8 s.
+Output file: 65 at time 13 s.
+Output file: 66 at time 13.2 s.
+Output file: 67 at time 13.4 s.
+Output file: 68 at time 13.6 s.
+Output file: 69 at time 13.8 s.
+Output file: 70 at time 14 s.
+Output file: 71 at time 14.2 s.
+Output file: 72 at time 14.4 s.
+Output file: 73 at time 14.6 s.
+Output file: 74 at time 14.8 s.
+Output file: 75 at time 15 s.
+Output file: 76 at time 15.2 s.
+Output file: 77 at time 15.4 s.
+Output file: 78 at time 15.6 s.
+Output file: 79 at time 15.8 s.
+Output file: 80 at time 16 s.
+Output file: 81 at time 16.2 s.
+Output file: 82 at time 16.4 s.
+Output file: 83 at time 16.6 s.
+Output file: 84 at time 16.8 s.
+Output file: 85 at time 17 s.
+Output file: 86 at time 17.2 s.
+Output file: 87 at time 17.4 s.
+Output file: 88 at time 17.6 s.
+Output file: 89 at time 17.8 s.
+Output file: 90 at time 18 s.
+Output file: 91 at time 18.2 s.
+Output file: 92 at time 18.4 s.
+Output file: 93 at time 18.6 s.
+Output file: 94 at time 18.8 s.
+Output file: 95 at time 19 s.
+Output file: 96 at time 19.2 s.
+Output file: 97 at time 19.4 s.
+Output file: 98 at time 19.6 s.
+Output file: 99 at time 19.8 s.
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 271.284447 seconds
+Discretize domain: 61.603015 seconds, 22.7079% of kT total runtime
+Find contact pairs: 197.592017 seconds, 72.8357% of kT total runtime
+Build history map: 5.70725559 seconds, 2.10379% of kT total runtime
+Unpack updates from dT: 2.55281947 seconds, 0.941012% of kT total runtime
+Send to dT buffer: 0.29671699 seconds, 0.109375% of kT total runtime
+Wait for dT update: 3.53262242 seconds, 1.30218% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 253.97077 seconds
+Clear force array: 14.5254185 seconds, 5.71933% of dT total runtime
+Calculate contact forces: 20.747745 seconds, 8.16934% of dT total runtime
+Optional force reduction: 13.2215013 seconds, 5.20591% of dT total runtime
+Integration: 20.9708316 seconds, 8.25718% of dT total runtime
+Unpack updates from kT: 0.999389969 seconds, 0.393506% of dT total runtime
+Send to kT buffer: 0.675461765 seconds, 0.26596% of dT total runtime
+Wait for kT update: 182.830422 seconds, 71.9888% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 2.21408 MiB
+kT device memory usage: 192.726 MiB
+dT host memory usage: 2.14675 MiB
+dT device memory usage: 3.09237 MiB
+----------------------------------------
+DEMdemo_ContactChain exiting...

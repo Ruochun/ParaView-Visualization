@@ -1,0 +1,208 @@
+Percentage of grains add up to 1
+
+WARNING! Material property Crr is needed by the force model or is referred to by the user. However, at least one material does not have it defined, so it is defaulted to 0 for that material.
+Please be sure this is intentional.
+
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-0.495, 0.495]
+User-specified Y-dimension range: [-0.495, 0.495]
+User-specified Z-dimension range: [-0.495, 0.495]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 1.187999963760376, 1.187999963760376, 2.375999927520752
+Simulation world X range: [-0.594, 0.594]
+Simulation world Y range: [-0.594, 0.594]
+Simulation world Z range: [-0.594, 1.782]
+The length unit in this simulation is: 8.6438373819719416e-12
+The edge length of a voxel: 5.6648252666491317e-07
+The initial time step size: 1e-06
+The initial edge length of a bin: 0.0069631999731063852
+The initial number of bins: 10000422
+The total number of clumps: 0
+The combined number of component spheres: 0
+The total number of analytical objects: 2
+The total number of meshes: 0
+Grand total number of owners: 2
+The number of material types: 2
+History-based Hertzian contact model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+Current number of clumps: 35712
+Frame: 0
+Frame: 1
+Frame: 2
+Frame: 3
+Frame: 4
+Frame: 5
+Frame: 6
+Frame: 7
+Frame: 8
+Frame: 9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2000010
+Number of updates dynamic gets: 170986
+Number of updates kinematic gets: 170986
+Average steps per dynamic update: 11.69692
+Average steps contact detection lags behind: 23.39242
+Number of times dynamic held back: 11970
+-----------------------------
+Current number of clumps: 71424
+Frame: 10
+Frame: 11
+Frame: 12
+Frame: 13
+Frame: 14
+Frame: 15
+Frame: 16
+Frame: 17
+Frame: 18
+Frame: 19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 4000020
+Number of updates dynamic gets: 310372
+Number of updates kinematic gets: 310372
+Average steps per dynamic update: 12.88782
+Average steps contact detection lags behind: 25.77388
+Number of times dynamic held back: 19771
+-----------------------------
+Current number of clumps: 107136
+Frame: 20
+Frame: 21
+Frame: 22
+Frame: 23
+Frame: 24
+Frame: 25
+Frame: 26
+Frame: 27
+Frame: 28
+Frame: 29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 6000030
+Number of updates dynamic gets: 440978
+Number of updates kinematic gets: 440978
+Average steps per dynamic update: 13.60619
+Average steps contact detection lags behind: 27.21046
+Number of times dynamic held back: 21483
+-----------------------------
+Current number of clumps: 142848
+Frame: 30
+Frame: 31
+Frame: 32
+Frame: 33
+Frame: 34
+Frame: 35
+Frame: 36
+Frame: 37
+Frame: 38
+Frame: 39
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 8000040
+Number of updates dynamic gets: 568498
+Number of updates kinematic gets: 568498
+Average steps per dynamic update: 14.07224
+Average steps contact detection lags behind: 28.14241
+Number of times dynamic held back: 22607
+-----------------------------
+Current number of clumps: 178560
+Frame: 40
+Frame: 41
+Frame: 42
+Frame: 43
+Frame: 44
+Frame: 45
+Frame: 46
+Frame: 47
+Frame: 48
+Frame: 49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 10000050
+Number of updates dynamic gets: 703610
+Number of updates kinematic gets: 703610
+Average steps per dynamic update: 14.21249
+Average steps contact detection lags behind: 28.4229
+Number of times dynamic held back: 23768
+-----------------------------
+Current number of clumps: 214272
+Frame: 50
+Frame: 51
+Frame: 52
+Frame: 53
+Frame: 54
+Frame: 55
+Frame: 56
+Frame: 57
+Frame: 58
+Frame: 59
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 12000060
+Number of updates dynamic gets: 846188
+Number of updates kinematic gets: 846188
+Average steps per dynamic update: 14.18132
+Average steps contact detection lags behind: 28.36056
+Number of times dynamic held back: 24600
+-----------------------------
+Current number of clumps: 249984
+Frame: 60
+Frame: 61
+Frame: 62
+Frame: 63
+Frame: 64
+Frame: 65
+Frame: 66
+Frame: 67
+Frame: 68
+Frame: 69
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 14000070
+Number of updates dynamic gets: 995184
+Number of updates kinematic gets: 995184
+Average steps per dynamic update: 14.06782
+Average steps contact detection lags behind: 28.13356
+Number of times dynamic held back: 24738
+-----------------------------
+Current number of clumps: 285696
+Frame: 70
+Frame: 71
+Frame: 72
+Frame: 73
+Frame: 74
+Frame: 75
+Frame: 76
+Frame: 77
+Frame: 78
+Frame: 79
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 16000080
+Number of updates dynamic gets: 1153544
+Number of updates kinematic gets: 1153544
+Average steps per dynamic update: 13.87037
+Average steps contact detection lags behind: 27.73871
+Number of times dynamic held back: 24738
+-----------------------------
+43606.9 seconds (wall time) to finish the simulation
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 17000081
+Number of updates dynamic gets: 1234984
+Number of updates kinematic gets: 1234984
+Average steps per dynamic update: 13.76543
+Average steps contact detection lags behind: 27.52892
+Number of times dynamic held back: 24738
+-----------------------------
+----------------------------------------
+kT host memory usage: 66.1928 MiB
+kT device memory usage: 340.195 MiB
+dT host memory usage: 193.989 MiB
+dT device memory usage: 269.696 MiB
+----------------------------------------
+DEMdemo_GRCPrep_Part1 exiting...

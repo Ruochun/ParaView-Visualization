@@ -1,0 +1,2113 @@
+Total num of particles: 15211
+Total num of spheres: 91266
+Total num of triangles: 866
+
+WARNING! Some clumps do not have their family numbers specified, so defaulted to 0
+
+
+WARNING! Geometry wildcard Q is needed by force model, yet not specified for a mesh.
+Their initial values are defauled to 0.
+
+
+
+Number of total active devices: 2
+User-specified X-dimension range: [-1, 1]
+User-specified Y-dimension range: [-1, 1]
+User-specified Z-dimension range: [-1, 1]
+User-specified dimensions should NOT be larger than the following simulation world.
+The dimension of the simulation world: 2.4000000953674316, 2.4000000953674316, 4.8000001907348633
+Simulation world X range: [-1.2, 1.2]
+Simulation world Y range: [-1.2, 1.2]
+Simulation world Z range: [-1.2, 3.6]
+The length unit in this simulation is: 1.7462298967929613e-11
+The edge length of a voxel: 1.1444092251622351e-06
+The initial time step size: 5e-06
+The initial edge length of a bin: 0.028799999356269833
+The initial number of bins: 1178352
+The total number of clumps: 15211
+The combined number of component spheres: 91266
+The total number of analytical objects: 1
+The total number of meshes: 1
+Grand total number of owners: 15213
+The number of material types: 2
+A user-custom force model is in use.
+The solver to set to adaptively change the contact margin size.
+
+
+Output at 20 FPS
+Outputting frame: 0
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 0
+Number of updates dynamic gets: 0
+Number of updates kinematic gets: 0
+Number of times dynamic held back: 0
+-----------------------------
+Outputting frame: 1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 10001
+Number of updates dynamic gets: 272
+Number of updates kinematic gets: 272
+Average steps per dynamic update: 36.76838
+Average steps contact detection lags behind: 73.05515
+Number of times dynamic held back: 253
+-----------------------------
+Outputting frame: 2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 20002
+Number of updates dynamic gets: 463
+Number of updates kinematic gets: 463
+Average steps per dynamic update: 43.20086
+Average steps contact detection lags behind: 86.25702
+Number of times dynamic held back: 341
+-----------------------------
+Outputting frame: 3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 30003
+Number of updates dynamic gets: 650
+Number of updates kinematic gets: 650
+Average steps per dynamic update: 46.15846
+Average steps contact detection lags behind: 92.14769
+Number of times dynamic held back: 387
+-----------------------------
+Outputting frame: 4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 40004
+Number of updates dynamic gets: 849
+Number of updates kinematic gets: 849
+Average steps per dynamic update: 47.11896
+Average steps contact detection lags behind: 94.11425
+Number of times dynamic held back: 405
+-----------------------------
+Outputting frame: 5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 50005
+Number of updates dynamic gets: 1064
+Number of updates kinematic gets: 1064
+Average steps per dynamic update: 46.99718
+Average steps contact detection lags behind: 93.87594
+Number of times dynamic held back: 416
+-----------------------------
+Outputting frame: 6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 60006
+Number of updates dynamic gets: 1288
+Number of updates kinematic gets: 1288
+Average steps per dynamic update: 46.58851
+Average steps contact detection lags behind: 93.10093
+Number of times dynamic held back: 423
+-----------------------------
+Outputting frame: 7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 70007
+Number of updates dynamic gets: 1531
+Number of updates kinematic gets: 1531
+Average steps per dynamic update: 45.72632
+Average steps contact detection lags behind: 91.36643
+Number of times dynamic held back: 437
+-----------------------------
+Outputting frame: 8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 80008
+Number of updates dynamic gets: 1775
+Number of updates kinematic gets: 1775
+Average steps per dynamic update: 45.07493
+Average steps contact detection lags behind: 90.11155
+Number of times dynamic held back: 442
+-----------------------------
+Outputting frame: 9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 90009
+Number of updates dynamic gets: 2070
+Number of updates kinematic gets: 2070
+Average steps per dynamic update: 43.48261
+Average steps contact detection lags behind: 86.92995
+Number of times dynamic held back: 442
+-----------------------------
+Outputting frame: 10
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 100010
+Number of updates dynamic gets: 2383
+Number of updates kinematic gets: 2383
+Average steps per dynamic update: 41.96811
+Average steps contact detection lags behind: 83.89719
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 11
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 110011
+Number of updates dynamic gets: 2691
+Number of updates kinematic gets: 2691
+Average steps per dynamic update: 40.88109
+Average steps contact detection lags behind: 81.72761
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 12
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 120012
+Number of updates dynamic gets: 3008
+Number of updates kinematic gets: 3008
+Average steps per dynamic update: 39.89761
+Average steps contact detection lags behind: 79.77128
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 13
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 130013
+Number of updates dynamic gets: 3318
+Number of updates kinematic gets: 3318
+Average steps per dynamic update: 39.18415
+Average steps contact detection lags behind: 78.35232
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 14
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 140014
+Number of updates dynamic gets: 3601
+Number of updates kinematic gets: 3601
+Average steps per dynamic update: 38.88198
+Average steps contact detection lags behind: 77.73952
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 15
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 150015
+Number of updates dynamic gets: 3891
+Number of updates kinematic gets: 3891
+Average steps per dynamic update: 38.55436
+Average steps contact detection lags behind: 77.08764
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 16
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 160016
+Number of updates dynamic gets: 4209
+Number of updates kinematic gets: 4209
+Average steps per dynamic update: 38.01758
+Average steps contact detection lags behind: 76.02091
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 17
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 170017
+Number of updates dynamic gets: 4522
+Number of updates kinematic gets: 4522
+Average steps per dynamic update: 37.59774
+Average steps contact detection lags behind: 75.17514
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 18
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 180018
+Number of updates dynamic gets: 4842
+Number of updates kinematic gets: 4842
+Average steps per dynamic update: 37.17844
+Average steps contact detection lags behind: 74.34655
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 190019
+Number of updates dynamic gets: 5162
+Number of updates kinematic gets: 5162
+Average steps per dynamic update: 36.81112
+Average steps contact detection lags behind: 73.611
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 20
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 200020
+Number of updates dynamic gets: 5477
+Number of updates kinematic gets: 5477
+Average steps per dynamic update: 36.51999
+Average steps contact detection lags behind: 73.02374
+Number of times dynamic held back: 446
+-----------------------------
+Outputting frame: 21
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 210020
+Number of updates dynamic gets: 5803
+Number of updates kinematic gets: 5803
+Average steps per dynamic update: 36.19163
+Average steps contact detection lags behind: 72.35499
+Number of times dynamic held back: 447
+-----------------------------
+Outputting frame: 22
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 220020
+Number of updates dynamic gets: 6111
+Number of updates kinematic gets: 6111
+Average steps per dynamic update: 36.00393
+Average steps contact detection lags behind: 71.9856
+Number of times dynamic held back: 447
+-----------------------------
+Outputting frame: 23
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 230020
+Number of updates dynamic gets: 6402
+Number of updates kinematic gets: 6402
+Average steps per dynamic update: 35.9294
+Average steps contact detection lags behind: 71.83724
+Number of times dynamic held back: 447
+-----------------------------
+Outputting frame: 24
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 240020
+Number of updates dynamic gets: 6658
+Number of updates kinematic gets: 6658
+Average steps per dynamic update: 36.04986
+Average steps contact detection lags behind: 72.07945
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 25
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 250020
+Number of updates dynamic gets: 6934
+Number of updates kinematic gets: 6934
+Average steps per dynamic update: 36.05711
+Average steps contact detection lags behind: 72.09475
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 26
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 260020
+Number of updates dynamic gets: 7233
+Number of updates kinematic gets: 7233
+Average steps per dynamic update: 35.94912
+Average steps contact detection lags behind: 71.87999
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 27
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 270020
+Number of updates dynamic gets: 7532
+Number of updates kinematic gets: 7532
+Average steps per dynamic update: 35.84971
+Average steps contact detection lags behind: 71.68016
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 28
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 280020
+Number of updates dynamic gets: 7822
+Number of updates kinematic gets: 7822
+Average steps per dynamic update: 35.79903
+Average steps contact detection lags behind: 71.57696
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 290020
+Number of updates dynamic gets: 8103
+Number of updates kinematic gets: 8103
+Average steps per dynamic update: 35.79168
+Average steps contact detection lags behind: 71.56695
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 30
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 300020
+Number of updates dynamic gets: 8372
+Number of updates kinematic gets: 8372
+Average steps per dynamic update: 35.83612
+Average steps contact detection lags behind: 71.64907
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 31
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 310020
+Number of updates dynamic gets: 8664
+Number of updates kinematic gets: 8664
+Average steps per dynamic update: 35.78255
+Average steps contact detection lags behind: 71.5464
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 32
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 320020
+Number of updates dynamic gets: 8948
+Number of updates kinematic gets: 8948
+Average steps per dynamic update: 35.76442
+Average steps contact detection lags behind: 71.51363
+Number of times dynamic held back: 454
+-----------------------------
+Outputting frame: 33
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 330020
+Number of updates dynamic gets: 9208
+Number of updates kinematic gets: 9208
+Average steps per dynamic update: 35.84057
+Average steps contact detection lags behind: 71.66084
+Number of times dynamic held back: 455
+-----------------------------
+Outputting frame: 34
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 340020
+Number of updates dynamic gets: 9445
+Number of updates kinematic gets: 9445
+Average steps per dynamic update: 36
+Average steps contact detection lags behind: 71.9766
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 35
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 350020
+Number of updates dynamic gets: 9693
+Number of updates kinematic gets: 9693
+Average steps per dynamic update: 36.1106
+Average steps contact detection lags behind: 72.20644
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 36
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 360020
+Number of updates dynamic gets: 9974
+Number of updates kinematic gets: 9974
+Average steps per dynamic update: 36.09585
+Average steps contact detection lags behind: 72.17395
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 37
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 370020
+Number of updates dynamic gets: 10265
+Number of updates kinematic gets: 10265
+Average steps per dynamic update: 36.04676
+Average steps contact detection lags behind: 72.08018
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 38
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 380020
+Number of updates dynamic gets: 10540
+Number of updates kinematic gets: 10540
+Average steps per dynamic update: 36.05503
+Average steps contact detection lags behind: 72.09431
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 39
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 390020
+Number of updates dynamic gets: 10805
+Number of updates kinematic gets: 10805
+Average steps per dynamic update: 36.09625
+Average steps contact detection lags behind: 72.17529
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 40
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 400020
+Number of updates dynamic gets: 11072
+Number of updates kinematic gets: 11072
+Average steps per dynamic update: 36.12897
+Average steps contact detection lags behind: 72.24052
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 41
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 410020
+Number of updates dynamic gets: 11351
+Number of updates kinematic gets: 11351
+Average steps per dynamic update: 36.12193
+Average steps contact detection lags behind: 72.22985
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 42
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 420020
+Number of updates dynamic gets: 11624
+Number of updates kinematic gets: 11624
+Average steps per dynamic update: 36.13386
+Average steps contact detection lags behind: 72.2512
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 43
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 430020
+Number of updates dynamic gets: 11893
+Number of updates kinematic gets: 11893
+Average steps per dynamic update: 36.1574
+Average steps contact detection lags behind: 72.30186
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 44
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 440020
+Number of updates dynamic gets: 12168
+Number of updates kinematic gets: 12168
+Average steps per dynamic update: 36.16206
+Average steps contact detection lags behind: 72.31049
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 45
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 450020
+Number of updates dynamic gets: 12452
+Number of updates kinematic gets: 12452
+Average steps per dynamic update: 36.14038
+Average steps contact detection lags behind: 72.27056
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 46
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 460020
+Number of updates dynamic gets: 12734
+Number of updates kinematic gets: 12734
+Average steps per dynamic update: 36.12533
+Average steps contact detection lags behind: 72.24022
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 47
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 470020
+Number of updates dynamic gets: 13007
+Number of updates kinematic gets: 13007
+Average steps per dynamic update: 36.13593
+Average steps contact detection lags behind: 72.25963
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 48
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 480020
+Number of updates dynamic gets: 13287
+Number of updates kinematic gets: 13287
+Average steps per dynamic update: 36.12704
+Average steps contact detection lags behind: 72.24294
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 490020
+Number of updates dynamic gets: 13568
+Number of updates kinematic gets: 13568
+Average steps per dynamic update: 36.11586
+Average steps contact detection lags behind: 72.2203
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 50
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 500020
+Number of updates dynamic gets: 13841
+Number of updates kinematic gets: 13841
+Average steps per dynamic update: 36.126
+Average steps contact detection lags behind: 72.23849
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 51
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 510020
+Number of updates dynamic gets: 14114
+Number of updates kinematic gets: 14114
+Average steps per dynamic update: 36.13575
+Average steps contact detection lags behind: 72.26229
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 52
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 520020
+Number of updates dynamic gets: 14400
+Number of updates kinematic gets: 14400
+Average steps per dynamic update: 36.1125
+Average steps contact detection lags behind: 72.21403
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 53
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 530020
+Number of updates dynamic gets: 14674
+Number of updates kinematic gets: 14674
+Average steps per dynamic update: 36.11967
+Average steps contact detection lags behind: 72.22857
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 54
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 540020
+Number of updates dynamic gets: 14931
+Number of updates kinematic gets: 14931
+Average steps per dynamic update: 36.1677
+Average steps contact detection lags behind: 72.32268
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 55
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 550020
+Number of updates dynamic gets: 15175
+Number of updates kinematic gets: 15175
+Average steps per dynamic update: 36.24514
+Average steps contact detection lags behind: 72.48013
+Number of times dynamic held back: 457
+-----------------------------
+Outputting frame: 56
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 560020
+Number of updates dynamic gets: 15406
+Number of updates kinematic gets: 15406
+Average steps per dynamic update: 36.35077
+Average steps contact detection lags behind: 72.69265
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 57
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 570020
+Number of updates dynamic gets: 15651
+Number of updates kinematic gets: 15651
+Average steps per dynamic update: 36.42068
+Average steps contact detection lags behind: 72.82902
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 58
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 580020
+Number of updates dynamic gets: 15926
+Number of updates kinematic gets: 15926
+Average steps per dynamic update: 36.41969
+Average steps contact detection lags behind: 72.82871
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 59
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 590020
+Number of updates dynamic gets: 16212
+Number of updates kinematic gets: 16212
+Average steps per dynamic update: 36.39403
+Average steps contact detection lags behind: 72.77831
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 60
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 600020
+Number of updates dynamic gets: 16488
+Number of updates kinematic gets: 16488
+Average steps per dynamic update: 36.39131
+Average steps contact detection lags behind: 72.77165
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 61
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 610020
+Number of updates dynamic gets: 16759
+Number of updates kinematic gets: 16759
+Average steps per dynamic update: 36.39955
+Average steps contact detection lags behind: 72.78877
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 62
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 620020
+Number of updates dynamic gets: 17046
+Number of updates kinematic gets: 17046
+Average steps per dynamic update: 36.37334
+Average steps contact detection lags behind: 72.73753
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 63
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 630020
+Number of updates dynamic gets: 17331
+Number of updates kinematic gets: 17331
+Average steps per dynamic update: 36.3522
+Average steps contact detection lags behind: 72.69327
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 64
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 640020
+Number of updates dynamic gets: 17607
+Number of updates kinematic gets: 17607
+Average steps per dynamic update: 36.35032
+Average steps contact detection lags behind: 72.69205
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 65
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 650020
+Number of updates dynamic gets: 17867
+Number of updates kinematic gets: 17867
+Average steps per dynamic update: 36.38104
+Average steps contact detection lags behind: 72.75368
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 66
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 660020
+Number of updates dynamic gets: 18118
+Number of updates kinematic gets: 18118
+Average steps per dynamic update: 36.42897
+Average steps contact detection lags behind: 72.8507
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 67
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 670020
+Number of updates dynamic gets: 18395
+Number of updates kinematic gets: 18395
+Average steps per dynamic update: 36.42403
+Average steps contact detection lags behind: 72.84055
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 68
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 680020
+Number of updates dynamic gets: 18682
+Number of updates kinematic gets: 18682
+Average steps per dynamic update: 36.39974
+Average steps contact detection lags behind: 72.79071
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 69
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 690020
+Number of updates dynamic gets: 18962
+Number of updates kinematic gets: 18962
+Average steps per dynamic update: 36.38962
+Average steps contact detection lags behind: 72.77107
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 70
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 700020
+Number of updates dynamic gets: 19243
+Number of updates kinematic gets: 19243
+Average steps per dynamic update: 36.3779
+Average steps contact detection lags behind: 72.74723
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 71
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 710020
+Number of updates dynamic gets: 19534
+Number of updates kinematic gets: 19534
+Average steps per dynamic update: 36.34791
+Average steps contact detection lags behind: 72.6888
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 72
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 720020
+Number of updates dynamic gets: 19828
+Number of updates kinematic gets: 19828
+Average steps per dynamic update: 36.31329
+Average steps contact detection lags behind: 72.61958
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 73
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 730020
+Number of updates dynamic gets: 20114
+Number of updates kinematic gets: 20114
+Average steps per dynamic update: 36.29412
+Average steps contact detection lags behind: 72.58089
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 74
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 740020
+Number of updates dynamic gets: 20403
+Number of updates kinematic gets: 20403
+Average steps per dynamic update: 36.27016
+Average steps contact detection lags behind: 72.53428
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 75
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 750020
+Number of updates dynamic gets: 20690
+Number of updates kinematic gets: 20690
+Average steps per dynamic update: 36.25036
+Average steps contact detection lags behind: 72.49377
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 76
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 760020
+Number of updates dynamic gets: 20979
+Number of updates kinematic gets: 20979
+Average steps per dynamic update: 36.22766
+Average steps contact detection lags behind: 72.44649
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 77
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 770020
+Number of updates dynamic gets: 21270
+Number of updates kinematic gets: 21270
+Average steps per dynamic update: 36.20216
+Average steps contact detection lags behind: 72.39793
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 78
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 780020
+Number of updates dynamic gets: 21550
+Number of updates kinematic gets: 21550
+Average steps per dynamic update: 36.19582
+Average steps contact detection lags behind: 72.3852
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 79
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 790020
+Number of updates dynamic gets: 21821
+Number of updates kinematic gets: 21821
+Average steps per dynamic update: 36.20457
+Average steps contact detection lags behind: 72.40159
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 80
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 800020
+Number of updates dynamic gets: 22074
+Number of updates kinematic gets: 22074
+Average steps per dynamic update: 36.24264
+Average steps contact detection lags behind: 72.47912
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 81
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 810020
+Number of updates dynamic gets: 22321
+Number of updates kinematic gets: 22321
+Average steps per dynamic update: 36.28959
+Average steps contact detection lags behind: 72.573
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 82
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 820020
+Number of updates dynamic gets: 22555
+Number of updates kinematic gets: 22555
+Average steps per dynamic update: 36.35646
+Average steps contact detection lags behind: 72.70605
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 83
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 830020
+Number of updates dynamic gets: 22788
+Number of updates kinematic gets: 22788
+Average steps per dynamic update: 36.42356
+Average steps contact detection lags behind: 72.83983
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 84
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 840020
+Number of updates dynamic gets: 23055
+Number of updates kinematic gets: 23055
+Average steps per dynamic update: 36.43548
+Average steps contact detection lags behind: 72.86389
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 85
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 850020
+Number of updates dynamic gets: 23341
+Number of updates kinematic gets: 23341
+Average steps per dynamic update: 36.41746
+Average steps contact detection lags behind: 72.8267
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 86
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 860020
+Number of updates dynamic gets: 23625
+Number of updates kinematic gets: 23625
+Average steps per dynamic update: 36.40296
+Average steps contact detection lags behind: 72.79953
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 87
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 870020
+Number of updates dynamic gets: 23897
+Number of updates kinematic gets: 23897
+Average steps per dynamic update: 36.40708
+Average steps contact detection lags behind: 72.80759
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 88
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 880020
+Number of updates dynamic gets: 24166
+Number of updates kinematic gets: 24166
+Average steps per dynamic update: 36.41563
+Average steps contact detection lags behind: 72.82492
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 89
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 890020
+Number of updates dynamic gets: 24454
+Number of updates kinematic gets: 24454
+Average steps per dynamic update: 36.39568
+Average steps contact detection lags behind: 72.78413
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 90
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 900020
+Number of updates dynamic gets: 24734
+Number of updates kinematic gets: 24734
+Average steps per dynamic update: 36.38797
+Average steps contact detection lags behind: 72.76999
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 91
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 910020
+Number of updates dynamic gets: 24993
+Number of updates kinematic gets: 24993
+Average steps per dynamic update: 36.411
+Average steps contact detection lags behind: 72.81467
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 92
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 920020
+Number of updates dynamic gets: 25240
+Number of updates kinematic gets: 25240
+Average steps per dynamic update: 36.45087
+Average steps contact detection lags behind: 72.89616
+Number of times dynamic held back: 466
+-----------------------------
+Outputting frame: 93
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 930020
+Number of updates dynamic gets: 25462
+Number of updates kinematic gets: 25462
+Average steps per dynamic update: 36.5258
+Average steps contact detection lags behind: 73.04387
+Number of times dynamic held back: 470
+-----------------------------
+Outputting frame: 94
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 940020
+Number of updates dynamic gets: 25678
+Number of updates kinematic gets: 25678
+Average steps per dynamic update: 36.60799
+Average steps contact detection lags behind: 73.21041
+Number of times dynamic held back: 476
+-----------------------------
+Outputting frame: 95
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 950020
+Number of updates dynamic gets: 25930
+Number of updates kinematic gets: 25930
+Average steps per dynamic update: 36.63787
+Average steps contact detection lags behind: 73.26865
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 96
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 960020
+Number of updates dynamic gets: 26209
+Number of updates kinematic gets: 26209
+Average steps per dynamic update: 36.6294
+Average steps contact detection lags behind: 73.25243
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 97
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 970020
+Number of updates dynamic gets: 26488
+Number of updates kinematic gets: 26488
+Average steps per dynamic update: 36.62111
+Average steps contact detection lags behind: 73.23562
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 98
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 980020
+Number of updates dynamic gets: 26760
+Number of updates kinematic gets: 26760
+Average steps per dynamic update: 36.62257
+Average steps contact detection lags behind: 73.24006
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 99
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 990020
+Number of updates dynamic gets: 27043
+Number of updates kinematic gets: 27043
+Average steps per dynamic update: 36.6091
+Average steps contact detection lags behind: 73.21115
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 100
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1000020
+Number of updates dynamic gets: 27321
+Number of updates kinematic gets: 27321
+Average steps per dynamic update: 36.60261
+Average steps contact detection lags behind: 73.20018
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 101
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1010020
+Number of updates dynamic gets: 27586
+Number of updates kinematic gets: 27586
+Average steps per dynamic update: 36.6135
+Average steps contact detection lags behind: 73.22113
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 102
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1020020
+Number of updates dynamic gets: 27865
+Number of updates kinematic gets: 27865
+Average steps per dynamic update: 36.60578
+Average steps contact detection lags behind: 73.20682
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 103
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1030020
+Number of updates dynamic gets: 28142
+Number of updates kinematic gets: 28142
+Average steps per dynamic update: 36.60081
+Average steps contact detection lags behind: 73.19547
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 104
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1040020
+Number of updates dynamic gets: 28403
+Number of updates kinematic gets: 28403
+Average steps per dynamic update: 36.61655
+Average steps contact detection lags behind: 73.2285
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 105
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1050020
+Number of updates dynamic gets: 28651
+Number of updates kinematic gets: 28651
+Average steps per dynamic update: 36.64863
+Average steps contact detection lags behind: 73.29091
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 106
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1060020
+Number of updates dynamic gets: 28921
+Number of updates kinematic gets: 28921
+Average steps per dynamic update: 36.65226
+Average steps contact detection lags behind: 73.29874
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 107
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1070020
+Number of updates dynamic gets: 29200
+Number of updates kinematic gets: 29200
+Average steps per dynamic update: 36.64452
+Average steps contact detection lags behind: 73.28312
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 108
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1080020
+Number of updates dynamic gets: 29472
+Number of updates kinematic gets: 29472
+Average steps per dynamic update: 36.64563
+Average steps contact detection lags behind: 73.2858
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 109
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1090020
+Number of updates dynamic gets: 29754
+Number of updates kinematic gets: 29754
+Average steps per dynamic update: 36.6344
+Average steps contact detection lags behind: 73.26289
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 110
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1100020
+Number of updates dynamic gets: 30034
+Number of updates kinematic gets: 30034
+Average steps per dynamic update: 36.62582
+Average steps contact detection lags behind: 73.24742
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 111
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1110020
+Number of updates dynamic gets: 30311
+Number of updates kinematic gets: 30311
+Average steps per dynamic update: 36.62103
+Average steps contact detection lags behind: 73.23609
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 112
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1120020
+Number of updates dynamic gets: 30591
+Number of updates kinematic gets: 30591
+Average steps per dynamic update: 36.61273
+Average steps contact detection lags behind: 73.22121
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 113
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1130020
+Number of updates dynamic gets: 30870
+Number of updates kinematic gets: 30870
+Average steps per dynamic update: 36.60577
+Average steps contact detection lags behind: 73.20599
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 114
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1140020
+Number of updates dynamic gets: 31149
+Number of updates kinematic gets: 31149
+Average steps per dynamic update: 36.59893
+Average steps contact detection lags behind: 73.19314
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 115
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1150020
+Number of updates dynamic gets: 31430
+Number of updates kinematic gets: 31430
+Average steps per dynamic update: 36.58988
+Average steps contact detection lags behind: 73.17502
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 116
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1160020
+Number of updates dynamic gets: 31709
+Number of updates kinematic gets: 31709
+Average steps per dynamic update: 36.5833
+Average steps contact detection lags behind: 73.16241
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 117
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1170020
+Number of updates dynamic gets: 31986
+Number of updates kinematic gets: 31986
+Average steps per dynamic update: 36.57913
+Average steps contact detection lags behind: 73.15247
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 118
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1180020
+Number of updates dynamic gets: 32261
+Number of updates kinematic gets: 32261
+Average steps per dynamic update: 36.57729
+Average steps contact detection lags behind: 73.14888
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 119
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1190020
+Number of updates dynamic gets: 32529
+Number of updates kinematic gets: 32529
+Average steps per dynamic update: 36.58336
+Average steps contact detection lags behind: 73.16219
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 120
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1200020
+Number of updates dynamic gets: 32783
+Number of updates kinematic gets: 32783
+Average steps per dynamic update: 36.60495
+Average steps contact detection lags behind: 73.20578
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 121
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1210020
+Number of updates dynamic gets: 33024
+Number of updates kinematic gets: 33024
+Average steps per dynamic update: 36.64062
+Average steps contact detection lags behind: 73.27528
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 122
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1220020
+Number of updates dynamic gets: 33281
+Number of updates kinematic gets: 33281
+Average steps per dynamic update: 36.65815
+Average steps contact detection lags behind: 73.31033
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 123
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1230020
+Number of updates dynamic gets: 33559
+Number of updates kinematic gets: 33559
+Average steps per dynamic update: 36.65246
+Average steps contact detection lags behind: 73.30025
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 124
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1240020
+Number of updates dynamic gets: 33832
+Number of updates kinematic gets: 33832
+Average steps per dynamic update: 36.65228
+Average steps contact detection lags behind: 73.29954
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 125
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1250020
+Number of updates dynamic gets: 34090
+Number of updates kinematic gets: 34090
+Average steps per dynamic update: 36.66823
+Average steps contact detection lags behind: 73.332
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 126
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1260020
+Number of updates dynamic gets: 34355
+Number of updates kinematic gets: 34355
+Average steps per dynamic update: 36.67647
+Average steps contact detection lags behind: 73.34775
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 127
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1270020
+Number of updates dynamic gets: 34632
+Number of updates kinematic gets: 34632
+Average steps per dynamic update: 36.67186
+Average steps contact detection lags behind: 73.33821
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 128
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1280020
+Number of updates dynamic gets: 34907
+Number of updates kinematic gets: 34907
+Average steps per dynamic update: 36.66944
+Average steps contact detection lags behind: 73.33429
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 129
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1290020
+Number of updates dynamic gets: 35179
+Number of updates kinematic gets: 35179
+Average steps per dynamic update: 36.67017
+Average steps contact detection lags behind: 73.33492
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 130
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1300020
+Number of updates dynamic gets: 35459
+Number of updates kinematic gets: 35459
+Average steps per dynamic update: 36.66262
+Average steps contact detection lags behind: 73.3202
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 131
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1310020
+Number of updates dynamic gets: 35733
+Number of updates kinematic gets: 35733
+Average steps per dynamic update: 36.66135
+Average steps contact detection lags behind: 73.31755
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 132
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1320020
+Number of updates dynamic gets: 36010
+Number of updates kinematic gets: 36010
+Average steps per dynamic update: 36.65704
+Average steps contact detection lags behind: 73.30944
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 133
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1330020
+Number of updates dynamic gets: 36290
+Number of updates kinematic gets: 36290
+Average steps per dynamic update: 36.64977
+Average steps contact detection lags behind: 73.29438
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 134
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1340020
+Number of updates dynamic gets: 36565
+Number of updates kinematic gets: 36565
+Average steps per dynamic update: 36.64761
+Average steps contact detection lags behind: 73.29063
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 135
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1350020
+Number of updates dynamic gets: 36837
+Number of updates kinematic gets: 36837
+Average steps per dynamic update: 36.64848
+Average steps contact detection lags behind: 73.2925
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 136
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1360020
+Number of updates dynamic gets: 37116
+Number of updates kinematic gets: 37116
+Average steps per dynamic update: 36.64242
+Average steps contact detection lags behind: 73.28101
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 137
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1370020
+Number of updates dynamic gets: 37392
+Number of updates kinematic gets: 37392
+Average steps per dynamic update: 36.63939
+Average steps contact detection lags behind: 73.27434
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 138
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1380020
+Number of updates dynamic gets: 37660
+Number of updates kinematic gets: 37660
+Average steps per dynamic update: 36.64418
+Average steps contact detection lags behind: 73.28431
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 139
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1390020
+Number of updates dynamic gets: 37919
+Number of updates kinematic gets: 37919
+Average steps per dynamic update: 36.65761
+Average steps contact detection lags behind: 73.30995
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 140
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1400020
+Number of updates dynamic gets: 38179
+Number of updates kinematic gets: 38179
+Average steps per dynamic update: 36.6699
+Average steps contact detection lags behind: 73.33621
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 141
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1410020
+Number of updates dynamic gets: 38453
+Number of updates kinematic gets: 38453
+Average steps per dynamic update: 36.66866
+Average steps contact detection lags behind: 73.33306
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 142
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1420020
+Number of updates dynamic gets: 38729
+Number of updates kinematic gets: 38729
+Average steps per dynamic update: 36.66555
+Average steps contact detection lags behind: 73.32774
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 143
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1430020
+Number of updates dynamic gets: 38995
+Number of updates kinematic gets: 38995
+Average steps per dynamic update: 36.67188
+Average steps contact detection lags behind: 73.33994
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 144
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1440020
+Number of updates dynamic gets: 39263
+Number of updates kinematic gets: 39263
+Average steps per dynamic update: 36.67626
+Average steps contact detection lags behind: 73.34893
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 145
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1450020
+Number of updates dynamic gets: 39541
+Number of updates kinematic gets: 39541
+Average steps per dynamic update: 36.6713
+Average steps contact detection lags behind: 73.33907
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 146
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1460020
+Number of updates dynamic gets: 39809
+Number of updates kinematic gets: 39809
+Average steps per dynamic update: 36.67563
+Average steps contact detection lags behind: 73.34799
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 147
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1470020
+Number of updates dynamic gets: 40062
+Number of updates kinematic gets: 40062
+Average steps per dynamic update: 36.69362
+Average steps contact detection lags behind: 73.3839
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 148
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1480020
+Number of updates dynamic gets: 40309
+Number of updates kinematic gets: 40309
+Average steps per dynamic update: 36.71686
+Average steps contact detection lags behind: 73.43047
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 149
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1490020
+Number of updates dynamic gets: 40575
+Number of updates kinematic gets: 40575
+Average steps per dynamic update: 36.72261
+Average steps contact detection lags behind: 73.44081
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 150
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1500020
+Number of updates dynamic gets: 40854
+Number of updates kinematic gets: 40854
+Average steps per dynamic update: 36.7166
+Average steps contact detection lags behind: 73.42955
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 151
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1510020
+Number of updates dynamic gets: 41124
+Number of updates kinematic gets: 41124
+Average steps per dynamic update: 36.7187
+Average steps contact detection lags behind: 73.43269
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 152
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1520020
+Number of updates dynamic gets: 41402
+Number of updates kinematic gets: 41402
+Average steps per dynamic update: 36.71369
+Average steps contact detection lags behind: 73.42384
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 153
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1530020
+Number of updates dynamic gets: 41688
+Number of updates kinematic gets: 41688
+Average steps per dynamic update: 36.70169
+Average steps contact detection lags behind: 73.39901
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 154
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1540020
+Number of updates dynamic gets: 41975
+Number of updates kinematic gets: 41975
+Average steps per dynamic update: 36.68898
+Average steps contact detection lags behind: 73.37396
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 155
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1550020
+Number of updates dynamic gets: 42260
+Number of updates kinematic gets: 42260
+Average steps per dynamic update: 36.67818
+Average steps contact detection lags behind: 73.35256
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 156
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1560020
+Number of updates dynamic gets: 42535
+Number of updates kinematic gets: 42535
+Average steps per dynamic update: 36.67615
+Average steps contact detection lags behind: 73.34804
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 157
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1570020
+Number of updates dynamic gets: 42819
+Number of updates kinematic gets: 42819
+Average steps per dynamic update: 36.66643
+Average steps contact detection lags behind: 73.32871
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 158
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1580020
+Number of updates dynamic gets: 43106
+Number of updates kinematic gets: 43106
+Average steps per dynamic update: 36.65429
+Average steps contact detection lags behind: 73.30462
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 159
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1590020
+Number of updates dynamic gets: 43389
+Number of updates kinematic gets: 43389
+Average steps per dynamic update: 36.64569
+Average steps contact detection lags behind: 73.28763
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 160
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1600020
+Number of updates dynamic gets: 43666
+Number of updates kinematic gets: 43666
+Average steps per dynamic update: 36.64224
+Average steps contact detection lags behind: 73.28006
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 161
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1610020
+Number of updates dynamic gets: 43941
+Number of updates kinematic gets: 43941
+Average steps per dynamic update: 36.6405
+Average steps contact detection lags behind: 73.2778
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 162
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1620020
+Number of updates dynamic gets: 44206
+Number of updates kinematic gets: 44206
+Average steps per dynamic update: 36.64706
+Average steps contact detection lags behind: 73.28987
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 163
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1630020
+Number of updates dynamic gets: 44482
+Number of updates kinematic gets: 44482
+Average steps per dynamic update: 36.64449
+Average steps contact detection lags behind: 73.28618
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 164
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1640020
+Number of updates dynamic gets: 44767
+Number of updates kinematic gets: 44767
+Average steps per dynamic update: 36.63457
+Average steps contact detection lags behind: 73.26589
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 165
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1650020
+Number of updates dynamic gets: 45048
+Number of updates kinematic gets: 45048
+Average steps per dynamic update: 36.62804
+Average steps contact detection lags behind: 73.25275
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 166
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1660020
+Number of updates dynamic gets: 45329
+Number of updates kinematic gets: 45329
+Average steps per dynamic update: 36.62159
+Average steps contact detection lags behind: 73.24002
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 167
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1670020
+Number of updates dynamic gets: 45599
+Number of updates kinematic gets: 45599
+Average steps per dynamic update: 36.62405
+Average steps contact detection lags behind: 73.24382
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 168
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1680020
+Number of updates dynamic gets: 45873
+Number of updates kinematic gets: 45873
+Average steps per dynamic update: 36.62329
+Average steps contact detection lags behind: 73.24247
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 169
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1690020
+Number of updates dynamic gets: 46157
+Number of updates kinematic gets: 46157
+Average steps per dynamic update: 36.6146
+Average steps contact detection lags behind: 73.22649
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 170
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1700020
+Number of updates dynamic gets: 46434
+Number of updates kinematic gets: 46434
+Average steps per dynamic update: 36.61153
+Average steps contact detection lags behind: 73.21919
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 171
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1710020
+Number of updates dynamic gets: 46718
+Number of updates kinematic gets: 46718
+Average steps per dynamic update: 36.60302
+Average steps contact detection lags behind: 73.20187
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 172
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1720020
+Number of updates dynamic gets: 47007
+Number of updates kinematic gets: 47007
+Average steps per dynamic update: 36.59072
+Average steps contact detection lags behind: 73.17816
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 173
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1730020
+Number of updates dynamic gets: 47288
+Number of updates kinematic gets: 47288
+Average steps per dynamic update: 36.58476
+Average steps contact detection lags behind: 73.16579
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 174
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1740020
+Number of updates dynamic gets: 47556
+Number of updates kinematic gets: 47556
+Average steps per dynamic update: 36.58886
+Average steps contact detection lags behind: 73.17504
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 175
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1750020
+Number of updates dynamic gets: 47815
+Number of updates kinematic gets: 47815
+Average steps per dynamic update: 36.59981
+Average steps contact detection lags behind: 73.1958
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 176
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1760020
+Number of updates dynamic gets: 48094
+Number of updates kinematic gets: 48094
+Average steps per dynamic update: 36.59542
+Average steps contact detection lags behind: 73.18788
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 177
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1770020
+Number of updates dynamic gets: 48388
+Number of updates kinematic gets: 48388
+Average steps per dynamic update: 36.57973
+Average steps contact detection lags behind: 73.15587
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 178
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1780020
+Number of updates dynamic gets: 48671
+Number of updates kinematic gets: 48671
+Average steps per dynamic update: 36.5725
+Average steps contact detection lags behind: 73.14128
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 179
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1790020
+Number of updates dynamic gets: 48947
+Number of updates kinematic gets: 48947
+Average steps per dynamic update: 36.57058
+Average steps contact detection lags behind: 73.13754
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 180
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1800020
+Number of updates dynamic gets: 49227
+Number of updates kinematic gets: 49227
+Average steps per dynamic update: 36.56571
+Average steps contact detection lags behind: 73.12771
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 181
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1810020
+Number of updates dynamic gets: 49514
+Number of updates kinematic gets: 49514
+Average steps per dynamic update: 36.55572
+Average steps contact detection lags behind: 73.10813
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 182
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1820020
+Number of updates dynamic gets: 49807
+Number of updates kinematic gets: 49807
+Average steps per dynamic update: 36.54145
+Average steps contact detection lags behind: 73.07987
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 183
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1830020
+Number of updates dynamic gets: 50105
+Number of updates kinematic gets: 50105
+Average steps per dynamic update: 36.5237
+Average steps contact detection lags behind: 73.04479
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 184
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1840020
+Number of updates dynamic gets: 50392
+Number of updates kinematic gets: 50392
+Average steps per dynamic update: 36.51413
+Average steps contact detection lags behind: 73.0256
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 185
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1850020
+Number of updates dynamic gets: 50647
+Number of updates kinematic gets: 50647
+Average steps per dynamic update: 36.52773
+Average steps contact detection lags behind: 73.05238
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 186
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1860020
+Number of updates dynamic gets: 50898
+Number of updates kinematic gets: 50898
+Average steps per dynamic update: 36.54407
+Average steps contact detection lags behind: 73.08482
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 187
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1870020
+Number of updates dynamic gets: 51190
+Number of updates kinematic gets: 51190
+Average steps per dynamic update: 36.53096
+Average steps contact detection lags behind: 73.05937
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 188
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1880020
+Number of updates dynamic gets: 51513
+Number of updates kinematic gets: 51513
+Average steps per dynamic update: 36.49603
+Average steps contact detection lags behind: 72.98942
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 189
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1890020
+Number of updates dynamic gets: 51831
+Number of updates kinematic gets: 51831
+Average steps per dynamic update: 36.46505
+Average steps contact detection lags behind: 72.9275
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 190
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1900020
+Number of updates dynamic gets: 52142
+Number of updates kinematic gets: 52142
+Average steps per dynamic update: 36.43934
+Average steps contact detection lags behind: 72.87624
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 191
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1910020
+Number of updates dynamic gets: 52464
+Number of updates kinematic gets: 52464
+Average steps per dynamic update: 36.4063
+Average steps contact detection lags behind: 72.80956
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 192
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1920020
+Number of updates dynamic gets: 52773
+Number of updates kinematic gets: 52773
+Average steps per dynamic update: 36.38262
+Average steps contact detection lags behind: 72.76179
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 193
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1930020
+Number of updates dynamic gets: 53072
+Number of updates kinematic gets: 53072
+Average steps per dynamic update: 36.36607
+Average steps contact detection lags behind: 72.72942
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 194
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1940020
+Number of updates dynamic gets: 53360
+Number of updates kinematic gets: 53360
+Average steps per dynamic update: 36.3572
+Average steps contact detection lags behind: 72.71119
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 195
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1950020
+Number of updates dynamic gets: 53674
+Number of updates kinematic gets: 53674
+Average steps per dynamic update: 36.33081
+Average steps contact detection lags behind: 72.65833
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 196
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1960020
+Number of updates dynamic gets: 53991
+Number of updates kinematic gets: 53991
+Average steps per dynamic update: 36.30272
+Average steps contact detection lags behind: 72.60297
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 197
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1970020
+Number of updates dynamic gets: 54298
+Number of updates kinematic gets: 54298
+Average steps per dynamic update: 36.28163
+Average steps contact detection lags behind: 72.56002
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 198
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1980020
+Number of updates dynamic gets: 54590
+Number of updates kinematic gets: 54590
+Average steps per dynamic update: 36.27075
+Average steps contact detection lags behind: 72.53858
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 199
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1990020
+Number of updates dynamic gets: 54891
+Number of updates kinematic gets: 54891
+Average steps per dynamic update: 36.25403
+Average steps contact detection lags behind: 72.50493
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 200
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2000020
+Number of updates dynamic gets: 55214
+Number of updates kinematic gets: 55214
+Average steps per dynamic update: 36.22306
+Average steps contact detection lags behind: 72.44391
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 201
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2010020
+Number of updates dynamic gets: 55537
+Number of updates kinematic gets: 55537
+Average steps per dynamic update: 36.19245
+Average steps contact detection lags behind: 72.38234
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 202
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2020020
+Number of updates dynamic gets: 55860
+Number of updates kinematic gets: 55860
+Average steps per dynamic update: 36.16219
+Average steps contact detection lags behind: 72.32145
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 203
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2030020
+Number of updates dynamic gets: 56174
+Number of updates kinematic gets: 56174
+Average steps per dynamic update: 36.13807
+Average steps contact detection lags behind: 72.27345
+Number of times dynamic held back: 478
+-----------------------------
+Outputting frame: 204
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 2040020
+Number of updates dynamic gets: 56487
+Number of updates kinematic gets: 56487
+Average steps per dynamic update: 36.11486
+Average steps contact detection lags behind: 72.22672
+Number of times dynamic held back: 478
+-----------------------------
+2203.04 seconds (wall time) to finish the simulation
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 2388.77772 seconds
+Discretize domain: 79.7738927 seconds, 3.33953% of kT total runtime
+Find contact pairs: 1746.78019 seconds, 73.1244% of kT total runtime
+Build history map: 263.007108 seconds, 11.0101% of kT total runtime
+Unpack updates from dT: 71.5146834 seconds, 2.99378% of kT total runtime
+Send to dT buffer: 10.6925475 seconds, 0.447616% of kT total runtime
+Wait for dT update: 217.009302 seconds, 9.08453% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 2214.41234 seconds
+Clear force array: 32.0985935 seconds, 1.44953% of dT total runtime
+Calculate contact forces: 1937.44853 seconds, 87.4927% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 216.266527 seconds, 9.76632% of dT total runtime
+Unpack updates from kT: 19.8183198 seconds, 0.89497% of dT total runtime
+Send to kT buffer: 5.90455742 seconds, 0.266642% of dT total runtime
+Wait for kT update: 2.87581305 seconds, 0.129868% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 28.071 MiB
+kT device memory usage: 78.5482 MiB
+dT host memory usage: 32.9142 MiB
+dT device memory usage: 74.6022 MiB
+----------------------------------------
+Electrostatic demo exiting...
