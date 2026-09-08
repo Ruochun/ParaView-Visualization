@@ -68,6 +68,15 @@
       "output": "HopperSphereCylinder.ogv"
     },
     {
+      "name": "HopperSphereMeshedCylinder",
+      "kind": "state",
+      "state": "states/HopperSphereMeshedCylinder.pvsm",
+      "data_dir": "results/DemoOutput_HopperSphereMeshedCylinder",
+      "frame_window": [0, 358],
+      "restrict_to_data_directory": true,
+      "output": "HopperSphereMeshedCylinder.ogv"
+    },
+    {
       "name": "Indentation",
       "kind": "state",
       "state": "states/Indentation.pvsm",

@@ -84,6 +84,7 @@ state-based jobs:
 | `FlexibleMesh` | `states/FlexibleMesh.pvsm` | `results/DemoOutput_FlexibleMesh` | `movies/FlexibleMesh.ogv` |
 | `Electrostatic` | `states/Electrostatic.pvsm` | `results/DemoOutput_Electrostatic` | `movies/Electrostatic.ogv` |
 | `GameOfLife` | `states/GameOfLife.pvsm` | `results/DemoOutput_GameOfLife` | `movies/GameOfLife.ogv` |
+| `HopperSphereMeshedCylinder` | `states/HopperSphereMeshedCylinder.pvsm` | `results/DemoOutput_HopperSphereMeshedCylinder` | `movies/HopperSphereMeshedCylinder.ogv` |
 | `BallDrop` | `states/BallDrop.pvsm` | `results/DemoOutput_BallDrop` | `movies/BallDrop.ogv` |
 | `BallDrop2D` | `states/BallDrop2D.pvsm` | `results/DemoOutput_BallDrop2D` | `movies/BallDrop2D.ogv` |
 | `Centrifuge` | `states/Centrifuge.pvsm` | `results/DemoOutput_Centrifuge` | `movies/Centrifuge.ogv` |
