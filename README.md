@@ -81,6 +81,9 @@ state-based jobs:
 
 | Job | State file | Result directory | Output |
 | --- | --- | --- | --- |
+| `ContactChain` | `states/ContactChain.pvsm` | `results/DemoOutput_ContactChain` | `movies/ContactChain.ogv` |
+| `Fracture_R0.001000_Int0.900000` | `states/Fracture_R0.001000_Int0.900000.pvsm` | `results/DemoOutput_Fracture_R0.001000_Int0.900000` | `movies/Fracture_R0.001000_Int0.900000.ogv` |
+| `ResponseAngleMesh` | `states/ResponseAngleMesh.pvsm` | `results/DemoOutput_ResponseAngleMesh` | `movies/ResponseAngleMesh.ogv` |
 | `FlexibleMesh` | `states/FlexibleMesh.pvsm` | `results/DemoOutput_FlexibleMesh` | `movies/FlexibleMesh.ogv` |
 | `Electrostatic` | `states/Electrostatic.pvsm` | `results/DemoOutput_Electrostatic` | `movies/Electrostatic.ogv` |
 | `GameOfLife` | `states/GameOfLife.pvsm` | `results/DemoOutput_GameOfLife` | `movies/GameOfLife.ogv` |

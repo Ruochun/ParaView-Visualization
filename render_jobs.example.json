@@ -21,6 +21,33 @@
   },
   "jobs": [
     {
+      "name": "ContactChain",
+      "kind": "state",
+      "state": "states/ContactChain.pvsm",
+      "data_dir": "results/DemoOutput_ContactChain",
+      "frame_window": [0, 99],
+      "restrict_to_data_directory": true,
+      "output": "ContactChain.ogv"
+    },
+    {
+      "name": "Fracture_R0.001000_Int0.900000",
+      "kind": "state",
+      "state": "states/Fracture_R0.001000_Int0.900000.pvsm",
+      "data_dir": "results/DemoOutput_Fracture_R0.001000_Int0.900000",
+      "frame_window": [0, 132],
+      "restrict_to_data_directory": true,
+      "output": "Fracture_R0.001000_Int0.900000.ogv"
+    },
+    {
+      "name": "ResponseAngleMesh",
+      "kind": "state",
+      "state": "states/ResponseAngleMesh.pvsm",
+      "data_dir": "results/DemoOutput_ResponseAngleMesh",
+      "frame_window": [0, 59],
+      "restrict_to_data_directory": true,
+      "output": "ResponseAngleMesh.ogv"
+    },
+    {
       "name": "FlexibleMesh",
       "kind": "state",
       "state": "states/FlexibleMesh.pvsm",
@@ -72,7 +99,7 @@
       "kind": "state",
       "state": "states/HopperSphereMeshedCylinder.pvsm",
       "data_dir": "results/DemoOutput_HopperSphereMeshedCylinder",
-      "frame_window": [0, 358],
+      "frame_window": [0, 821],
       "restrict_to_data_directory": true,
       "output": "HopperSphereMeshedCylinder.ogv"
     },
