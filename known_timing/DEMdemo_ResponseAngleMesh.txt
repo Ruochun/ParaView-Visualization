@@ -1,0 +1,822 @@
+==== DEME demo/test: DEMdemo_ResponseAngleMesh ====
+========================================
+Particle volume (m^3): 5.29858e-08, mass (kg): 0.000137763
+Particle MOI (unit density, CoM): 1.64218e-13, 1.64218e-13, 1.0819e-13
+Sampling clearance mode: AABB (AABB=6734, Sphere=6587)
+Placed 4000 particles with a mass of 0.551053 kg inside the drum.
+Output at 20 FPS
+Frame: 0
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 0
+Number of updates dynamic gets: 0
+Number of updates kinematic gets: 0
+Number of times dynamic held back: 0
+-----------------------------
+Max velocity of any point in simulation is 0
+Contact torque on the side walls is 0, 0, 0
+Contact force on bottom plane is 0
+Frame: 1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 10001
+Number of updates dynamic gets: 929
+Number of updates kinematic gets: 930
+Average steps per dynamic update: 10.75376
+Average steps contact detection lags behind: 21.4914
+Number of times dynamic held back: 18
+-----------------------------
+Max velocity of any point in simulation is 1.18099
+Contact torque on the side walls is 0.0536396, -0.0222954, -0.0346953
+Contact force on bottom plane is 0.0333279
+Frame: 2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 20002
+Number of updates dynamic gets: 2409
+Number of updates kinematic gets: 2410
+Average steps per dynamic update: 8.299585
+Average steps contact detection lags behind: 16.59295
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 1.79437
+Contact torque on the side walls is 0.173032, -0.105702, -0.0341977
+Contact force on bottom plane is 0.383561
+Frame: 3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 30003
+Number of updates dynamic gets: 4446
+Number of updates kinematic gets: 4446
+Average steps per dynamic update: 6.748313
+Average steps contact detection lags behind: 13.49415
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.51901
+Contact torque on the side walls is 0.404594, -0.315633, -0.0710054
+Contact force on bottom plane is 0.437513
+Frame: 4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 40004
+Number of updates dynamic gets: 6827
+Number of updates kinematic gets: 6828
+Average steps per dynamic update: 5.858817
+Average steps contact detection lags behind: 11.71675
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.30199
+Contact torque on the side walls is 0.301161, -0.297072, -0.0315362
+Contact force on bottom plane is 0.0745695
+Frame: 5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 50005
+Number of updates dynamic gets: 8584
+Number of updates kinematic gets: 8585
+Average steps per dynamic update: 5.824694
+Average steps contact detection lags behind: 11.64811
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.33637
+Contact torque on the side walls is 0.289202, -0.149762, 0.0198914
+Contact force on bottom plane is 0.188362
+Frame: 6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 60006
+Number of updates dynamic gets: 10264
+Number of updates kinematic gets: 10265
+Average steps per dynamic update: 5.845689
+Average steps contact detection lags behind: 11.68992
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.11834
+Contact torque on the side walls is 0.0972981, -0.171123, -0.0523729
+Contact force on bottom plane is 0.605113
+Frame: 7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 70007
+Number of updates dynamic gets: 11922
+Number of updates kinematic gets: 11923
+Average steps per dynamic update: 5.871593
+Average steps contact detection lags behind: 11.74243
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.16997
+Contact torque on the side walls is 0.00860704, -0.188722, -0.0246899
+Contact force on bottom plane is 0.755019
+Frame: 8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 80008
+Number of updates dynamic gets: 13567
+Number of updates kinematic gets: 13568
+Average steps per dynamic update: 5.896816
+Average steps contact detection lags behind: 11.79312
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.32803
+Contact torque on the side walls is -0.00993118, -0.214092, 0.0192548
+Contact force on bottom plane is 0.0325055
+Frame: 9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 90009
+Number of updates dynamic gets: 15287
+Number of updates kinematic gets: 15287
+Average steps per dynamic update: 5.887944
+Average steps contact detection lags behind: 11.77484
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.18062
+Contact torque on the side walls is -0.0691834, -0.196769, -0.0610013
+Contact force on bottom plane is 0.505718
+Frame: 10
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 100010
+Number of updates dynamic gets: 17106
+Number of updates kinematic gets: 17107
+Average steps per dynamic update: 5.846145
+Average steps contact detection lags behind: 11.69188
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.85896
+Contact torque on the side walls is -0.162957, -0.376162, -0.0479487
+Contact force on bottom plane is 0.813522
+Frame: 11
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 110011
+Number of updates dynamic gets: 18704
+Number of updates kinematic gets: 18705
+Average steps per dynamic update: 5.881369
+Average steps contact detection lags behind: 11.76226
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.13988
+Contact torque on the side walls is -0.23601, -0.176976, -0.0172031
+Contact force on bottom plane is 0.232763
+Frame: 12
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 120012
+Number of updates dynamic gets: 20669
+Number of updates kinematic gets: 20670
+Average steps per dynamic update: 5.806096
+Average steps contact detection lags behind: 11.61171
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.08841
+Contact torque on the side walls is -0.254122, -0.194129, -0.0161292
+Contact force on bottom plane is 0.46272
+Frame: 13
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 130013
+Number of updates dynamic gets: 22510
+Number of updates kinematic gets: 22511
+Average steps per dynamic update: 5.775532
+Average steps contact detection lags behind: 11.5508
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.00652
+Contact torque on the side walls is -0.223469, -0.117689, -0.00190071
+Contact force on bottom plane is 0.60963
+Frame: 14
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 140014
+Number of updates dynamic gets: 24280
+Number of updates kinematic gets: 24281
+Average steps per dynamic update: 5.766402
+Average steps contact detection lags behind: 11.53235
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.2241
+Contact torque on the side walls is -0.217102, -0.0683071, 0.0109837
+Contact force on bottom plane is 0.64665
+Frame: 15
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 150015
+Number of updates dynamic gets: 25991
+Number of updates kinematic gets: 25992
+Average steps per dynamic update: 5.771584
+Average steps contact detection lags behind: 11.54267
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.6022
+Contact torque on the side walls is -0.266426, -0.044653, -0.00450925
+Contact force on bottom plane is 0.595218
+Frame: 16
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 160016
+Number of updates dynamic gets: 27811
+Number of updates kinematic gets: 27811
+Average steps per dynamic update: 5.753695
+Average steps contact detection lags behind: 11.50678
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.66446
+Contact torque on the side walls is -0.188379, 0.0898859, 0.0129315
+Contact force on bottom plane is 1.73529
+Frame: 17
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 170017
+Number of updates dynamic gets: 29614
+Number of updates kinematic gets: 29614
+Average steps per dynamic update: 5.741102
+Average steps contact detection lags behind: 11.48173
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 1.97927
+Contact torque on the side walls is -0.239723, 0.126363, -0.00456636
+Contact force on bottom plane is 0.729851
+Frame: 18
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 180018
+Number of updates dynamic gets: 31594
+Number of updates kinematic gets: 31595
+Average steps per dynamic update: 5.697674
+Average steps contact detection lags behind: 11.39503
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.22676
+Contact torque on the side walls is -0.181041, 0.176359, -0.0397815
+Contact force on bottom plane is 0.7099
+Frame: 19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 190019
+Number of updates dynamic gets: 33478
+Number of updates kinematic gets: 33479
+Average steps per dynamic update: 5.675767
+Average steps contact detection lags behind: 11.35118
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.25505
+Contact torque on the side walls is -0.175864, 0.229526, 0.0099664
+Contact force on bottom plane is 0.19891
+Frame: 20
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 200020
+Number of updates dynamic gets: 35336
+Number of updates kinematic gets: 35337
+Average steps per dynamic update: 5.660356
+Average steps contact detection lags behind: 11.32037
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 1.99553
+Contact torque on the side walls is -0.133022, 0.275666, -0.0347499
+Contact force on bottom plane is 1.36824
+Frame: 21
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 210021
+Number of updates dynamic gets: 37219
+Number of updates kinematic gets: 37220
+Average steps per dynamic update: 5.642692
+Average steps contact detection lags behind: 11.28522
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.20571
+Contact torque on the side walls is -0.0320935, 0.186848, -0.0387636
+Contact force on bottom plane is 0.506426
+Frame: 22
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 220022
+Number of updates dynamic gets: 39075
+Number of updates kinematic gets: 39076
+Average steps per dynamic update: 5.630617
+Average steps contact detection lags behind: 11.261
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.02212
+Contact torque on the side walls is -0.0468882, 0.212872, -0.00982749
+Contact force on bottom plane is 0.381341
+Frame: 23
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 230023
+Number of updates dynamic gets: 40921
+Number of updates kinematic gets: 40921
+Average steps per dynamic update: 5.621148
+Average steps contact detection lags behind: 11.24195
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.38663
+Contact torque on the side walls is 0.0241812, 0.336162, -0.0468526
+Contact force on bottom plane is 0.531136
+Frame: 24
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 240024
+Number of updates dynamic gets: 42708
+Number of updates kinematic gets: 42709
+Average steps per dynamic update: 5.619986
+Average steps contact detection lags behind: 11.23979
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.27484
+Contact torque on the side walls is 0.0763056, 0.28785, -0.0594159
+Contact force on bottom plane is 0.125427
+Frame: 25
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 250025
+Number of updates dynamic gets: 44635
+Number of updates kinematic gets: 44636
+Average steps per dynamic update: 5.60142
+Average steps contact detection lags behind: 11.20257
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.26421
+Contact torque on the side walls is 0.129526, 0.233187, -0.0704393
+Contact force on bottom plane is 0.521694
+Frame: 26
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 260026
+Number of updates dynamic gets: 46550
+Number of updates kinematic gets: 46550
+Average steps per dynamic update: 5.585951
+Average steps contact detection lags behind: 11.1716
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.37514
+Contact torque on the side walls is 0.195227, 0.151797, -0.0403051
+Contact force on bottom plane is 1.49636
+Frame: 27
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 270027
+Number of updates dynamic gets: 48345
+Number of updates kinematic gets: 48346
+Average steps per dynamic update: 5.585302
+Average steps contact detection lags behind: 11.17033
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.06765
+Contact torque on the side walls is 0.194701, 0.16761, -0.0229816
+Contact force on bottom plane is 1.41556
+Frame: 28
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 280028
+Number of updates dynamic gets: 50275
+Number of updates kinematic gets: 50275
+Average steps per dynamic update: 5.569925
+Average steps contact detection lags behind: 11.13957
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.01631
+Contact torque on the side walls is 0.236311, 0.0510955, -0.0662187
+Contact force on bottom plane is 0.27625
+Frame: 29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 290029
+Number of updates dynamic gets: 52051
+Number of updates kinematic gets: 52052
+Average steps per dynamic update: 5.571909
+Average steps contact detection lags behind: 11.14368
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.67902
+Contact torque on the side walls is 0.247631, 0.0416658, 0.0141479
+Contact force on bottom plane is 0.510814
+Frame: 30
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 300030
+Number of updates dynamic gets: 53808
+Number of updates kinematic gets: 53809
+Average steps per dynamic update: 5.575833
+Average steps contact detection lags behind: 11.15142
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.16804
+Contact torque on the side walls is 0.33459, 0.0202393, 0.0132185
+Contact force on bottom plane is 0.635732
+Frame: 31
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 310031
+Number of updates dynamic gets: 55557
+Number of updates kinematic gets: 55558
+Average steps per dynamic update: 5.580312
+Average steps contact detection lags behind: 11.16039
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.56741
+Contact torque on the side walls is 0.270102, -0.0661777, -0.0747169
+Contact force on bottom plane is 0.610789
+Frame: 32
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 320032
+Number of updates dynamic gets: 57311
+Number of updates kinematic gets: 57311
+Average steps per dynamic update: 5.584129
+Average steps contact detection lags behind: 11.16801
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.29574
+Contact torque on the side walls is 0.210008, -0.0741255, -0.00144561
+Contact force on bottom plane is 0.996081
+Frame: 33
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 330033
+Number of updates dynamic gets: 59170
+Number of updates kinematic gets: 59170
+Average steps per dynamic update: 5.577708
+Average steps contact detection lags behind: 11.15518
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.14458
+Contact torque on the side walls is 0.187947, -0.100864, 0.0121773
+Contact force on bottom plane is 0.370186
+Frame: 34
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 340034
+Number of updates dynamic gets: 61086
+Number of updates kinematic gets: 61087
+Average steps per dynamic update: 5.566389
+Average steps contact detection lags behind: 11.13268
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.2695
+Contact torque on the side walls is 0.156466, -0.184613, 0.00957917
+Contact force on bottom plane is 1.03557
+Frame: 35
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 350035
+Number of updates dynamic gets: 63059
+Number of updates kinematic gets: 63059
+Average steps per dynamic update: 5.550913
+Average steps contact detection lags behind: 11.1016
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.01955
+Contact torque on the side walls is 0.183546, -0.302417, -0.00799717
+Contact force on bottom plane is 0.631652
+Frame: 36
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 360036
+Number of updates dynamic gets: 65002
+Number of updates kinematic gets: 65003
+Average steps per dynamic update: 5.53876
+Average steps contact detection lags behind: 11.07737
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.56106
+Contact torque on the side walls is 0.0838418, -0.283434, -0.050216
+Contact force on bottom plane is 1.27924
+Frame: 37
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 370037
+Number of updates dynamic gets: 66851
+Number of updates kinematic gets: 66852
+Average steps per dynamic update: 5.535167
+Average steps contact detection lags behind: 11.07014
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.23976
+Contact torque on the side walls is 0.0136822, -0.206199, -0.037345
+Contact force on bottom plane is 1.57743
+Frame: 38
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 380038
+Number of updates dynamic gets: 68489
+Number of updates kinematic gets: 68490
+Average steps per dynamic update: 5.54881
+Average steps contact detection lags behind: 11.09753
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.61453
+Contact torque on the side walls is -0.00338988, -0.23306, -0.00696203
+Contact force on bottom plane is 0.388914
+Frame: 39
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 390039
+Number of updates dynamic gets: 70344
+Number of updates kinematic gets: 70345
+Average steps per dynamic update: 5.544658
+Average steps contact detection lags behind: 11.08919
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.33824
+Contact torque on the side walls is -0.0768778, -0.366839, -0.00339029
+Contact force on bottom plane is 0.0578154
+Frame: 40
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 400040
+Number of updates dynamic gets: 72202
+Number of updates kinematic gets: 72203
+Average steps per dynamic update: 5.54049
+Average steps contact detection lags behind: 11.08086
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.04398
+Contact torque on the side walls is -0.122143, -0.231323, 0.0133355
+Contact force on bottom plane is 0.060578
+Frame: 41
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 410041
+Number of updates dynamic gets: 74097
+Number of updates kinematic gets: 74097
+Average steps per dynamic update: 5.533841
+Average steps contact detection lags behind: 11.06749
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.12644
+Contact torque on the side walls is -0.197779, -0.169935, -0.033649
+Contact force on bottom plane is 0.0953778
+Frame: 42
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 420042
+Number of updates dynamic gets: 76053
+Number of updates kinematic gets: 76054
+Average steps per dynamic update: 5.522944
+Average steps contact detection lags behind: 11.04578
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.20919
+Contact torque on the side walls is -0.210508, -0.233506, 0.0150626
+Contact force on bottom plane is 1.21205
+Frame: 43
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 430043
+Number of updates dynamic gets: 77894
+Number of updates kinematic gets: 77895
+Average steps per dynamic update: 5.520804
+Average steps contact detection lags behind: 11.04153
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.6134
+Contact torque on the side walls is -0.216087, -0.181418, 0.0162771
+Contact force on bottom plane is 0.372622
+Frame: 44
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 440044
+Number of updates dynamic gets: 79773
+Number of updates kinematic gets: 79774
+Average steps per dynamic update: 5.516133
+Average steps contact detection lags behind: 11.03212
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.348
+Contact torque on the side walls is -0.248203, -0.0755812, -0.0432039
+Contact force on bottom plane is 0.672424
+Frame: 45
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 450045
+Number of updates dynamic gets: 81673
+Number of updates kinematic gets: 81674
+Average steps per dynamic update: 5.51026
+Average steps contact detection lags behind: 11.02034
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 1.96666
+Contact torque on the side walls is -0.249376, 0.00442204, 0.00684176
+Contact force on bottom plane is 1.45193
+Frame: 46
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 460046
+Number of updates dynamic gets: 83401
+Number of updates kinematic gets: 83401
+Average steps per dynamic update: 5.516073
+Average steps contact detection lags behind: 11.03195
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.39803
+Contact torque on the side walls is -0.285169, 0.0635418, -0.00971683
+Contact force on bottom plane is 0.260762
+Frame: 47
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 470047
+Number of updates dynamic gets: 85080
+Number of updates kinematic gets: 85081
+Average steps per dynamic update: 5.5247
+Average steps contact detection lags behind: 11.0492
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.26949
+Contact torque on the side walls is -0.178774, 0.162113, -0.0526392
+Contact force on bottom plane is 0.114805
+Frame: 48
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 480048
+Number of updates dynamic gets: 86641
+Number of updates kinematic gets: 86642
+Average steps per dynamic update: 5.540592
+Average steps contact detection lags behind: 11.08109
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.53342
+Contact torque on the side walls is -0.218699, 0.153751, -0.0101648
+Contact force on bottom plane is 0.820778
+Frame: 49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 490049
+Number of updates dynamic gets: 88314
+Number of updates kinematic gets: 88315
+Average steps per dynamic update: 5.548876
+Average steps contact detection lags behind: 11.09767
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.71704
+Contact torque on the side walls is -0.23354, 0.245763, -0.035784
+Contact force on bottom plane is 1.23073
+Frame: 50
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 500050
+Number of updates dynamic gets: 90159
+Number of updates kinematic gets: 90160
+Average steps per dynamic update: 5.546251
+Average steps contact detection lags behind: 11.09238
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.21423
+Contact torque on the side walls is -0.113028, 0.201806, 0.0205067
+Contact force on bottom plane is 0.753154
+Frame: 51
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 510051
+Number of updates dynamic gets: 91998
+Number of updates kinematic gets: 91999
+Average steps per dynamic update: 5.544093
+Average steps contact detection lags behind: 11.08804
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.03003
+Contact torque on the side walls is -0.121662, 0.253466, -0.0223868
+Contact force on bottom plane is 0.392324
+Frame: 52
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 520052
+Number of updates dynamic gets: 93673
+Number of updates kinematic gets: 93673
+Average steps per dynamic update: 5.551781
+Average steps contact detection lags behind: 11.10341
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.25972
+Contact torque on the side walls is -0.0709164, 0.220993, -0.0261729
+Contact force on bottom plane is 0.62793
+Frame: 53
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 530053
+Number of updates dynamic gets: 95442
+Number of updates kinematic gets: 95443
+Average steps per dynamic update: 5.553608
+Average steps contact detection lags behind: 11.10706
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.06435
+Contact torque on the side walls is 0.0195322, 0.270941, -0.039814
+Contact force on bottom plane is 1.02174
+Frame: 54
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 540054
+Number of updates dynamic gets: 97217
+Number of updates kinematic gets: 97218
+Average steps per dynamic update: 5.555082
+Average steps contact detection lags behind: 11.11004
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.054
+Contact torque on the side walls is 0.130702, 0.206116, -0.0256361
+Contact force on bottom plane is 0.0380466
+Frame: 55
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 550055
+Number of updates dynamic gets: 98983
+Number of updates kinematic gets: 98984
+Average steps per dynamic update: 5.557009
+Average steps contact detection lags behind: 11.11396
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.35561
+Contact torque on the side walls is 0.0610939, 0.172935, -0.0212128
+Contact force on bottom plane is 0.763687
+Frame: 56
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 560056
+Number of updates dynamic gets: 100786
+Number of updates kinematic gets: 100787
+Average steps per dynamic update: 5.556828
+Average steps contact detection lags behind: 11.11351
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.22844
+Contact torque on the side walls is 0.247044, 0.287321, -0.0157614
+Contact force on bottom plane is 0.24707
+Frame: 57
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 570057
+Number of updates dynamic gets: 102650
+Number of updates kinematic gets: 102651
+Average steps per dynamic update: 5.553351
+Average steps contact detection lags behind: 11.10656
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.20721
+Contact torque on the side walls is 0.161975, 0.236572, -0.0288411
+Contact force on bottom plane is 0.560903
+Frame: 58
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 580058
+Number of updates dynamic gets: 104411
+Number of updates kinematic gets: 104412
+Average steps per dynamic update: 5.555473
+Average steps contact detection lags behind: 11.11087
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.04722
+Contact torque on the side walls is 0.32783, 0.162015, -0.0465146
+Contact force on bottom plane is 0.972223
+Frame: 59
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 590059
+Number of updates dynamic gets: 106367
+Number of updates kinematic gets: 106368
+Average steps per dynamic update: 5.547336
+Average steps contact detection lags behind: 11.0946
+Number of times dynamic held back: 19
+-----------------------------
+Max velocity of any point in simulation is 2.24737
+Contact torque on the side walls is 0.406218, 0.126427, -0.0159993
+Contact force on bottom plane is 0.689249
+599.342 seconds (wall time) to finish the simulation
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 600060
+Number of updates dynamic gets: 108288
+Number of updates kinematic gets: 108289
+Average steps per dynamic update: 5.541283
+Average steps contact detection lags behind: 11.08247
+Number of times dynamic held back: 19
+-----------------------------
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 590.189726 seconds
+Discretize domain: 44.5761594 seconds, 7.55285% of kT total runtime
+Find contact pairs: 305.31347 seconds, 51.7314% of kT total runtime
+Build history map: 9.19599271 seconds, 1.55814% of kT total runtime
+Unpack updates from dT: 107.480501 seconds, 18.2112% of kT total runtime
+Send to dT buffer: 20.4627647 seconds, 3.46715% of kT total runtime
+Wait for dT update: 103.160838 seconds, 17.4793% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 574.547119 seconds
+Clear force array: 11.1456121 seconds, 1.9399% of dT total runtime
+Calculate contact forces: 498.016486 seconds, 86.6798% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 12.3034502 seconds, 2.14142% of dT total runtime
+Unpack updates from kT: 41.4098965 seconds, 7.2074% of dT total runtime
+Send to kT buffer: 11.6380894 seconds, 2.02561% of dT total runtime
+Wait for kT update: 0.033584647 seconds, 0.00584541% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 5.55601 MiB
+kT device memory usage: 26.8747 MiB
+dT host memory usage: 14.7625 MiB
+dT device memory usage: 20.9512 MiB
+----------------------------------------
+DEMdemo_ResponseAngleMesh exiting...

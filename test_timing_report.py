@@ -52,6 +52,39 @@ class TimingReportTests(unittest.TestCase):
         self.assertIn("No comparable timing data found.", result)
         self.assertIn("Compared: 0. Skipped: 0.", self.report({"known_dir": "absent", "new_dir": "also_absent"}))
 
+    def test_rotating_drum_standard_completion_message(self):
+        self.log("known_timing", "DEMdemo_RotatingDrum.txt",
+                 "5247.43 seconds (wall time) to finish the simulation\n")
+        self.log("results", "DEMdemo_RotatingDrum.txt",
+                 "9161.78 seconds (wall time) to finish the simulation\n"
+                 "9000 seconds (wall time, DoDynamics only) to finish the simulation\n")
+        for config in ({}, self.example_timing_config()):
+            with self.subTest(config=config):
+                result = self.report(config)
+                self.assertIn("Compared: 1. Skipped: 0.", result)
+                self.assertIn("| 5247.43 | 9161.78 |", result)
+
+    def example_timing_config(self):
+        manifest = Path(__file__).with_name("render_jobs.example.json")
+        return json.loads(manifest.read_text())["timing"]
+
+    def test_new_known_logs_are_discovered_with_example_patterns(self):
+        messages = {
+            "DrumCubes": ("8386.59 seconds (wall time) to finish the simulation\n"
+                          "8386.24 seconds (wall time, DoDynamics only) to finish the simulation", "8386.59"),
+            "ResponseAngleMesh": ("599.342 seconds (wall time) to finish the simulation", "599.342"),
+            "HopperSphereMeshedCylinder": ("Simulated 8.2 s in 17454.8 s wall time", "17454.8"),
+            "MeshFalling": ("kT total active time: 7.97607244 seconds\n"
+                            "dT total active time: 5.77271717 seconds", "5.77271717"),
+        }
+        for name, (message, _) in messages.items():
+            for folder in ("known_timing", "results"):
+                self.log(folder, f"DEMdemo_{name}.txt", message)
+        result = self.report(self.example_timing_config())
+        self.assertIn("Compared: 4. Skipped: 0.", result)
+        for name, (_, seconds) in messages.items():
+            self.assertIn(f"| DEMdemo_{name}.txt | {seconds} | {seconds} |", result)
+
     def test_configuration_validation_and_disable(self):
         self.assertIsNone(generate_timing_report({"enabled": False}, self.root, self.root / "out"))
         self.assertFalse((self.root / "out").exists())

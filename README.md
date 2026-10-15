@@ -32,7 +32,8 @@ from `known_timing/` and `results/` (alongside the new demo output folders). The
 so it is available even if a movie job fails. It matches logs by exact filename
 (`DEMdemo_*` by default), independently of the movie job list. Missing files,
 missing timing lines, and invalid/nonpositive runtimes are skipped and listed
-in the report. A run with no comparable logs still writes a report.
+in the report. A run with no comparable logs still writes a report. Newly added matching logs
+are included automatically; no movie job or filename list needs updating.
 
 The table shows known/new seconds, percentage runtime change, and whether the
 new run is faster, slower, or unchanged. Percentage change is
@@ -52,8 +53,9 @@ The manifest's optional top-level `timing` object controls the comparison:
   and scientific notation.
 - `patterns`: optional map of exact log filenames to replacement patterns,
   used for both the known and new log. The example manifest includes overrides
-  for Plow, Centrifuge, and RotatingDrum's different completion messages.
-  HopperSphereCylinder uses `dT total active time: XXXXX seconds` in both logs.
+  for Plow, Centrifuge, and HopperSphereMeshedCylinder's different completion messages.
+  HopperSphereCylinder and MeshFalling use `dT total active time: XXXXX seconds`
+  in both logs (active time rather than wall time).
 
 All configured relative paths are resolved from the manifest directory. Regex
 backslashes must be escaped in JSON (for example, `\\s` for regex `\s`). If

@@ -1,0 +1,2791 @@
+==== DEME demo/test: DEMdemo_MeshFalling ====
+========================================
+[WARNING] equipMaterials: Material property mu should involve two materials. However, at least a pair of materials does not have it defined, so it is defaulted to the average value between the two materials.
+Please be sure this is intentional.
+[INFO]    getKernelInstantiation: jit-compiling for calculatePrimitiveContactForces_SphSph ...
+[INFO]    getKernelInstantiation: jit-compiling for getNumberOfBinsEachSphereTouches ...
+[INFO]    getKernelInstantiation: jit-compiling for populateBinSphereTouchingPairs ...
+[INFO]    getKernelInstantiation: jit-compiling for getNumberOfSphereContactsEachBin ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePrimitiveContactForces_SphTri ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePrimitiveContactForces_SphAnal ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePrimitiveContactForces_TriTri ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePrimitiveContactForces_TriAnal ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePatchContactForces_SphTri ...
+[INFO]    getKernelInstantiation: jit-compiling for populateSphereContactPairsEachBin ...
+[INFO]    getKernelInstantiation: jit-compiling for makeTriangleSandwich ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePatchContactForces_TriTri ...
+[INFO]    getKernelInstantiation: jit-compiling for calculatePatchContactForces_TriAnal ...
+[INFO]    getKernelInstantiation: jit-compiling for forceToAcc ...
+[INFO]    getKernelInstantiation: jit-compiling for precomputeMeshOwnerPose ...
+[INFO]    getKernelInstantiation: jit-compiling for precomputeTriangleSandwichData ...
+[INFO]    getKernelInstantiation: jit-compiling for getNumberOfBinsEachTriangleTouches ...
+[INFO]    getKernelInstantiation: jit-compiling for populateBinTriangleTouchingPairs ...
+[INFO]    getKernelInstantiation: jit-compiling for getNumberOfTriangleContactsEachBin ...
+[INFO]    getKernelInstantiation: jit-compiling for aggregateCombinedOwnersAcc ...
+[INFO]    getKernelInstantiation: jit-compiling for reimposeCombinedOwners ...
+[INFO]    getKernelInstantiation: jit-compiling for integrateOwners ...
+[INFO]    getKernelInstantiation: jit-compiling for populateTriangleContactsEachBin ...
+[INFO]    getKernelInstantiation: jit-compiling for computeMarginFromAbsv_implSph ...
+[INFO]    getKernelInstantiation: jit-compiling for computeMarginFromAbsv_implTri ...
+[INFO]    getKernelInstantiation: jit-compiling for computeMarginFromAbsv_implAnal ...
+[INFO]    getKernelInstantiation: jit-compiling for inspectOwnerProperty ...
+[INFO]    getKernelInstantiation: jit-compiling for inspectOwnerProperty ...
+[INFO]    reportInitStats: 
+
+[INFO]    reportInitStats: Number of logical CUDA devices visible to DEME: 2
+[INFO]    reportInitStats: Number of active devices used by DEME: 2
+[INFO]    reportInitStats: Worker device assignments (dT, kT): 0, 1
+[INFO]    reportInitStats: User-specified X-dimension range: [-10, 10]
+[INFO]    reportInitStats: User-specified Y-dimension range: [-10, 10]
+[INFO]    reportInitStats: User-specified Z-dimension range: [-7.5, 7.5]
+[INFO]    reportInitStats: User-specified dimensions should NOT be larger than the following simulation world.
+[INFO]    reportInitStats: The dimension of the simulation world: 48, 24, 24
+[INFO]    reportInitStats: Simulation world X range: [-12, 36]
+[INFO]    reportInitStats: Simulation world Y range: [-12, 12]
+[INFO]    reportInitStats: Simulation world Z range: [-9, 15]
+[INFO]    reportInitStats: The length unit in this simulation is: 1.7462298274040222e-10
+[INFO]    reportInitStats: The edge length of a voxel: 1.1444091796875e-05
+[INFO]    reportInitStats: The initial time step size: 0.0002
+[INFO]    reportInitStats: The initial edge length of a bin: 0.34587645138205458
+[INFO]    reportInitStats: The initial number of bins: 681100
+[INFO]    reportInitStats: The total number of clumps: 0
+[INFO]    reportInitStats: The combined number of component spheres: 0
+[INFO]    reportInitStats: The total number of analytical objects: 1
+[INFO]    reportInitStats: The total number of meshes: 72
+[INFO]    reportInitStats: Grand total number of owners: 73
+[INFO]    reportInitStats: The number of material types: 2
+[INFO]    reportInitStats: History-based Hertzian contact model is in use.
+[INFO]    reportInitStats: The solver to set to adaptively change the contact margin size.
+Starting simulation with 36 particles (diverse meshes)
+Frame time: 0.01 s, Time step: 0.0002 s
+Total frames: 300
+Frame: 1 (t = 0 s)
+  Average height: 5.74037 m
+  Mean speed: 0 m/s
+  Max speed: 0 m/s
+kT host memory usage: 1.56402 MiB
+kT device memory usage: 2.74545 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81086 MiB
+----------------------------------------
+Frame: 2 (t = 0.01 s)
+  Average height: 5.73988 m
+  Mean speed: 0.0981 m/s
+  Max speed: 0.0981 m/s
+kT host memory usage: 1.59268 MiB
+kT device memory usage: 7.407 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 3 (t = 0.02 s)
+  Average height: 5.73841 m
+  Mean speed: 0.1962 m/s
+  Max speed: 0.1962 m/s
+kT host memory usage: 1.59432 MiB
+kT device memory usage: 7.52097 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 4 (t = 0.03 s)
+  Average height: 5.73596 m
+  Mean speed: 0.2943 m/s
+  Max speed: 0.2943 m/s
+kT host memory usage: 1.59622 MiB
+kT device memory usage: 7.65831 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 5 (t = 0.04 s)
+  Average height: 5.73253 m
+  Mean speed: 0.392401 m/s
+  Max speed: 0.392401 m/s
+kT host memory usage: 1.59691 MiB
+kT device memory usage: 7.70997 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 6 (t = 0.05 s)
+  Average height: 5.72811 m
+  Mean speed: 0.490501 m/s
+  Max speed: 0.490501 m/s
+kT host memory usage: 1.59829 MiB
+kT device memory usage: 7.81021 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 7 (t = 0.06 s)
+  Average height: 5.72272 m
+  Mean speed: 0.588601 m/s
+  Max speed: 0.588601 m/s
+kT host memory usage: 1.59918 MiB
+kT device memory usage: 7.87437 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 8 (t = 0.07 s)
+  Average height: 5.71634 m
+  Mean speed: 0.686702 m/s
+  Max speed: 0.686702 m/s
+kT host memory usage: 1.60014 MiB
+kT device memory usage: 7.92086 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 9 (t = 0.08 s)
+  Average height: 5.70898 m
+  Mean speed: 0.784802 m/s
+  Max speed: 0.784802 m/s
+kT host memory usage: 1.60037 MiB
+kT device memory usage: 7.94382 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 10 (t = 0.09 s)
+  Average height: 5.70064 m
+  Mean speed: 0.882902 m/s
+  Max speed: 0.882902 m/s
+kT host memory usage: 1.60075 MiB
+kT device memory usage: 7.96743 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 11 (t = 0.1 s)
+  Average height: 5.69132 m
+  Mean speed: 0.981003 m/s
+  Max speed: 0.981003 m/s
+kT host memory usage: 1.60101 MiB
+kT device memory usage: 7.99209 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 12 (t = 0.11 s)
+  Average height: 5.68102 m
+  Mean speed: 1.0791 m/s
+  Max speed: 1.0791 m/s
+kT host memory usage: 1.60143 MiB
+kT device memory usage: 8.0168 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 13 (t = 0.12 s)
+  Average height: 5.66974 m
+  Mean speed: 1.1772 m/s
+  Max speed: 1.1772 m/s
+kT host memory usage: 1.6019 MiB
+kT device memory usage: 8.04328 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 14 (t = 0.13 s)
+  Average height: 5.65748 m
+  Mean speed: 1.2753 m/s
+  Max speed: 1.2753 m/s
+kT host memory usage: 1.6022 MiB
+kT device memory usage: 8.07734 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81163 MiB
+----------------------------------------
+Frame: 15 (t = 0.14 s)
+  Average height: 5.64424 m
+  Mean speed: 1.37339 m/s
+  Max speed: 1.37339 m/s
+kT host memory usage: 1.60349 MiB
+kT device memory usage: 8.17531 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81172 MiB
+----------------------------------------
+Frame: 16 (t = 0.15 s)
+  Average height: 5.63001 m
+  Mean speed: 1.47149 m/s
+  Max speed: 1.47149 m/s
+kT host memory usage: 1.60078 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 17 (t = 0.16 s)
+  Average height: 5.61481 m
+  Mean speed: 1.56959 m/s
+  Max speed: 1.56959 m/s
+kT host memory usage: 1.59908 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 18 (t = 0.17 s)
+  Average height: 5.59862 m
+  Mean speed: 1.66768 m/s
+  Max speed: 1.66768 m/s
+kT host memory usage: 1.59947 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 19 (t = 0.18 s)
+  Average height: 5.58145 m
+  Mean speed: 1.76578 m/s
+  Max speed: 1.76578 m/s
+kT host memory usage: 1.60094 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 20 (t = 0.19 s)
+  Average height: 5.56331 m
+  Mean speed: 1.86388 m/s
+  Max speed: 1.86388 m/s
+kT host memory usage: 1.60209 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 21 (t = 0.2 s)
+  Average height: 5.54417 m
+  Mean speed: 1.96198 m/s
+  Max speed: 1.96198 m/s
+kT host memory usage: 1.60102 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81465 MiB
+----------------------------------------
+Frame: 22 (t = 0.21 s)
+  Average height: 5.52406 m
+  Mean speed: 2.06007 m/s
+  Max speed: 2.06007 m/s
+kT host memory usage: 1.60206 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81469 MiB
+----------------------------------------
+Frame: 23 (t = 0.22 s)
+  Average height: 5.50297 m
+  Mean speed: 2.15817 m/s
+  Max speed: 2.15817 m/s
+kT host memory usage: 1.60066 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81535 MiB
+----------------------------------------
+Frame: 24 (t = 0.23 s)
+  Average height: 5.4809 m
+  Mean speed: 2.25627 m/s
+  Max speed: 2.25627 m/s
+kT host memory usage: 1.60167 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81535 MiB
+----------------------------------------
+Frame: 25 (t = 0.24 s)
+  Average height: 5.45785 m
+  Mean speed: 2.35437 m/s
+  Max speed: 2.35437 m/s
+kT host memory usage: 1.60069 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81535 MiB
+----------------------------------------
+Frame: 26 (t = 0.25 s)
+  Average height: 5.43382 m
+  Mean speed: 2.45246 m/s
+  Max speed: 2.45246 m/s
+kT host memory usage: 1.60179 MiB
+kT device memory usage: 8.17643 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81535 MiB
+----------------------------------------
+Frame: 27 (t = 0.26 s)
+  Average height: 5.4088 m
+  Mean speed: 2.55056 m/s
+  Max speed: 2.55056 m/s
+kT host memory usage: 1.60185 MiB
+kT device memory usage: 8.2047 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81549 MiB
+----------------------------------------
+Frame: 28 (t = 0.27 s)
+  Average height: 5.3828 m
+  Mean speed: 2.64866 m/s
+  Max speed: 2.64866 m/s
+kT host memory usage: 1.60068 MiB
+kT device memory usage: 8.2047 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81549 MiB
+----------------------------------------
+Frame: 29 (t = 0.28 s)
+  Average height: 5.35582 m
+  Mean speed: 2.74676 m/s
+  Max speed: 2.74676 m/s
+kT host memory usage: 1.60044 MiB
+kT device memory usage: 8.2047 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81549 MiB
+----------------------------------------
+Frame: 30 (t = 0.29 s)
+  Average height: 5.32787 m
+  Mean speed: 2.84485 m/s
+  Max speed: 2.84485 m/s
+kT host memory usage: 1.60149 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 31 (t = 0.3 s)
+  Average height: 5.29893 m
+  Mean speed: 2.94295 m/s
+  Max speed: 2.94295 m/s
+kT host memory usage: 1.6008 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 32 (t = 0.31 s)
+  Average height: 5.26901 m
+  Mean speed: 3.04105 m/s
+  Max speed: 3.04105 m/s
+kT host memory usage: 1.60052 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 33 (t = 0.32 s)
+  Average height: 5.23811 m
+  Mean speed: 3.13914 m/s
+  Max speed: 3.13914 m/s
+kT host memory usage: 1.60043 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 34 (t = 0.33 s)
+  Average height: 5.20623 m
+  Mean speed: 3.23724 m/s
+  Max speed: 3.23724 m/s
+kT host memory usage: 1.6005 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 35 (t = 0.34 s)
+  Average height: 5.17336 m
+  Mean speed: 3.33534 m/s
+  Max speed: 3.33534 m/s
+kT host memory usage: 1.60022 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 36 (t = 0.35 s)
+  Average height: 5.13952 m
+  Mean speed: 3.43344 m/s
+  Max speed: 3.43344 m/s
+kT host memory usage: 1.59965 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 37 (t = 0.36 s)
+  Average height: 5.10469 m
+  Mean speed: 3.53153 m/s
+  Max speed: 3.53153 m/s
+kT host memory usage: 1.60004 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 38 (t = 0.37 s)
+  Average height: 5.06889 m
+  Mean speed: 3.62963 m/s
+  Max speed: 3.62963 m/s
+kT host memory usage: 1.60042 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 39 (t = 0.38 s)
+  Average height: 5.0321 m
+  Mean speed: 3.72773 m/s
+  Max speed: 3.72773 m/s
+kT host memory usage: 1.59998 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 40 (t = 0.39 s)
+  Average height: 4.99433 m
+  Mean speed: 3.82583 m/s
+  Max speed: 3.82583 m/s
+kT host memory usage: 1.60063 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 41 (t = 0.4 s)
+  Average height: 4.95558 m
+  Mean speed: 3.92392 m/s
+  Max speed: 3.92392 m/s
+kT host memory usage: 1.60103 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 42 (t = 0.41 s)
+  Average height: 4.91585 m
+  Mean speed: 4.02202 m/s
+  Max speed: 4.02202 m/s
+kT host memory usage: 1.60027 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 43 (t = 0.42 s)
+  Average height: 4.87514 m
+  Mean speed: 4.12013 m/s
+  Max speed: 4.12013 m/s
+kT host memory usage: 1.60017 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 44 (t = 0.43 s)
+  Average height: 4.83345 m
+  Mean speed: 4.21824 m/s
+  Max speed: 4.21824 m/s
+kT host memory usage: 1.59976 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 45 (t = 0.44 s)
+  Average height: 4.79078 m
+  Mean speed: 4.31635 m/s
+  Max speed: 4.31635 m/s
+kT host memory usage: 1.60065 MiB
+kT device memory usage: 8.22005 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81582 MiB
+----------------------------------------
+Frame: 46 (t = 0.45 s)
+  Average height: 4.74713 m
+  Mean speed: 4.41446 m/s
+  Max speed: 4.41446 m/s
+kT host memory usage: 1.6014 MiB
+kT device memory usage: 8.2546 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81595 MiB
+----------------------------------------
+Frame: 47 (t = 0.46 s)
+  Average height: 4.70249 m
+  Mean speed: 4.51257 m/s
+  Max speed: 4.51257 m/s
+kT host memory usage: 1.6008 MiB
+kT device memory usage: 8.2546 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81628 MiB
+----------------------------------------
+Frame: 48 (t = 0.47 s)
+  Average height: 4.65687 m
+  Mean speed: 4.61068 m/s
+  Max speed: 4.61068 m/s
+kT host memory usage: 1.60088 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81632 MiB
+----------------------------------------
+Frame: 49 (t = 0.48 s)
+  Average height: 4.61028 m
+  Mean speed: 4.70879 m/s
+  Max speed: 4.70879 m/s
+kT host memory usage: 1.59903 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81638 MiB
+----------------------------------------
+Frame: 50 (t = 0.49 s)
+  Average height: 4.5627 m
+  Mean speed: 4.8069 m/s
+  Max speed: 4.8069 m/s
+kT host memory usage: 1.59811 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81638 MiB
+----------------------------------------
+Frame: 51 (t = 0.5 s)
+  Average height: 4.51414 m
+  Mean speed: 4.9045 m/s
+  Max speed: 4.90501 m/s
+kT host memory usage: 1.59826 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81638 MiB
+----------------------------------------
+Frame: 52 (t = 0.51 s)
+  Average height: 4.46467 m
+  Mean speed: 4.98756 m/s
+  Max speed: 5.00312 m/s
+kT host memory usage: 1.59835 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81638 MiB
+----------------------------------------
+Frame: 53 (t = 0.52 s)
+  Average height: 4.41443 m
+  Mean speed: 5.06004 m/s
+  Max speed: 5.10122 m/s
+kT host memory usage: 1.59787 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81638 MiB
+----------------------------------------
+Frame: 54 (t = 0.53 s)
+  Average height: 4.36351 m
+  Mean speed: 5.14859 m/s
+  Max speed: 5.19933 m/s
+kT host memory usage: 1.59773 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81642 MiB
+----------------------------------------
+Frame: 55 (t = 0.54 s)
+  Average height: 4.31185 m
+  Mean speed: 5.25467 m/s
+  Max speed: 5.29744 m/s
+kT host memory usage: 1.59807 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81721 MiB
+----------------------------------------
+Frame: 56 (t = 0.55 s)
+  Average height: 4.25931 m
+  Mean speed: 5.3526 m/s
+  Max speed: 5.39555 m/s
+kT host memory usage: 1.59786 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81721 MiB
+----------------------------------------
+Frame: 57 (t = 0.56 s)
+  Average height: 4.20576 m
+  Mean speed: 5.4462 m/s
+  Max speed: 5.49366 m/s
+kT host memory usage: 1.59995 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 58 (t = 0.57 s)
+  Average height: 4.15122 m
+  Mean speed: 5.54233 m/s
+  Max speed: 5.59177 m/s
+kT host memory usage: 1.59895 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 59 (t = 0.58 s)
+  Average height: 4.09571 m
+  Mean speed: 5.63857 m/s
+  Max speed: 5.68988 m/s
+kT host memory usage: 1.59902 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 60 (t = 0.59 s)
+  Average height: 4.03921 m
+  Mean speed: 5.73477 m/s
+  Max speed: 5.78799 m/s
+kT host memory usage: 1.60015 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 61 (t = 0.6 s)
+  Average height: 3.98177 m
+  Mean speed: 5.82006 m/s
+  Max speed: 5.8861 m/s
+kT host memory usage: 1.59936 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 62 (t = 0.61 s)
+  Average height: 3.92353 m
+  Mean speed: 5.89293 m/s
+  Max speed: 5.98421 m/s
+kT host memory usage: 1.59959 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 63 (t = 0.62 s)
+  Average height: 3.86458 m
+  Mean speed: 5.95862 m/s
+  Max speed: 6.08232 m/s
+kT host memory usage: 1.59976 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 64 (t = 0.63 s)
+  Average height: 3.80497 m
+  Mean speed: 6.04607 m/s
+  Max speed: 6.18043 m/s
+kT host memory usage: 1.59979 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81733 MiB
+----------------------------------------
+Frame: 65 (t = 0.64 s)
+  Average height: 3.74463 m
+  Mean speed: 6.16004 m/s
+  Max speed: 6.27854 m/s
+kT host memory usage: 1.59981 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.81795 MiB
+----------------------------------------
+Frame: 66 (t = 0.65 s)
+  Average height: 3.68346 m
+  Mean speed: 6.26389 m/s
+  Max speed: 6.37665 m/s
+kT host memory usage: 1.60024 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.82346 MiB
+----------------------------------------
+Frame: 67 (t = 0.66 s)
+  Average height: 3.6215 m
+  Mean speed: 6.32525 m/s
+  Max speed: 6.47475 m/s
+kT host memory usage: 1.60052 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.82812 MiB
+----------------------------------------
+Frame: 68 (t = 0.67 s)
+  Average height: 3.55907 m
+  Mean speed: 6.37723 m/s
+  Max speed: 6.57286 m/s
+kT host memory usage: 1.60027 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83052 MiB
+----------------------------------------
+Frame: 69 (t = 0.68 s)
+  Average height: 3.49611 m
+  Mean speed: 6.49214 m/s
+  Max speed: 6.67097 m/s
+kT host memory usage: 1.60029 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83233 MiB
+----------------------------------------
+Frame: 70 (t = 0.69 s)
+  Average height: 3.43231 m
+  Mean speed: 6.58457 m/s
+  Max speed: 6.76908 m/s
+kT host memory usage: 1.60064 MiB
+kT device memory usage: 8.25573 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83233 MiB
+----------------------------------------
+Frame: 71 (t = 0.7 s)
+  Average height: 3.36749 m
+  Mean speed: 6.67327 m/s
+  Max speed: 6.86719 m/s
+kT host memory usage: 1.60343 MiB
+kT device memory usage: 8.29872 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83235 MiB
+----------------------------------------
+Frame: 72 (t = 0.71 s)
+  Average height: 3.30171 m
+  Mean speed: 6.76497 m/s
+  Max speed: 6.9653 m/s
+kT host memory usage: 1.60263 MiB
+kT device memory usage: 8.29879 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83249 MiB
+----------------------------------------
+Frame: 73 (t = 0.72 s)
+  Average height: 3.23502 m
+  Mean speed: 6.8384 m/s
+  Max speed: 7.06341 m/s
+kT host memory usage: 1.60262 MiB
+kT device memory usage: 8.29879 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.8325 MiB
+----------------------------------------
+Frame: 74 (t = 0.73 s)
+  Average height: 3.16772 m
+  Mean speed: 6.87012 m/s
+  Max speed: 7.16152 m/s
+kT host memory usage: 1.60333 MiB
+kT device memory usage: 8.29924 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.8325 MiB
+----------------------------------------
+Frame: 75 (t = 0.74 s)
+  Average height: 3.1 m
+  Mean speed: 6.94263 m/s
+  Max speed: 7.25963 m/s
+kT host memory usage: 1.60226 MiB
+kT device memory usage: 8.29924 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83265 MiB
+----------------------------------------
+Frame: 76 (t = 0.75 s)
+  Average height: 3.03219 m
+  Mean speed: 6.95981 m/s
+  Max speed: 7.35774 m/s
+kT host memory usage: 1.6023 MiB
+kT device memory usage: 8.29924 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83301 MiB
+----------------------------------------
+Frame: 77 (t = 0.76 s)
+  Average height: 2.96483 m
+  Mean speed: 6.91137 m/s
+  Max speed: 7.45585 m/s
+kT host memory usage: 1.60404 MiB
+kT device memory usage: 8.29927 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83313 MiB
+----------------------------------------
+Frame: 78 (t = 0.77 s)
+  Average height: 2.89786 m
+  Mean speed: 7.00717 m/s
+  Max speed: 7.55396 m/s
+kT host memory usage: 1.60404 MiB
+kT device memory usage: 8.29928 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83348 MiB
+----------------------------------------
+Frame: 79 (t = 0.78 s)
+  Average height: 2.83105 m
+  Mean speed: 7.04421 m/s
+  Max speed: 7.65207 m/s
+kT host memory usage: 1.60321 MiB
+kT device memory usage: 8.29931 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.83459 MiB
+----------------------------------------
+Frame: 80 (t = 0.79 s)
+  Average height: 2.76445 m
+  Mean speed: 6.98764 m/s
+  Max speed: 7.75017 m/s
+kT host memory usage: 1.60323 MiB
+kT device memory usage: 8.29931 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.84719 MiB
+----------------------------------------
+Frame: 81 (t = 0.8 s)
+  Average height: 2.69842 m
+  Mean speed: 7.03027 m/s
+  Max speed: 7.84828 m/s
+kT host memory usage: 1.60619 MiB
+kT device memory usage: 8.30141 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85438 MiB
+----------------------------------------
+Frame: 82 (t = 0.81 s)
+  Average height: 2.63306 m
+  Mean speed: 7.16025 m/s
+  Max speed: 7.94639 m/s
+kT host memory usage: 1.60532 MiB
+kT device memory usage: 8.30141 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85612 MiB
+----------------------------------------
+Frame: 83 (t = 0.82 s)
+  Average height: 2.56778 m
+  Mean speed: 7.21025 m/s
+  Max speed: 8.04449 m/s
+kT host memory usage: 1.60548 MiB
+kT device memory usage: 8.30141 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85612 MiB
+----------------------------------------
+Frame: 84 (t = 0.83 s)
+  Average height: 2.50239 m
+  Mean speed: 7.18779 m/s
+  Max speed: 8.14258 m/s
+kT host memory usage: 1.61152 MiB
+kT device memory usage: 8.53423 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85626 MiB
+----------------------------------------
+Frame: 85 (t = 0.84 s)
+  Average height: 2.43746 m
+  Mean speed: 7.17014 m/s
+  Max speed: 8.24066 m/s
+kT host memory usage: 1.60997 MiB
+kT device memory usage: 8.53423 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85654 MiB
+----------------------------------------
+Frame: 86 (t = 0.85 s)
+  Average height: 2.3732 m
+  Mean speed: 7.22791 m/s
+  Max speed: 8.33875 m/s
+kT host memory usage: 1.61049 MiB
+kT device memory usage: 8.53561 MiB
+dT host memory usage: 2.55493 MiB
+dT device memory usage: 1.85673 MiB
+----------------------------------------
+Frame: 87 (t = 0.86 s)
+  Average height: 2.30951 m
+  Mean speed: 7.18188 m/s
+  Max speed: 8.43683 m/s
+kT host memory usage: 1.63362 MiB
+kT device memory usage: 8.55792 MiB
+dT host memory usage: 2.59371 MiB
+dT device memory usage: 1.95263 MiB
+----------------------------------------
+Frame: 88 (t = 0.87 s)
+  Average height: 2.24641 m
+  Mean speed: 7.23038 m/s
+  Max speed: 8.53492 m/s
+kT host memory usage: 1.73951 MiB
+kT device memory usage: 8.82524 MiB
+dT host memory usage: 2.7601 MiB
+dT device memory usage: 2.28478 MiB
+----------------------------------------
+Frame: 89 (t = 0.88 s)
+  Average height: 2.18405 m
+  Mean speed: 7.15761 m/s
+  Max speed: 8.633 m/s
+kT host memory usage: 1.77373 MiB
+kT device memory usage: 8.906 MiB
+dT host memory usage: 2.82345 MiB
+dT device memory usage: 2.41968 MiB
+----------------------------------------
+Frame: 90 (t = 0.89 s)
+  Average height: 2.12232 m
+  Mean speed: 7.16213 m/s
+  Max speed: 8.73109 m/s
+kT host memory usage: 1.77326 MiB
+kT device memory usage: 8.90788 MiB
+dT host memory usage: 2.85924 MiB
+dT device memory usage: 2.48619 MiB
+----------------------------------------
+Frame: 91 (t = 0.9 s)
+  Average height: 2.06066 m
+  Mean speed: 7.16042 m/s
+  Max speed: 8.82917 m/s
+kT host memory usage: 1.77489 MiB
+kT device memory usage: 8.90795 MiB
+dT host memory usage: 2.85924 MiB
+dT device memory usage: 2.48619 MiB
+----------------------------------------
+Frame: 92 (t = 0.91 s)
+  Average height: 1.99927 m
+  Mean speed: 7.13499 m/s
+  Max speed: 8.92726 m/s
+kT host memory usage: 1.77929 MiB
+kT device memory usage: 8.96103 MiB
+dT host memory usage: 2.88548 MiB
+dT device memory usage: 2.53438 MiB
+----------------------------------------
+Frame: 93 (t = 0.92 s)
+  Average height: 1.93851 m
+  Mean speed: 7.17543 m/s
+  Max speed: 9.02535 m/s
+kT host memory usage: 1.79565 MiB
+kT device memory usage: 8.98754 MiB
+dT host memory usage: 2.94514 MiB
+dT device memory usage: 2.66253 MiB
+----------------------------------------
+Frame: 94 (t = 0.93 s)
+  Average height: 1.8778 m
+  Mean speed: 7.15385 m/s
+  Max speed: 9.12343 m/s
+kT host memory usage: 1.79708 MiB
+kT device memory usage: 8.99471 MiB
+dT host memory usage: 2.9803 MiB
+dT device memory usage: 2.73357 MiB
+----------------------------------------
+Frame: 95 (t = 0.94 s)
+  Average height: 1.81782 m
+  Mean speed: 7.05254 m/s
+  Max speed: 9.22152 m/s
+kT host memory usage: 1.91218 MiB
+kT device memory usage: 9.38109 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14793 MiB
+----------------------------------------
+Frame: 96 (t = 0.95 s)
+  Average height: 1.75984 m
+  Mean speed: 6.86662 m/s
+  Max speed: 9.3196 m/s
+kT host memory usage: 1.91063 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14815 MiB
+----------------------------------------
+Frame: 97 (t = 0.96 s)
+  Average height: 1.7039 m
+  Mean speed: 6.84908 m/s
+  Max speed: 9.41769 m/s
+kT host memory usage: 1.90928 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14817 MiB
+----------------------------------------
+Frame: 98 (t = 0.97 s)
+  Average height: 1.64904 m
+  Mean speed: 6.80776 m/s
+  Max speed: 9.51577 m/s
+kT host memory usage: 1.90893 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14818 MiB
+----------------------------------------
+Frame: 99 (t = 0.98 s)
+  Average height: 1.59526 m
+  Mean speed: 6.73028 m/s
+  Max speed: 9.61386 m/s
+kT host memory usage: 1.90883 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14818 MiB
+----------------------------------------
+Frame: 100 (t = 0.99 s)
+  Average height: 1.54374 m
+  Mean speed: 6.46021 m/s
+  Max speed: 9.71194 m/s
+kT host memory usage: 1.90889 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14818 MiB
+----------------------------------------
+Frame: 101 (t = 1 s)
+  Average height: 1.4952 m
+  Mean speed: 6.36954 m/s
+  Max speed: 9.81003 m/s
+kT host memory usage: 1.90676 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14818 MiB
+----------------------------------------
+Frame: 102 (t = 1.01 s)
+  Average height: 1.44759 m
+  Mean speed: 6.38918 m/s
+  Max speed: 9.90811 m/s
+kT host memory usage: 1.91005 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14845 MiB
+----------------------------------------
+Frame: 103 (t = 1.02 s)
+  Average height: 1.4002 m
+  Mean speed: 6.1589 m/s
+  Max speed: 10.0062 m/s
+kT host memory usage: 1.90894 MiB
+kT device memory usage: 9.38125 MiB
+dT host memory usage: 3.2003 MiB
+dT device memory usage: 3.14866 MiB
+----------------------------------------
+Frame: 104 (t = 1.03 s)
+  Average height: 1.35705 m
+  Mean speed: 6.06745 m/s
+  Max speed: 10.6359 m/s
+kT host memory usage: 1.9809 MiB
+kT device memory usage: 9.50146 MiB
+dT host memory usage: 3.2956 MiB
+dT device memory usage: 3.32902 MiB
+----------------------------------------
+Frame: 105 (t = 1.04 s)
+  Average height: 1.31726 m
+  Mean speed: 6.05373 m/s
+  Max speed: 10.2024 m/s
+kT host memory usage: 1.98282 MiB
+kT device memory usage: 9.50238 MiB
+dT host memory usage: 3.30841 MiB
+dT device memory usage: 3.35171 MiB
+----------------------------------------
+Frame: 106 (t = 1.05 s)
+  Average height: 1.27843 m
+  Mean speed: 5.97437 m/s
+  Max speed: 10.3005 m/s
+kT host memory usage: 2.05866 MiB
+kT device memory usage: 9.77391 MiB
+dT host memory usage: 3.35359 MiB
+dT device memory usage: 3.4465 MiB
+----------------------------------------
+Frame: 107 (t = 1.06 s)
+  Average height: 1.24046 m
+  Mean speed: 5.86641 m/s
+  Max speed: 10.3985 m/s
+kT host memory usage: 2.06005 MiB
+kT device memory usage: 9.78101 MiB
+dT host memory usage: 3.45566 MiB
+dT device memory usage: 3.65898 MiB
+----------------------------------------
+Frame: 108 (t = 1.07 s)
+  Average height: 1.20226 m
+  Mean speed: 5.90437 m/s
+  Max speed: 10.4966 m/s
+kT host memory usage: 2.2279 MiB
+kT device memory usage: 10.3045 MiB
+dT host memory usage: 3.73218 MiB
+dT device memory usage: 4.24097 MiB
+----------------------------------------
+Frame: 109 (t = 1.08 s)
+  Average height: 1.16453 m
+  Mean speed: 5.74185 m/s
+  Max speed: 10.5947 m/s
+kT host memory usage: 2.6947 MiB
+kT device memory usage: 12.3772 MiB
+dT host memory usage: 4.43205 MiB
+dT device memory usage: 5.67256 MiB
+----------------------------------------
+Frame: 110 (t = 1.09 s)
+  Average height: 1.12844 m
+  Mean speed: 5.557 m/s
+  Max speed: 10.6928 m/s
+kT host memory usage: 2.99889 MiB
+kT device memory usage: 14.0198 MiB
+dT host memory usage: 5.09865 MiB
+dT device memory usage: 7.03601 MiB
+----------------------------------------
+Frame: 111 (t = 1.1 s)
+  Average height: 1.09605 m
+  Mean speed: 5.17667 m/s
+  Max speed: 13.6061 m/s
+kT host memory usage: 3.20706 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 112 (t = 1.11 s)
+  Average height: 1.06951 m
+  Mean speed: 5.09056 m/s
+  Max speed: 10.889 m/s
+kT host memory usage: 3.20216 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 113 (t = 1.12 s)
+  Average height: 1.04767 m
+  Mean speed: 4.9998 m/s
+  Max speed: 10.9871 m/s
+kT host memory usage: 3.20079 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 114 (t = 1.13 s)
+  Average height: 1.02719 m
+  Mean speed: 4.82234 m/s
+  Max speed: 11.0851 m/s
+kT host memory usage: 3.19888 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 115 (t = 1.14 s)
+  Average height: 1.00707 m
+  Mean speed: 4.80976 m/s
+  Max speed: 11.1832 m/s
+kT host memory usage: 3.19721 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 116 (t = 1.15 s)
+  Average height: 0.987597 m
+  Mean speed: 4.79574 m/s
+  Max speed: 12.9994 m/s
+kT host memory usage: 3.19724 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 117 (t = 1.16 s)
+  Average height: 0.968259 m
+  Mean speed: 4.73501 m/s
+  Max speed: 12.6835 m/s
+kT host memory usage: 3.19954 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 118 (t = 1.17 s)
+  Average height: 0.949495 m
+  Mean speed: 4.57601 m/s
+  Max speed: 11.4775 m/s
+kT host memory usage: 3.20116 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 119 (t = 1.18 s)
+  Average height: 0.933088 m
+  Mean speed: 4.32382 m/s
+  Max speed: 11.5756 m/s
+kT host memory usage: 3.19991 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 120 (t = 1.19 s)
+  Average height: 0.920047 m
+  Mean speed: 4.20785 m/s
+  Max speed: 11.6737 m/s
+kT host memory usage: 3.19954 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 121 (t = 1.2 s)
+  Average height: 0.910072 m
+  Mean speed: 4.11724 m/s
+  Max speed: 11.7717 m/s
+kT host memory usage: 3.20194 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 122 (t = 1.21 s)
+  Average height: 0.902391 m
+  Mean speed: 4.05149 m/s
+  Max speed: 11.8698 m/s
+kT host memory usage: 3.20078 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75752 MiB
+----------------------------------------
+Frame: 123 (t = 1.22 s)
+  Average height: 0.895148 m
+  Mean speed: 4.0544 m/s
+  Max speed: 11.9679 m/s
+kT host memory usage: 3.20109 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75757 MiB
+----------------------------------------
+Frame: 124 (t = 1.23 s)
+  Average height: 0.886902 m
+  Mean speed: 3.84284 m/s
+  Max speed: 11.6592 m/s
+kT host memory usage: 3.20102 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75759 MiB
+----------------------------------------
+Frame: 125 (t = 1.24 s)
+  Average height: 0.878158 m
+  Mean speed: 3.85697 m/s
+  Max speed: 16.6933 m/s
+kT host memory usage: 3.20165 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 126 (t = 1.25 s)
+  Average height: 0.871729 m
+  Mean speed: 3.62114 m/s
+  Max speed: 12.795 m/s
+kT host memory usage: 3.20177 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 127 (t = 1.26 s)
+  Average height: 0.869833 m
+  Mean speed: 3.48695 m/s
+  Max speed: 11.5263 m/s
+kT host memory usage: 3.20072 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 128 (t = 1.27 s)
+  Average height: 0.870401 m
+  Mean speed: 3.36105 m/s
+  Max speed: 8.39477 m/s
+kT host memory usage: 3.19849 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 129 (t = 1.28 s)
+  Average height: 0.871585 m
+  Mean speed: 3.11082 m/s
+  Max speed: 8.29785 m/s
+kT host memory usage: 3.19617 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 130 (t = 1.29 s)
+  Average height: 0.874489 m
+  Mean speed: 2.89595 m/s
+  Max speed: 8.20095 m/s
+kT host memory usage: 3.19509 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 131 (t = 1.3 s)
+  Average height: 0.879002 m
+  Mean speed: 2.79476 m/s
+  Max speed: 8.10408 m/s
+kT host memory usage: 3.19363 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 132 (t = 1.31 s)
+  Average height: 0.884789 m
+  Mean speed: 2.77123 m/s
+  Max speed: 8.00721 m/s
+kT host memory usage: 3.19308 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 133 (t = 1.32 s)
+  Average height: 0.891719 m
+  Mean speed: 2.81391 m/s
+  Max speed: 7.91038 m/s
+kT host memory usage: 3.19296 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 134 (t = 1.33 s)
+  Average height: 0.899273 m
+  Mean speed: 2.85425 m/s
+  Max speed: 7.81358 m/s
+kT host memory usage: 3.19318 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 135 (t = 1.34 s)
+  Average height: 0.906992 m
+  Mean speed: 2.86469 m/s
+  Max speed: 7.71681 m/s
+kT host memory usage: 3.1912 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 136 (t = 1.35 s)
+  Average height: 0.914664 m
+  Mean speed: 2.85692 m/s
+  Max speed: 7.62007 m/s
+kT host memory usage: 3.19113 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 137 (t = 1.36 s)
+  Average height: 0.922233 m
+  Mean speed: 2.8398 m/s
+  Max speed: 7.52337 m/s
+kT host memory usage: 3.19101 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 138 (t = 1.37 s)
+  Average height: 0.929571 m
+  Mean speed: 2.81073 m/s
+  Max speed: 7.42671 m/s
+kT host memory usage: 3.19119 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 139 (t = 1.38 s)
+  Average height: 0.936542 m
+  Mean speed: 2.77714 m/s
+  Max speed: 7.33009 m/s
+kT host memory usage: 3.18881 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 140 (t = 1.39 s)
+  Average height: 0.943042 m
+  Mean speed: 2.75721 m/s
+  Max speed: 7.23351 m/s
+kT host memory usage: 3.18879 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 141 (t = 1.4 s)
+  Average height: 0.94893 m
+  Mean speed: 2.73536 m/s
+  Max speed: 7.13696 m/s
+kT host memory usage: 3.18905 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 142 (t = 1.41 s)
+  Average height: 0.954115 m
+  Mean speed: 2.714 m/s
+  Max speed: 7.04047 m/s
+kT host memory usage: 3.18433 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 143 (t = 1.42 s)
+  Average height: 0.958713 m
+  Mean speed: 2.67861 m/s
+  Max speed: 6.94401 m/s
+kT host memory usage: 3.1855 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 144 (t = 1.43 s)
+  Average height: 0.962759 m
+  Mean speed: 2.6136 m/s
+  Max speed: 6.84761 m/s
+kT host memory usage: 3.1861 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 145 (t = 1.44 s)
+  Average height: 0.966108 m
+  Mean speed: 2.57298 m/s
+  Max speed: 6.75125 m/s
+kT host memory usage: 3.18331 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 146 (t = 1.45 s)
+  Average height: 0.968927 m
+  Mean speed: 2.52233 m/s
+  Max speed: 6.65494 m/s
+kT host memory usage: 3.18325 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 147 (t = 1.46 s)
+  Average height: 0.971343 m
+  Mean speed: 2.45924 m/s
+  Max speed: 6.55869 m/s
+kT host memory usage: 3.18311 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 148 (t = 1.47 s)
+  Average height: 0.973456 m
+  Mean speed: 2.39728 m/s
+  Max speed: 6.46249 m/s
+kT host memory usage: 3.18165 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 149 (t = 1.48 s)
+  Average height: 0.97524 m
+  Mean speed: 2.35945 m/s
+  Max speed: 6.36635 m/s
+kT host memory usage: 3.18146 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 150 (t = 1.49 s)
+  Average height: 0.976578 m
+  Mean speed: 2.33453 m/s
+  Max speed: 6.27028 m/s
+kT host memory usage: 3.18132 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 151 (t = 1.5 s)
+  Average height: 0.977657 m
+  Mean speed: 2.31173 m/s
+  Max speed: 6.17426 m/s
+kT host memory usage: 3.17868 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 152 (t = 1.51 s)
+  Average height: 0.978557 m
+  Mean speed: 2.29181 m/s
+  Max speed: 6.07832 m/s
+kT host memory usage: 3.17828 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 153 (t = 1.52 s)
+  Average height: 0.979084 m
+  Mean speed: 2.28508 m/s
+  Max speed: 5.98244 m/s
+kT host memory usage: 3.17886 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 154 (t = 1.53 s)
+  Average height: 0.979152 m
+  Mean speed: 2.27872 m/s
+  Max speed: 5.88664 m/s
+kT host memory usage: 3.17731 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 155 (t = 1.54 s)
+  Average height: 0.978658 m
+  Mean speed: 2.25494 m/s
+  Max speed: 5.79091 m/s
+kT host memory usage: 3.17667 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 156 (t = 1.55 s)
+  Average height: 0.977721 m
+  Mean speed: 2.2073 m/s
+  Max speed: 5.69527 m/s
+kT host memory usage: 3.17603 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 157 (t = 1.56 s)
+  Average height: 0.976666 m
+  Mean speed: 2.16984 m/s
+  Max speed: 5.59971 m/s
+kT host memory usage: 3.17463 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 158 (t = 1.57 s)
+  Average height: 0.975419 m
+  Mean speed: 2.14409 m/s
+  Max speed: 5.50424 m/s
+kT host memory usage: 3.17524 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 159 (t = 1.58 s)
+  Average height: 0.973911 m
+  Mean speed: 2.13737 m/s
+  Max speed: 5.40886 m/s
+kT host memory usage: 3.17486 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 160 (t = 1.59 s)
+  Average height: 0.972334 m
+  Mean speed: 2.11907 m/s
+  Max speed: 5.31359 m/s
+kT host memory usage: 3.17313 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 161 (t = 1.6 s)
+  Average height: 0.970625 m
+  Mean speed: 2.10379 m/s
+  Max speed: 5.2344 m/s
+kT host memory usage: 3.17307 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 162 (t = 1.61 s)
+  Average height: 0.968534 m
+  Mean speed: 2.09676 m/s
+  Max speed: 5.27197 m/s
+kT host memory usage: 3.173 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 163 (t = 1.62 s)
+  Average height: 0.965938 m
+  Mean speed: 2.11404 m/s
+  Max speed: 5.31108 m/s
+kT host memory usage: 3.17268 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 164 (t = 1.63 s)
+  Average height: 0.962745 m
+  Mean speed: 2.12699 m/s
+  Max speed: 5.35171 m/s
+kT host memory usage: 3.17269 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 165 (t = 1.64 s)
+  Average height: 0.958918 m
+  Mean speed: 2.09683 m/s
+  Max speed: 5.39381 m/s
+kT host memory usage: 3.1722 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 166 (t = 1.65 s)
+  Average height: 0.954446 m
+  Mean speed: 2.09039 m/s
+  Max speed: 5.43736 m/s
+kT host memory usage: 3.1721 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 167 (t = 1.66 s)
+  Average height: 0.949469 m
+  Mean speed: 2.0896 m/s
+  Max speed: 5.48232 m/s
+kT host memory usage: 3.17039 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 168 (t = 1.67 s)
+  Average height: 0.944286 m
+  Mean speed: 2.07858 m/s
+  Max speed: 5.52865 m/s
+kT host memory usage: 3.17074 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 169 (t = 1.68 s)
+  Average height: 0.939136 m
+  Mean speed: 2.07987 m/s
+  Max speed: 5.26285 m/s
+kT host memory usage: 3.17075 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 170 (t = 1.69 s)
+  Average height: 0.934011 m
+  Mean speed: 2.08415 m/s
+  Max speed: 4.8768 m/s
+kT host memory usage: 3.16888 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 171 (t = 1.7 s)
+  Average height: 0.928606 m
+  Mean speed: 2.09081 m/s
+  Max speed: 4.89359 m/s
+kT host memory usage: 3.1688 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 172 (t = 1.71 s)
+  Average height: 0.92272 m
+  Mean speed: 2.09759 m/s
+  Max speed: 4.98594 m/s
+kT host memory usage: 3.16915 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 173 (t = 1.72 s)
+  Average height: 0.916315 m
+  Mean speed: 2.10348 m/s
+  Max speed: 5.07851 m/s
+kT host memory usage: 3.16847 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 174 (t = 1.73 s)
+  Average height: 0.909548 m
+  Mean speed: 2.09612 m/s
+  Max speed: 5.10205 m/s
+kT host memory usage: 3.16811 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75775 MiB
+----------------------------------------
+Frame: 175 (t = 1.74 s)
+  Average height: 0.902658 m
+  Mean speed: 2.08569 m/s
+  Max speed: 4.80895 m/s
+kT host memory usage: 3.16789 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 176 (t = 1.75 s)
+  Average height: 0.895562 m
+  Mean speed: 2.08316 m/s
+  Max speed: 4.85351 m/s
+kT host memory usage: 3.16577 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 177 (t = 1.76 s)
+  Average height: 0.888243 m
+  Mean speed: 2.05437 m/s
+  Max speed: 4.89963 m/s
+kT host memory usage: 3.16617 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 178 (t = 1.77 s)
+  Average height: 0.881037 m
+  Mean speed: 2.04951 m/s
+  Max speed: 4.94727 m/s
+kT host memory usage: 3.16702 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 179 (t = 1.78 s)
+  Average height: 0.874038 m
+  Mean speed: 2.0686 m/s
+  Max speed: 4.99638 m/s
+kT host memory usage: 3.16734 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 180 (t = 1.79 s)
+  Average height: 0.867291 m
+  Mean speed: 2.02938 m/s
+  Max speed: 5.04692 m/s
+kT host memory usage: 3.16595 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75786 MiB
+----------------------------------------
+Frame: 181 (t = 1.8 s)
+  Average height: 0.860941 m
+  Mean speed: 2.01695 m/s
+  Max speed: 5.09885 m/s
+kT host memory usage: 3.16589 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75796 MiB
+----------------------------------------
+Frame: 182 (t = 1.81 s)
+  Average height: 0.854791 m
+  Mean speed: 2.03943 m/s
+  Max speed: 5.15212 m/s
+kT host memory usage: 3.16585 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75796 MiB
+----------------------------------------
+Frame: 183 (t = 1.82 s)
+  Average height: 0.848535 m
+  Mean speed: 2.05659 m/s
+  Max speed: 5.20669 m/s
+kT host memory usage: 3.16564 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75817 MiB
+----------------------------------------
+Frame: 184 (t = 1.83 s)
+  Average height: 0.841796 m
+  Mean speed: 2.07024 m/s
+  Max speed: 5.26253 m/s
+kT host memory usage: 3.16438 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75827 MiB
+----------------------------------------
+Frame: 185 (t = 1.84 s)
+  Average height: 0.834477 m
+  Mean speed: 2.06459 m/s
+  Max speed: 5.31959 m/s
+kT host memory usage: 3.16422 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75837 MiB
+----------------------------------------
+Frame: 186 (t = 1.85 s)
+  Average height: 0.826933 m
+  Mean speed: 2.02033 m/s
+  Max speed: 5.37783 m/s
+kT host memory usage: 3.16416 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75837 MiB
+----------------------------------------
+Frame: 187 (t = 1.86 s)
+  Average height: 0.819715 m
+  Mean speed: 1.97387 m/s
+  Max speed: 5.43722 m/s
+kT host memory usage: 3.16348 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75837 MiB
+----------------------------------------
+Frame: 188 (t = 1.87 s)
+  Average height: 0.812926 m
+  Mean speed: 1.955 m/s
+  Max speed: 5.42543 m/s
+kT host memory usage: 3.16383 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75837 MiB
+----------------------------------------
+Frame: 189 (t = 1.88 s)
+  Average height: 0.806527 m
+  Mean speed: 1.92676 m/s
+  Max speed: 5.31646 m/s
+kT host memory usage: 3.16396 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75847 MiB
+----------------------------------------
+Frame: 190 (t = 1.89 s)
+  Average height: 0.800917 m
+  Mean speed: 1.85999 m/s
+  Max speed: 4.75219 m/s
+kT host memory usage: 3.16468 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75851 MiB
+----------------------------------------
+Frame: 191 (t = 1.9 s)
+  Average height: 0.795937 m
+  Mean speed: 1.86559 m/s
+  Max speed: 4.64686 m/s
+kT host memory usage: 3.16494 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75879 MiB
+----------------------------------------
+Frame: 192 (t = 1.91 s)
+  Average height: 0.790847 m
+  Mean speed: 1.87313 m/s
+  Max speed: 4.87318 m/s
+kT host memory usage: 3.16342 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.7589 MiB
+----------------------------------------
+Frame: 193 (t = 1.92 s)
+  Average height: 0.785567 m
+  Mean speed: 1.85284 m/s
+  Max speed: 4.68778 m/s
+kT host memory usage: 3.16362 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.7589 MiB
+----------------------------------------
+Frame: 194 (t = 1.93 s)
+  Average height: 0.780489 m
+  Mean speed: 1.82067 m/s
+  Max speed: 4.76359 m/s
+kT host memory usage: 3.16374 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.7589 MiB
+----------------------------------------
+Frame: 195 (t = 1.94 s)
+  Average height: 0.775717 m
+  Mean speed: 1.77587 m/s
+  Max speed: 4.8402 m/s
+kT host memory usage: 3.16345 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 196 (t = 1.95 s)
+  Average height: 0.771271 m
+  Mean speed: 1.76708 m/s
+  Max speed: 4.91757 m/s
+kT host memory usage: 3.16252 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 197 (t = 1.96 s)
+  Average height: 0.766975 m
+  Mean speed: 1.7724 m/s
+  Max speed: 4.99567 m/s
+kT host memory usage: 3.16224 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 198 (t = 1.97 s)
+  Average height: 0.7625 m
+  Mean speed: 1.76563 m/s
+  Max speed: 5.07447 m/s
+kT host memory usage: 3.16215 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 199 (t = 1.98 s)
+  Average height: 0.757772 m
+  Mean speed: 1.75492 m/s
+  Max speed: 5.15393 m/s
+kT host memory usage: 3.16205 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 200 (t = 1.99 s)
+  Average height: 0.752938 m
+  Mean speed: 1.74406 m/s
+  Max speed: 5.23403 m/s
+kT host memory usage: 3.16176 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 201 (t = 2 s)
+  Average height: 0.74797 m
+  Mean speed: 1.75619 m/s
+  Max speed: 5.31474 m/s
+kT host memory usage: 3.16186 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 202 (t = 2.01 s)
+  Average height: 0.742791 m
+  Mean speed: 1.76723 m/s
+  Max speed: 5.39601 m/s
+kT host memory usage: 3.16188 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 203 (t = 2.02 s)
+  Average height: 0.737498 m
+  Mean speed: 1.76449 m/s
+  Max speed: 5.47784 m/s
+kT host memory usage: 3.16196 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 204 (t = 2.03 s)
+  Average height: 0.732188 m
+  Mean speed: 1.74124 m/s
+  Max speed: 5.5602 m/s
+kT host memory usage: 3.16003 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 205 (t = 2.04 s)
+  Average height: 0.726927 m
+  Mean speed: 1.69559 m/s
+  Max speed: 5.64306 m/s
+kT host memory usage: 3.16016 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 206 (t = 2.05 s)
+  Average height: 0.721952 m
+  Mean speed: 1.67169 m/s
+  Max speed: 5.72641 m/s
+kT host memory usage: 3.1602 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 207 (t = 2.06 s)
+  Average height: 0.717267 m
+  Mean speed: 1.62788 m/s
+  Max speed: 5.81021 m/s
+kT host memory usage: 3.16023 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 208 (t = 2.07 s)
+  Average height: 0.712923 m
+  Mean speed: 1.59847 m/s
+  Max speed: 5.89446 m/s
+kT host memory usage: 3.15987 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 209 (t = 2.08 s)
+  Average height: 0.708763 m
+  Mean speed: 1.55428 m/s
+  Max speed: 5.97912 m/s
+kT host memory usage: 3.15958 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 210 (t = 2.09 s)
+  Average height: 0.704724 m
+  Mean speed: 1.54521 m/s
+  Max speed: 6.0642 m/s
+kT host memory usage: 3.15901 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 211 (t = 2.1 s)
+  Average height: 0.700792 m
+  Mean speed: 1.55799 m/s
+  Max speed: 6.14966 m/s
+kT host memory usage: 3.15903 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75924 MiB
+----------------------------------------
+Frame: 212 (t = 2.11 s)
+  Average height: 0.696817 m
+  Mean speed: 1.56232 m/s
+  Max speed: 6.06794 m/s
+kT host memory usage: 3.15887 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75934 MiB
+----------------------------------------
+Frame: 213 (t = 2.12 s)
+  Average height: 0.692848 m
+  Mean speed: 1.54756 m/s
+  Max speed: 6.16088 m/s
+kT host memory usage: 3.15785 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75944 MiB
+----------------------------------------
+Frame: 214 (t = 2.13 s)
+  Average height: 0.68905 m
+  Mean speed: 1.52344 m/s
+  Max speed: 6.25398 m/s
+kT host memory usage: 3.15799 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75955 MiB
+----------------------------------------
+Frame: 215 (t = 2.14 s)
+  Average height: 0.685655 m
+  Mean speed: 1.46251 m/s
+  Max speed: 5.56924 m/s
+kT host memory usage: 3.15797 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 216 (t = 2.15 s)
+  Average height: 0.683051 m
+  Mean speed: 1.38747 m/s
+  Max speed: 5.69762 m/s
+kT host memory usage: 3.15846 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 217 (t = 2.16 s)
+  Average height: 0.681406 m
+  Mean speed: 1.36286 m/s
+  Max speed: 4.07639 m/s
+kT host memory usage: 3.15867 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 218 (t = 2.17 s)
+  Average height: 0.680581 m
+  Mean speed: 1.34255 m/s
+  Max speed: 4.13228 m/s
+kT host memory usage: 3.15865 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 219 (t = 2.18 s)
+  Average height: 0.68021 m
+  Mean speed: 1.34137 m/s
+  Max speed: 4.14396 m/s
+kT host memory usage: 3.1589 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 220 (t = 2.19 s)
+  Average height: 0.679904 m
+  Mean speed: 1.34217 m/s
+  Max speed: 4.07846 m/s
+kT host memory usage: 3.15904 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 221 (t = 2.2 s)
+  Average height: 0.679336 m
+  Mean speed: 1.33045 m/s
+  Max speed: 3.93837 m/s
+kT host memory usage: 3.159 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 222 (t = 2.21 s)
+  Average height: 0.67836 m
+  Mean speed: 1.30626 m/s
+  Max speed: 3.77729 m/s
+kT host memory usage: 3.15894 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 223 (t = 2.22 s)
+  Average height: 0.677158 m
+  Mean speed: 1.28335 m/s
+  Max speed: 3.69678 m/s
+kT host memory usage: 3.15894 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75965 MiB
+----------------------------------------
+Frame: 224 (t = 2.23 s)
+  Average height: 0.675922 m
+  Mean speed: 1.26539 m/s
+  Max speed: 3.64621 m/s
+kT host memory usage: 3.15884 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 225 (t = 2.24 s)
+  Average height: 0.674714 m
+  Mean speed: 1.25515 m/s
+  Max speed: 3.59761 m/s
+kT host memory usage: 3.15852 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 226 (t = 2.25 s)
+  Average height: 0.673383 m
+  Mean speed: 1.25206 m/s
+  Max speed: 3.55105 m/s
+kT host memory usage: 3.15856 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 227 (t = 2.26 s)
+  Average height: 0.671914 m
+  Mean speed: 1.23831 m/s
+  Max speed: 3.50662 m/s
+kT host memory usage: 3.15849 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 228 (t = 2.27 s)
+  Average height: 0.670604 m
+  Mean speed: 1.22398 m/s
+  Max speed: 3.50603 m/s
+kT host memory usage: 3.15841 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 229 (t = 2.28 s)
+  Average height: 0.669549 m
+  Mean speed: 1.21387 m/s
+  Max speed: 3.5195 m/s
+kT host memory usage: 3.1585 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 230 (t = 2.29 s)
+  Average height: 0.668757 m
+  Mean speed: 1.19927 m/s
+  Max speed: 3.3869 m/s
+kT host memory usage: 3.15846 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 231 (t = 2.3 s)
+  Average height: 0.668045 m
+  Mean speed: 1.18299 m/s
+  Max speed: 3.35179 m/s
+kT host memory usage: 3.15793 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 232 (t = 2.31 s)
+  Average height: 0.667218 m
+  Mean speed: 1.14889 m/s
+  Max speed: 3.31921 m/s
+kT host memory usage: 3.15828 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 233 (t = 2.32 s)
+  Average height: 0.666237 m
+  Mean speed: 1.1412 m/s
+  Max speed: 3.28923 m/s
+kT host memory usage: 3.15803 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 234 (t = 2.33 s)
+  Average height: 0.665098 m
+  Mean speed: 1.13414 m/s
+  Max speed: 3.27441 m/s
+kT host memory usage: 3.15788 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 235 (t = 2.34 s)
+  Average height: 0.663785 m
+  Mean speed: 1.13577 m/s
+  Max speed: 3.37228 m/s
+kT host memory usage: 3.1583 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 236 (t = 2.35 s)
+  Average height: 0.662267 m
+  Mean speed: 1.13836 m/s
+  Max speed: 3.47016 m/s
+kT host memory usage: 3.15846 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 237 (t = 2.36 s)
+  Average height: 0.660475 m
+  Mean speed: 1.13956 m/s
+  Max speed: 3.56805 m/s
+kT host memory usage: 3.15843 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 238 (t = 2.37 s)
+  Average height: 0.658343 m
+  Mean speed: 1.1399 m/s
+  Max speed: 3.66595 m/s
+kT host memory usage: 3.15946 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 239 (t = 2.38 s)
+  Average height: 0.655851 m
+  Mean speed: 1.13321 m/s
+  Max speed: 3.76386 m/s
+kT host memory usage: 3.16016 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 240 (t = 2.39 s)
+  Average height: 0.653065 m
+  Mean speed: 1.12768 m/s
+  Max speed: 3.86178 m/s
+kT host memory usage: 3.16025 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 241 (t = 2.4 s)
+  Average height: 0.650016 m
+  Mean speed: 1.12744 m/s
+  Max speed: 3.95971 m/s
+kT host memory usage: 3.16013 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 242 (t = 2.41 s)
+  Average height: 0.646783 m
+  Mean speed: 1.12386 m/s
+  Max speed: 4.05766 m/s
+kT host memory usage: 3.15992 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 243 (t = 2.42 s)
+  Average height: 0.643529 m
+  Mean speed: 1.10669 m/s
+  Max speed: 4.15562 m/s
+kT host memory usage: 3.16016 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 244 (t = 2.43 s)
+  Average height: 0.640422 m
+  Mean speed: 1.10592 m/s
+  Max speed: 4.25358 m/s
+kT host memory usage: 3.15992 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 245 (t = 2.44 s)
+  Average height: 0.637327 m
+  Mean speed: 1.10533 m/s
+  Max speed: 4.35155 m/s
+kT host memory usage: 3.15958 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 246 (t = 2.45 s)
+  Average height: 0.634048 m
+  Mean speed: 1.1062 m/s
+  Max speed: 4.44953 m/s
+kT host memory usage: 3.15995 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 247 (t = 2.46 s)
+  Average height: 0.630562 m
+  Mean speed: 1.10671 m/s
+  Max speed: 4.54751 m/s
+kT host memory usage: 3.16008 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 248 (t = 2.47 s)
+  Average height: 0.626945 m
+  Mean speed: 1.1038 m/s
+  Max speed: 4.6455 m/s
+kT host memory usage: 3.16015 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 249 (t = 2.48 s)
+  Average height: 0.62316 m
+  Mean speed: 1.10405 m/s
+  Max speed: 4.74349 m/s
+kT host memory usage: 3.15913 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 250 (t = 2.49 s)
+  Average height: 0.619192 m
+  Mean speed: 1.10115 m/s
+  Max speed: 4.84149 m/s
+kT host memory usage: 3.15907 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 251 (t = 2.5 s)
+  Average height: 0.615181 m
+  Mean speed: 1.07401 m/s
+  Max speed: 4.93949 m/s
+kT host memory usage: 3.15886 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 252 (t = 2.51 s)
+  Average height: 0.611512 m
+  Mean speed: 1.05586 m/s
+  Max speed: 5.0375 m/s
+kT host memory usage: 3.16091 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 253 (t = 2.52 s)
+  Average height: 0.608104 m
+  Mean speed: 1.06883 m/s
+  Max speed: 5.13551 m/s
+kT host memory usage: 3.16094 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 254 (t = 2.53 s)
+  Average height: 0.604715 m
+  Mean speed: 1.0682 m/s
+  Max speed: 5.23352 m/s
+kT host memory usage: 3.16094 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 255 (t = 2.54 s)
+  Average height: 0.601318 m
+  Mean speed: 1.06287 m/s
+  Max speed: 5.33154 m/s
+kT host memory usage: 3.16077 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 256 (t = 2.55 s)
+  Average height: 0.597964 m
+  Mean speed: 1.06804 m/s
+  Max speed: 5.42956 m/s
+kT host memory usage: 3.16078 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 257 (t = 2.56 s)
+  Average height: 0.594559 m
+  Mean speed: 1.06437 m/s
+  Max speed: 5.52759 m/s
+kT host memory usage: 3.16084 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 258 (t = 2.57 s)
+  Average height: 0.591121 m
+  Mean speed: 1.05094 m/s
+  Max speed: 4.89941 m/s
+kT host memory usage: 3.16293 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 259 (t = 2.58 s)
+  Average height: 0.587739 m
+  Mean speed: 1.04671 m/s
+  Max speed: 4.73081 m/s
+kT host memory usage: 3.16297 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 260 (t = 2.59 s)
+  Average height: 0.584447 m
+  Mean speed: 1.04225 m/s
+  Max speed: 4.82534 m/s
+kT host memory usage: 3.16276 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 261 (t = 2.6 s)
+  Average height: 0.581196 m
+  Mean speed: 1.03191 m/s
+  Max speed: 4.92001 m/s
+kT host memory usage: 3.16276 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 262 (t = 2.61 s)
+  Average height: 0.577918 m
+  Mean speed: 1.01609 m/s
+  Max speed: 5.01481 m/s
+kT host memory usage: 3.16332 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 263 (t = 2.62 s)
+  Average height: 0.574631 m
+  Mean speed: 0.984617 m/s
+  Max speed: 5.10973 m/s
+kT host memory usage: 3.16328 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 264 (t = 2.63 s)
+  Average height: 0.571695 m
+  Mean speed: 0.955465 m/s
+  Max speed: 5.20478 m/s
+kT host memory usage: 3.16305 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 265 (t = 2.64 s)
+  Average height: 0.569221 m
+  Mean speed: 0.950915 m/s
+  Max speed: 5.29993 m/s
+kT host memory usage: 3.16253 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75986 MiB
+----------------------------------------
+Frame: 266 (t = 2.65 s)
+  Average height: 0.566866 m
+  Mean speed: 0.948481 m/s
+  Max speed: 5.39519 m/s
+kT host memory usage: 3.16248 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75996 MiB
+----------------------------------------
+Frame: 267 (t = 2.66 s)
+  Average height: 0.564508 m
+  Mean speed: 0.942416 m/s
+  Max speed: 5.49055 m/s
+kT host memory usage: 3.16415 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75996 MiB
+----------------------------------------
+Frame: 268 (t = 2.67 s)
+  Average height: 0.562119 m
+  Mean speed: 0.939357 m/s
+  Max speed: 5.58601 m/s
+kT host memory usage: 3.16408 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75996 MiB
+----------------------------------------
+Frame: 269 (t = 2.68 s)
+  Average height: 0.559612 m
+  Mean speed: 0.936043 m/s
+  Max speed: 5.68156 m/s
+kT host memory usage: 3.16419 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.75996 MiB
+----------------------------------------
+Frame: 270 (t = 2.69 s)
+  Average height: 0.557005 m
+  Mean speed: 0.932097 m/s
+  Max speed: 5.77719 m/s
+kT host memory usage: 3.1638 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76006 MiB
+----------------------------------------
+Frame: 271 (t = 2.7 s)
+  Average height: 0.554309 m
+  Mean speed: 0.930287 m/s
+  Max speed: 5.8729 m/s
+kT host memory usage: 3.16415 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76017 MiB
+----------------------------------------
+Frame: 272 (t = 2.71 s)
+  Average height: 0.551518 m
+  Mean speed: 0.92556 m/s
+  Max speed: 5.96869 m/s
+kT host memory usage: 3.16408 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76017 MiB
+----------------------------------------
+Frame: 273 (t = 2.72 s)
+  Average height: 0.548733 m
+  Mean speed: 0.91675 m/s
+  Max speed: 6.06456 m/s
+kT host memory usage: 3.16576 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 274 (t = 2.73 s)
+  Average height: 0.546118 m
+  Mean speed: 0.89203 m/s
+  Max speed: 6.1605 m/s
+kT host memory usage: 3.16573 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 275 (t = 2.74 s)
+  Average height: 0.544069 m
+  Mean speed: 0.823792 m/s
+  Max speed: 6.2565 m/s
+kT host memory usage: 3.16567 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 276 (t = 2.75 s)
+  Average height: 0.54291 m
+  Mean speed: 0.775778 m/s
+  Max speed: 6.35257 m/s
+kT host memory usage: 3.16564 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 277 (t = 2.76 s)
+  Average height: 0.542439 m
+  Mean speed: 0.781088 m/s
+  Max speed: 6.4487 m/s
+kT host memory usage: 3.16554 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 278 (t = 2.77 s)
+  Average height: 0.542245 m
+  Mean speed: 0.788627 m/s
+  Max speed: 6.54489 m/s
+kT host memory usage: 3.16564 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 279 (t = 2.78 s)
+  Average height: 0.54199 m
+  Mean speed: 0.784416 m/s
+  Max speed: 6.64113 m/s
+kT host memory usage: 3.16563 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 280 (t = 2.79 s)
+  Average height: 0.541501 m
+  Mean speed: 0.772162 m/s
+  Max speed: 6.73743 m/s
+kT host memory usage: 3.16763 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 281 (t = 2.8 s)
+  Average height: 0.540802 m
+  Mean speed: 0.756939 m/s
+  Max speed: 6.83378 m/s
+kT host memory usage: 3.16773 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 282 (t = 2.81 s)
+  Average height: 0.539947 m
+  Mean speed: 0.753515 m/s
+  Max speed: 6.93018 m/s
+kT host memory usage: 3.16746 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 283 (t = 2.82 s)
+  Average height: 0.538913 m
+  Mean speed: 0.747251 m/s
+  Max speed: 7.02663 m/s
+kT host memory usage: 3.16752 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 284 (t = 2.83 s)
+  Average height: 0.537694 m
+  Mean speed: 0.733087 m/s
+  Max speed: 7.12312 m/s
+kT host memory usage: 3.1675 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 285 (t = 2.84 s)
+  Average height: 0.536379 m
+  Mean speed: 0.724652 m/s
+  Max speed: 7.21966 m/s
+kT host memory usage: 3.16756 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 286 (t = 2.85 s)
+  Average height: 0.534985 m
+  Mean speed: 0.724762 m/s
+  Max speed: 7.31623 m/s
+kT host memory usage: 3.16985 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 287 (t = 2.86 s)
+  Average height: 0.533467 m
+  Mean speed: 0.719044 m/s
+  Max speed: 7.41285 m/s
+kT host memory usage: 3.16979 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 288 (t = 2.87 s)
+  Average height: 0.531822 m
+  Mean speed: 0.719894 m/s
+  Max speed: 7.50951 m/s
+kT host memory usage: 3.16971 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 289 (t = 2.88 s)
+  Average height: 0.530073 m
+  Mean speed: 0.725586 m/s
+  Max speed: 7.6062 m/s
+kT host memory usage: 3.16964 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 290 (t = 2.89 s)
+  Average height: 0.528159 m
+  Mean speed: 0.719476 m/s
+  Max speed: 7.70293 m/s
+kT host memory usage: 3.16956 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 291 (t = 2.9 s)
+  Average height: 0.526104 m
+  Mean speed: 0.712645 m/s
+  Max speed: 7.79969 m/s
+kT host memory usage: 3.16942 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 292 (t = 2.91 s)
+  Average height: 0.52388 m
+  Mean speed: 0.711179 m/s
+  Max speed: 7.89649 m/s
+kT host memory usage: 3.16942 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 293 (t = 2.92 s)
+  Average height: 0.521462 m
+  Mean speed: 0.708311 m/s
+  Max speed: 7.99332 m/s
+kT host memory usage: 3.17263 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 294 (t = 2.93 s)
+  Average height: 0.518928 m
+  Mean speed: 0.70221 m/s
+  Max speed: 8.09018 m/s
+kT host memory usage: 3.17265 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 295 (t = 2.94 s)
+  Average height: 0.516362 m
+  Mean speed: 0.702413 m/s
+  Max speed: 8.18705 m/s
+kT host memory usage: 3.17255 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 296 (t = 2.95 s)
+  Average height: 0.513896 m
+  Mean speed: 0.694842 m/s
+  Max speed: 8.28394 m/s
+kT host memory usage: 3.17456 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 297 (t = 2.96 s)
+  Average height: 0.511479 m
+  Mean speed: 0.687871 m/s
+  Max speed: 8.38087 m/s
+kT host memory usage: 3.17435 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 298 (t = 2.97 s)
+  Average height: 0.509098 m
+  Mean speed: 0.684212 m/s
+  Max speed: 8.47782 m/s
+kT host memory usage: 3.17432 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 299 (t = 2.98 s)
+  Average height: 0.506775 m
+  Mean speed: 0.689037 m/s
+  Max speed: 8.57479 m/s
+kT host memory usage: 3.17515 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+Frame: 300 (t = 2.99 s)
+  Average height: 0.504435 m
+  Mean speed: 0.67846 m/s
+  Max speed: 8.67179 m/s
+kT host memory usage: 3.17514 MiB
+kT device memory usage: 15.2876 MiB
+dT host memory usage: 5.45363 MiB
+dT device memory usage: 7.76027 MiB
+----------------------------------------
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 15000
+Number of updates dynamic gets: 1997
+Number of updates kinematic gets: 1998
+Average steps per dynamic update: 7.507508
+Average steps contact detection lags behind: 15.01151
+Number of times dynamic held back: 25
+-----------------------------
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 7.97607244 seconds
+Discretize domain: 0.872369301 seconds, 10.9373% of kT total runtime
+Find contact pairs: 3.13247472 seconds, 39.2734% of kT total runtime
+Build history map: 0.073225457 seconds, 0.918064% of kT total runtime
+Unpack updates from dT: 1.01699595 seconds, 12.7506% of kT total runtime
+Send to dT buffer: 0.821923738 seconds, 10.3049% of kT total runtime
+Wait for dT update: 2.05908328 seconds, 25.8158% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 5.77271717 seconds
+Clear force array: 0.203701952 seconds, 3.5287% of dT total runtime
+Calculate contact forces: 4.61978813 seconds, 80.028% of dT total runtime
+Optional force reduction: 0.165385791 seconds, 2.86496% of dT total runtime
+Integration: 0.169918656 seconds, 2.94348% of dT total runtime
+Unpack updates from kT: 0.390256741 seconds, 6.76036% of dT total runtime
+Send to kT buffer: 0.210322402 seconds, 3.64339% of dT total runtime
+Wait for kT update: 0.013343497 seconds, 0.231148% of dT total runtime
+--------------------------
+DEMdemo_MeshFalling exiting...

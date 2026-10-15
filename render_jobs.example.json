@@ -14,9 +14,10 @@
     "pattern": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish the simulation\\b",
     "patterns": {
       "DEMdemo_HopperSphereCylinder.txt": "^\\s*dT total active time:\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\b",
-      "DEMdemo_Plow.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish the 10-second plowing simulation\\b",
       "DEMdemo_Centrifuge.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish 10 seconds' simulation\\b",
-      "DEMdemo_RotatingDrum.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish 10 seconds' simulation\\b"
+      "DEMdemo_Plow.txt": "^\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\s+\\(wall time\\)\\s+to finish the 10-second plowing simulation\\b",
+      "DEMdemo_MeshFalling.txt": "^\\s*dT total active time:\\s*(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+seconds\\b",
+      "DEMdemo_HopperSphereMeshedCylinder.txt": "^\\s*Simulated\\s+[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?\\s+s\\s+in\\s+(?P<seconds>[+-]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(?:[eE][+-]?\\d+)?)\\s+s\\s+wall time\\b"
     }
   },
   "jobs": [
@@ -175,7 +176,7 @@
       "kind": "state",
       "state": "states/MixerCubes.pvsm",
       "data_dir": "results/DemoOutput_MixerCubes",
-      "frame_window": [0, 199],
+      "frame_window": [0, 99],
       "restrict_to_data_directory": true,
       "output": "MixerCubes.ogv"
     },

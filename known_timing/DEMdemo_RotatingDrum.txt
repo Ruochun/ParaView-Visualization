@@ -5237,7 +5237,7 @@ Number of times dynamic held back: 681
 Solver's current update frequency (auto-adapted): 33.5
 Maximum system velocity: 2.56372
 ------------------------------------
-5247.43 seconds (wall time) to finish 10 seconds' simulation
+5247.43 seconds (wall time) to finish the simulation
 
 ~~ kT--dT CO-OP STATISTICS ~~
 Number of steps dynamic executed: 4000001
