@@ -1,0 +1,1462 @@
+==== DEME demo/test: DEMdemo_MixerCubes ====
+========================================
+[WARNING] LoadWavefrontMesh: Mesh /root/DEM-Engine/build/data/mesh/internal_mixer.obj is not watertight (boundary edges: 128, non-manifold edges: 0). Volume/MOI may be inaccurate.
+[WARNING] AddMesh: Mesh /root/DEM-Engine/build/data/mesh/internal_mixer.obj is not watertight (boundary edges: 128, non-manifold edges: 0). Volume/MOI may be inaccurate.
+Total num of mixer triangles: 2892
+Total num of cube particles: 45000
+Cube edge length: 0.01 m, mass: 0.0026 kg
+[INFO]    reportInitStats: 
+
+[INFO]    reportInitStats: Number of logical CUDA devices visible to DEME: 2
+[INFO]    reportInitStats: Number of active devices used by DEME: 2
+[INFO]    reportInitStats: Worker device assignments (dT, kT): 0, 1
+[INFO]    reportInitStats: User-specified X-dimension range: [-0.5, 0.5]
+[INFO]    reportInitStats: User-specified Y-dimension range: [-0.5, 0.5]
+[INFO]    reportInitStats: User-specified Z-dimension range: [-0.5, 0.5]
+[INFO]    reportInitStats: User-specified dimensions should NOT be larger than the following simulation world.
+[INFO]    reportInitStats: The dimension of the simulation world: 1.2000000476837158, 1.2000000476837158, 2.4000000953674316
+[INFO]    reportInitStats: Simulation world X range: [-0.6, 0.6]
+[INFO]    reportInitStats: Simulation world Y range: [-0.6, 0.6]
+[INFO]    reportInitStats: Simulation world Z range: [-0.6, 1.8]
+[INFO]    reportInitStats: The length unit in this simulation is: 8.7311494839648063e-12
+[INFO]    reportInitStats: The edge length of a voxel: 5.7220461258111754e-07
+[INFO]    reportInitStats: The initial time step size: 5e-06
+[INFO]    reportInitStats: The initial edge length of a bin: 0.01729382325629749
+[INFO]    reportInitStats: The initial number of bins: 681100
+[INFO]    reportInitStats: The total number of clumps: 0
+[INFO]    reportInitStats: The combined number of component spheres: 0
+[INFO]    reportInitStats: The total number of analytical objects: 2
+[INFO]    reportInitStats: The total number of meshes: 45001
+[INFO]    reportInitStats: Grand total number of owners: 45003
+[INFO]    reportInitStats: The number of material types: 2
+[INFO]    reportInitStats: History-based Hertzian contact model is in use.
+[INFO]    reportInitStats: The solver to set to adaptively change the contact margin size.
+Output at 20 FPS
+Frame: 0
+Max velocity of any point in simulation is 0
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 0
+Contact torque on the mixer is 0, 0, 0
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 10001
+Number of updates dynamic gets: 1667
+Number of updates kinematic gets: 1668
+Average steps per dynamic update: 5.995803
+Average steps contact detection lags behind: 5.997001
+Number of times dynamic held back: 1663
+-----------------------------
+Frame: 1
+Max velocity of any point in simulation is 0.490581
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 1
+Contact torque on the mixer is -5.88453, 27.7324, -35678.9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 20002
+Number of updates dynamic gets: 3334
+Number of updates kinematic gets: 3335
+Average steps per dynamic update: 5.997601
+Average steps contact detection lags behind: 5.9979
+Number of times dynamic held back: 3329
+-----------------------------
+Frame: 2
+Max velocity of any point in simulation is 0.981176
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 1
+Contact torque on the mixer is 596.911, -440.674, -37305.4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 30003
+Number of updates dynamic gets: 5001
+Number of updates kinematic gets: 5002
+Average steps per dynamic update: 5.998201
+Average steps contact detection lags behind: 5.9984
+Number of times dynamic held back: 4995
+-----------------------------
+Frame: 3
+Max velocity of any point in simulation is 3.79688
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 2.68186
+Contact torque on the mixer is -679.21, 688.881, 7682.08
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 40004
+Number of updates dynamic gets: 6669
+Number of updates kinematic gets: 6670
+Average steps per dynamic update: 5.997601
+Average steps contact detection lags behind: 5.997901
+Number of times dynamic held back: 6657
+-----------------------------
+Frame: 4
+Max velocity of any point in simulation is 4.02974
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 3.13596
+Contact torque on the mixer is -32.6334, 61.1656, 47040.8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 50005
+Number of updates dynamic gets: 8337
+Number of updates kinematic gets: 8338
+Average steps per dynamic update: 5.997242
+Average steps contact detection lags behind: 5.997721
+Number of times dynamic held back: 8318
+-----------------------------
+Frame: 5
+Max velocity of any point in simulation is 4.87019
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 3.53219
+Contact torque on the mixer is -4.87169, 1.91248, -45719.4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 60006
+Number of updates dynamic gets: 10012
+Number of updates kinematic gets: 10013
+Average steps per dynamic update: 5.992809
+Average steps contact detection lags behind: 5.993008
+Number of times dynamic held back: 9906
+-----------------------------
+Frame: 6
+Max velocity of any point in simulation is 4.23046
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 3.96297
+Contact torque on the mixer is 27.1899, -142.511, -251568
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 70007
+Number of updates dynamic gets: 11949
+Number of updates kinematic gets: 11949
+Average steps per dynamic update: 5.858817
+Average steps contact detection lags behind: 5.858972
+Number of times dynamic held back: 10817
+-----------------------------
+Frame: 7
+Max velocity of any point in simulation is 4.13565
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 4.33769
+Contact torque on the mixer is 125.637, -841.383, -290158
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 80008
+Number of updates dynamic gets: 14359
+Number of updates kinematic gets: 14360
+Average steps per dynamic update: 5.571588
+Average steps contact detection lags behind: 5.571836
+Number of times dynamic held back: 10817
+-----------------------------
+Frame: 8
+Max velocity of any point in simulation is 3.95471
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 4.34966
+Contact torque on the mixer is 18.5458, 2654.44, -186061
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 90009
+Number of updates dynamic gets: 16577
+Number of updates kinematic gets: 16578
+Average steps per dynamic update: 5.429425
+Average steps contact detection lags behind: 5.429631
+Number of times dynamic held back: 10822
+-----------------------------
+Frame: 9
+Max velocity of any point in simulation is 4.48755
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 4.73288
+Contact torque on the mixer is -0.534107, -1.90642, -77223
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 100010
+Number of updates dynamic gets: 18708
+Number of updates kinematic gets: 18709
+Average steps per dynamic update: 5.345556
+Average steps contact detection lags behind: 5.345734
+Number of times dynamic held back: 10843
+-----------------------------
+Frame: 10
+Max velocity of any point in simulation is 3.18574
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 5.32167
+Contact torque on the mixer is -2.24169, -0.272336, -2980.25
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 110011
+Number of updates dynamic gets: 20955
+Number of updates kinematic gets: 20956
+Average steps per dynamic update: 5.249618
+Average steps contact detection lags behind: 5.249773
+Number of times dynamic held back: 10846
+-----------------------------
+Frame: 11
+Max velocity of any point in simulation is 3.09322
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 5.8842
+Contact torque on the mixer is -2.97538, -3.62521, -39475.5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 120012
+Number of updates dynamic gets: 23449
+Number of updates kinematic gets: 23450
+Average steps per dynamic update: 5.117783
+Average steps contact detection lags behind: 5.117958
+Number of times dynamic held back: 10850
+-----------------------------
+Frame: 12
+Max velocity of any point in simulation is 3.37025
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 6.38611
+Contact torque on the mixer is -655.133, -887.198, -32065.8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 130013
+Number of updates dynamic gets: 26166
+Number of updates kinematic gets: 26167
+Average steps per dynamic update: 4.968586
+Average steps contact detection lags behind: 4.968738
+Number of times dynamic held back: 10851
+-----------------------------
+Frame: 13
+Max velocity of any point in simulation is 4.29632
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 6.7763
+Contact torque on the mixer is 225.664, 215.166, 7762.99
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 140014
+Number of updates dynamic gets: 28816
+Number of updates kinematic gets: 28817
+Average steps per dynamic update: 4.858729
+Average steps contact detection lags behind: 4.858794
+Number of times dynamic held back: 10854
+-----------------------------
+Frame: 14
+Max velocity of any point in simulation is 4.26022
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 7.0472
+Contact torque on the mixer is 29.0185, 13.988, 46060.5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 150015
+Number of updates dynamic gets: 31663
+Number of updates kinematic gets: 31664
+Average steps per dynamic update: 4.737715
+Average steps contact detection lags behind: 4.737801
+Number of times dynamic held back: 10858
+-----------------------------
+Frame: 15
+Max velocity of any point in simulation is 3.89357
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 7.28894
+Contact torque on the mixer is 10.3755, -22.1652, -45801.9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 160016
+Number of updates dynamic gets: 34538
+Number of updates kinematic gets: 34539
+Average steps per dynamic update: 4.632908
+Average steps contact detection lags behind: 4.632955
+Number of times dynamic held back: 10862
+-----------------------------
+Frame: 16
+Max velocity of any point in simulation is 3.1845
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 7.45807
+Contact torque on the mixer is -62.8362, -20.37, -245276
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 170017
+Number of updates dynamic gets: 37466
+Number of updates kinematic gets: 37467
+Average steps per dynamic update: 4.53778
+Average steps contact detection lags behind: 4.537821
+Number of times dynamic held back: 10862
+-----------------------------
+Frame: 17
+Max velocity of any point in simulation is 3.08858
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 7.63364
+Contact torque on the mixer is -1125.2, -166.427, -292657
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 180018
+Number of updates dynamic gets: 40337
+Number of updates kinematic gets: 40337
+Average steps per dynamic update: 4.46285
+Average steps contact detection lags behind: 4.462887
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 18
+Max velocity of any point in simulation is 4.53716
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 7.92377
+Contact torque on the mixer is 652.476, -12.2003, -184858
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 190019
+Number of updates dynamic gets: 43125
+Number of updates kinematic gets: 43126
+Average steps per dynamic update: 4.406136
+Average steps contact detection lags behind: 4.406214
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 19
+Max velocity of any point in simulation is 4.35692
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 8.24547
+Contact torque on the mixer is -0.665727, -8.08892, -77189
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 200020
+Number of updates dynamic gets: 45959
+Number of updates kinematic gets: 45959
+Average steps per dynamic update: 4.35214
+Average steps contact detection lags behind: 4.352148
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 20
+Max velocity of any point in simulation is 4.09837
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 8.5179
+Contact torque on the mixer is 5.47426, 3.60042, -2562.79
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 210021
+Number of updates dynamic gets: 48941
+Number of updates kinematic gets: 48942
+Average steps per dynamic update: 4.291222
+Average steps contact detection lags behind: 4.291269
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 21
+Max velocity of any point in simulation is 3.69095
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 8.69829
+Contact torque on the mixer is 5.6148, -3.67853, -39468.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 220022
+Number of updates dynamic gets: 51827
+Number of updates kinematic gets: 51827
+Average steps per dynamic update: 4.245316
+Average steps contact detection lags behind: 4.245321
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 22
+Max velocity of any point in simulation is 2.90886
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 8.97682
+Contact torque on the mixer is -219.059, 156.7, -32217
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 230023
+Number of updates dynamic gets: 54630
+Number of updates kinematic gets: 54631
+Average steps per dynamic update: 4.210485
+Average steps contact detection lags behind: 4.210544
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 23
+Max velocity of any point in simulation is 3.45924
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.22484
+Contact torque on the mixer is 382.534, -371.925, 9382.49
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 240024
+Number of updates dynamic gets: 57527
+Number of updates kinematic gets: 57527
+Average steps per dynamic update: 4.172371
+Average steps contact detection lags behind: 4.172374
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 24
+Max velocity of any point in simulation is 3.25345
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.38346
+Contact torque on the mixer is 27.0006, -17.3235, 46295.4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 250025
+Number of updates dynamic gets: 60568
+Number of updates kinematic gets: 60569
+Average steps per dynamic update: 4.127937
+Average steps contact detection lags behind: 4.127988
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 25
+Max velocity of any point in simulation is 3.17461
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.48333
+Contact torque on the mixer is 8.01832, 5.27431, -46110.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 260026
+Number of updates dynamic gets: 63692
+Number of updates kinematic gets: 63692
+Average steps per dynamic update: 4.082554
+Average steps contact detection lags behind: 4.082571
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 26
+Max velocity of any point in simulation is 2.64193
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.54178
+Contact torque on the mixer is -11.5963, 30.3087, -245145
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 270027
+Number of updates dynamic gets: 66667
+Number of updates kinematic gets: 66668
+Average steps per dynamic update: 4.050324
+Average steps contact detection lags behind: 4.050355
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 27
+Max velocity of any point in simulation is 2.87179
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.6954
+Contact torque on the mixer is -157.283, 1030.74, -286227
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 280028
+Number of updates dynamic gets: 69746
+Number of updates kinematic gets: 69747
+Average steps per dynamic update: 4.014911
+Average steps contact detection lags behind: 4.014954
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 28
+Max velocity of any point in simulation is 2.99973
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.80266
+Contact torque on the mixer is 8.45439, -107.974, -188986
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 290029
+Number of updates dynamic gets: 72813
+Number of updates kinematic gets: 72814
+Average steps per dynamic update: 3.983149
+Average steps contact detection lags behind: 3.98319
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 29
+Max velocity of any point in simulation is 3.30877
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 9.92934
+Contact torque on the mixer is 11.4438, 40.9488, -77061.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 300030
+Number of updates dynamic gets: 75877
+Number of updates kinematic gets: 75878
+Average steps per dynamic update: 3.954111
+Average steps contact detection lags behind: 3.954123
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 30
+Max velocity of any point in simulation is 3.16086
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.0707
+Contact torque on the mixer is -16.2051, -5.55976, -3890.19
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 310031
+Number of updates dynamic gets: 78969
+Number of updates kinematic gets: 78970
+Average steps per dynamic update: 3.925934
+Average steps contact detection lags behind: 3.925958
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 31
+Max velocity of any point in simulation is 3.07283
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.1503
+Contact torque on the mixer is 0.74437, 8.00779, -39440.9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 320032
+Number of updates dynamic gets: 81949
+Number of updates kinematic gets: 81950
+Average steps per dynamic update: 3.90521
+Average steps contact detection lags behind: 3.905246
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 32
+Max velocity of any point in simulation is 2.64995
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 0
+Contact torque on the mixer is 1256.41, 1696.94, -32585.6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 330033
+Number of updates dynamic gets: 84989
+Number of updates kinematic gets: 84990
+Average steps per dynamic update: 3.883198
+Average steps contact detection lags behind: 3.883232
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 33
+Max velocity of any point in simulation is 2.75648
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.454
+Contact torque on the mixer is -254, -250.392, 7490.34
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 340034
+Number of updates dynamic gets: 87849
+Number of updates kinematic gets: 87850
+Average steps per dynamic update: 3.87062
+Average steps contact detection lags behind: 3.870642
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 34
+Max velocity of any point in simulation is 2.88443
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.6364
+Contact torque on the mixer is -22.9523, -25.6338, 46404.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 350035
+Number of updates dynamic gets: 90879
+Number of updates kinematic gets: 90880
+Average steps per dynamic update: 3.851618
+Average steps contact detection lags behind: 3.851638
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 35
+Max velocity of any point in simulation is 2.41893
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.725
+Contact torque on the mixer is 0.433351, 2.67945, -46298.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 360036
+Number of updates dynamic gets: 93989
+Number of updates kinematic gets: 93990
+Average steps per dynamic update: 3.830578
+Average steps contact detection lags behind: 3.830597
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 36
+Max velocity of any point in simulation is 3.33851
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.7462
+Contact torque on the mixer is 8.02097, 6.57157, -244279
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 370037
+Number of updates dynamic gets: 97323
+Number of updates kinematic gets: 97324
+Average steps per dynamic update: 3.802115
+Average steps contact detection lags behind: 3.802133
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 37
+Max velocity of any point in simulation is 4.08503
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.7607
+Contact torque on the mixer is 585.55, 83.8383, -292429
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 380038
+Number of updates dynamic gets: 100539
+Number of updates kinematic gets: 100540
+Average steps per dynamic update: 3.779968
+Average steps contact detection lags behind: 3.779986
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 38
+Max velocity of any point in simulation is 3.09936
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.8441
+Contact torque on the mixer is -97.5166, -9.8005, -188839
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 390039
+Number of updates dynamic gets: 103621
+Number of updates kinematic gets: 103622
+Average steps per dynamic update: 3.764056
+Average steps contact detection lags behind: 3.764073
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 39
+Max velocity of any point in simulation is 2.66173
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.9251
+Contact torque on the mixer is -2.84951, -1.11362, -77059.3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 400040
+Number of updates dynamic gets: 106824
+Number of updates kinematic gets: 106825
+Average steps per dynamic update: 3.744816
+Average steps contact detection lags behind: 3.744833
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 40
+Max velocity of any point in simulation is 3.80343
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 10.9622
+Contact torque on the mixer is -4.10443, 1.16831, -3650.06
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 410041
+Number of updates dynamic gets: 109911
+Number of updates kinematic gets: 109911
+Average steps per dynamic update: 3.730664
+Average steps contact detection lags behind: 3.730661
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 41
+Max velocity of any point in simulation is 2.7123
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.0816
+Contact torque on the mixer is -8.81588, 0.174032, -39436.1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 420042
+Number of updates dynamic gets: 113091
+Number of updates kinematic gets: 113091
+Average steps per dynamic update: 3.714195
+Average steps contact detection lags behind: 3.714201
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 42
+Max velocity of any point in simulation is 4.29856
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.1489
+Contact torque on the mixer is 197.128, -146.897, -31569.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 430043
+Number of updates dynamic gets: 116325
+Number of updates kinematic gets: 116325
+Average steps per dynamic update: 3.69691
+Average steps contact detection lags behind: 3.696916
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 43
+Max velocity of any point in simulation is 2.86547
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.2086
+Contact torque on the mixer is -6.24049, -14.0367, 7670.83
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 440044
+Number of updates dynamic gets: 119303
+Number of updates kinematic gets: 119304
+Average steps per dynamic update: 3.688426
+Average steps contact detection lags behind: 3.688449
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 44
+Max velocity of any point in simulation is 2.91274
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.3368
+Contact torque on the mixer is -68.658, 92.0407, 46411.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 450045
+Number of updates dynamic gets: 122444
+Number of updates kinematic gets: 122445
+Average steps per dynamic update: 3.675487
+Average steps contact detection lags behind: 3.675492
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 45
+Max velocity of any point in simulation is 2.97773
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4022
+Contact torque on the mixer is -1.27663, -20.7954, -46537.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 460046
+Number of updates dynamic gets: 125787
+Number of updates kinematic gets: 125787
+Average steps per dynamic update: 3.657341
+Average steps contact detection lags behind: 3.657347
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 46
+Max velocity of any point in simulation is 2.51872
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4031
+Contact torque on the mixer is 10.685, -29.8915, -244859
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 470047
+Number of updates dynamic gets: 129208
+Number of updates kinematic gets: 129209
+Average steps per dynamic update: 3.637881
+Average steps contact detection lags behind: 3.637902
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 47
+Max velocity of any point in simulation is 2.9235
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4199
+Contact torque on the mixer is 84.0198, -533.97, -292725
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 480048
+Number of updates dynamic gets: 132654
+Number of updates kinematic gets: 132655
+Average steps per dynamic update: 3.61877
+Average steps contact detection lags behind: 3.61879
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 48
+Max velocity of any point in simulation is 3.33434
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4305
+Contact torque on the mixer is 6.81682, 631.738, -184769
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 490049
+Number of updates dynamic gets: 136081
+Number of updates kinematic gets: 136081
+Average steps per dynamic update: 3.601157
+Average steps contact detection lags behind: 3.601154
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 49
+Max velocity of any point in simulation is 2.98647
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4805
+Contact torque on the mixer is -0.558426, 4.69545, -76911.1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 500050
+Number of updates dynamic gets: 139617
+Number of updates kinematic gets: 139618
+Average steps per dynamic update: 3.581558
+Average steps contact detection lags behind: 3.58157
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 50
+Max velocity of any point in simulation is 4.11247
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4741
+Contact torque on the mixer is -4.21393, 5.20819, -4739.3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 510051
+Number of updates dynamic gets: 143374
+Number of updates kinematic gets: 143374
+Average steps per dynamic update: 3.557486
+Average steps contact detection lags behind: 3.55749
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 51
+Max velocity of any point in simulation is 3.44984
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.4467
+Contact torque on the mixer is 7.94509, -0.33328, -39422.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 520052
+Number of updates dynamic gets: 147000
+Number of updates kinematic gets: 147000
+Average steps per dynamic update: 3.537769
+Average steps contact detection lags behind: 3.537766
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 52
+Max velocity of any point in simulation is 3.20482
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.529
+Contact torque on the mixer is 35.5711, 3.54867, -30815.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 530053
+Number of updates dynamic gets: 150264
+Number of updates kinematic gets: 150265
+Average steps per dynamic update: 3.527455
+Average steps contact detection lags behind: 3.527465
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 53
+Max velocity of any point in simulation is 3.02
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.5792
+Contact torque on the mixer is 49.5621, 49.651, 8797.97
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 540054
+Number of updates dynamic gets: 153572
+Number of updates kinematic gets: 153573
+Average steps per dynamic update: 3.516595
+Average steps contact detection lags behind: 3.516611
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 54
+Max velocity of any point in simulation is 2.88502
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.6497
+Contact torque on the mixer is 29.2763, 18.4221, 46189.5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 550055
+Number of updates dynamic gets: 156699
+Number of updates kinematic gets: 156700
+Average steps per dynamic update: 3.510243
+Average steps contact detection lags behind: 3.510252
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 55
+Max velocity of any point in simulation is 2.98733
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.7298
+Contact torque on the mixer is -5.17981, 2.31894, -46748.3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 560056
+Number of updates dynamic gets: 160067
+Number of updates kinematic gets: 160068
+Average steps per dynamic update: 3.498863
+Average steps contact detection lags behind: 3.498879
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 56
+Max velocity of any point in simulation is 2.70615
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.751
+Contact torque on the mixer is -31.9664, -9.42163, -244895
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 570057
+Number of updates dynamic gets: 163578
+Number of updates kinematic gets: 163579
+Average steps per dynamic update: 3.484903
+Average steps contact detection lags behind: 3.484912
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 57
+Max velocity of any point in simulation is 3.71516
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.7704
+Contact torque on the mixer is -1297.63, -189.02, -289961
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 580058
+Number of updates dynamic gets: 167309
+Number of updates kinematic gets: 167310
+Average steps per dynamic update: 3.466966
+Average steps contact detection lags behind: 3.46698
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 58
+Max velocity of any point in simulation is 3.84972
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.7472
+Contact torque on the mixer is 2229.22, -18.4511, -178857
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 590059
+Number of updates dynamic gets: 171185
+Number of updates kinematic gets: 171185
+Average steps per dynamic update: 3.446908
+Average steps contact detection lags behind: 3.446917
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 59
+Max velocity of any point in simulation is 3.0123
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.7949
+Contact torque on the mixer is 2.38278, -0.76005, -76942
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 600060
+Number of updates dynamic gets: 175106
+Number of updates kinematic gets: 175107
+Average steps per dynamic update: 3.426819
+Average steps contact detection lags behind: 3.426833
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 60
+Max velocity of any point in simulation is 2.33825
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.7659
+Contact torque on the mixer is 0.285244, 10.695, -4479.28
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 610061
+Number of updates dynamic gets: 178915
+Number of updates kinematic gets: 178916
+Average steps per dynamic update: 3.409762
+Average steps contact detection lags behind: 3.409776
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 61
+Max velocity of any point in simulation is 2.99461
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.8209
+Contact torque on the mixer is 1.39514, 1.39029, -39414.5
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 620062
+Number of updates dynamic gets: 182539
+Number of updates kinematic gets: 182540
+Average steps per dynamic update: 3.396855
+Average steps contact detection lags behind: 3.396863
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 62
+Max velocity of any point in simulation is 3.08215
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.8652
+Contact torque on the mixer is -18.2797, 10.8246, -31357.3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 630063
+Number of updates dynamic gets: 186133
+Number of updates kinematic gets: 186134
+Average steps per dynamic update: 3.384997
+Average steps contact detection lags behind: 3.38501
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 63
+Max velocity of any point in simulation is 3.10121
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.8903
+Contact torque on the mixer is 620.665, -629.412, 8020.52
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 640064
+Number of updates dynamic gets: 189630
+Number of updates kinematic gets: 189630
+Average steps per dynamic update: 3.375331
+Average steps contact detection lags behind: 3.375328
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 64
+Max velocity of any point in simulation is 2.71952
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.9357
+Contact torque on the mixer is 12.8116, -18.4413, 46256.8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 650065
+Number of updates dynamic gets: 193278
+Number of updates kinematic gets: 193279
+Average steps per dynamic update: 3.36335
+Average steps contact detection lags behind: 3.363357
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 65
+Max velocity of any point in simulation is 5.13689
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.9735
+Contact torque on the mixer is 1.89909, 0.123933, -46973.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 660066
+Number of updates dynamic gets: 196955
+Number of updates kinematic gets: 196955
+Average steps per dynamic update: 3.351354
+Average steps contact detection lags behind: 3.351351
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 66
+Max velocity of any point in simulation is 3.42345
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.9896
+Contact torque on the mixer is -33.0906, 107.506, -247367
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 670067
+Number of updates dynamic gets: 200560
+Number of updates kinematic gets: 200561
+Average steps per dynamic update: 3.340964
+Average steps contact detection lags behind: 3.340975
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 67
+Max velocity of any point in simulation is 3.23765
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.0029
+Contact torque on the mixer is -76.5231, 578.671, -293778
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 680068
+Number of updates dynamic gets: 204647
+Number of updates kinematic gets: 204648
+Average steps per dynamic update: 3.323111
+Average steps contact detection lags behind: 3.323117
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 68
+Max velocity of any point in simulation is 2.63244
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 11.9805
+Contact torque on the mixer is -8.49341, -970.793, -185935
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 690069
+Number of updates dynamic gets: 208494
+Number of updates kinematic gets: 208495
+Average steps per dynamic update: 3.309763
+Average steps contact detection lags behind: 3.309769
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 69
+Max velocity of any point in simulation is 3.92594
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.0202
+Contact torque on the mixer is -4.92338, -0.597836, -76798.6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 700070
+Number of updates dynamic gets: 212201
+Number of updates kinematic gets: 212202
+Average steps per dynamic update: 3.299074
+Average steps contact detection lags behind: 3.29908
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 70
+Max velocity of any point in simulation is 3.42575
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.0418
+Contact torque on the mixer is -1.86507, 5.65114, -5319.11
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 710071
+Number of updates dynamic gets: 215976
+Number of updates kinematic gets: 215976
+Average steps per dynamic update: 3.287731
+Average steps contact detection lags behind: 3.287737
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 71
+Max velocity of any point in simulation is 2.80355
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.0382
+Contact torque on the mixer is -1.72737, -1.3802, -39404.8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 720072
+Number of updates dynamic gets: 219984
+Number of updates kinematic gets: 219985
+Average steps per dynamic update: 3.273278
+Average steps contact detection lags behind: 3.273284
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 72
+Max velocity of any point in simulation is 2.92071
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.0659
+Contact torque on the mixer is 541.923, 726.312, -31907.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 730073
+Number of updates dynamic gets: 223236
+Number of updates kinematic gets: 223237
+Average steps per dynamic update: 3.270394
+Average steps contact detection lags behind: 3.270404
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 73
+Max velocity of any point in simulation is 2.72576
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.1169
+Contact torque on the mixer is -405.893, -400.634, 8432.57
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 740074
+Number of updates dynamic gets: 226570
+Number of updates kinematic gets: 226571
+Average steps per dynamic update: 3.266411
+Average steps contact detection lags behind: 3.266421
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 74
+Max velocity of any point in simulation is 2.75475
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.1433
+Contact torque on the mixer is -25.4372, -18.098, 46281.7
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 750075
+Number of updates dynamic gets: 230101
+Number of updates kinematic gets: 230102
+Average steps per dynamic update: 3.25975
+Average steps contact detection lags behind: 3.259755
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 75
+Max velocity of any point in simulation is 2.88851
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.1698
+Contact torque on the mixer is -0.24413, -1.469, -47200.3
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 760076
+Number of updates dynamic gets: 233282
+Number of updates kinematic gets: 233282
+Average steps per dynamic update: 3.258185
+Average steps contact detection lags behind: 3.258191
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 76
+Max velocity of any point in simulation is 3.08828
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2315
+Contact torque on the mixer is 46.1707, 15.067, -245628
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 770077
+Number of updates dynamic gets: 236884
+Number of updates kinematic gets: 236885
+Average steps per dynamic update: 3.250847
+Average steps contact detection lags behind: 3.250857
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 77
+Max velocity of any point in simulation is 4.10304
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2503
+Contact torque on the mixer is 277.259, 45.5894, -292491
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 780078
+Number of updates dynamic gets: 240373
+Number of updates kinematic gets: 240373
+Average steps per dynamic update: 3.245281
+Average steps contact detection lags behind: 3.245282
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 78
+Max velocity of any point in simulation is 3.93932
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2226
+Contact torque on the mixer is -196.599, 2.89462, -176521
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 790079
+Number of updates dynamic gets: 244032
+Number of updates kinematic gets: 244033
+Average steps per dynamic update: 3.237591
+Average steps contact detection lags behind: 3.237596
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 79
+Max velocity of any point in simulation is 3.03557
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2568
+Contact torque on the mixer is -0.867018, -0.782707, -76819.8
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 800080
+Number of updates dynamic gets: 247612
+Number of updates kinematic gets: 247613
+Average steps per dynamic update: 3.231171
+Average steps contact detection lags behind: 3.23118
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 80
+Max velocity of any point in simulation is 3.18829
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2542
+Contact torque on the mixer is -0.413312, -1.55877, -5185.29
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 810081
+Number of updates dynamic gets: 251211
+Number of updates kinematic gets: 251212
+Average steps per dynamic update: 3.224691
+Average steps contact detection lags behind: 3.224696
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 81
+Max velocity of any point in simulation is 3.2147
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.2844
+Contact torque on the mixer is -1.83842, -0.389711, -39402.9
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 820082
+Number of updates dynamic gets: 254399
+Number of updates kinematic gets: 254400
+Average steps per dynamic update: 3.223593
+Average steps contact detection lags behind: 3.223598
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 82
+Max velocity of any point in simulation is 3.28366
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.3166
+Contact torque on the mixer is 1156.37, -853.96, -32016.4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 830083
+Number of updates dynamic gets: 257899
+Number of updates kinematic gets: 257899
+Average steps per dynamic update: 3.218636
+Average steps contact detection lags behind: 3.218637
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 83
+Max velocity of any point in simulation is 3.40499
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.3438
+Contact torque on the mixer is -16.6306, 15.2047, 8923.08
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 840084
+Number of updates dynamic gets: 261237
+Number of updates kinematic gets: 261238
+Average steps per dynamic update: 3.21578
+Average steps contact detection lags behind: 3.215785
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 84
+Max velocity of any point in simulation is 2.919
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.3551
+Contact torque on the mixer is -17.8456, 25.7519, 46301.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 850085
+Number of updates dynamic gets: 264765
+Number of updates kinematic gets: 264766
+Average steps per dynamic update: 3.210703
+Average steps contact detection lags behind: 3.210708
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 85
+Max velocity of any point in simulation is 2.39766
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.3872
+Contact torque on the mixer is -0.242189, 0.375602, -47431.4
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 860086
+Number of updates dynamic gets: 268242
+Number of updates kinematic gets: 268242
+Average steps per dynamic update: 3.206381
+Average steps contact detection lags behind: 3.206385
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 86
+Max velocity of any point in simulation is 2.47317
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.3901
+Contact torque on the mixer is -8.3949, -6.90414, -246526
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 870087
+Number of updates dynamic gets: 272711
+Number of updates kinematic gets: 272711
+Average steps per dynamic update: 3.190509
+Average steps contact detection lags behind: 3.190514
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 87
+Max velocity of any point in simulation is 2.90624
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4004
+Contact torque on the mixer is 77.8057, -522.923, -293663
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 880088
+Number of updates dynamic gets: 276440
+Number of updates kinematic gets: 276441
+Average steps per dynamic update: 3.183638
+Average steps contact detection lags behind: 3.183646
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 88
+Max velocity of any point in simulation is 3.15918
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 0
+Contact torque on the mixer is -7.73481, 77.2792, -188741
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 890089
+Number of updates dynamic gets: 280208
+Number of updates kinematic gets: 280209
+Average steps per dynamic update: 3.176518
+Average steps contact detection lags behind: 3.176522
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 89
+Max velocity of any point in simulation is 2.79215
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4248
+Contact torque on the mixer is 0.0403999, 0.384426, -76683.6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 900090
+Number of updates dynamic gets: 283577
+Number of updates kinematic gets: 283578
+Average steps per dynamic update: 3.174047
+Average steps contact detection lags behind: 3.174051
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 90
+Max velocity of any point in simulation is 2.77042
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4336
+Contact torque on the mixer is -0.297616, -0.879351, -6017.26
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 910091
+Number of updates dynamic gets: 287055
+Number of updates kinematic gets: 287055
+Average steps per dynamic update: 3.170441
+Average steps contact detection lags behind: 3.170442
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 91
+Max velocity of any point in simulation is 2.98868
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4449
+Contact torque on the mixer is -0.620725, -0.277132, -39394.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 920092
+Number of updates dynamic gets: 290671
+Number of updates kinematic gets: 290672
+Average steps per dynamic update: 3.165396
+Average steps contact detection lags behind: 3.165403
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 92
+Max velocity of any point in simulation is 2.91871
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 0
+Contact torque on the mixer is -1118.22, -1498.38, -31757.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 930093
+Number of updates dynamic gets: 294800
+Number of updates kinematic gets: 294801
+Average steps per dynamic update: 3.154986
+Average steps contact detection lags behind: 3.15499
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 93
+Max velocity of any point in simulation is 2.42052
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4769
+Contact torque on the mixer is 391.382, 383.618, 8497.44
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 940094
+Number of updates dynamic gets: 298218
+Number of updates kinematic gets: 298219
+Average steps per dynamic update: 3.152361
+Average steps contact detection lags behind: 3.152368
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 94
+Max velocity of any point in simulation is 3.03691
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4828
+Contact torque on the mixer is 29.5157, 21.0664, 46869.2
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 950095
+Number of updates dynamic gets: 301427
+Number of updates kinematic gets: 301427
+Average steps per dynamic update: 3.15199
+Average steps contact detection lags behind: 3.151991
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 95
+Max velocity of any point in simulation is 2.93203
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.4974
+Contact torque on the mixer is 0.0598295, 0.00974575, -47642.1
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 960096
+Number of updates dynamic gets: 305166
+Number of updates kinematic gets: 305167
+Average steps per dynamic update: 3.146133
+Average steps contact detection lags behind: 3.14614
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 96
+Max velocity of any point in simulation is 2.57149
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.5088
+Contact torque on the mixer is -12.4176, -5.50788, -244847
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 970097
+Number of updates dynamic gets: 308741
+Number of updates kinematic gets: 308741
+Average steps per dynamic update: 3.142106
+Average steps contact detection lags behind: 3.14211
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 97
+Max velocity of any point in simulation is 2.58012
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.5244
+Contact torque on the mixer is -584.076, -86.7492, -293709
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 980098
+Number of updates dynamic gets: 312616
+Number of updates kinematic gets: 312616
+Average steps per dynamic update: 3.13515
+Average steps contact detection lags behind: 3.135153
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 98
+Max velocity of any point in simulation is 3.08835
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.5396
+Contact torque on the mixer is 1291.25, -12.7038, -171093
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 990099
+Number of updates dynamic gets: 315994
+Number of updates kinematic gets: 315994
+Average steps per dynamic update: 3.133284
+Average steps contact detection lags behind: 3.133285
+Number of times dynamic held back: 10864
+-----------------------------
+Frame: 99
+Max velocity of any point in simulation is 2.33373
+Solver's current update frequency (auto-adapted): 5
+Average contacts each primitive has: 12.5441
+Contact torque on the mixer is -1.13646, 0.195692, -76713.6
+
+~~ kT--dT CO-OP STATISTICS ~~
+Number of steps dynamic executed: 1000100
+Number of updates dynamic gets: 319596
+Number of updates kinematic gets: 319597
+Average steps per dynamic update: 3.129253
+Average steps contact detection lags behind: 3.12926
+Number of times dynamic held back: 10864
+-----------------------------
+50543.1 seconds (wall time) to finish the simulation
+
+~~ kT TIMING STATISTICS ~~
+kT total active time: 50438.7141 seconds
+Discretize domain: 675.848092 seconds, 1.33994% of kT total runtime
+Find contact pairs: 16176.9815 seconds, 32.0725% of kT total runtime
+Build history map: 57.4812706 seconds, 0.113963% of kT total runtime
+Unpack updates from dT: 14687.4419 seconds, 29.1194% of kT total runtime
+Send to dT buffer: 4153.26388 seconds, 8.23428% of kT total runtime
+Wait for dT update: 14687.6974 seconds, 29.1199% of kT total runtime
+
+~~ dT TIMING STATISTICS ~~
+dT total active time: 50371.2386 seconds
+Clear force array: 43.6667059 seconds, 0.0866898% of dT total runtime
+Calculate contact forces: 44519.3988 seconds, 88.3826% of dT total runtime
+Optional force reduction: 0 seconds, 0% of dT total runtime
+Integration: 38.4323449 seconds, 0.0762982% of dT total runtime
+Unpack updates from kT: 5690.37753 seconds, 11.2969% of dT total runtime
+Send to kT buffer: 36.9049478 seconds, 0.0732659% of dT total runtime
+Wait for kT update: 42.4582389 seconds, 0.0842906% of dT total runtime
+--------------------------
+----------------------------------------
+kT host memory usage: 225.286 MiB
+kT device memory usage: 1.34611 GiB
+dT host memory usage: 474.248 MiB
+dT device memory usage: 889.269 MiB
+----------------------------------------
+DEMdemo_MixerCubes exiting...
